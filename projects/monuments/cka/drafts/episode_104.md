@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:49:46
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:29:50Z
-- **Transcript SHA-256**: ccf10ed3135945b4632fcb8875e55be10686f8a85b8369476b094195759b7066
+- **Transcript SHA-256**: 9bd6bd690e39aca84f4eddfc7ef161fb5152912f3b67adfb662761889760d025
 - **Model Version**: claude-manual-extract-seq104
 
 - **Episode Ledger Summary**:
@@ -449,7 +449,7 @@ Transcript spelling "Emmanuel Macron". Recipient of the slap; said to have recei
 
 ## 5. Claim Register
 
-**C-9209** White House attempted to rescind a communications email sent shortly after the WHCD shooting
+**C-9209** Host Says White House Attempted to Rescind an Email Sent Shortly After the WHCD Shooting
 
 Claim Timestamp: 00:00:01
 
@@ -480,7 +480,7 @@ Investigative Direction: Obtain Justin Streiff's September 10, 2025 call records
 
 ---
 
-**C-9211** WHCD shooting began at 8:36 p.m. Eastern, with Secret Service officers firing
+**C-9211** Host Says WHCD Shooting Began at 8:36 p.m. Eastern, With Secret Service Officers Firing
 
 Claim Timestamp: 00:02:50
 
@@ -527,7 +527,7 @@ Investigative Direction: Obtain the email's header metadata from a recipient or 
 
 ---
 
-**C-9214** Department of Defense uses a canary tactic to trace leakers of emails
+**C-9214** Host's Team Says Department of Defense Uses a Canary Tactic to Trace Email Leakers
 
 Claim Timestamp: 00:04:55
 
@@ -542,7 +542,7 @@ Investigative Direction: Seek DoD or WHMO IT policy documents on canary-trap or 
 
 ---
 
-**C-9215** TPUSA implemented a similar canary email process after Charlie Kirk's assassination
+**C-9215** Host Says TPUSA Implemented a Similar Canary Email Process After Charlie Kirk's Assassination
 
 Claim Timestamp: 00:04:55
 
@@ -557,7 +557,7 @@ Investigative Direction: Compare copies of TPUSA all-staff emails from different
 
 ---
 
-**C-9216** Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email
+**C-9216** Host Says Steven Cheung, Ryan Rippeon and Gustav Anderly Were Copied on the Email
 
 Claim Timestamp: 00:04:55
 
@@ -572,7 +572,7 @@ Investigative Direction: Ask the named recipients or their press offices to conf
 
 ---
 
-**C-9217** Gustav Anderly is an information systems manager at the White House Communications Agency
+**C-9217** Host Says Gustav Anderly Is Listed as Information Systems Manager at the White House Communications Agency
 
 Claim Timestamp: 00:06:24
 
@@ -646,7 +646,7 @@ Investigative Direction: Obtain Exchange/Outlook recall logs or IT tickets for t
 
 ---
 
-**C-9222** Recipients were ordered in multiple emails to delete the original
+**C-9222** Host Is Told Recipients Were Ordered in Multiple Emails to Delete the Original
 
 Claim Timestamp: 00:10:36
 
@@ -660,7 +660,7 @@ Investigative Direction: Obtain the deletion-order emails and any related IT inc
 
 ---
 
-**C-9223** The rest of the email covered routine security messaging
+**C-9223** Host Says the Rest of the Email Covered Routine Security Messaging
 
 Claim Timestamp: 00:11:38
 
@@ -689,7 +689,7 @@ Investigative Direction: Identify the receipts (invoices, messages or call logs)
 
 ---
 
-**C-9225** Justin Streiff was promoted to COO seven days before Charlie Kirk was assassinated
+**C-9225** Host Says Justin Streiff Was Promoted to COO Seven Days Before Charlie Kirk Was Assassinated
 
 Claim Timestamp: 00:15:31
 
@@ -719,7 +719,7 @@ Investigative Direction: Confirm attendees of the meeting through calendars or s
 
 ---
 
-**C-9227** Charlie Kirk announced the audit at the same time he promoted Justin Streiff
+**C-9227** Host Says Charlie Kirk Announced the Audit in the Same Email Promoting Justin Streiff
 
 Claim Timestamp: 00:15:31
 
@@ -765,7 +765,7 @@ Investigative Direction: Seek corroboration from other TPUSA staff and compare w
 
 ---
 
-**C-9230** Turning Point Action is headed by Tyler Bowyer and its super-feed back door pays Lori Frantzve
+**C-9230** Host Says Turning Point Action Is Headed by Tyler Bowyer and Its Super-Feed Back Door Pays Lori Frantzve
 
 Claim Timestamp: 00:16:26
 
@@ -780,7 +780,7 @@ Investigative Direction: Obtain Super Feed Inc. ownership and payment records an
 
 ---
 
-**C-9231** Charlie Kirk set up an internal DOGE separate from the annual accountants' audit
+**C-9231** Host Says Charlie Kirk Set Up an Internal DOGE Separate From the Annual Accountants' Audit
 
 Claim Timestamp: 00:17:23
 
@@ -811,7 +811,7 @@ Investigative Direction: Identify the printer and obtain its call and order reco
 
 ---
 
-**C-9233** Streiff sought to at least double the "Stop in the Name of God" print order
+**C-9233** Host Says Streiff Allegedly Sought to at Least Double the "Stop in the Name of God" Print Order
 
 Claim Timestamp: 00:18:19
 
@@ -841,7 +841,7 @@ Investigative Direction: Obtain call logs between Streiff, Erika Kirk and the pr
 
 ---
 
-**C-9235** Erika Kirk's takeover of the board and CEO role was decided within 48 hours
+**C-9235** Host Says Erika Kirk's Takeover of the Board and CEO Role Was Decided Within 48 Hours
 
 Claim Timestamp: 00:20:14
 
@@ -856,7 +856,7 @@ Investigative Direction: Obtain TPUSA board minutes and resolutions from Septemb
 
 ---
 
-**C-9236** Justin Streiff also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.
+**C-9236** Host Says Justin Streiff Also Runs Winning Team Publishing, Founded by Sergio Gor and Don Jr.
 
 Claim Timestamp: 00:20:14
 
@@ -871,7 +871,7 @@ Investigative Direction: Check Winning Team Publishing corporate filings and off
 
 ---
 
-**C-9237** Justin Streiff receives money from Winning Team Publishing
+**C-9237** Host Says Justin Streiff Receives Money From Winning Team Publishing
 
 Claim Timestamp: 00:21:13
 
@@ -886,7 +886,7 @@ Investigative Direction: Obtain compensation disclosures from TPUSA's Form 990 a
 
 ---
 
-**C-9238** Sergio Gor was White House deputy chief of staff and exchanged staff with Charlie Kirk's office
+**C-9238** Host Says Sergio Gor Was Deputy Chief of Staff and Exchanged Staff With Charlie Kirk's Office
 
 Claim Timestamp: 00:21:13
 
@@ -901,7 +901,7 @@ Investigative Direction: Compare White House personnel records with TPUSA staff 
 
 ---
 
-**C-9239** Sergio Gor was second in command to Susie Wiles before being pushed out
+**C-9239** Host Says Sergio Gor Was Second in Command to Susie Wiles Before Being Pushed Out
 
 Claim Timestamp: 00:21:13
 
@@ -942,11 +942,12 @@ Transcript Snippet: Then somebody found out about Sergio Gor and another a donor
 Anchored Artifacts:
 Mentions: N-16
 Related Nodes: N-10848
+Tags: relevance:tangential
 Investigative Direction: Identify the source of the rumor; treat as unverified and seek on-record confirmation or denial.
 
 ---
 
-**C-9242** Erika Kirk flew to Washington for Gor's ambassador ceremony
+**C-9242** Host Says Erika Kirk Flew to Washington for Gor's Ambassador Ceremony
 
 Claim Timestamp: 00:23:19
 
@@ -1111,7 +1112,7 @@ Investigative Direction: Seek Kolvet's account of the call and any contemporaneo
 
 ---
 
-**C-9253** TPUSA is now paying university chapter leaders not to close chapters
+**C-9253** Host Says TPUSA Is Apparently Now Paying University Chapter Leaders Not to Close Chapters
 
 Claim Timestamp: 00:44:59
 

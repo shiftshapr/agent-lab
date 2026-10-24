@@ -2028,7 +2028,7 @@
       "@type": "Claim",
       "@id": "C-11163",
       "ref": "C-11163",
-      "label": "Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
+      "label": "NYT Article Cites Biography Saying Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
       "claim": "Per a New York Times article the host shows, the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb in 1947, according to Margaret Truman Daniel's biography, which describes cream-colored envelopes rigged with powdered gelignite, a pencil battery, and a detonator.",
       "anchored_artifacts": [
         "A-2171.1"
@@ -2062,7 +2062,7 @@
       "@type": "Claim",
       "@id": "C-11179",
       "ref": "C-11179",
-      "label": "Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years",
+      "label": "Time Article Says Six Mormon Aides Attended Howard Hughes; Host Says They Controlled Him",
       "claim": "Per a 1976 Time magazine article titled \"The Keepers of the King\" the host shows, six Mormon aides recruited by the Summa Corporation and Bill Gay, himself a Mormon, attended Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him and censored his reading matter; the host says in short they controlled him and his public image.",
       "anchored_artifacts": [
         "A-2173.1"
@@ -2084,7 +2084,7 @@
       "@type": "Claim",
       "@id": "C-11224",
       "ref": "C-11224",
-      "label": "Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article",
+      "label": "Kolvet Said Daily Mail Was \"Doing the Bidding of Candace Owens\" and Maybe She's the Source",
       "claim": "Per Andrew Kolvet's X post as the host reads it, the Daily Mail was \"doing the bidding of Candace Owens,\" who used the article as \"rage bait\" on her show, and \"maybe she's the anonymous source\"; the host says this amounts to Kolvet saying she was behind the article.",
       "anchored_artifacts": [
         "A-2174.1"
@@ -2148,7 +2148,7 @@
       "@type": "Claim",
       "@id": "C-11226",
       "ref": "C-11226",
-      "label": "Kolvet Asserted Erika Has Never Been Heard to Swear",
+      "label": "Kolvet Says He Has Personally Never Heard Erika Swear at Someone",
       "claim": "Andrew Kolvet's X post, as the host reads it, says he has personally never heard Erika swear at someone.",
       "anchored_artifacts": [
         "A-2174.1"
@@ -2189,7 +2189,7 @@
       "@type": "Claim",
       "@id": "C-11245",
       "ref": "C-11245",
-      "label": "Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt",
+      "label": "Seamstress Email Asserts Burned Item Shows Seam and Thread Pattern Consistent With a Shirt",
       "claim": "A self-identified seamstress emailed the host asserting that the burned item from the SUV floor shows visible seam and thread patterns consistent with the outside of a shirt, with the top portion folded and the char on the inside.",
       "anchored_artifacts": [
         "A-2177.1"
@@ -2672,7 +2672,7 @@
       "@type": "Claim",
       "@id": "C-11183",
       "ref": "C-11183",
-      "label": "The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation",
+      "label": "Host Says the Jet Carrying Hughes When He Died Was Owned by Robert Graf of Duncan Aviation",
       "claim": "The host says the jet was owned by Robert Graf, founder of Robert Graf Inc., later Duncan Aviation, whose business partner was Donald Duncan, and says she does not know whether he is related to Judge Tony Graf in the Tyler Robinson case.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2717,7 +2717,7 @@
       "@type": "Claim",
       "@id": "C-11185",
       "ref": "C-11185",
-      "label": "Investigation found a deadly codeine injection given to a comatose Hughes",
+      "label": "Host Reads That an Investigation Found a Likely Fatal Codeine Injection Given to a Comatose Hughes",
       "claim": "The host reads that after 18 months of investigation it was discovered that someone administered a deadly injection of codeine to a virtually comatose Howard Hughes, obviously needlessly and almost certainly a fatal dose.",
       "anchored_artifacts": [
         "A-2786.1"
@@ -2823,7 +2823,7 @@
       "@type": "Claim",
       "@id": "C-11190",
       "ref": "C-11190",
-      "label": "Frank Gay became HHMI trustee and was later discovered to have worked with the CIA",
+      "label": "Host Says Frank Gay Became HHMI Trustee and Was Later Discovered to Have Worked With the CIA",
       "claim": "The host says that when Howard Hughes died the trustee of his charity's board became Frank William Gay, who she says it was later discovered had at one point worked with the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3388,7 +3388,9 @@
       "claim": "The host says one of the only times Erika Kirk responded publicly and directly was when someone alleged she was dating Blake Wynn, and that the host has seen no evidence of that and never stated it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:13",
       "investigative_direction": "Locate Erika Kirk's public response to the Blake Wynn allegation and its date.",
       "transcript_snippet": "one of the only times that Erika has ever responded to anything publicly and directly was when somebody alleged that she was dating Blake Wynn of the Wynn casino dynasty.",

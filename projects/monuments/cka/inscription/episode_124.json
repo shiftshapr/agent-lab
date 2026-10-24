@@ -1964,7 +1964,7 @@
       "@type": "Claim",
       "@id": "C-10620",
       "ref": "C-10620",
-      "label": "Lance Twiggs identified Tyler Robinson only by generic clothing items",
+      "label": "Lance Twiggs Testified Person Looked Like Robinson Based on Shoes, Sunglasses, Jeans and Hat",
       "claim": "In a hearing clip the host plays, Lance Twiggs testifies that he would not say with 100% certainty because of camera quality, but that the person looks like Robinson in terms of the shoes, the sunglasses, the jeans and, though he had not specifically seen him in that hat, he was usually wearing a hat.",
       "anchored_artifacts": [
         "A-2118.1"
@@ -2009,7 +2009,7 @@
       "@type": "Claim",
       "@id": "C-10623",
       "ref": "C-10623",
-      "label": "Miss Noble reported seeing a bald man with three others driving the gray Challenger",
+      "label": "Host Says Miss Noble Reported Seeing a Bald Man With Three Others Driving the Gray Challenger",
       "claim": "The host says the woman who captured the Ring camera footage, Miss Noble, told police she saw a bald man driving the gray Challenger accompanied by three other people; in the hearing clip the host plays, the witness answers, \"I believe they thought that was the case.\"",
       "anchored_artifacts": [
         "A-2119.1"
@@ -2042,10 +2042,8 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-13461"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2222,7 +2220,7 @@
       "@type": "Claim",
       "@id": "C-10667",
       "ref": "C-10667",
-      "label": "Ben Shapiro's security received live updates during Charlie's transport",
+      "label": "Ben Shapiro Says His Security Received Live Updates During Charlie's Transport",
       "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie's security while Charlie was still in the back of the car, and they were getting updates along the way; the host describes the ride to the hospital as approximately 7 minutes.",
       "anchored_artifacts": [
         "A-2127.1"
@@ -2425,7 +2423,8 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:09:27",
       "investigative_direction": "Compare the motive narrative against the indictment, the charging documents and Lance Twiggs's hearing testimony on politics.",
@@ -2661,7 +2660,8 @@
         "N-10639"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.",

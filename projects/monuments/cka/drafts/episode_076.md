@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:57:03
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
+- **Transcript SHA-256**: 068851ad9736253cf7e266e4bc798309a7f7aae04beb36763e68c89b1e3b1898
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-856, N-857, N-11171
@@ -950,7 +950,7 @@ Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein fi
 
 ---
 
-**C-6825** Kolvet and McCoy in the West Wing During Fake-Live Kirk Show
+**C-6825** Host's Tweet Says Kolvet, and Possibly McCoy, Were in the West Wing During Fake-Live Kirk Show
 
 Claim Timestamp: 00:12:57–00:13:53
 
@@ -963,7 +963,7 @@ Investigative Direction: Obtain independent White House visitor logs for January
 
 ---
 
-**C-6828** Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live
+**C-6828** Host Says Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live
 
 Claim Timestamp: 00:13:53
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Search the publicly released Epstein email corpus for K
 
 ---
 
-**C-6858** Epstein Invited to Kates Son's Bar Mitzvah
+**C-6858** Tipster Says Epstein Was Invited to Kates Son's Bar Mitzvah
 
 Claim Timestamp: 00:22:37
 
@@ -1040,7 +1040,7 @@ Investigative Direction: Verify Lynn Forester de Rothschild's Corcoran role via 
 
 ---
 
-**C-6863** No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours
+**C-6863** Host Says Erika Kirk and Kolvet Did Not Respond to Her Next Model Management Inquiry
 
 Claim Timestamp: 00:24:35–00:26:09
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Confirm the email log; await response or non-response s
 
 ---
 
-**C-6882** Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8
+**C-6882** Host Says Jezebel Article on Charlie Kirk Witch's Curse Was Published 9:49 AM AZ Sept 8
 
 Claim Timestamp: 00:38:58
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain the full Rumble-hosted Charlie Kirk episode; ver
 
 ---
 
-**C-6899** Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut
+**C-6899** Producer Relays That Blake Neff Confirmed Rumble Version of Charlie Kirk Episode Is Uncut
 
 Claim Timestamp: 00:55:30–00:56:41
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Obtain the September 8, 2025 Ingraham Angle episode and
 
 ---
 
-**C-6810** Trump Appoints Erika Kirk to Air Force Academy Board
+**C-6810** Host Says Trump Appointed Erika Kirk to Air Force Academy Board
 
 Claim Timestamp: 00:01:43
 
@@ -1640,7 +1640,7 @@ Transcript Snippet: It's the first time America is operating a base in Romania, 
 Anchored Artifacts: 
 Mentions: N-687
 Related Nodes: N-10910, N-10374
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Find the accusation source and any investigation of the Constanta rotation.
 Open Questions: Q-647
 
@@ -1744,7 +1744,7 @@ Anchored Artifacts:
 Mentions: N-687, N-2
 Related Nodes: N-11081, N-10374
 Supports: C-4746
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Identify the source and status of any accusation against the colonel.
 Open Questions: Q-470, Q-647
 
@@ -2188,7 +2188,7 @@ Transcript Snippet: At 10:45 a. m. Lori Frantzve has an appointment at the clini
 Anchored Artifacts: A-3071.1
 Mentions: N-489, N-1
 Related Nodes: N-10441, N-10353
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Identify the clinic and source for the alleged meeting.
 Open Questions: Q-561, Q-662
 
@@ -2274,7 +2274,7 @@ Transcript Snippet: That game ended at 8:30, so he definitely was not walking wi
 Anchored Artifacts: A-3071.1
 Mentions: N-7, N-1
 Related Nodes: N-10441, N-10444
-Qualifies: C-6878
+Contradicts: C-6878
 Tags: relevance:core
 Investigative Direction: Check the game end time and Turek's stated times for the walk.
 Open Questions: Q-658, Q-660

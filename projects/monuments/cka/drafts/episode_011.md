@@ -1005,6 +1005,7 @@ Claim: In a clip the host plays, Nate Brooksby says that during the initial call
 Anchored Artifacts: A-1172.2
 Mentions: N-272, N-40
 Related Nodes: N-10137
+Contradicts: C-948
 Verification: corroborated
 Verification Evidence: S-107, S-108
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
@@ -1037,7 +1038,7 @@ Anchored Artifacts: A-1174.1
 Mentions: N-125
 Investigative Direction: Verify against Washington County personnel records and any prior news coverage of Mitchell's career.
 
-**C-1003** The retirement-celebration post is the only public trace of Mike Mitchell
+**C-1003** Host says the retirement post is the only trace of Mike Mitchell she could find
 
 Claim Timestamp: 00:20:25
 Claim: The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find.
@@ -1200,7 +1201,6 @@ Transcript Snippet: I genuinely&nbsp;&nbsp; wanted to get the information out as
 Anchored Artifacts: A-3280.1
 Mentions: N-3, N-40
 Related Nodes: N-10137
-Contradicts: C-973
 Tags: relevance:core
 Investigative Direction: Compare Washington County Sheriff's Office and court records of the surrender call (the 'suicidal ideations' remark) against the host's source. Ask whether the source can document the family's account.
 Open Questions: Q-106
@@ -1370,7 +1370,7 @@ Transcript Snippet: of most interest to me. what I've learned is that&nbsp;&nbsp
 Anchored Artifacts: A-3280.1
 Mentions: N-40
 Related Nodes: N-10022
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Look for public statements by the Robinson parents or their counsel on their view of Tyler's guilt. Compare with the media accounts, including statements by Governor Cox.
 Open Questions: Q-108
 
@@ -2096,7 +2096,7 @@ Transcript Snippet: I'm told that it's because the feds told them that if they s
 Anchored Artifacts: A-3280.1
 Mentions: N-40, N-3
 Related Nodes: N-11359, N-10932
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Any statement from the Robinson family or their counsel; US Marshals or FBI victim-witness records on protective placement of the family.
 Open Questions: Q-111
 
@@ -2265,7 +2265,7 @@ Anchored Artifacts:
 Mentions: N-54, N-40
 Related Nodes: N-10033
 Supports: C-216, C-226
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: County property records for the St. George unit; lease or rent records.
 Open Questions: Q-99
 
@@ -2407,7 +2407,7 @@ Transcript Snippet: I understand that he knows Tyler through the Boy Scouts. He'
 Anchored Artifacts:
 Mentions: N-125, N-40
 Related Nodes: N-10090, N-10136
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Local Scouting or ward records; Brooksby's statement that the friend knows the family "through religious association" (C-974).
 Open Questions: Q-109
 

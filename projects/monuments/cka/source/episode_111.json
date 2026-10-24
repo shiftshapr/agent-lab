@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:22:06",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:38:38Z",
-    "- **Transcript SHA-256**: c712347d8eaed2c3f4d138d1c3341477fcf064c6a3a6da584168a38f51b1366b",
+    "- **Transcript SHA-256**: 4b52a6c63fdf6a46350805c305690b1feff6191f44ba7a1d485831c3238e3551",
     "- **Model Version**: claude-manual-extract-seq111",
     "",
     "- **Episode Ledger Summary**:",
@@ -2729,8 +2729,8 @@
   {
    "kind": "claim",
    "id": "C-9708",
-   "header": "**C-9708** Trump administration sent a delegation to SPIEF",
-   "label": "Trump administration sent a delegation to SPIEF",
+   "header": "**C-9708** Host says Trump administration sent a delegation to SPIEF",
+   "label": "Host says Trump administration sent a delegation to SPIEF",
    "lines": [
     {
      "raw": ""
@@ -3186,8 +3186,8 @@
   {
    "kind": "claim",
    "id": "C-9716",
-   "header": "**C-9716** Staffer had tried for years to get a VA appointment",
-   "label": "Staffer had tried for years to get a VA appointment",
+   "header": "**C-9716** Staffer's wife says he had tried for years to get a VA appointment",
+   "label": "Staffer's wife says he had tried for years to get a VA appointment",
    "lines": [
     {
      "raw": ""
@@ -3244,8 +3244,8 @@
   {
    "kind": "claim",
    "id": "C-9717",
-   "header": "**C-9717** Staffer's platoon survived a sonar blast and several members later died by suicide",
-   "label": "Staffer's platoon survived a sonar blast and several members later died by suicide",
+   "header": "**C-9717** Staffer's wife says his platoon survived a sonar blast and several members later died by suicide",
+   "label": "Staffer's wife says his platoon survived a sonar blast and several members later died by suicide",
    "lines": [
     {
      "raw": ""
@@ -3643,8 +3643,8 @@
   {
    "kind": "claim",
    "id": "C-9724",
-   "header": "**C-9724** More than 60 million Russian Christians were murdered under communism",
-   "label": "More than 60 million Russian Christians were murdered under communism",
+   "header": "**C-9724** Host says more than 60 million Russian Christians were murdered under communism",
+   "label": "Host says more than 60 million Russian Christians were murdered under communism",
    "lines": [
     {
      "raw": ""
@@ -3750,8 +3750,8 @@
   {
    "kind": "claim",
    "id": "C-9726",
-   "header": "**C-9726** Soviet Bureau was financed by diamonds smuggled into New York",
-   "label": "Soviet Bureau was financed by diamonds smuggled into New York",
+   "header": "**C-9726** NYT article says Soviet Bureau was allegedly financed by diamonds smuggled into New York",
+   "label": "NYT article says Soviet Bureau was allegedly financed by diamonds smuggled into New York",
    "lines": [
     {
      "raw": ""
@@ -4078,8 +4078,8 @@
   {
    "kind": "claim",
    "id": "C-9732",
-   "header": "**C-9732** Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
-   "label": "Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
+   "header": "**C-9732** Host says Erika Kirk toured with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
+   "label": "Host says Erika Kirk toured with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
    "lines": [
     {
      "raw": ""
@@ -4121,6 +4121,10 @@
     {
      "k": "Supports",
      "v": "C-5042"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4420,8 +4424,8 @@
   {
    "kind": "claim",
    "id": "C-9738",
-   "header": "**C-9738** Female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
-   "label": "Female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
+   "header": "**C-9738** Host says female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
+   "label": "Host says female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
    "lines": [
     {
      "raw": ""
@@ -4589,8 +4593,8 @@
   {
    "kind": "claim",
    "id": "C-9741",
-   "header": "**C-9741** Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
-   "label": "Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
+   "header": "**C-9741** Host says Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
+   "label": "Host says Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
    "lines": [
     {
      "raw": ""
@@ -4758,8 +4762,8 @@
   {
    "kind": "claim",
    "id": "C-9744",
-   "header": "**C-9744** Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
-   "label": "Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
+   "header": "**C-9744** Host says Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
+   "label": "Host says Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
    "lines": [
     {
      "raw": ""
@@ -4921,8 +4925,8 @@
   {
    "kind": "claim",
    "id": "C-9747",
-   "header": "**C-9747** Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
-   "label": "Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
+   "header": "**C-9747** Host says Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
+   "label": "Host says Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
    "lines": [
     {
      "raw": ""
@@ -5036,8 +5040,8 @@
   {
    "kind": "claim",
    "id": "C-9749",
-   "header": "**C-9749** TPUSA first said it withheld the video because people would call it AI",
-   "label": "TPUSA first said it withheld the video because people would call it AI",
+   "header": "**C-9749** Host says TPUSA first said it withheld the video because people would call it AI",
+   "label": "Host says TPUSA first said it withheld the video because people would call it AI",
    "lines": [
     {
      "raw": ""
@@ -5094,8 +5098,8 @@
   {
    "kind": "claim",
    "id": "C-9750",
-   "header": "**C-9750** Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest",
-   "label": "Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest",
+   "header": "**C-9750** Host says bloody microphone was displayed in glass case at Mar-a-Lago fundraiser and AmFest",
+   "label": "Host says bloody microphone was displayed in glass case at Mar-a-Lago fundraiser and AmFest",
    "lines": [
     {
      "raw": ""
@@ -5152,8 +5156,8 @@
   {
    "kind": "claim",
    "id": "C-9751",
-   "header": "**C-9751** Erika Kirk used a personal letter from Charlie in a fundraising email",
-   "label": "Erika Kirk used a personal letter from Charlie in a fundraising email",
+   "header": "**C-9751** Host says Erika Kirk used a personal letter from Charlie in a fundraising email",
+   "label": "Host says Erika Kirk used a personal letter from Charlie in a fundraising email",
    "lines": [
     {
      "raw": ""
@@ -5330,8 +5334,8 @@
   {
    "kind": "claim",
    "id": "C-9754",
-   "header": "**C-9754** Attendees who are Erika fans also do not remember the appointment",
-   "label": "Attendees who are Erika fans also do not remember the appointment",
+   "header": "**C-9754** Host says attendees who are Erika fans also do not remember the appointment",
+   "label": "Host says attendees who are Erika fans also do not remember the appointment",
    "lines": [
     {
      "raw": ""
@@ -5388,8 +5392,8 @@
   {
    "kind": "claim",
    "id": "C-9755",
-   "header": "**C-9755** Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
-   "label": "Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
+   "header": "**C-9755** Host says Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
+   "label": "Host says Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
    "lines": [
     {
      "raw": ""
@@ -5445,8 +5449,8 @@
   {
    "kind": "claim",
    "id": "C-9756",
-   "header": "**C-9756** Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
-   "label": "Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
+   "header": "**C-9756** Host says Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
+   "label": "Host says Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
    "lines": [
     {
      "raw": ""
@@ -5907,8 +5911,8 @@
   {
    "kind": "claim",
    "id": "C-9764",
-   "header": "**C-9764** TPUSA partnered with AI companies that make after-death videos",
-   "label": "TPUSA partnered with AI companies that make after-death videos",
+   "header": "**C-9764** Host says TPUSA partnered with AI companies that make after-death videos",
+   "label": "Host says TPUSA partnered with AI companies that make after-death videos",
    "lines": [
     {
      "raw": ""
@@ -5965,8 +5969,8 @@
   {
    "kind": "claim",
    "id": "C-9765",
-   "header": "**C-9765** Becoming Brigitte series is widely watched in Russia",
-   "label": "Becoming Brigitte series is widely watched in Russia",
+   "header": "**C-9765** Host says Russians told her they watch the Becoming Brigitte series",
+   "label": "Host says Russians told her they watch the Becoming Brigitte series",
    "lines": [
     {
      "raw": ""
@@ -6134,8 +6138,8 @@
   {
    "kind": "claim",
    "id": "C-9768",
-   "header": "**C-9768** Erika Kirk is treated as an \"emotional asset\" and the Department of War was involved in the emails",
-   "label": "Erika Kirk is treated as an \"emotional asset\" and the Department of War was involved in the emails",
+   "header": "**C-9768** Host says Erika Kirk is treated as an \"emotional asset\" and the Department of War appears involved",
+   "label": "Host says Erika Kirk is treated as an \"emotional asset\" and the Department of War appears involved",
    "lines": [
     {
      "raw": ""

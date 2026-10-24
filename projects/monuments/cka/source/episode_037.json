@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:47:03",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367",
+    "- **Transcript SHA-256**: 8687830a962ecb3b161ec3380b2d65a3d9baa98bc97989d9937752df6c9b4896",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-849, N-11152",
@@ -3864,8 +3864,8 @@
   {
    "kind": "claim",
    "id": "C-3251",
-   "header": "**C-3251** Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure",
-   "label": "Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure",
+   "header": "**C-3251** Charlie Kirk Named Julius Caesar Among His Favorite Historical Figures",
+   "label": "Charlie Kirk Named Julius Caesar Among His Favorite Historical Figures",
    "lines": [
     {
      "raw": ""
@@ -4080,8 +4080,8 @@
   {
    "kind": "claim",
    "id": "C-3258",
-   "header": "**C-3258** 891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover",
-   "label": "891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover",
+   "header": "**C-3258** Tipster Email Says 891st MSFS Had Just Completed Operation Valhalla Before BTT's Minot Stopover",
+   "label": "Tipster Email Says 891st MSFS Had Just Completed Operation Valhalla Before BTT's Minot Stopover",
    "lines": [
     {
      "raw": ""
@@ -5458,10 +5458,6 @@
      "v": "N-22"
     },
     {
-     "k": "Revises",
-     "v": "C-3183"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -6418,7 +6414,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

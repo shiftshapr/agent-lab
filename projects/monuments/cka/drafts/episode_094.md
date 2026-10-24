@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:42
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
+- **Transcript SHA-256**: c12ef118bc6acde62a82bd294ded5c0197a5592ef5bfe040bcf4cdcb51d70cd1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-916, N-917, N-11265, N-11266
@@ -1182,7 +1182,7 @@ Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
 ---
 
-**C-8430** Trump Truth Social Post: "Dying Fast"
+**C-8430** Truth Social Post Under Trump's Name: "Dying Fast"
 
 Claim Timestamp: 00:35:29
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Verify post directly on Truth Social; note timestamp an
 
 ---
 
-**C-8434** Trump Follow-up Post Mentions "Mentally Ill"
+**C-8434** Host Thinks Follow-up Trump Post Called Her "Mentally Ill"
 
 Claim Timestamp: 00:36:29
 
@@ -1283,6 +1283,7 @@ Mentions: N-60, N-426, N-5
 
 Related Nodes: N-10575
 
+Tags: relevance:tangential
 Investigative Direction: Verify Jacoby's tweet directly; check for any legal filings or counter-statements.
 
 ---
@@ -1358,6 +1359,7 @@ Mentions: N-3, N-60, N-30
 
 Related Nodes: N-10577
 
+Tags: relevance:tangential
 Investigative Direction: Verify tweet and any linked court filings; check Davidson County court records.
 
 ---
@@ -1373,6 +1375,7 @@ Mentions: N-30
 
 Related Nodes: N-10577
 
+Tags: relevance:tangential
 Investigative Direction: Pull the underlying court filing in Davidson County, Tennessee.
 
 ---
@@ -1422,7 +1425,7 @@ Investigative Direction: Identify Tyler Robinson's roommate from public records;
 
 ---
 
-**C-8405** Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16
+**C-8405** Host Says Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16
 
 Claim Timestamp: 00:17:23
 
@@ -2781,7 +2784,7 @@ Transcript Snippet: I've never met Tracy Robinson. I don't know Tracy Robinson.
 Anchored Artifacts: A-2003.1
 Mentions: N-3, N-60
 Related Nodes: N-10577
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the court or insurance record that shows the payee and compare with the host's account.
 
 ---
@@ -2798,7 +2801,7 @@ Anchored Artifacts: A-2003.1
 Mentions: N-3, N-60
 Related Nodes: N-10577
 Supports: C-8467
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the underlying Davidson County filing and the insurer's payment record.
 
 ---

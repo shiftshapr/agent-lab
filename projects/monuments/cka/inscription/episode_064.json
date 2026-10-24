@@ -1703,7 +1703,7 @@
       "@type": "Claim",
       "@id": "C-5708",
       "ref": "C-5708",
-      "label": "TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
+      "label": "Host Says TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
       "claim": "The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.",
       "anchored_artifacts": [
         "A-1687.1"
@@ -1723,7 +1723,7 @@
       "@type": "Claim",
       "@id": "C-5709",
       "ref": "C-5709",
-      "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained",
+      "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Moment as a Test From God",
       "claim": "The host reads the September 17, 2025 board letter announcing Erika Kirk as CEO and chair, which opens by citing Ecclesiastes, saying King Solomon wrote that \"mankind is to be tested by God,\" and adds \"Today we are facing such a test.\"",
       "anchored_artifacts": [
         "A-1687.1"
@@ -1742,7 +1742,7 @@
       "@type": "Claim",
       "@id": "C-5750",
       "ref": "C-5750",
-      "label": "Jeremy Boreing Described Hiring Candace Owens as His \"Biggest Professional Mistake\"",
+      "label": "Jeremy Boreing Said Hiring Candace Owens Was \"Probably\" His Biggest Professional Mistake",
       "claim": "In a podcast interview, Jeremy Boreing stated, \"I certainly think that hiring Candace is probably the biggest mistake of my professional life so far.\"",
       "anchored_artifacts": [
         "A-1688.1"
@@ -2579,10 +2579,8 @@
       "qualifies_claim_refs": [
         "C-5411"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-7453"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-327"
       ]
@@ -3110,7 +3108,7 @@
       "@type": "Claim",
       "@id": "C-5732",
       "ref": "C-5732",
-      "label": "Erika Closed the Main Address Saying She Felt Blessed and Honored",
+      "label": "Erika Says She Feels Blessed and Honored",
       "claim": "On the call, Erika Kirk says she feels so blessed and honored.",
       "anchored_artifacts": [
         "A-1686.2"

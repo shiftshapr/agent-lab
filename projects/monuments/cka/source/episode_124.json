@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:23:19",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b",
+    "- **Transcript SHA-256**: 0e1db4762b14d57daa4ec94d621923e32ba14702a904e57cf694e1122770ad0e",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11054",
@@ -4176,8 +4176,8 @@
   {
    "kind": "claim",
    "id": "C-10620",
-   "header": "**C-10620** Lance Twiggs identified Tyler Robinson only by generic clothing items",
-   "label": "Lance Twiggs identified Tyler Robinson only by generic clothing items",
+   "header": "**C-10620** Lance Twiggs Testified Person Looked Like Robinson Based on Shoes, Sunglasses, Jeans and Hat",
+   "label": "Lance Twiggs Testified Person Looked Like Robinson Based on Shoes, Sunglasses, Jeans and Hat",
    "lines": [
     {
      "raw": ""
@@ -4306,8 +4306,8 @@
   {
    "kind": "claim",
    "id": "C-10623",
-   "header": "**C-10623** Miss Noble reported seeing a bald man with three others driving the gray Challenger",
-   "label": "Miss Noble reported seeing a bald man with three others driving the gray Challenger",
+   "header": "**C-10623** Host Says Miss Noble Reported Seeing a Bald Man With Three Others Driving the Gray Challenger",
+   "label": "Host Says Miss Noble Reported Seeing a Bald Man With Three Others Driving the Gray Challenger",
    "lines": [
     {
      "raw": ""
@@ -4404,14 +4404,6 @@
     },
     {
      "raw": ""
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-13461"
     },
     {
      "k": "Investigative Direction",
@@ -4915,8 +4907,8 @@
   {
    "kind": "claim",
    "id": "C-10667",
-   "header": "**C-10667** Ben Shapiro's security received live updates during Charlie's transport",
-   "label": "Ben Shapiro's security received live updates during Charlie's transport",
+   "header": "**C-10667** Ben Shapiro Says His Security Received Live Updates During Charlie's Transport",
+   "label": "Ben Shapiro Says His Security Received Live Updates During Charlie's Transport",
    "lines": [
     {
      "raw": ""
@@ -5448,7 +5440,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6037,7 +6029,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

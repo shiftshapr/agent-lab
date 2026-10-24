@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
+- **Transcript SHA-256**: 53d0474d4b98aff4f5a4efac001ade709d24360c12070bf58358eda9a1f1de15
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-808, N-809
@@ -898,7 +898,7 @@ Investigative Pressure: Low
 
 ## 5. Claim Register
 
-**C-7871** Tour Qureshi trained at Fort Huachuca using reconnaissance drones
+**C-7871** Tour Qureshi's LinkedIn says he trained at Fort Huachuca using reconnaissance drones
 
 Claim Timestamp: 00:02:40
 
@@ -908,7 +908,7 @@ Anchored Artifacts: A-1927.1
 Related Nodes: N-10533
 Investigative Direction: Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
-**C-7866** "BILT" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability
+**C-7866** "BILT" app co-founded by Ahmed Qureshi is reported to have 3D mission-prep visualization capability
 
 Claim Timestamp: 00:01:20–00:03:02
 
@@ -919,7 +919,7 @@ Mentions: N-411
 Related Nodes: N-10533
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
-**C-7883** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
+**C-7883** Host says TPUSA used the alleged Aspen CEO-successor audio as Erika's AmFest walkout music
 
 Claim Timestamp: 00:11:11–00:11:54
 
@@ -1040,7 +1040,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10606
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
-**C-7917** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
+**C-7917** Host says multiple sources allegedly place Erika Kirk without her mother on Sept 10, 2025
 
 Claim Timestamp: 00:40:55–00:44:53
 
@@ -1075,7 +1075,7 @@ Transcript Snippet: he was detained. Kash Patel shut down the investigation for 
 Anchored Artifacts: 
 Mentions: N-410, N-69, N-3
 Related Nodes: N-11060, N-10529
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.
 Open Questions: Q-761, Q-762
 
@@ -1548,8 +1548,6 @@ Anchored Artifacts: A-1934.1
 Mentions: N-3, N-2
 Related Nodes: N-10446, N-10449
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-11384
 Investigative Direction: Review Erika's Instagram archive for earlier posts featuring her mother.
 Open Questions: Q-774
 

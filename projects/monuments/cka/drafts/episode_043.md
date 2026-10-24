@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:43:14
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
+- **Transcript SHA-256**: 54a5ef1d08a7f447b40daaeb72e68a893abf74e8f64ce21eb74284b989ffde47
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-909, N-11252
@@ -853,7 +853,7 @@ Investigative Direction: Cross-reference the March 25 Global Witness report "All
 
 ---
 
-**C-3759** Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel
+**C-3759** CorpWatch Article Says ~$463 Million in Arms Went to Angola via Brenco and the Mitterrand Channel
 
 Claim Timestamp: 00:15:38–00:17:26
 
@@ -893,7 +893,7 @@ Investigative Direction: Obtain the full One Shot TV video, including any second
 
 ---
 
-**C-3783** The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative
+**C-3783** Host Presents One Shot TV .30-06 Demonstration as Evidence Challenging the Official Ballistics Narrative
 
 Claim Timestamp: 00:33:21
 

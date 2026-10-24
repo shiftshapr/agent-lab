@@ -16,7 +16,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:10:28",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e",
+    "- **Transcript SHA-256**: b3319c5558ff3ff44465f28e452e8c1d184e8edac73cd3200011703f38abdc4d",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-902, N-903, N-904, N-905, N-11239, N-11240, N-11241, N-11242",
@@ -5448,8 +5448,8 @@
   {
    "kind": "claim",
    "id": "C-1893",
-   "header": "**C-1893** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals",
-   "label": "A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals",
+   "header": "**C-1893** Host displays a hospital internal message restricting a trauma patient's chart to two named individuals",
+   "label": "Host displays a hospital internal message restricting a trauma patient's chart to two named individuals",
    "lines": [
     {
      "raw": ""
@@ -5501,8 +5501,8 @@
   {
    "kind": "claim",
    "id": "C-1885",
-   "header": "**C-1885** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
-   "label": "A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
+   "header": "**C-1885** Host says tips indicate a Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
+   "label": "Host says tips indicate a Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
    "lines": [
     {
      "raw": ""
@@ -5607,8 +5607,8 @@
   {
    "kind": "claim",
    "id": "C-1861",
-   "header": "**C-1861** The McCoy orbit is tied to the NAR-aligned Ziklag donor network",
-   "label": "The McCoy orbit is tied to the NAR-aligned Ziklag donor network",
+   "header": "**C-1861** George Webb ties Rob McCoy to the NAR-aligned Ziklag donor network",
+   "label": "George Webb ties Rob McCoy to the NAR-aligned Ziklag donor network",
    "lines": [
     {
      "raw": ""
@@ -5660,8 +5660,8 @@
   {
    "kind": "claim",
    "id": "C-1928",
-   "header": "**C-1928** Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
-   "label": "Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
+   "header": "**C-1928** Host says Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
+   "label": "Host says Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
    "lines": [
     {
      "raw": ""
@@ -10579,10 +10579,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10188, N-11241"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-1885"
     },
     {
      "k": "Tags",

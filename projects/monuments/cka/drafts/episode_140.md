@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:43
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
+- **Transcript SHA-256**: 9c6c8a4f6db7dbebbd05e576955987163c12b7a00303035871e42220e59ba18f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-862, N-11175, N-11176, N-11177
@@ -854,7 +854,7 @@ Investigative Direction: Obtain reference photos of Tyler Robinson's documented 
 
 ---
 
-**C-12036** Parking-garage subject's hat appears positioned above the head as if accommodating a ponytail
+**C-12036** Host Says Parking-Garage Subject's Hat Sits Above the Head, Which She Reads as Accommodating a Ponytail
 
 Claim Timestamp: 00:13:22
 
@@ -883,7 +883,7 @@ Investigative Direction: Compile the visual catalog used by major outlets on 202
 
 ---
 
-**C-12026** Tyler Robinson's mother's Facebook contained many photos of Tyler in non-maroon shirts
+**C-12026** Host Says Tyler Robinson's Mother's Facebook Contained Many Photos of Tyler in Non-Maroon Shirts
 
 Claim Timestamp: 00:07:34
 
@@ -898,7 +898,7 @@ Investigative Direction: Obtain or verify the screen-recorded archive; cross-ref
 
 ---
 
-**C-12034** Lance Twiggs appears to be left-hand dominant
+**C-12034** Host Says Lance Twiggs Appears to Be Left-Hand Dominant
 
 Claim Timestamp: 00:11:14
 
@@ -945,7 +945,7 @@ Investigative Direction: Submit the close-up image to federal-law-enforcement-ad
 
 ---
 
-**C-12060** "Protect Erika Kirk" X group chat had 92 members
+**C-12060** Host Says "Protect Erika Kirk" X Group Chat Had 92 Members
 
 Claim Timestamp: 00:28:34
 
@@ -976,7 +976,7 @@ Investigative Direction: Confirm identity through public records and account-his
 
 ---
 
-**C-12072** Britta Weidner sent 4,040 tweets about Candace Owens in 11 months
+**C-12072** Host Says a Tweet Counter Found Britta Weidner Sent 4,040 Tweets About Candace Owens in 11 Months
 
 Claim Timestamp: 00:33:27
 

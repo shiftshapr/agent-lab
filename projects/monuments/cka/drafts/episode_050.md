@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:34
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630
+- **Transcript SHA-256**: c458f1930451b80a2687b2d52de5ccdbe2a143f13767fc7d9ce7e38419b55297
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-715, N-10943, N-10944, N-10945
@@ -829,7 +829,7 @@ Investigative Direction: Obtain the full unedited Carlson speech; verify the spe
 
 ---
 
-**C-4381** Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically
+**C-4381** Host Says Daily Wire Fired Her at a Town Hall–Style Event With Ben Shapiro Appearing Electronically
 
 Claim Timestamp: 00:11:35
 
@@ -888,7 +888,7 @@ Investigative Direction: Corroborate through independent identification sources;
 
 ---
 
-**C-4418** Brian Harpole's Travel Logs Permit Attendance at the Fort Huachuca Morning Meeting
+**C-4418** Host Says Brian Harpole's Travel Logs Show He Could Have Made the Fort Huachuca Morning Meeting
 
 Claim Timestamp: 00:37:30
 
@@ -905,7 +905,7 @@ Flag: Artifact verbally referenced but not displayed in this episode.
 
 ---
 
-**C-4409** Mitch's Base Access, Hotel Booking, and NDA Paperwork Have Been Independently Verified
+**C-4409** Host Says Her Team Verified Mitch's Base Access, Hotel Booking, and NDA Paperwork
 
 Claim Timestamp: 00:33:21 – 00:34:20
 
@@ -954,7 +954,7 @@ Investigative Direction: Identify what evidence, beyond Shapiro's reaction, the 
 
 ---
 
-**C-4364** Shapiro was absent from AmFest lists for years and returned in 2024
+**C-4364** Host Says Shapiro Was Absent From AmFest Lists for Years and Returned in 2024
 
 Claim Timestamp: 00:01:06
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Obtain the leaked town hall video and any Daily Wire st
 
 ---
 
-**C-4382** Steven Crowder obtained the town hall video
+**C-4382** Host Says Steven Crowder Somehow Obtained the Town Hall Video
 
 Claim Timestamp: 00:11:51
 
@@ -1575,7 +1575,6 @@ Transcript Snippet: We are looking only for somebody to debunk those two aspects
 Anchored Artifacts: 
 Mentions: N-3, N-361
 Related Nodes: N-10312, N-10305
-Qualifies: C-4409
 Investigative Direction: Track whether anyone comes forward on either point; the host separately says she cannot verify the people Mitch identified.
 
 ---

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:58:30
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:38:12Z
-- **Transcript SHA-256**: a316d7453a384cbd49985112bbc5db6432257f1fd1bc2e359ce7d4447e782b63
+- **Transcript SHA-256**: dddca5a0011d7f8d718105d4e76fcd9779160141a40a70f9860d0513c3a864bf
 - **Model Version**: claude-manual-extract-seq112
 
 - **Episode Ledger Summary**:
@@ -567,7 +567,7 @@ Investigative Direction: Compare the scheduled length and text of Erika Kirk's W
 
 ---
 
-**C-9771** Erika Kirk left the Women's Leadership Summit without closing out the event
+**C-9771** Host is told Erika Kirk left the Women's Leadership Summit without closing out the event
 
 Claim Timestamp: 00:05:00
 
@@ -582,7 +582,7 @@ Investigative Direction: Obtain the WLS 2026 run of show and closing-session foo
 
 ---
 
-**C-9772** Dana Loesch confirmed on her show that Erika Kirk did not stay the whole weekend
+**C-9772** Dana Loesch says Erika Kirk was not at the summit the whole weekend; host calls it confirmation
 
 Claim Timestamp: 00:05:52
 
@@ -627,7 +627,7 @@ Investigative Direction: Request Secret Service threat-assessment records for th
 
 ---
 
-**C-9775** Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended
+**C-9775** Host says Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended
 
 Claim Timestamp: 00:07:27
 
@@ -702,7 +702,7 @@ Investigative Direction: Obtain Kolvet's original statement and any parish recor
 
 ---
 
-**C-9780** Kolvet was live-texting Erika Kirk during his interview with Alex Clark
+**C-9780** Host says Kolvet was live-texting Erika Kirk during his interview with Alex Clark
 
 Claim Timestamp: 00:13:20
 
@@ -732,7 +732,7 @@ Investigative Direction: Review ad-library records (Meta, Google, X) for paid pr
 
 ---
 
-**C-9782** No TPUSA employee has answered whether the WLS appointment video is doctored
+**C-9782** Host says no TPUSA employee has answered whether the WLS appointment video is doctored
 
 Claim Timestamp: 00:14:20
 
@@ -777,7 +777,7 @@ Investigative Direction: Obtain the emails with headers and timestamps and any T
 
 ---
 
-**C-9785** Blake Neff and Graham Allen do not work for Turning Point USA
+**C-9785** Host says Blake Neff and Graham Allen do not work for Turning Point USA
 
 Claim Timestamp: 00:16:45
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Compare with prior reporting on how the Sazan Island de
 
 ---
 
-**C-9800** The project also includes five miles of beachfront across from the island
+**C-9800** Ivanka Trump says the project also includes five miles of beachfront across from the island
 
 Claim Timestamp: 00:32:07
 
@@ -1243,7 +1243,7 @@ Investigative Direction: Check entertainment-press reporting on the June 2026 an
 
 ---
 
-**C-9816** Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande
+**C-9816** Host says Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande
 
 Claim Timestamp: 00:46:27
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Check public reporting on Ethan Slater's marriage and d
 
 ---
 
-**C-9817** Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network
+**C-9817** Host says Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network
 
 Claim Timestamp: 00:56:39
 

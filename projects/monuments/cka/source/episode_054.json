@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:25:02",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de",
+    "- **Transcript SHA-256**: 1b7175fc05e84a9b792a942bdf9bdf2042f4fb8b2165bd2fb3635bed144fe1dd",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-799, N-800, N-11079, N-11080, N-11081, N-11082, N-11084, N-11085, N-11088, N-11089, N-11090, N-11091",
@@ -6018,8 +6018,8 @@
   {
    "kind": "claim",
    "id": "C-4846",
-   "header": "**C-4846** Women's Federation made a $3.5 million grant to Christian Heritage Foundation in 1995 that helped bail out Liberty University",
-   "label": "Women's Federation made a $3.5 million grant to Christian Heritage Foundation in 1995 that helped bail out Liberty University",
+   "header": "**C-4846** Women's Federation Made $3.5 Million Grant in 1995 to Foundation That Later Bought Liberty University Debt",
+   "label": "Women's Federation Made $3.5 Million Grant in 1995 to Foundation That Later Bought Liberty University Debt",
    "lines": [
     {
      "raw": ""
@@ -6238,8 +6238,8 @@
   {
    "kind": "claim",
    "id": "C-4845",
-   "header": "**C-4845** Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra",
-   "label": "Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra",
+   "header": "**C-4845** Former Members Say Unificationists Gave ~$5 Million to Coalition That Backed Oliver North in Iran-Contra",
+   "label": "Former Members Say Unificationists Gave ~$5 Million to Coalition That Backed Oliver North in Iran-Contra",
    "lines": [
     {
      "raw": ""
@@ -6282,8 +6282,8 @@
   {
    "kind": "claim",
    "id": "C-4844",
-   "header": "**C-4844** Japan provides an estimated 70% of Unification Church wealth",
-   "label": "Japan provides an estimated 70% of Unification Church wealth",
+   "header": "**C-4844** Church Observers Estimate Japan Provides as Much as 70% of Unification Church Wealth",
+   "label": "Church Observers Estimate Japan Provides as Much as 70% of Unification Church Wealth",
    "lines": [
     {
      "raw": ""
@@ -6370,8 +6370,8 @@
   {
    "kind": "claim",
    "id": "C-4814",
-   "header": "**C-4814** Sun Myung Moon and Unification Church assisted the CIA in Iran-Contra and later bailed out Liberty University in mid-1990s",
-   "label": "Sun Myung Moon and Unification Church assisted the CIA in Iran-Contra and later bailed out Liberty University in mid-1990s",
+   "header": "**C-4814** Email Tip Says Sun Myung Moon's Unification Church Assisted the CIA in Iran-Contra and Bailed Out Liberty",
+   "label": "Email Tip Says Sun Myung Moon's Unification Church Assisted the CIA in Iran-Contra and Bailed Out Liberty",
    "lines": [
     {
      "raw": ""
@@ -6502,8 +6502,8 @@
   {
    "kind": "claim",
    "id": "C-4779",
-   "header": "**C-4779** Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s",
-   "label": "Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s",
+   "header": "**C-4779** Former Resident Says Liberty Godparent Home Locked Residents in Rooms 24 Hours a Day in Mid-1990s",
+   "label": "Former Resident Says Liberty Godparent Home Locked Residents in Rooms 24 Hours a Day in Mid-1990s",
    "lines": [
     {
      "raw": ""
@@ -6546,8 +6546,8 @@
   {
    "kind": "claim",
    "id": "C-4786",
-   "header": "**C-4786** Liberty Godparent Home residents were coerced to give up babies for adoption",
-   "label": "Liberty Godparent Home residents were coerced to give up babies for adoption",
+   "header": "**C-4786** Former Resident Says Liberty Godparent Home Residents Were Coerced to Give Up Babies for Adoption",
+   "label": "Former Resident Says Liberty Godparent Home Residents Were Coerced to Give Up Babies for Adoption",
    "lines": [
     {
      "raw": ""
@@ -8746,7 +8746,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8888,7 +8888,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -11916,8 +11916,8 @@
   {
    "kind": "claim",
    "id": "C-4816",
-   "header": "**C-4816** Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base",
-   "label": "Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base",
+   "header": "**C-4816** Emailer Asks How Liberty University Might Connect to Fort Huachuca, Which He Calls a Drug-Smuggling Base",
+   "label": "Emailer Asks How Liberty University Might Connect to Fort Huachuca, Which He Calls a Drug-Smuggling Base",
    "lines": [
     {
      "raw": ""

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:02:41",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492",
+    "- **Transcript SHA-256**: 284a7f39186cfa1b395bef9a8717ed9aa040df4304bd70ce52275cbeffe7c14b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-11153, N-11155, N-11156, N-11157, N-11158",
@@ -4430,14 +4430,6 @@
      "raw": ""
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-5181, C-5331"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period."
     },
@@ -4487,10 +4479,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10392"
-    },
-    {
-     "k": "Revises",
-     "v": "C-5180"
     },
     {
      "k": "Confidence",
@@ -4682,8 +4670,8 @@
   {
    "kind": "claim",
    "id": "C-5182",
-   "header": "**C-5182** Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho",
-   "label": "Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho",
+   "header": "**C-5182** Host Says Plane Formerly Charlie's, Now Apparently Erika's, Frequently Visits New Braunfels TX and Idaho",
+   "label": "Host Says Plane Formerly Charlie's, Now Apparently Erika's, Frequently Visits New Braunfels TX and Idaho",
    "lines": [
     {
      "raw": ""
@@ -4887,6 +4875,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6751,7 +6743,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -2440,7 +2440,7 @@
       "@type": "Claim",
       "@id": "C-1459",
       "ref": "C-1459",
-      "label": "O'Neill identifies visible wound as exit wound",
+      "label": "O'Neill says visible wound appeared to be an exit wound",
       "claim": "Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the wound visible in the Charlie Kirk video appeared to be an exit wound rather than an entry wound.",
       "anchored_artifacts": [
         "A-1229.1"
@@ -2763,7 +2763,7 @@
       "@type": "Claim",
       "@id": "C-1480",
       "ref": "C-1480",
-      "label": "Lance Twiggs was raided but released within 6 hours",
+      "label": "Family says Lance Twiggs was raided but released within 6 hours",
       "claim": "Per Lance Twiggs's family (via Candace), Lance was \"raided,\" was \"angry about that raid,\" and was \"instantly released back into their care within 6 hours.\"",
       "anchored_artifacts": [
         "A-1235.2"
@@ -2783,7 +2783,7 @@
       "@type": "Claim",
       "@id": "C-1483",
       "ref": "C-1483",
-      "label": "Apartment locks illegally changed after raid",
+      "label": "Lance's family says apartment locks were illegally changed after raid",
       "claim": "Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family being informed.",
       "anchored_artifacts": [
         "A-1235.3"
@@ -2814,7 +2814,9 @@
       "related_nodes": [
         "N-10166"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:24",
       "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.",
       "mentions_person_refs": [
@@ -2828,7 +2830,7 @@
       "@type": "Claim",
       "@id": "C-1471",
       "ref": "C-1471",
-      "label": "George Zinn has potential familial connections to a federal department",
+      "label": "Tip relayed by Candace says George Zinn has potential familial connections to a federal department",
       "claim": "Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.",
       "anchored_artifacts": [
         "A-1235.5"
@@ -3584,7 +3586,8 @@
         "N-10032"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Check whether the host's later episodes name any Israeli person; the claim about Zinn's background is the host's, unverified.",
@@ -4224,7 +4227,8 @@
         "N-10032"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:20",
       "investigative_direction": "Ask the host to identify each decoy by footage time and to say who she thinks fired; verify each against official release materials.",

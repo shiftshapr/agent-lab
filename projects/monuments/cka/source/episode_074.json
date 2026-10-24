@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:00:52",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e",
+    "- **Transcript SHA-256**: 726cbf7ffa428c17c69deeb21bdf35be021a467ee6696819637bd81576299229",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-854, N-855, N-11166, N-11167, N-11168, N-11169, N-11170",
@@ -4900,8 +4900,8 @@
   {
    "kind": "claim",
    "id": "C-6604",
-   "header": "**C-6604** Erika and Jillian First Connected Through a Rent-Payment Encounter",
-   "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
+   "header": "**C-6604** Host Says, per Jillian, Erika and Jillian First Connected Through a Rent-Payment Encounter",
+   "label": "Host Says, per Jillian, Erika and Jillian First Connected Through a Rent-Payment Encounter",
    "lines": [
     {
      "raw": ""
@@ -4921,6 +4921,10 @@
     {
      "k": "Mentions",
      "v": "N-564, N-2"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-6603"
     },
     {
      "k": "Investigative Direction",
@@ -5400,8 +5404,8 @@
   {
    "kind": "claim",
    "id": "C-6656",
-   "header": "**C-6656** Among ~40 DOJ file mentions of \"color of the day,\" the file for the day of Charlie Kirk's assassination is the only one with the color redacted",
-   "label": "Among ~40 DOJ file mentions of \"color of the day,\" the file for the day of Charlie Kirk's assassination is the only one with the color redacted",
+   "header": "**C-6656** TikTok source says only the DOJ \"color of the day\" file for Kirk's assassination day has the color redacted",
+   "label": "TikTok source says only the DOJ \"color of the day\" file for Kirk's assassination day has the color redacted",
    "lines": [
     {
      "raw": ""
@@ -5488,8 +5492,8 @@
   {
    "kind": "claim",
    "id": "C-6668",
-   "header": "**C-6668** Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination",
-   "label": "Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination",
+   "header": "**C-6668** Episode presents Mikey McCoy as using Charlie Kirk's home studio after the assassination",
+   "label": "Episode presents Mikey McCoy as using Charlie Kirk's home studio after the assassination",
    "lines": [
     {
      "raw": ""
@@ -6067,10 +6071,6 @@
     {
      "k": "Mentions",
      "v": "N-563, N-564, N-2"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-6604"
     },
     {
      "k": "Tags",
@@ -7322,7 +7322,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

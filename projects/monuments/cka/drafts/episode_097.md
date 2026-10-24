@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:16:16
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
+- **Transcript SHA-256**: b2f0290baa0006b80c2944253cd7225521c61281b1d639d3e0cd9fc72bd8f8f8
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-859, N-11174
@@ -992,7 +992,7 @@ Investigative Direction: Obtain the filed complaint and PACER docket to verify t
 
 ---
 
-**C-8637** Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction
+**C-8637** Host Says Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction
 
 Claim Timestamp: 00:01:23
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Confirm the air date of Harpole's Shawn Ryan appearance
 
 ---
 
-**C-8658** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance
+**C-8658** Candace Says She First Mentioned Harpole on November 19, Two Days After His Shawn Ryan Appearance
 
 Claim Timestamp: 00:16:46
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Obtain original X post screenshot and verify text again
 
 ---
 
-**C-8679** Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation
+**C-8679** Host Says Lawsuit Accuses Candace of Confirming Snow's Claim While Including Her Non-Confirmation
 
 Claim Timestamp: 00:29:59
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Review Candace's commentary on Epstein, Israeli intelli
 
 ---
 
-**C-8709** Resolution References Candace's Josef Mengele Commentary
+**C-8709** Resolution References Candace's July 2024 "Bizarre Propaganda" Holocaust Remark
 
 Claim Timestamp: 00:53:42
 
@@ -1539,7 +1539,7 @@ Transcript Snippet: Yeah, you can't fly in Provo airspace meaning around airport
 Anchored Artifacts: A-2028.1
 Mentions: N-3
 Related Nodes: N-10589
-Contradicts: C-3018
+Qualifies: C-3018
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12
@@ -2489,7 +2489,7 @@ Transcript Snippet: I was sympathetic to you and I was wrong about you is what I
 Anchored Artifacts: 
 Mentions: N-3, N-266
 Related Nodes: N-10347
-Qualifies: C-8662
+Revises: C-8662
 Tags: relevance:core
 Investigative Direction: Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.
 Open Questions: Q-840

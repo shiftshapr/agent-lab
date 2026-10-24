@@ -3708,6 +3708,10 @@
      "v": "N-10137"
     },
     {
+     "k": "Contradicts",
+     "v": "C-948"
+    },
+    {
      "k": "Verification",
      "v": "corroborated"
     },
@@ -3845,8 +3849,8 @@
   {
    "kind": "claim",
    "id": "C-1003",
-   "header": "**C-1003** The retirement-celebration post is the only public trace of Mike Mitchell",
-   "label": "The retirement-celebration post is the only public trace of Mike Mitchell",
+   "header": "**C-1003** Host says the retirement post is the only trace of Mike Mitchell she could find",
+   "label": "Host says the retirement post is the only trace of Mike Mitchell she could find",
    "lines": [
     {
      "raw": ""
@@ -4522,10 +4526,6 @@
      "v": "N-10137"
     },
     {
-     "k": "Contradicts",
-     "v": "C-973"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -5173,7 +5173,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -7951,7 +7951,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8599,7 +8599,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -9147,7 +9147,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

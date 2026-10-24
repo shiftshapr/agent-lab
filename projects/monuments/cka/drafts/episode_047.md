@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: e492b18e60b2e0b9a4d69085cba757bcd906aa883d586d7f4657db854693f868
+- **Transcript SHA-256**: 78f226b6ce296b35bc3e5e489388d385779dee4562ebe85ce6fcdd9a6b7c243b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11295, N-11296, N-11297, N-11298
@@ -1468,7 +1468,7 @@ Investigative Direction: Verify Charlie Kirk's actual messaging platforms throug
 
 ---
 
-**C-4063** Erika confirmed Andrew Kolvet received pre-incident text
+**C-4063** Host Says Erika Acknowledged Andrew Kolvet Received a Message From Charlie the Night Before
 
 Claim Timestamp: 00:06:18
 
@@ -1479,8 +1479,6 @@ Mentions: N-2, N-14, N-1
 
 Related Nodes: N-10318
 
-Verification: revised-by-host
-Verification Evidence: C-4061
 Investigative Direction: Obtain the original message from Andrew Kolvet or his device records.
 
 ---
@@ -1600,7 +1598,6 @@ Anchored Artifacts: A-1539.1
 Mentions: N-190
 
 
-Revises: C-2676
 Investigative Direction: Verify against official identity records.
 
 ---
@@ -1613,7 +1610,6 @@ Claim: The host says Blake Neff's interview account - that Mikey's first call af
 
 Anchored Artifacts: A-1542.1, A-1543.1
 Mentions: N-3, N-159, N-190, N-2, N-17
-Contradicts: C-4104
 
 Related Nodes: N-10214
 
@@ -1621,7 +1617,7 @@ Investigative Direction: Cross-reference Blake Neff's recorded statement against
 
 ---
 
-**C-4109** Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility
+**C-4109** Host Says Elizabeth McCoy Was Left Out of Public Narrative Despite Memorial/Vacation Visibility
 
 Claim Timestamp: 00:28:48
 
@@ -1662,8 +1658,6 @@ Mentions: N-3, N-14, N-36, N-1
 
 Related Nodes: N-10320
 
-Verification: revised-by-host
-Verification Evidence: C-5695
 Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
 ---
@@ -1681,7 +1675,7 @@ Investigative Direction: Identify the named paid accounts and any PragerU or PR-
 
 ---
 
-**C-4076** Rob McCoy does not work for TPUSA in any capacity
+**C-4076** Host Says She Learned Rob McCoy Does Not Work for TPUSA in Any Capacity
 
 Claim Timestamp: 00:11:35
 
@@ -1711,7 +1705,7 @@ Investigative Direction: Verify TPUSA's documented livestream policy and Farnswo
 
 ---
 
-**C-4080** Andrew Kolvet posted surgeon "man of steel" bullet description
+**C-4080** Host Says Kolvet Tweeted an Alleged Surgeon Quote Calling Kirk "Like the Man of Steel"
 
 Claim Timestamp: 00:12:42
 
@@ -1818,7 +1812,7 @@ Investigative Direction: Verify the cited Daily Wire source and article publicat
 
 ---
 
-**C-4129** Candace never drove her car to Daily Wire
+**C-4129** Candace Says She Never Drove Her Car to Daily Wire
 
 Claim Timestamp: 00:41:22
 
@@ -1873,6 +1867,7 @@ Mentions: N-42
 
 Related Nodes: N-10331
 
+Tags: relevance:tangential
 Investigative Direction: Verify through hospital records, nurse testimony, or police interview of Zin.
 
 ---
@@ -1907,7 +1902,7 @@ Investigative Direction: Verify through parish records and direct corroboration 
 
 ---
 
-**C-4111** Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet
+**C-4111** Host Says Seth Dillon Confronted Charlie at Hampton Retreat Over Hypothetical Anti-Netanyahu Tweet
 
 Claim Timestamp: 00:30:25
 
@@ -1969,7 +1964,7 @@ Investigative Direction: Verify KAMYU broadcast date and content.
 
 ---
 
-**C-4152** TPUSA/UVU/BYU August 27 graphic had no location details
+**C-4152** Candace Says TPUSA/UVU/BYU August 27 Graphic Had No Location Details
 
 Claim Timestamp: 00:51:40
 
@@ -2109,7 +2104,6 @@ Transcript Snippet: it was Erika saying that she had Charlie's phone, and that C
 Anchored Artifacts: A-3291
 Mentions: N-2, N-237, N-1, N-3
 Related Nodes: N-10318
-Contradicts: C-4063
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview clip and compare Erika Kirk's wording with her later acknowledgment of the Kolvet and Flood messages.
 Open Questions: Q-171
@@ -2179,7 +2173,6 @@ Transcript Snippet: I can't confirm that one way or the other. I have to trust t
 Anchored Artifacts: 
 Mentions: N-270, N-3
 Related Nodes: N-10318
-Qualifies: C-4064
 Tags: relevance:core
 Investigative Direction: Obtain the original Flood message from his device or from TPUSA to settle the wording.
 Open Questions: Q-171
@@ -3186,7 +3179,7 @@ Transcript Snippet: He knows what's going down. He shows up there and thinks he'
 Anchored Artifacts: A-3296
 Mentions: N-333, N-42, N-40
 Related Nodes: N-11298, N-10093
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Ask investigators whether Zin appears in any Discord records; the speaker says this is only a theory.
 Open Questions: Q-21, Q-28
 
@@ -3204,7 +3197,7 @@ Anchored Artifacts:
 Mentions: N-3, N-42
 Related Nodes: N-10331
 Supports: C-4158
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Locate the host's earlier episode with the nurse account and the source for it.
 Open Questions: Q-28
 

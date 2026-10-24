@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:08:55
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
+- **Transcript SHA-256**: 46f40ae46f4ba81b70c55c9648f2ee89a7e350249d937dfc76a4a60f7b0bc17e
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-853, N-11159, N-11160
@@ -932,7 +932,7 @@ Related Nodes: N-10417
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
-**C-5708** TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote
+**C-5708** Host Says TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote
 
 Claim Timestamp: 00:09:08
 
@@ -944,7 +944,7 @@ Mentions: N-496, N-2
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroote's role on the TPUSA board at the time of issuance.
 
-**C-5709** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
+**C-5709** TPUSA Board Letter Invoked Ecclesiastes and Framed the Moment as a Test From God
 
 Claim Timestamp: 00:09:08
 
@@ -956,7 +956,7 @@ Mentions: N-2
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
 
-**C-5750** Jeremy Boreing Described Hiring Candace Owens as His "Biggest Professional Mistake"
+**C-5750** Jeremy Boreing Said Hiring Candace Owens Was "Probably" His Biggest Professional Mistake
 
 Claim Timestamp: 00:39:00
 
@@ -1300,7 +1300,6 @@ Transcript Snippet: She says that there was not an offer that was made and that 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-1
 Related Nodes: N-10415
-Contradicts: C-4114
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.
 Open Questions: Q-77
@@ -1473,8 +1472,6 @@ Mentions: N-14, N-2
 Related Nodes: N-10502
 Tags: relevance:core
 Qualifies: C-5411
-Verification: revised-by-host
-Verification Evidence: C-7453
 Investigative Direction: Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.
 Open Questions: Q-327
 
@@ -1806,7 +1803,7 @@ Open Questions: Q-519
 
 ---
 
-**C-5732** Erika Closed the Main Address Saying She Felt Blessed and Honored
+**C-5732** Erika Says She Feels Blessed and Honored
 
 Claim Timestamp: 00:21:47
 

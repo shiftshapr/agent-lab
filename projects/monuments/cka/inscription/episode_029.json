@@ -1954,7 +1954,9 @@
       "related_nodes": [
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kerkhoff\" and \"Kirkup\" refer to the same individual.",
       "mentions_person_refs": [

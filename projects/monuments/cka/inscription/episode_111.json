@@ -1861,7 +1861,7 @@
       "@type": "Claim",
       "@id": "C-9708",
       "ref": "C-9708",
-      "label": "Trump administration sent a delegation to SPIEF",
+      "label": "Host says Trump administration sent a delegation to SPIEF",
       "claim": "The host says the Trump administration sent an entire delegation to the same St. Petersburg International Economic Forum she attended, and that it went unreported.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2037,7 +2037,7 @@
       "@type": "Claim",
       "@id": "C-9716",
       "ref": "C-9716",
-      "label": "Staffer had tried for years to get a VA appointment",
+      "label": "Staffer's wife says he had tried for years to get a VA appointment",
       "claim": "The host says the staffer's wife told her that he knew something was wrong and had been trying to get an appointment with the VA for years.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2057,7 +2057,7 @@
       "@type": "Claim",
       "@id": "C-9717",
       "ref": "C-9717",
-      "label": "Staffer's platoon survived a sonar blast and several members later died by suicide",
+      "label": "Staffer's wife says his platoon survived a sonar blast and several members later died by suicide",
       "claim": "According to the host, the staffer's wife said he and his platoon had survived a sonar blast, that the VA suggested his symptoms could be PTSD, and that several platoon members died by suicide after they could not get appointments.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2203,7 +2203,7 @@
       "@type": "Claim",
       "@id": "C-9724",
       "ref": "C-9724",
-      "label": "More than 60 million Russian Christians were murdered under communism",
+      "label": "Host says more than 60 million Russian Christians were murdered under communism",
       "claim": "The host says that after the revolution, with the communist regime under Vladimir Lenin, more than 60 million Russian Christians were murdered.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2244,7 +2244,7 @@
       "@type": "Claim",
       "@id": "C-9726",
       "ref": "C-9726",
-      "label": "Soviet Bureau was financed by diamonds smuggled into New York",
+      "label": "NYT article says Soviet Bureau was allegedly financed by diamonds smuggled into New York",
       "claim": "The host reads from the New York Times article that by 1918 the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York, and that Julius Hammer converted them into cash, according to the autobiography of one of his fellow party members. The article notes that Armand Hammer denies this.",
       "anchored_artifacts": [
         "A-2620.2"
@@ -2369,14 +2369,16 @@
       "@type": "Claim",
       "@id": "C-9732",
       "ref": "C-9732",
-      "label": "Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
+      "label": "Host says Erika Kirk toured with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
       "claim": "The host says Erika Kirk went on tour with Greg Laurie's Harvest church. According to the host, the church is being sued over alleged trafficking in Romania, the lawsuit is ongoing, and she believes Laurie's position is that Paul Havsgaard did some things in Romania but it was not a broader church conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10384",
         "N-10374"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:20",
       "investigative_direction": "Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.",
       "transcript_snippet": "you would partner with a church that is quite literally being sued for the very same reasons. Now, the lawsuit is not over.",
@@ -2501,7 +2503,7 @@
       "@type": "Claim",
       "@id": "C-9738",
       "ref": "C-9738",
-      "label": "Female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
+      "label": "Host says female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
       "claim": "The host says many female TPUSA chapter leaders declined to attend the summit because they dislike Erika Kirk and the organization's direction. She suggests that is why it was renamed the Women's Leadership Summit after ten years as the Young Women's Leadership Summit.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2564,7 +2566,7 @@
       "@type": "Claim",
       "@id": "C-9741",
       "ref": "C-9741",
-      "label": "Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
+      "label": "Host says Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
       "claim": "The host repeats that Charlie Kirk was attending Catholic mass, sometimes daily, and was changing his mind about Israel, which she says started Alex Clark's conflict with her.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2630,7 +2632,7 @@
       "@type": "Claim",
       "@id": "C-9744",
       "ref": "C-9744",
-      "label": "Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
+      "label": "Host says Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
       "claim": "The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and that Clark then wrote, \"I'm so sorry to the boyfriend now fiance for catching strays here.\"",
       "anchored_artifacts": [
         "A-2623.3"
@@ -2696,7 +2698,7 @@
       "@type": "Claim",
       "@id": "C-9747",
       "ref": "C-9747",
-      "label": "Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
+      "label": "Host says Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
       "claim": "The host says Erika Kirk first raised the video in a November 2025 interview with Megyn Kelly. According to the host, Erika said there that Charlie named her CEO at a private event three weeks before his death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2742,7 +2744,7 @@
       "@type": "Claim",
       "@id": "C-9749",
       "ref": "C-9749",
-      "label": "TPUSA first said it withheld the video because people would call it AI",
+      "label": "Host says TPUSA first said it withheld the video because people would call it AI",
       "claim": "The host says Turning Point USA first said it did not want to release the video because people would say it was AI, and she suggests Blake Neff knew something about it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2763,7 +2765,7 @@
       "@type": "Claim",
       "@id": "C-9750",
       "ref": "C-9750",
-      "label": "Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest",
+      "label": "Host says bloody microphone was displayed in glass case at Mar-a-Lago fundraiser and AmFest",
       "claim": "The host says TPUSA displayed the bloody microphone Charlie Kirk held when he died in a glass case for donors at its annual Mar-a-Lago fundraiser, moved it to AmFest, and recreated the tent he died under for selfies.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2784,7 +2786,7 @@
       "@type": "Claim",
       "@id": "C-9751",
       "ref": "C-9751",
-      "label": "Erika Kirk used a personal letter from Charlie in a fundraising email",
+      "label": "Host says Erika Kirk used a personal letter from Charlie in a fundraising email",
       "claim": "The host says Erika Kirk recently included a personal letter Charlie Kirk wrote her in a fundraising email.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2851,7 +2853,7 @@
       "@type": "Claim",
       "@id": "C-9754",
       "ref": "C-9754",
-      "label": "Attendees who are Erika fans also do not remember the appointment",
+      "label": "Host says attendees who are Erika fans also do not remember the appointment",
       "claim": "The host says she asked people who were there and are fans of Erika Kirk, and that they do not remember the appointment and believe the clip was spliced from different points of the event.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2873,7 +2875,7 @@
       "@type": "Claim",
       "@id": "C-9755",
       "ref": "C-9755",
-      "label": "Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
+      "label": "Host says Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
       "claim": "The host says she has Charlie Kirk's final Aspen presentation, that Erika Kirk was not in the room for part of it, and that his only mention of her was that she helps with Turning Point Faith.",
       "anchored_artifacts": [
         "A-2625.1"
@@ -2896,7 +2898,7 @@
       "@type": "Claim",
       "@id": "C-9756",
       "ref": "C-9756",
-      "label": "Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
+      "label": "Host says Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
       "claim": "The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, and that if anyone seemed someone Charlie maybe thought could take over TPUSA, it would have been Bowyer.",
       "anchored_artifacts": [
         "A-2625.1"
@@ -3084,7 +3086,7 @@
       "@type": "Claim",
       "@id": "C-9764",
       "ref": "C-9764",
-      "label": "TPUSA partnered with AI companies that make after-death videos",
+      "label": "Host says TPUSA partnered with AI companies that make after-death videos",
       "claim": "The host says TPUSA entered relationships with several AI companies that specialize in after-death videos following Charlie Kirk's death.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3105,7 +3107,7 @@
       "@type": "Claim",
       "@id": "C-9765",
       "ref": "C-9765",
-      "label": "Becoming Brigitte series is widely watched in Russia",
+      "label": "Host says Russians told her they watch the Becoming Brigitte series",
       "claim": "The host says that at interviews after her panel she was asked many questions about her Becoming Brigitte series, and Russians told her they watch the show but are afraid to comment.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3168,7 +3170,7 @@
       "@type": "Claim",
       "@id": "C-9768",
       "ref": "C-9768",
-      "label": "Erika Kirk is treated as an \"emotional asset\" and the Department of War was involved in the emails",
+      "label": "Host says Erika Kirk is treated as an \"emotional asset\" and the Department of War appears involved",
       "claim": "The host says her earlier report on the White House emails was true, that Erika Kirk is considered an \"emotional asset,\" and that the Department of War appears to have been involved in the emails.",
       "anchored_artifacts": [
         "A-2627.1"

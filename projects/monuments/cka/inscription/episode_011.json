@@ -2228,7 +2228,7 @@
       "@type": "Claim",
       "@id": "C-1003",
       "ref": "C-1003",
-      "label": "The retirement-celebration post is the only public trace of Mike Mitchell",
+      "label": "Host says the retirement post is the only trace of Mike Mitchell she could find",
       "claim": "The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find.",
       "anchored_artifacts": [
         "A-1174.1"
@@ -2844,7 +2844,8 @@
         "N-10022"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:04:51",
       "investigative_direction": "Look for public statements by the Robinson parents or their counsel on their view of Tyler's guilt. Compare with the media accounts, including statements by Governor Cox.",
@@ -4032,7 +4033,8 @@
         "N-10932"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Any statement from the Robinson family or their counsel; US Marshals or FBI victim-witness records on protective placement of the family.",
@@ -4303,7 +4305,8 @@
         "N-10033"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:15:12",
       "investigative_direction": "County property records for the St. George unit; lease or rent records.",
@@ -4541,7 +4544,8 @@
         "N-10136"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:10",
       "investigative_direction": "Local Scouting or ward records; Brooksby's statement that the friend knows the family \"through religious association\" (C-974).",

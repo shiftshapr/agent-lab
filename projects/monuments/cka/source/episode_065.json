@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:48:29",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36",
+    "- **Transcript SHA-256**: c4ed4721079c7b715f6beaa089a02aff1c5bddd8027e948d1eb548b8c2dc4f38",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-721, N-722, N-10958, N-10959, N-10960, N-10961, N-10962, N-10963, N-10964",
@@ -4438,8 +4438,8 @@
   {
    "kind": "claim",
    "id": "C-5881",
-   "header": "**C-5881** Candace Owens Phil Tourney Interview Received Approximately 7 Million Views",
-   "label": "Candace Owens Phil Tourney Interview Received Approximately 7 Million Views",
+   "header": "**C-5881** Host Says Her Phil Tourney Interview Received Approximately 7 Million Views",
+   "label": "Host Says Her Phil Tourney Interview Received Approximately 7 Million Views",
    "lines": [
     {
      "raw": ""
@@ -4546,8 +4546,8 @@
   {
    "kind": "claim",
    "id": "C-5824",
-   "header": "**C-5824** Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
-   "label": "Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
+   "header": "**C-5824** Youssef Says Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
+   "label": "Youssef Says Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
    "lines": [
     {
      "raw": ""
@@ -4658,8 +4658,8 @@
   {
    "kind": "claim",
    "id": "C-5891",
-   "header": "**C-5891** 24-Hour Gag Order on *By Way of Deception* in 1992",
-   "label": "24-Hour Gag Order on *By Way of Deception* in 1992",
+   "header": "**C-5891** Youssef Says *By Way of Deception* Faced a 24-Hour Gag Order in 1992",
+   "label": "Youssef Says *By Way of Deception* Faced a 24-Hour Gag Order in 1992",
    "lines": [
     {
      "raw": ""
@@ -4714,8 +4714,8 @@
   {
    "kind": "claim",
    "id": "C-5826",
-   "header": "**C-5826** *Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special",
-   "label": "*Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special",
+   "header": "**C-5826** Youssef Says *Till Kingdom Come* Documentary Shows Pastors Telling Children Jews Are More Special",
+   "label": "Youssef Says *Till Kingdom Come* Documentary Shows Pastors Telling Children Jews Are More Special",
    "lines": [
     {
      "raw": ""
@@ -4770,8 +4770,8 @@
   {
    "kind": "claim",
    "id": "C-5837",
-   "header": "**C-5837** Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August",
-   "label": "Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August",
+   "header": "**C-5837** Host Says Charlie Kirk Did Not Allow Benjamin Netanyahu on His Show in August",
+   "label": "Host Says Charlie Kirk Did Not Allow Benjamin Netanyahu on His Show in August",
    "lines": [
     {
      "raw": ""
@@ -4826,8 +4826,8 @@
   {
    "kind": "claim",
    "id": "C-5880",
-   "header": "**C-5880** New York Times Preparing a Piece on USS Liberty",
-   "label": "New York Times Preparing a Piece on USS Liberty",
+   "header": "**C-5880** Host Says New York Times Is Preparing a Piece on USS Liberty",
+   "label": "Host Says New York Times Is Preparing a Piece on USS Liberty",
    "lines": [
     {
      "raw": ""
@@ -4978,10 +4978,6 @@
      "v": "N-10421"
     },
     {
-     "k": "Revises",
-     "v": "C-5800"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing."
     },
@@ -4999,8 +4995,8 @@
   {
    "kind": "claim",
    "id": "C-5803",
-   "header": "**C-5803** Miss Rachel named as a nominee for Anti-Semite of the Year",
-   "label": "Miss Rachel named as a nominee for Anti-Semite of the Year",
+   "header": "**C-5803** Speaker Says Miss Rachel Was a Nominee for Anti-Semite of the Year",
+   "label": "Speaker Says Miss Rachel Was a Nominee for Anti-Semite of the Year",
    "lines": [
     {
      "raw": ""
@@ -7467,8 +7463,8 @@
   {
    "kind": "claim",
    "id": "C-5849",
-   "header": "**C-5849** Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa",
-   "label": "Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa",
+   "header": "**C-5849** Youssef says the Hagana blew up a ship carrying Jewish refugees at Haifa",
+   "label": "Youssef says the Hagana blew up a ship carrying Jewish refugees at Haifa",
    "lines": [
     {
      "raw": ""

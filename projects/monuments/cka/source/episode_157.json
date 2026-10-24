@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:30:52",
     "- **Extraction Timestamp (UTC)**: 2026-10-02T16:10:00Z",
-    "- **Transcript SHA-256**: 5c1cde59c401881775186a334b9d4e052672b924c052b4ad796d48d4ce073037",
+    "- **Transcript SHA-256**: cb205a0f524ea298c0165dfed1baf00749f7ad9ab86ffac4a6e1d47c2e498b8c",
     "- **Model Version**: grok-manual-extract-seq157",
     "",
     "- **Episode Ledger Summary**:",
@@ -5388,8 +5388,8 @@
   {
    "kind": "claim",
    "id": "C-13532",
-   "header": "**C-13532** July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts",
-   "label": "July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts",
+   "header": "**C-13532** Review: July 10, 2025 courtyard request came from TPUSA field rep, whom host identifies as Maycee Crofts",
+   "label": "Review: July 10, 2025 courtyard request came from TPUSA field rep, whom host identifies as Maycee Crofts",
    "lines": [
     {
      "raw": ""
@@ -5636,8 +5636,8 @@
   {
    "kind": "claim",
    "id": "C-13555",
-   "header": "**C-13555** Anonymous EMP-device threat was reported to SIAC on September 10 morning",
-   "label": "Anonymous EMP-device threat was reported to SIAC on September 10 morning",
+   "header": "**C-13555** Review: Chief Long reported anonymous EMP-device threat to SIAC on September 10",
+   "label": "Review: Chief Long reported anonymous EMP-device threat to SIAC on September 10",
    "lines": [
     {
      "raw": ""
@@ -5764,8 +5764,8 @@
   {
    "kind": "claim",
    "id": "C-13595",
-   "header": "**C-13595** July 2025 personal/political pressures coincide with UVU booking start",
-   "label": "July 2025 personal/political pressures coincide with UVU booking start",
+   "header": "**C-13595** Host presents July 2025 pressures on Charlie Kirk as backdrop to UVU booking start",
+   "label": "Host presents July 2025 pressures on Charlie Kirk as backdrop to UVU booking start",
    "lines": [
     {
      "raw": ""
@@ -5820,8 +5820,8 @@
   {
    "kind": "claim",
    "id": "C-13626",
-   "header": "**C-13626** Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention",
-   "label": "Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention",
+   "header": "**C-13626** News clip: criminal case against Kip Crofts, identified as Maycee Crofts's uncle, was dismissed",
+   "label": "News clip: criminal case against Kip Crofts, identified as Maycee Crofts's uncle, was dismissed",
    "lines": [
     {
      "raw": ""
@@ -5857,6 +5857,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6045,8 +6049,8 @@
   {
    "kind": "claim",
    "id": "C-13520",
-   "header": "**C-13520** UVU engaged the Lake Forest Group almost immediately for a broad security review",
-   "label": "UVU engaged the Lake Forest Group almost immediately for a broad security review",
+   "header": "**C-13520** Host says UVU engaged the Lake Forest Group almost immediately for a broad security review",
+   "label": "Host says UVU engaged the Lake Forest Group almost immediately for a broad security review",
    "lines": [
     {
      "raw": ""
@@ -8345,8 +8349,8 @@
   {
    "kind": "claim",
    "id": "C-13561",
-   "header": "**C-13561** Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00",
-   "label": "Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00",
+   "header": "**C-13561** Review: Chief Long requested added officers after seeing the crowd at 11:00; host says TPUSA did not",
+   "label": "Review: Chief Long requested added officers after seeing the crowd at 11:00; host says TPUSA did not",
    "lines": [
     {
      "raw": ""
@@ -8383,10 +8387,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10762"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-13551"
     },
     {
      "k": "Verification",
@@ -9581,8 +9581,8 @@
   {
    "kind": "claim",
    "id": "C-13583",
-   "header": "**C-13583** Review: a drone from the Orem Police Department could have been requested but was not",
-   "label": "Review: a drone from the Orem Police Department could have been requested but was not",
+   "header": "**C-13583** Review: a drone from the Orem Police Department could have been requested; host says it was not",
+   "label": "Review: a drone from the Orem Police Department could have been requested; host says it was not",
    "lines": [
     {
      "raw": ""
@@ -9871,6 +9871,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10709"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -11017,8 +11021,8 @@
   {
    "kind": "claim",
    "id": "C-13608",
-   "header": "**C-13608** Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
-   "label": "Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
+   "header": "**C-13608** Host Says Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
+   "label": "Host Says Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
    "lines": [
     {
      "raw": ""
@@ -11348,10 +11352,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10320"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-2134"
     },
     {
      "k": "Investigative Direction",
@@ -11883,6 +11883,10 @@
      "v": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify through obituaries and Idaho public records."
     },
@@ -11940,6 +11944,10 @@
      "v": "N-10764"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the Canyon County warrant, docket and arrest record."
     },
@@ -11995,6 +12003,10 @@
     {
      "k": "Related Nodes",
      "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -12109,6 +12121,10 @@
     {
      "k": "Related Nodes",
      "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

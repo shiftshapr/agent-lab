@@ -1826,7 +1826,7 @@
       "@type": "Claim",
       "@id": "C-836",
       "ref": "C-836",
-      "label": "Charlie Kirk expressed concern about TPUSA finances one week before his death",
+      "label": "Host says Charlie Kirk expressed concern about TPUSA finances one week before his death",
       "claim": "The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that.",
       "anchored_artifacts": [
         "A-1162.1"
@@ -1851,7 +1851,7 @@
       "@type": "Claim",
       "@id": "C-912",
       "ref": "C-912",
-      "label": "Windows in the flag hall do not open, complicating the inside-source muzzle flash theory",
+      "label": "Host says flag hall windows appear not to open, complicating the inside-source muzzle flash theory",
       "claim": "The host says that, from everything she could see in the photos, the window in the flag hall does not open, so if the muzzle flash Range Day Bro describes came from inside, broken glass should be visible; she says she may be wrong and asks to be corrected.",
       "anchored_artifacts": [
         "A-1163.1",
@@ -1876,7 +1876,7 @@
       "@type": "Claim",
       "@id": "C-909",
       "ref": "C-909",
-      "label": "Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain",
+      "label": "Host argues Range Day Bro's blood-splatter entry wound is Charlie's necklace chain",
       "claim": "Host argues that what Range Day Bro identified as blood splatter from an entry wound is in fact Charlie Kirk's necklace chain whipping up after the shot.",
       "anchored_artifacts": [
         "A-1163.2"
@@ -1923,7 +1923,7 @@
       "@type": "Claim",
       "@id": "C-879",
       "ref": "C-879",
-      "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities",
+      "label": "Rooftop Runner Footage Filmer Says He Was Never Contacted by Federal or Local Authorities",
       "claim": "The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.",
       "anchored_artifacts": [
         "A-1164.2"
@@ -1946,7 +1946,7 @@
       "@type": "Claim",
       "@id": "C-883",
       "ref": "C-883",
-      "label": "Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
+      "label": "Second Rooftop Witness Says He Gave Footage to Orem Police; Feds Did Not Contact Him Until September 15",
       "claim": "A second rooftop witness told the host's team he walked in and gave his footage to the Orem Police Department, which said it was overwhelmed on day one, and that the feds did not reach out to him until September 15, after Governor Cox said the investigation was over and they had the guy.",
       "anchored_artifacts": [
         "A-1164.3"
@@ -2161,7 +2161,7 @@
       "@type": "Claim",
       "@id": "C-837",
       "ref": "C-837",
-      "label": "Netanyahu tweeted about Charlie Kirk's death before the US President",
+      "label": "Host says Netanyahu tweeted about Charlie Kirk's death before the US President",
       "claim": "The host says Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States, and that, on Fox News and Greta Van Susteren's show, 'he' lied about the contents of a letter Charlie Kirk had written him in May.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2974,7 +2974,8 @@
         "N-10059"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:32",
       "investigative_direction": "Request the search warrant, return and any charging or non-charging decision concerning Lance.",

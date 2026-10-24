@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:32",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842",
+    "- **Transcript SHA-256**: 4126c32d16ed196a0ce6bca138b0274bd68b41621b5df237eba9792af2ce2a24",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-802, N-11103",
@@ -2612,8 +2612,8 @@
   {
    "kind": "claim",
    "id": "C-6520",
-   "header": "**C-6520** Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
-   "label": "Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
+   "header": "**C-6520** Host Says Wedding Photo Was Absent From Background During Dec 12, 2025 Glenn Beck Interview",
+   "label": "Host Says Wedding Photo Was Absent From Background During Dec 12, 2025 Glenn Beck Interview",
    "lines": [
     {
      "raw": ""
@@ -7507,7 +7507,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

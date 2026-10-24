@@ -16,7 +16,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:49:34",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3",
+    "- **Transcript SHA-256**: dc2dbc2673a49ac70af1831d3a66560cc37c92e5e1164122d7107513ec09a794",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-11134",
@@ -2833,8 +2833,8 @@
   {
    "kind": "claim",
    "id": "C-1100",
-   "header": "**C-1100** Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.",
-   "label": "Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.",
+   "header": "**C-1100** Host says video metadata shows Phil Lyman inside the Sorensen Center at 12:23, walking out calmly.",
+   "label": "Host says video metadata shows Phil Lyman inside the Sorensen Center at 12:23, walking out calmly.",
    "lines": [
     {
      "raw": ""
@@ -3105,8 +3105,8 @@
   {
    "kind": "claim",
    "id": "C-1081",
-   "header": "**C-1081** Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.",
-   "label": "Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.",
+   "header": "**C-1081** Host says Shaner Broderick previously identified Phil Lyman as his uncle on Instagram and LinkedIn.",
+   "label": "Host says Shaner Broderick previously identified Phil Lyman as his uncle on Instagram and LinkedIn.",
    "lines": [
     {
      "raw": ""
@@ -3138,14 +3138,6 @@
     },
     {
      "raw": ""
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-1082"
     },
     {
      "k": "Investigative Direction",
@@ -3277,8 +3269,8 @@
   {
    "kind": "claim",
    "id": "C-1133",
-   "header": "**C-1133** Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing \"deep love for Israel\" and offering strategic counsel.",
-   "label": "Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing \"deep love for Israel\" and offering strategic counsel.",
+   "header": "**C-1133** NY Post shared a May letter attributed to Kirk reportedly expressing \"deep love for Israel\"; host questions it.",
+   "label": "NY Post shared a May letter attributed to Kirk reportedly expressing \"deep love for Israel\"; host questions it.",
    "lines": [
     {
      "raw": ""
@@ -4167,10 +4159,6 @@
      "v": "N-10139"
     },
     {
-     "k": "Contradicts",
-     "v": "C-1081"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -4294,7 +4282,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5349,10 +5337,6 @@
      "v": "N-10146, N-10032"
     },
     {
-     "k": "Qualifies",
-     "v": "C-1108"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -5496,7 +5480,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

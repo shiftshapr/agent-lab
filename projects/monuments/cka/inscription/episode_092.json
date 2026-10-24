@@ -2010,7 +2010,7 @@
       "@type": "Claim",
       "@id": "C-8206",
       "ref": "C-8206",
-      "label": "UGA TPUSA Staff Uninformed of Erika's Absence",
+      "label": "Host Says UGA TPUSA Staff Had Not Been Told of Erika's Absence",
       "claim": "The host says TPUSA staff at the UGA event, including field representative Grant Tyler and chapter president Caroline in a video she plays, were still promoting Erika Kirk's appearance about 50 minutes before doors opened, which she says shows they had not been told she would not attend.",
       "anchored_artifacts": [
         "A-1965.1"
@@ -2059,7 +2059,7 @@
       "@type": "Claim",
       "@id": "C-8213",
       "ref": "C-8213",
-      "label": "TPUSA Security Team Declined to Guarantee Erika's Safety",
+      "label": "Kolvet Says TPUSA Security Team Declined to Guarantee Erika's Safety",
       "claim": "Andrew Kolvet stated on Fox News that TPUSA's security team told the organization \"we cannot guarantee your safety\" regarding Erika Kirk.",
       "anchored_artifacts": [
         "A-1967.1"
@@ -2084,7 +2084,7 @@
       "@type": "Claim",
       "@id": "C-8246",
       "ref": "C-8246",
-      "label": "Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
+      "label": "Kolvet Says High School Event Was Also Cancelled Over Online Chatter",
       "claim": "Andrew Kolvet stated on Charlie Kirk's show that the high school event, which the host says was cancelled on Monday, was also cancelled due to \"increased online chatter\" being monitored by TPUSA security.",
       "anchored_artifacts": [
         "A-1968.1"
@@ -2235,7 +2235,7 @@
       "@type": "Claim",
       "@id": "C-8221",
       "ref": "C-8221",
-      "label": "Akins Ford Arena Less Than 25% Filled for VP Event",
+      "label": "Reporter Says Akins Ford Arena Was Less Than 25% Filled for VP Event",
       "claim": "MS Now reporter Jake Traylor reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.",
       "anchored_artifacts": [
         "A-1974.1"
@@ -2387,7 +2387,7 @@
       "@type": "Claim",
       "@id": "C-8211",
       "ref": "C-8211",
-      "label": "Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
+      "label": "Host Asks What Changed After Erika Kirk Said She Was Not Afraid, Then Cancelled Over Security",
       "claim": "In a clip the host plays, Erika Kirk tells Jesse Watters she is not afraid; the host asks what changed, then plays a Fox News clip in which Andrew Kolvet says the security team told them it could not guarantee her safety and recommended against the UGA appearance.",
       "anchored_artifacts": [
         "A-1971.1",
@@ -2419,7 +2419,9 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:41",
       "investigative_direction": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment.",
       "mentions_person_refs": [
@@ -2433,7 +2435,7 @@
       "@type": "Claim",
       "@id": "C-8247",
       "ref": "C-8247",
-      "label": "TPUSA Public Explanation Sequence Internally Inconsistent",
+      "label": "Host Says TPUSA's Public Explanation Sequence Kept Changing",
       "claim": "The host says TPUSA's explanation for Erika Kirk's UGA no-show kept changing, playing a clip from The Charlie Kirk Show in which Andrew Kolvet says a high school event was cancelled over online chatter, while the parent text she showed earlier cited scheduling complications.",
       "anchored_artifacts": [
         "A-1966.1",
@@ -3294,7 +3296,8 @@
         "N-10551"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Locate the daughter's original public statements and the retraction.",
@@ -3493,7 +3496,8 @@
         "N-10556"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:03",
       "investigative_direction": "Identify the brother and obtain a first-hand account of what Wada said to colleagues.",
@@ -3900,7 +3904,8 @@
         "N-10556"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:23",
       "investigative_direction": "Seek independent corroboration of Wada's testimony about arms trafficking in Poland.",

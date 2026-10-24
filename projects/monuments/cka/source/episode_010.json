@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:46:11",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T21:04:03Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 67ab3083b0404df7c9507cf5fc4bd6362c3ea15854f1bf7fc1d747721c83de9f",
+    "- **Transcript SHA-256**: 4443f7dbb1a0682ebcd1df65b1e743a25393f59f6e05b056864a7477012177b1",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11287",
@@ -3298,8 +3298,8 @@
   {
    "kind": "claim",
    "id": "C-836",
-   "header": "**C-836** Charlie Kirk expressed concern about TPUSA finances one week before his death",
-   "label": "Charlie Kirk expressed concern about TPUSA finances one week before his death",
+   "header": "**C-836** Host says Charlie Kirk expressed concern about TPUSA finances one week before his death",
+   "label": "Host says Charlie Kirk expressed concern about TPUSA finances one week before his death",
    "lines": [
     {
      "raw": ""
@@ -3354,8 +3354,8 @@
   {
    "kind": "claim",
    "id": "C-912",
-   "header": "**C-912** Windows in the flag hall do not open, complicating the inside-source muzzle flash theory",
-   "label": "Windows in the flag hall do not open, complicating the inside-source muzzle flash theory",
+   "header": "**C-912** Host says flag hall windows appear not to open, complicating the inside-source muzzle flash theory",
+   "label": "Host says flag hall windows appear not to open, complicating the inside-source muzzle flash theory",
    "lines": [
     {
      "raw": ""
@@ -3410,8 +3410,8 @@
   {
    "kind": "claim",
    "id": "C-909",
-   "header": "**C-909** Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain",
-   "label": "Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain",
+   "header": "**C-909** Host argues Range Day Bro's blood-splatter entry wound is Charlie's necklace chain",
+   "label": "Host argues Range Day Bro's blood-splatter entry wound is Charlie's necklace chain",
    "lines": [
     {
      "raw": ""
@@ -3514,8 +3514,8 @@
   {
    "kind": "claim",
    "id": "C-879",
-   "header": "**C-879** Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities",
-   "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities",
+   "header": "**C-879** Rooftop Runner Footage Filmer Says He Was Never Contacted by Federal or Local Authorities",
+   "label": "Rooftop Runner Footage Filmer Says He Was Never Contacted by Federal or Local Authorities",
    "lines": [
     {
      "raw": ""
@@ -3566,8 +3566,8 @@
   {
    "kind": "claim",
    "id": "C-883",
-   "header": "**C-883** Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
-   "label": "Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
+   "header": "**C-883** Second Rooftop Witness Says He Gave Footage to Orem Police; Feds Did Not Contact Him Until September 15",
+   "label": "Second Rooftop Witness Says He Gave Footage to Orem Police; Feds Did Not Contact Him Until September 15",
    "lines": [
     {
      "raw": ""
@@ -3709,10 +3709,6 @@
      "v": "N-10027, N-10129"
     },
     {
-     "k": "Revises",
-     "v": "C-847"
-    },
-    {
      "k": "Confidence",
      "v": "medium"
     },
@@ -3815,10 +3811,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10027, N-10129"
-    },
-    {
-     "k": "Revises",
-     "v": "C-861"
     },
     {
      "k": "Confidence",
@@ -4019,8 +4011,8 @@
   {
    "kind": "claim",
    "id": "C-837",
-   "header": "**C-837** Netanyahu tweeted about Charlie Kirk's death before the US President",
-   "label": "Netanyahu tweeted about Charlie Kirk's death before the US President",
+   "header": "**C-837** Host says Netanyahu tweeted about Charlie Kirk's death before the US President",
+   "label": "Host says Netanyahu tweeted about Charlie Kirk's death before the US President",
    "lines": [
     {
      "raw": ""
@@ -4207,10 +4199,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10000"
-    },
-    {
-     "k": "Revises",
-     "v": "C-853"
     },
     {
      "k": "Confidence",
@@ -5988,7 +5976,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

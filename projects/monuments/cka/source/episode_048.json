@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:08",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63",
+    "- **Transcript SHA-256**: 1e66aa4944307e32821aa349873f75dbb239eb3185ccdb58faca719319dd0ee6",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-10938, N-10939, N-10940",
@@ -3795,8 +3795,8 @@
   {
    "kind": "claim",
    "id": "C-4219",
-   "header": "**C-4219** Owens Possesses Six Photographs of Transport Vehicle Interior",
-   "label": "Owens Possesses Six Photographs of Transport Vehicle Interior",
+   "header": "**C-4219** Owens Says She Possesses Six Photographs of Transport Vehicle Interior",
+   "label": "Owens Says She Possesses Six Photographs of Transport Vehicle Interior",
    "lines": [
     {
      "raw": ""
@@ -4117,7 +4117,7 @@
      "v": "N-10334"
     },
     {
-     "k": "Qualifies",
+     "k": "Contradicts",
      "v": "C-4179"
     },
     {
@@ -4292,7 +4292,7 @@
      "v": "N-10334"
     },
     {
-     "k": "Qualifies",
+     "k": "Contradicts",
      "v": "C-4179"
     },
     {
@@ -4351,10 +4351,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10334"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-4179"
     },
     {
      "k": "Investigative Direction",
@@ -6936,10 +6932,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10305"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-4238"
     },
     {
      "k": "Verification",

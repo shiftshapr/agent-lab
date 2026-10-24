@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:52:04
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
+- **Transcript SHA-256**: 0792efc2760820c070c59f2e55cae2d7c84ecf832fbc2cd8eed2994970000a21
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-927, N-928, N-11279
@@ -714,7 +714,7 @@ Investigative Direction: Independent corroboration of the encounter is achievabl
 
 ---
 
-**C-12467** Justin Baldoni Was on Layover from Sweden During Encounter
+**C-12467** Host Says Justin Baldoni Was on Layover From Sweden During Encounter
 
 Claim Timestamp: 00:14:02
 
@@ -896,7 +896,7 @@ Investigative Direction: Obtain the full CCRD filing; verify the quoted passage 
 
 ---
 
-**C-12475** Filing Later Clarified the Video Was a Birthing Video
+**C-12475** Host Says the Filing Later Identified the Video as a Birthing Video
 
 Claim Timestamp: 00:17:34
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:51
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab
+- **Transcript SHA-256**: a7b91b26b2264a297cf740002589716ae6a417edf87ad0358687964da9a7f2b2
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-825, N-827, N-828, N-829, N-830, N-831, N-11128
@@ -1014,7 +1014,7 @@ Investigative Direction: Verify the existence and timestamps of the four Google 
 
 ---
 
-**C-12215** Terryl Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage
+**C-12215** Host Says Farnsworth's Google-Hacking Fear Conflicts With His Sending Footage via Google Link Eight Days Earlier
 
 Claim Timestamp: 00:04:56
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Obtain the September 18 phone-call recording or contemp
 
 ---
 
-**C-12226** TPUSA Initially Provided a Flash Drive and Google Links, Not Original SD Cards
+**C-12226** Agent Hull Testified Farnsworth First Provided, He Believed, a Flash Drive and Downloads, Not Original SD Cards
 
 Claim Timestamp: 00:12:35
 
@@ -1084,7 +1084,6 @@ Transcript Snippet: He said, "Because I know people can be evil."
 Anchored Artifacts: A-2287.1
 Mentions: N-14, N-22, N-261
 Related Nodes: N-10156
-Revises: C-12228
 Confidence: medium
 Investigative Direction: Read with C-12228; match the Tucker Carlson segment under the corrected spelling Andrew Kolvet.
 
@@ -1105,7 +1104,7 @@ Investigative Direction: Obtain the original four-video files referenced in the 
 
 ---
 
-**C-12243** Exclusive Footage Shows Farnsworth Pocketing SD Card, Looking Around, and Texting
+**C-12243** Host Says Exclusive Footage Shows Farnsworth Pocketing SD Card, Looking Around, and Texting
 
 Claim Timestamp: 00:22:25
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Identify the CEO and the show episode in question; obta
 
 ---
 
-**C-12210** Farnsworth Began Removing the Camera Less Than Four Minutes After Charlie Was Hit
+**C-12210** Host Says Farnsworth Began Removing the Camera Less Than Four Minutes After Charlie Was Hit
 
 Claim Timestamp: 00:01:28
 
@@ -1228,7 +1227,7 @@ Open Questions: Q-63
 
 ---
 
-**C-12211** Farnsworth Went Up and Recorded Himself Announcing Charlie Was Dead Before Removing the Camera
+**C-12211** Host Says Farnsworth Recorded Himself Announcing Charlie Was Dead Before Removing the Camera
 
 Claim Timestamp: 00:01:28
 
@@ -1613,7 +1612,7 @@ Open Questions: Q-63
 
 ---
 
-**C-12240** Footage Shows Farnsworth Looking Around After Removing the Card
+**C-12240** Host Says Footage Shows Farnsworth Looking Around After Removing the Card
 
 Claim Timestamp: 00:21:11
 
@@ -1647,7 +1646,7 @@ Investigative Direction: The host would need to say how many sources, which agen
 
 ---
 
-**C-12244** Footage Shows Farnsworth Not Going to the Other Cameras Before Texting
+**C-12244** Host Says Footage Shows Farnsworth Not Going to the Other Cameras Before Texting
 
 Claim Timestamp: 00:22:26
 

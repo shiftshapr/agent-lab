@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:17
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
+- **Transcript SHA-256**: 9294ef3d4f67743319711ef0b87bda71060d9655db041b20b58c18df8c755a6f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11275, N-11276
@@ -771,7 +771,7 @@ Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 
 
 ## 5. Claim Register
 
-**C-11273** November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign
+**C-11273** Host Says November 15, 2023 Kirk–Owens Text Thread Reflects a Daily Wire Pressure Campaign
 
 Claim Timestamp: 00:09:55
 
@@ -1964,7 +1964,7 @@ Transcript Snippet: she's also the person who had a perfectly friendly phone cal
 
 Anchored Artifacts: 
 Mentions: N-3, N-544, N-2
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Ask Tracy Martin for her account; no recording is stated to exist.
 Open Questions: Q-1009
 

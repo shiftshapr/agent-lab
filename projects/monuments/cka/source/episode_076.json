@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:57:03",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd",
+    "- **Transcript SHA-256**: 068851ad9736253cf7e266e4bc798309a7f7aae04beb36763e68c89b1e3b1898",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-856, N-857, N-11171",
@@ -3346,8 +3346,8 @@
   {
    "kind": "claim",
    "id": "C-6825",
-   "header": "**C-6825** Kolvet and McCoy in the West Wing During Fake-Live Kirk Show",
-   "label": "Kolvet and McCoy in the West Wing During Fake-Live Kirk Show",
+   "header": "**C-6825** Host's Tweet Says Kolvet, and Possibly McCoy, Were in the West Wing During Fake-Live Kirk Show",
+   "label": "Host's Tweet Says Kolvet, and Possibly McCoy, Were in the West Wing During Fake-Live Kirk Show",
    "lines": [
     {
      "raw": ""
@@ -3396,8 +3396,8 @@
   {
    "kind": "claim",
    "id": "C-6828",
-   "header": "**C-6828** Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
-   "label": "Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
+   "header": "**C-6828** Host Says Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
+   "label": "Host Says Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
    "lines": [
     {
      "raw": ""
@@ -3546,8 +3546,8 @@
   {
    "kind": "claim",
    "id": "C-6858",
-   "header": "**C-6858** Epstein Invited to Kates Son's Bar Mitzvah",
-   "label": "Epstein Invited to Kates Son's Bar Mitzvah",
+   "header": "**C-6858** Tipster Says Epstein Was Invited to Kates Son's Bar Mitzvah",
+   "label": "Tipster Says Epstein Was Invited to Kates Son's Bar Mitzvah",
    "lines": [
     {
      "raw": ""
@@ -3692,8 +3692,8 @@
   {
    "kind": "claim",
    "id": "C-6863",
-   "header": "**C-6863** No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
-   "label": "No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
+   "header": "**C-6863** Host Says Erika Kirk and Kolvet Did Not Respond to Her Next Model Management Inquiry",
+   "label": "Host Says Erika Kirk and Kolvet Did Not Respond to Her Next Model Management Inquiry",
    "lines": [
     {
      "raw": ""
@@ -3742,8 +3742,8 @@
   {
    "kind": "claim",
    "id": "C-6882",
-   "header": "**C-6882** Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8",
-   "label": "Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8",
+   "header": "**C-6882** Host Says Jezebel Article on Charlie Kirk Witch's Curse Was Published 9:49 AM AZ Sept 8",
+   "label": "Host Says Jezebel Article on Charlie Kirk Witch's Curse Was Published 9:49 AM AZ Sept 8",
    "lines": [
     {
      "raw": ""
@@ -3988,8 +3988,8 @@
   {
    "kind": "claim",
    "id": "C-6899",
-   "header": "**C-6899** Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut",
-   "label": "Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut",
+   "header": "**C-6899** Producer Relays That Blake Neff Confirmed Rumble Version of Charlie Kirk Episode Is Uncut",
+   "label": "Producer Relays That Blake Neff Confirmed Rumble Version of Charlie Kirk Episode Is Uncut",
    "lines": [
     {
      "raw": ""
@@ -4184,8 +4184,8 @@
   {
    "kind": "claim",
    "id": "C-6810",
-   "header": "**C-6810** Trump Appoints Erika Kirk to Air Force Academy Board",
-   "label": "Trump Appoints Erika Kirk to Air Force Academy Board",
+   "header": "**C-6810** Host Says Trump Appointed Erika Kirk to Air Force Academy Board",
+   "label": "Host Says Trump Appointed Erika Kirk to Air Force Academy Board",
    "lines": [
     {
      "raw": ""
@@ -5985,7 +5985,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6383,7 +6383,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8081,7 +8081,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8409,7 +8409,7 @@
      "v": "N-10441, N-10444"
     },
     {
-     "k": "Qualifies",
+     "k": "Contradicts",
      "v": "C-6878"
     },
     {

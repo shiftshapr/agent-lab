@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:55:28",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864",
+    "- **Transcript SHA-256**: 6ff9bd2435a4d7bdf8bfade5d0b74e9cf5d6040c3fbefb141fcaa54b04d36435",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-708, N-10928",
@@ -3259,8 +3259,8 @@
   {
    "kind": "claim",
    "id": "C-3176",
-   "header": "**C-3176** White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
-   "label": "White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
+   "header": "**C-3176** Charlie Kirk Texted Candace Owens That the White House Asked Him to Call Her (Feb 24, 2025)",
+   "label": "Charlie Kirk Texted Candace Owens That the White House Asked Him to Call Her (Feb 24, 2025)",
    "lines": [
     {
      "raw": ""
@@ -3409,8 +3409,8 @@
   {
    "kind": "claim",
    "id": "C-3214",
-   "header": "**C-3214** Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
-   "label": "Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+   "header": "**C-3214** Host Asserts Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+   "label": "Host Asserts Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
    "lines": [
     {
      "raw": ""
@@ -5994,14 +5994,6 @@
      "v": "C-84"
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-4497"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Identify the host's source for the offer and any written record of the offer and its refusal."
     },
@@ -6114,14 +6106,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10276"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-3388"
     },
     {
      "k": "Investigative Direction",
@@ -6924,6 +6908,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

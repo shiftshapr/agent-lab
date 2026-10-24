@@ -1698,7 +1698,7 @@
       "@type": "Claim",
       "@id": "C-1352",
       "ref": "C-1352",
-      "label": "Josh Hammer identified as group chat participant",
+      "label": "Host identifies Josh Hammer as group chat participant",
       "claim": "The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.",
       "anchored_artifacts": [
         "A-1225.4"

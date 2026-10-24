@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:08:09
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c
+- **Transcript SHA-256**: 998b9ea79e90c8fcb0fcc85cd6b6bd5cc8bed1ba3da9507da4c7558b607e81ea
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-814, N-815, N-11109, N-11111, N-11112, N-11113
@@ -1101,7 +1101,7 @@ Investigative Direction: Compare against published video, ballistic evidence, an
 
 ---
 
-**C-10423** Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location
+**C-10423** Host Shows Article Photo She Says Was Taken at Mihail Kogălniceanu Air Base for Task Force 82 / 82nd Airborne
 
 Claim Timestamp: 00:13:17
 
@@ -1122,6 +1122,7 @@ Claim: A photograph displayed during the episode allegedly shows James Rawlinson
 Anchored Artifacts: A-2107.2
 Mentions: N-814
 Related Nodes:
+Tags: relevance:tangential
 Investigative Direction: Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records.
 
 ---
@@ -1138,7 +1139,7 @@ Investigative Direction: Locate the full 60 Minutes episode transcript and air d
 
 ---
 
-**C-10462** Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck
+**C-10462** Frank Turek Said on a Podcast He Did Not Believe There Was an Exit Wound on Charlie Kirk's Neck
 
 Claim Timestamp: 00:32:34
 
@@ -1217,6 +1218,7 @@ Claim: During the episode, the host states her belief, based on evidence present
 Anchored Artifacts: None displayed in this episode
 Mentions: N-40, N-1, N-54
 Related Nodes: N-10639
+Tags: relevance:tangential
 Investigative Direction: Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.
 *Flag: Claim failed admission test on artifact anchor – host belief/interpretation.*
 
@@ -1472,7 +1474,7 @@ Transcript Snippet: he claimed that his father got in trouble for child abuse, f
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
 Related Nodes: N-11109
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search court and sex-offender registries for any matching record; the host reports she has found none.
 
 ---
@@ -1488,7 +1490,7 @@ Transcript Snippet: I can't seem to find that anywhere registered.
 Anchored Artifacts: A-2968.1
 Mentions: N-3, N-814
 Related Nodes: N-11109
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search civil and military court records for the father; the host suggests an air base prosecution may not appear in ordinary searches.
 
 ---
@@ -2531,7 +2533,7 @@ Transcript Snippet: Mom's working with the CIA involved in tech. She's lying abo
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The host gives no document; seek employment records for Erika Kirk's mother and compare Erika's stated resume with verifiable history.
 
 ---

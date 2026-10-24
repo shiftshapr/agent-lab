@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:58:49
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
+- **Transcript SHA-256**: 5187fd533506063dbe2a5a4129ae66fb8cafc5f0ce63452fbabf52e6ef23468c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-11262, N-11263, N-11264
@@ -789,7 +789,7 @@ Investigative Direction: Verify purchase records with Fold AR and Lindale High S
 
 ---
 
-**C-8155** Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)
+**C-8155** Corby Hall Statement Says Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)
 
 Claim Timestamp: 00:25:43
 
@@ -834,7 +834,7 @@ Investigative Direction: Cross-reference with subsequent Haiti mission records a
 
 ---
 
-**C-8166** Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner
+**C-8166** Corby Hall Statement Says Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner
 
 Claim Timestamp: 00:32:50
 
@@ -939,7 +939,7 @@ Investigative Direction: Verify with Midland Police Department records and the d
 
 ---
 
-**C-8178** ATF Trace Initiated on Fold AR SN 02735 on September 10, 2025
+**C-8178** Host Says ATF Trace Was Initiated on Fold AR SN 02735 on September 10, 2025
 
 Claim Timestamp: 00:37:42
 
@@ -2355,7 +2355,6 @@ Transcript Snippet: Again, we don't know if that gun has anything to do with it,
 Anchored Artifacts: A-1963.1
 Mentions: N-3
 Related Nodes: N-10546, N-10550
-Qualifies: C-8182
 Tags: relevance:core
 Investigative Direction: Establish which crime, if any, the trace was tied to by FOIA to the ATF for the trace request.
 Open Questions: Q-798, Q-802

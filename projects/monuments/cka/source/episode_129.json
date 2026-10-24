@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:07:03",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a",
+    "- **Transcript SHA-256**: 1e559007a203dd6529b1c0c41bcc3a291ced6b8ddd40c4b679a06867e5374708",
     "",
     "- **Episode Ledger Summary**:",
     "  - Hole-minted Nodes (reintro-ep129): N-10694, N-10699, N-10743",
@@ -3530,8 +3530,8 @@
   {
    "kind": "claim",
    "id": "C-11125",
-   "header": "**C-11125** Daily Mail reports Erika would rather not give Candace \"an ounce of her energy\" and \"likes even Tyler Robinson more than she likes Candace\"",
-   "label": "Daily Mail reports Erika would rather not give Candace \"an ounce of her energy\" and \"likes even Tyler Robinson more than she likes Candace\"",
+   "header": "**C-11125** Daily Mail Source Says Erika Won't Give Candace \"an Ounce of Her Energy\" and Likes Even Tyler Robinson More",
+   "label": "Daily Mail Source Says Erika Won't Give Candace \"an Ounce of Her Energy\" and Likes Even Tyler Robinson More",
    "lines": [
     {
      "raw": ""
@@ -3582,8 +3582,8 @@
   {
    "kind": "claim",
    "id": "C-11062",
-   "header": "**C-11062** New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove",
-   "label": "New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove",
+   "header": "**C-11062** Host and Others Identify Object in SUV's Left Rear Door Compartment Photo as a Glove",
+   "label": "Host and Others Identify Object in SUV's Left Rear Door Compartment Photo as a Glove",
    "lines": [
     {
      "raw": ""
@@ -3897,6 +3897,10 @@
      "raw": ""
     },
     {
+     "k": "Contradicts",
+     "v": "C-11084"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV."
     },
@@ -3944,7 +3948,7 @@
     },
     {
      "k": "Contradicts",
-     "v": "C-4104, C-11088"
+     "v": "C-4104"
     },
     {
      "raw": ""
@@ -3974,8 +3978,8 @@
   {
    "kind": "claim",
    "id": "C-11092",
-   "header": "**C-11092** Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time",
-   "label": "Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time",
+   "header": "**C-11092** Local News Shows Group Walking Into Timpanogos Regional Hospital; Host Dates It to About 1:02 PM",
+   "label": "Local News Shows Group Walking Into Timpanogos Regional Hospital; Host Dates It to About 1:02 PM",
    "lines": [
     {
      "raw": ""
@@ -4480,8 +4484,8 @@
   {
    "kind": "claim",
    "id": "C-11142",
-   "header": "**C-11142** Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others",
-   "label": "Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others",
+   "header": "**C-11142** Charlie Kirk Called the Alex Jones Case \"Patient Zero for Lawfare Strategies\" and Warned of Precedent",
+   "label": "Charlie Kirk Called the Alex Jones Case \"Patient Zero for Lawfare Strategies\" and Warned of Precedent",
    "lines": [
     {
      "raw": ""
@@ -7643,8 +7647,8 @@
   {
    "kind": "claim",
    "id": "C-11119",
-   "header": "**C-11119** Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck",
-   "label": "Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck",
+   "header": "**C-11119** Daily Mail Says Erika Is Offended Candace Would Use Her Husband's Death to Make a Buck",
+   "label": "Daily Mail Says Erika Is Offended Candace Would Use Her Husband's Death to Make a Buck",
    "lines": [
     {
      "raw": ""

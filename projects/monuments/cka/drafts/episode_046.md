@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:21
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880
+- **Transcript SHA-256**: 571729bc484797116006a34f53a2432694dbcce3d44ba69ad9e832ec2cb5e79f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11026
@@ -922,7 +922,7 @@ Investigative Direction: Compare this on-camera denial against any subsequent do
 
 ---
 
-**C-4015** Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness
+**C-4015** Glenn Beck Appears to Tell Erika Kirk He Thinks Some Online Content Is Mental Illness
 
 Claim Timestamp: 00:23:04
 
@@ -1231,8 +1231,8 @@ Transcript Snippet: Mikey has offered that his dad was confused. I'll accept tha
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-190, N-17
 Related Nodes: N-10185, N-10190
-Tags: relevance:core
 Qualifies: C-2661
+Tags: relevance:core
 Investigative Direction: Compare Rob McCoy's statements about whom Mikey McCoy called first with Mikey McCoy's statement that his father was confused, and with call logs if released.
 Open Questions: Q-212
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:51:14
 - **Extraction Timestamp (UTC)**: 2026-10-19T22:30:00Z
-- **Transcript SHA-256**: ff02ec52b5f178bb11692331d4f7a49be8bcb3a964069692849d0006dc7efad3
+- **Transcript SHA-256**: f4b14dcd2a6777e8487b8a5bd39f988d2b8f904514bb0db7ddd6bb406f2daee3
 - **Model Version**: claude-manual-extract-seq166
 
 - **Episode Ledger Summary**:
@@ -1139,7 +1139,7 @@ Transcript Snippet: In his report, Officer Brandon Blackmore said that 116 image
 Anchored Artifacts: A-3402.1
 Mentions: N-966, N-965
 Related Nodes: N-11350
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The officer's probable-cause affidavit.
 
 ---
@@ -1155,7 +1155,7 @@ Transcript Snippet: Documents indicate that the ages allegedly ranged from 3 to 
 Anchored Artifacts: A-3402.1
 Mentions: N-965
 Related Nodes: N-11350
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The court documents in the Dodd case.
 
 ---
@@ -1227,7 +1227,7 @@ Open Questions: Q-1290
 
 ---
 
-**C-14344** Letter to the Editor Originally Named a Club America Homeschool Hub
+**C-14344** Host Says Letter to the Editor Originally Named a Club America Homeschool Hub
 
 Claim Timestamp: 00:15:15
 
@@ -1668,7 +1668,7 @@ Investigative Direction: The source broadcasts of each supercut clip.
 
 ---
 
-**C-14370** Supercut Has Zacharia Saying "I Am a Lawyer" and Citing Her Research on Fauci
+**C-14370** Supercut Has Zacharia Saying "I Am a Lawyer" and "a Rigorous Researcher"
 
 Claim Timestamp: 00:29:22
 

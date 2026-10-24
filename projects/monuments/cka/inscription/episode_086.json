@@ -1417,7 +1417,7 @@
       "@type": "Claim",
       "@id": "C-7731",
       "ref": "C-7731",
-      "label": "ATF Unable to Identify Bullet to Rifle",
+      "label": "Defense Filing Says ATF Was Unable to Identify Bullet to Rifle",
       "claim": "Per the defense filing the host reads, the ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.",
       "anchored_artifacts": [
         "A-1912.1"
@@ -1752,7 +1752,7 @@
       "@type": "Claim",
       "@id": "C-7685",
       "ref": "C-7685",
-      "label": "Kirk shot at 12:23 p.m. Mountain Time on September 10",
+      "label": "Host says Kirk was shot at 12:23 p.m. Mountain Time on September 10",
       "claim": "The host says Charlie Kirk was shot on September 10 at 12:23 p.m. Mountain Time.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1778,7 +1778,7 @@
       "@type": "Claim",
       "@id": "C-7686",
       "ref": "C-7686",
-      "label": "Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
+      "label": "Host says Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
       "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Terryl Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1808,7 +1808,7 @@
       "@type": "Claim",
       "@id": "C-7687",
       "ref": "C-7687",
-      "label": "Farnsworth's AV company has worked TPUSA events for over a decade",
+      "label": "Host says Farnsworth's AV company may have worked TPUSA events for over a decade",
       "claim": "The host says Farnsworth runs the audio-visual company Turning Point employs, which she says it may have used for over a decade for its big events, and that he never goes to these college events but, he says, they were trying something different that day.",
       "anchored_artifacts": [],
       "related_nodes": [

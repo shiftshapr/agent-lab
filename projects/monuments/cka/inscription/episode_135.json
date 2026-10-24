@@ -1902,7 +1902,7 @@
       "@type": "Claim",
       "@id": "C-11642",
       "ref": "C-11642",
-      "label": "Hospital EMR system incompatibility",
+      "label": "Host Says the Hospital EMR Systems Were Incompatible",
       "claim": "Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.",
       "anchored_artifacts": [],
       "related_nodes": [

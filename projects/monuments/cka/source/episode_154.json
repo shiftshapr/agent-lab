@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:05:13",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709",
+    "- **Transcript SHA-256**: f41841c17afa1215b14cd7526d7901a8b4b3985f8869bb226b6317a5dd16f9cc",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-11230",
@@ -2759,10 +2759,6 @@
      "v": "N-3"
     },
     {
-     "k": "Contradicts",
-     "v": "C-13241"
-    },
-    {
      "raw": ""
     },
     {
@@ -3367,8 +3363,8 @@
   {
    "kind": "claim",
    "id": "C-13349",
-   "header": "**C-13349** Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
-   "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+   "header": "**C-13349** Tucker Carlson Says Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+   "label": "Tucker Carlson Says Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
    "lines": [
     {
      "raw": ""
@@ -3480,8 +3476,8 @@
   {
    "kind": "claim",
    "id": "C-13351",
-   "header": "**C-13351** Blake Neff Verbatim Censorship Quote",
-   "label": "Blake Neff Verbatim Censorship Quote",
+   "header": "**C-13351** Tucker Carlson Reads What He Calls a Verbatim Blake Neff Censorship Quote",
+   "label": "Tucker Carlson Reads What He Calls a Verbatim Blake Neff Censorship Quote",
    "lines": [
     {
      "raw": ""
@@ -4802,14 +4798,6 @@
      "v": "relevance:core"
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-13308, C-13309, C-13365"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Locate Kolvet's public statements on the end of the friendship and their dates."
     },
@@ -4869,10 +4857,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10003"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13307"
     },
     {
      "k": "Tags",
@@ -4938,10 +4922,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10003, N-10072"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13307"
     },
     {
      "k": "Tags",
@@ -5160,8 +5140,8 @@
   {
    "kind": "claim",
    "id": "C-13313",
-   "header": "**C-13313** Kolvet Attributed the Forwarded Message to the Groypers' Walls",
-   "label": "Kolvet Attributed the Forwarded Message to the Groypers' Walls",
+   "header": "**C-13313** Host Says Kolvet Attributed the Forwarded Message to the Groypers' Walls",
+   "label": "Host Says Kolvet Attributed the Forwarded Message to the Groypers' Walls",
    "lines": [
     {
      "raw": ""
@@ -7446,10 +7426,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10003"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13307"
     },
     {
      "k": "Tags",

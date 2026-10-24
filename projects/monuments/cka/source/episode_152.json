@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:05:27",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63",
+    "- **Transcript SHA-256**: fcb7aa98357ab70c81e3b78082e0f7725f74411d328a994b8c8b2099e987cc98",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11179, N-11180, N-11181",
@@ -3873,6 +3873,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain New York Post article referenced and court records for George Zinn's case.*"
     },
@@ -4306,8 +4310,8 @@
   {
    "kind": "claim",
    "id": "C-13152",
-   "header": "**C-13152** Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility",
-   "label": "Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility",
+   "header": "**C-13152** Host, citing Bulwark, says Matt Tardio pled no contest to felony coercion over an October 2025 ICE-facility incident",
+   "label": "Host, citing Bulwark, says Matt Tardio pled no contest to felony coercion over an October 2025 ICE-facility incident",
    "lines": [
     {
      "raw": ""
@@ -4344,6 +4348,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4520,6 +4528,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4710,6 +4722,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4903,7 +4919,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4964,7 +4980,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6318,7 +6334,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6834,7 +6850,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8976,7 +8992,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

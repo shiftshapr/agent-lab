@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:55:04",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d",
+    "- **Transcript SHA-256**: da17f421fab66d1e2bf912f8e902e0af29da1c549f0c2aaca58c15d87b9bc1c6",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-11210, N-11211",
@@ -4960,8 +4960,8 @@
   {
    "kind": "claim",
    "id": "C-7120",
-   "header": "**C-7120** Donald Trump stated the US went to war with Iran \"out of habit\"",
-   "label": "Donald Trump stated the US went to war with Iran \"out of habit\"",
+   "header": "**C-7120** Donald Trump said \"you could say\" the US went to war with Iran \"out of habit\"",
+   "label": "Donald Trump said \"you could say\" the US went to war with Iran \"out of habit\"",
    "lines": [
     {
      "raw": ""
@@ -5072,8 +5072,8 @@
   {
    "kind": "claim",
    "id": "C-7116",
-   "header": "**C-7116** Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations",
-   "label": "Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations",
+   "header": "**C-7116** Host reads statements from Germany, EU, Britain, Japan, China and others declining or hedging on Hormuz escorts",
+   "label": "Host reads statements from Germany, EU, Britain, Japan, China and others declining or hedging on Hormuz escorts",
    "lines": [
     {
      "raw": ""
@@ -5128,8 +5128,8 @@
   {
    "kind": "claim",
    "id": "C-7139",
-   "header": "**C-7139** Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy",
-   "label": "Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy",
+   "header": "**C-7139** Randy Fine publicly cited Genesis 12:3 in a post about Tucker Carlson \"learning the hard way\"",
+   "label": "Randy Fine publicly cited Genesis 12:3 in a post about Tucker Carlson \"learning the hard way\"",
    "lines": [
     {
      "raw": ""
@@ -5296,8 +5296,8 @@
   {
    "kind": "claim",
    "id": "C-7122",
-   "header": "**C-7122** The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad",
-   "label": "The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad",
+   "header": "**C-7122** Headline says the US urged citizens to leave Iraq after an attack on the embassy in Baghdad",
+   "label": "Headline says the US urged citizens to leave Iraq after an attack on the embassy in Baghdad",
    "lines": [
     {
      "raw": ""
@@ -5352,8 +5352,8 @@
   {
    "kind": "claim",
    "id": "C-7126",
-   "header": "**C-7126** Candace Owens published an article arguing Zionists are attempting a \"fake it till you make it\" strategy on war",
-   "label": "Candace Owens published an article arguing Zionists are attempting a \"fake it till you make it\" strategy on war",
+   "header": "**C-7126** Candace Owens published thoughts calling Zionists \"their own worst enemy\"; says they tried \"fake it till you make it\"",
+   "label": "Candace Owens published thoughts calling Zionists \"their own worst enemy\"; says they tried \"fake it till you make it\"",
    "lines": [
     {
      "raw": ""
@@ -7751,14 +7751,6 @@
     {
      "k": "Tags",
      "v": "relevance:context"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-7230"
     },
     {
      "k": "Investigative Direction",

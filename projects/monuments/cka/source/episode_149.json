@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:25",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd",
+    "- **Transcript SHA-256**: b3c51c08a4630d281e872ddc980fdcd024670576b213cbe6fcfeed2653b0b727",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11323, N-11324, N-11325",
@@ -3735,6 +3735,10 @@
      "v": "N-269"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews."
     },
@@ -4409,8 +4413,8 @@
   {
    "kind": "claim",
    "id": "C-12918",
-   "header": "**C-12918** If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM",
-   "label": "If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM",
+   "header": "**C-12918** Host's timeline: if the receipt is confirmed, Tyler Robinson could not have reached Orem before ~1:47 AM",
+   "label": "Host's timeline: if the receipt is confirmed, Tyler Robinson could not have reached Orem before ~1:47 AM",
    "lines": [
     {
      "raw": ""
@@ -4454,8 +4458,8 @@
   {
    "kind": "claim",
    "id": "C-12908",
-   "header": "**C-12908** The Cowboy Smokehouse has received harassment (bad reviews) since July",
-   "label": "The Cowboy Smokehouse has received harassment (bad reviews) since July",
+   "header": "**C-12908** Host says the Cowboy Smokehouse has apparently been harassed with bad reviews since July",
+   "label": "Host says the Cowboy Smokehouse has apparently been harassed with bad reviews since July",
    "lines": [
     {
      "raw": ""
@@ -4500,8 +4504,8 @@
   {
    "kind": "claim",
    "id": "C-12909",
-   "header": "**C-12909** The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect",
-   "label": "The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect",
+   "header": "**C-12909** Host says Cowboy Smokehouse owner contacted the FBI after the server believed he served the suspect",
+   "label": "Host says Cowboy Smokehouse owner contacted the FBI after the server believed he served the suspect",
    "lines": [
     {
      "raw": ""
@@ -7516,8 +7520,8 @@
   {
    "kind": "claim",
    "id": "C-12879",
-   "header": "**C-12879** Footage Shows Turek Getting Into the Boot of the SUV",
-   "label": "Footage Shows Turek Getting Into the Boot of the SUV",
+   "header": "**C-12879** Host Says Footage Shows Turek Getting Into the Boot of the SUV",
+   "label": "Host Says Footage Shows Turek Getting Into the Boot of the SUV",
    "lines": [
     {
      "raw": ""

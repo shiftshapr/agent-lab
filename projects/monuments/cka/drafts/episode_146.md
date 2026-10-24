@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:03
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
+- **Transcript SHA-256**: 3e52c235acc438ac84fa386846f547a77bd765bf7d7f2f676fe0a718b919edd2
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-788, N-11066
@@ -836,7 +836,7 @@ Investigative Pressure: Low
 
 ## V. Claim Register
 
-**C-12566** Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk
+**C-12566** Jack Hibbs Says Butch Hibbs Got a Front-Row Seat at UVU 9/10 Directly From Charlie Kirk
 
 Claim Timestamp: 00:13:30
 
@@ -883,7 +883,7 @@ Investigative Direction: Obtain Butch Hibbs's phone records for the night of 9/9
 
 ---
 
-**C-12589** Butch Hibbs recorded footage on his phone within seconds of the shooting
+**C-12589** Host Says Footage Shows Butch Hibbs Recording on His Phone Within Seconds of the Shooting
 
 Claim Timestamp: 00:22:23
 
@@ -928,7 +928,7 @@ Investigative Direction: Verify the existence of a Jack Hibbs relative commonly 
 
 ---
 
-**C-12576** Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting
+**C-12576** Jack Hibbs Placed Prayer Chain at About 12:30 PM Utah; Host Calculates About Seven Minutes After Shooting
 
 Claim Timestamp: 00:18:43
 
@@ -990,7 +990,7 @@ Investigative Direction: Verify the magistrate's full name through Utah court re
 
 ---
 
-**C-12579** A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window
+**C-12579** Host Suggests a Calvary Chapel Call May Have Begun During the Active Emergency Window
 
 Claim Timestamp: 00:19:30
 
@@ -1500,7 +1500,7 @@ Transcript Snippet: And Butch Hibbs, by the way, is um very much involved in the
 Anchored Artifacts: 
 Mentions: N-246
 Related Nodes: N-10248, N-10234
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.
 
 ---
@@ -1570,7 +1570,6 @@ Transcript Snippet: I do believe you were the first one. >> That was after we go
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-7, N-190
 Related Nodes: N-10741
-Qualifies: C-12570
 Tags: relevance:core
 Investigative Direction: Compare Jack Hibbs' call history timestamps with Turek's and Mikey McCoy's logs.
 Open Questions: Q-1118

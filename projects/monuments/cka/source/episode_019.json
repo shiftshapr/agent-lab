@@ -16,7 +16,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:58:50",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d",
+    "- **Transcript SHA-256**: 73410cc1c733ea79734f5e34c2412cc89227f73dbbd66197224181afafb32722",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-931, N-11294",
@@ -2979,8 +2979,8 @@
   {
    "kind": "claim",
    "id": "C-1734",
-   "header": "**C-1734** Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds",
-   "label": "Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds",
+   "header": "**C-1734** Host Says Mikey McCoy Phone-to-Ear Timing Is 834 Milliseconds",
+   "label": "Host Says Mikey McCoy Phone-to-Ear Timing Is 834 Milliseconds",
    "lines": [
     {
      "raw": ""
@@ -3870,8 +3870,8 @@
   {
    "kind": "claim",
    "id": "C-1765",
-   "header": "**C-1765** Camera Operator Brought into TPUSA by Tyler Bowyer",
-   "label": "Camera Operator Brought into TPUSA by Tyler Bowyer",
+   "header": "**C-1765** Host States Camera Operator Was Brought into TPUSA by Tyler Bowyer",
+   "label": "Host States Camera Operator Was Brought into TPUSA by Tyler Bowyer",
    "lines": [
     {
      "raw": ""
@@ -3974,8 +3974,8 @@
   {
    "kind": "claim",
    "id": "C-1723",
-   "header": "**C-1723** Stacy Sheridan Brought into TPUSA by Tyler Bowyer",
-   "label": "Stacy Sheridan Brought into TPUSA by Tyler Bowyer",
+   "header": "**C-1723** Host States Stacy Sheridan Was Brought into TPUSA by Tyler Bowyer",
+   "label": "Host States Stacy Sheridan Was Brought into TPUSA by Tyler Bowyer",
    "lines": [
     {
      "raw": ""
@@ -4187,8 +4187,8 @@
   {
    "kind": "claim",
    "id": "C-1798",
-   "header": "**C-1798** Tyler Robinson Court Appearance via Zoom Without Face Visibility",
-   "label": "Tyler Robinson Court Appearance via Zoom Without Face Visibility",
+   "header": "**C-1798** Commenter Says Tyler Robinson Appeared in Court via Zoom Without Showing His Face",
+   "label": "Commenter Says Tyler Robinson Appeared in Court via Zoom Without Showing His Face",
    "lines": [
     {
      "raw": ""

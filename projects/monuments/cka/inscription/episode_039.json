@@ -1955,7 +1955,9 @@
       "related_nodes": [
         "N-10288"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.",
       "mentions_person_refs": [
@@ -2063,7 +2065,9 @@
       "related_nodes": [
         "N-10288"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Locate contemporaneous court filings or the original Dominick Dunne Vanity Fair piece.",
       "mentions_person_refs": [
@@ -2278,7 +2282,7 @@
       "@type": "Claim",
       "@id": "C-3477",
       "ref": "C-3477",
-      "label": "Andrew Kolvet family friend tip on Charlie losing millions declining BB's offer",
+      "label": "Host Says Kolvet Family Friend Allegedly Tipped That Charlie Lost Millions Declining BB's Offer",
       "claim": "The host says that, allegedly, a close family friend of Andrew Kolvet told her in a written tip that Andrew Kolvet had told them that when Charlie said no to \"BB,\" he lost out on millions.",
       "anchored_artifacts": [
         "A-1488.1"

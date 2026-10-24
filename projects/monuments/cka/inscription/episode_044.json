@@ -1654,7 +1654,7 @@
       "@type": "Claim",
       "@id": "C-3833",
       "ref": "C-3833",
-      "label": "Harry entered a temporary JTF-SB headquarters on Fort Huachuca on September 9, 2025 at approximately 7:37 AM",
+      "label": "Host Says Harry Told Her He Entered a Temporary JTF-SB Headquarters at About 7:37 AM on September 9, 2025",
       "claim": "The host says Harry told her he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.",
       "anchored_artifacts": [
         "A-1519.2"
@@ -1675,7 +1675,7 @@
       "@type": "Claim",
       "@id": "C-3836",
       "ref": "C-3836",
-      "label": "Harry observed approximately 12–13 lieutenant colonels / colonels at the JTF-SB meeting on September 9, 2025",
+      "label": "Host Says Harry Saw About 12–13 Lieutenant Colonels and Colonels at the JTF-SB Meeting",
       "claim": "The host says Harry told her he saw about 12 lieutenant colonels as the meeting he walked in on was concluding; later, after viewers in the chat corrected her that the ranks should be E5s and E6s, she says Harry described lieutenant colonels and colonels and estimates 12 to 13 were in the meeting.",
       "anchored_artifacts": [
         "A-1519.2"
@@ -1689,14 +1689,16 @@
       "mentions_person_refs": [
         "N-318"
       ],
-      "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-3939"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3837",
       "ref": "C-3837",
-      "label": "Harry identified Brian Harpole among those exiting the JTF-SB meeting on September 9, 2025",
+      "label": "Host Says Harry Allegedly Identified Brian Harpole Exiting the JTF-SB Meeting on September 9, 2025",
       "claim": "The host, saying 'allegedly' because she was not there, says Harry told her he is certain that Brian Harpole was one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and remembers him because of Charlie Kirk's assassination.",
       "anchored_artifacts": [
         "A-1519.2"
@@ -1741,7 +1743,7 @@
       "@type": "Claim",
       "@id": "C-3852",
       "ref": "C-3852",
-      "label": "Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca",
+      "label": "Host Says Harry Was Given Incident Report 861-1-2025-MPC446 After His Fort Huachuca Encounter",
       "claim": "The host says Harry told her that Captain Neff gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.",
       "anchored_artifacts": [
         "A-1519.3"
@@ -1833,7 +1835,9 @@
         "N-10310",
         "N-10823"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:24–00:40:46",
       "investigative_direction": "Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.",
       "mentions_person_refs": [
@@ -3344,7 +3348,8 @@
         "N-10309"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:14",
       "investigative_direction": "Identify the real estate agents and check Williamson County property records for any purchase by a Jonathan Schmidt.",
@@ -3586,7 +3591,8 @@
         "N-10309"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:40:46",
       "investigative_direction": "Immigration status can be checked only by DHS; ask Root Brands for work-authorization verification (I-9/E-Verify) documentation.",

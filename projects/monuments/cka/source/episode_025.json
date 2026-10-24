@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:51:05",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1",
+    "- **Transcript SHA-256**: 7e60cf661a434b8dfdc88afa81f6fbf64b10496564c78c1bb4fc5045cd4cdda1",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-755, N-11020, N-11022, N-11023",
@@ -2965,8 +2965,8 @@
   {
    "kind": "claim",
    "id": "C-2280",
-   "header": "**C-2280** Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
-   "label": "Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
+   "header": "**C-2280** Host Says Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
+   "label": "Host Says Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
    "lines": [
     {
      "raw": ""
@@ -3162,6 +3162,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4077,8 +4081,8 @@
   {
    "kind": "claim",
    "id": "C-2276",
-   "header": "**C-2276** Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
-   "label": "Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
+   "header": "**C-2276** Host Says Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
+   "label": "Host Says Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
    "lines": [
     {
      "raw": ""

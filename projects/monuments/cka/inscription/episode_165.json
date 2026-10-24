@@ -2195,7 +2195,8 @@
         "N-10755"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:14:18",
       "investigative_direction": "Case disposition records in Utah and Idaho.",

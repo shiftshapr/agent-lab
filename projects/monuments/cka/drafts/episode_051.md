@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:09:51
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
+- **Transcript SHA-256**: c83654b4a43af916488ae266dbea35d2ad80ba335c2ec64ded34bd6126af3fab
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11027
@@ -901,7 +901,7 @@ Related Nodes: N-10342
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
-**C-4458** Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer
+**C-4458** Host Says Daily Wire Reactivated Her Old YouTube and Instagram and Re-Released Her 2021 Joining Trailer
 
 Claim Timestamp: 00:30:51
 
@@ -927,7 +927,7 @@ Related Nodes: N-10349
 
 Investigative Direction: Verify the comment against the original top-comments thread and identify the commenter's account.
 
-**C-4513** Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans
+**C-4513** Retired Army Law Enforcement Commenter Calls Paramount Tactical Valhalla an Embarrassment to Veterans
 
 Claim Timestamp: 01:08:04
 
@@ -1287,7 +1287,6 @@ Transcript Snippet: he did not see Erika at the meeting on the morning of the 9t
 Anchored Artifacts: 
 Mentions: N-361, N-2
 Related Nodes: N-10342, N-10353
-Qualifies: C-4466
 Tags: relevance:core
 Investigative Direction: Test the Erika identification separately from the Harpole identification, using hotel and security records.
 Open Questions: Q-441
@@ -1373,7 +1372,7 @@ Transcript Snippet: He was never in the military and then they had to admit that
 Anchored Artifacts: 
 Mentions: N-361
 Related Nodes: N-10351
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain Mitch Snow's military service record and the streams in which his past was discussed.
 Open Questions: Q-443
 
@@ -1689,7 +1688,6 @@ Transcript Snippet: She said, "Yeah, I don't know who your source is on that, bu
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
 Related Nodes: N-10320, N-10415
-Contradicts: C-3193
 Tags: relevance:core
 Investigative Direction: Compare Erika's denial with the host's three sources and any donor accounts.
 Open Questions: Q-77
@@ -1864,7 +1862,7 @@ Transcript Snippet: I do think that I do know who he saw that was a congressman 
 Anchored Artifacts: 
 Mentions: N-3, N-363, N-361
 Related Nodes: N-10345, N-10355
-Qualifies: C-4351
+Contradicts: C-4351
 Tags: relevance:core
 Investigative Direction: Ask the host to name the congressman she believes it was; test that person's schedule for September 9.
 Open Questions: Q-442

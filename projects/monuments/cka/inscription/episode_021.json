@@ -1264,7 +1264,7 @@
       "@type": "Claim",
       "@id": "C-1967",
       "ref": "C-1967",
-      "label": "Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
+      "label": "Host Says Kash Patel Apparently Met With Wiles, Kent, Gabbard and, She Thinks, JD Vance on the Inquiry",
       "claim": "The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.",
       "anchored_artifacts": [
         "A-1286.1"
@@ -1932,10 +1932,8 @@
         "N-1",
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-11561"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-232"
       ]

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:30:52
 - **Extraction Timestamp (UTC)**: 2026-10-02T16:10:00Z
-- **Transcript SHA-256**: 5c1cde59c401881775186a334b9d4e052672b924c052b4ad796d48d4ce073037
+- **Transcript SHA-256**: cb205a0f524ea298c0165dfed1baf00749f7ad9ab86ffac4a6e1d47c2e498b8c
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
@@ -1460,7 +1460,7 @@ Investigative Direction: Archive contemporaneous TPUSA / Erika statements on coo
 
 ---
 
-**C-13532** July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts
+**C-13532** Review: July 10, 2025 courtyard request came from TPUSA field rep, whom host identifies as Maycee Crofts
 
 Claim Timestamp: 00:14:22
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Verify airspace rules for the event footprint; check UV
 
 ---
 
-**C-13555** Anonymous EMP-device threat was reported to SIAC on September 10 morning
+**C-13555** Review: Chief Long reported anonymous EMP-device threat to SIAC on September 10
 
 Claim Timestamp: 00:28:35
 
@@ -1560,7 +1560,7 @@ Investigative Direction: Obtain ticket-platform export timestamps; compare to UV
 
 ---
 
-**C-13595** July 2025 personal/political pressures coincide with UVU booking start
+**C-13595** Host presents July 2025 pressures on Charlie Kirk as backdrop to UVU booking start
 
 Claim Timestamp: 00:56:42
 
@@ -1575,7 +1575,7 @@ Investigative Direction: Build a sourced chronology with primary citations for e
 
 ---
 
-**C-13626** Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention
+**C-13626** News clip: criminal case against Kip Crofts, identified as Maycee Crofts's uncle, was dismissed
 
 Claim Timestamp: 01:12:05
 
@@ -1586,6 +1586,7 @@ Mentions: N-8, N-12
 
 Related Nodes: N-10781
 
+Tags: relevance:tangential
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 
 ---
@@ -1635,7 +1636,7 @@ Investigative Direction: Obtain contracts, payment records or disclosures showin
 
 ---
 
-**C-13520** UVU engaged the Lake Forest Group almost immediately for a broad security review
+**C-13520** Host says UVU engaged the Lake Forest Group almost immediately for a broad security review
 
 Claim Timestamp: 00:03:14
 
@@ -2237,7 +2238,7 @@ Investigative Direction: Identify the girl and her arrival time through event st
 
 ---
 
-**C-13561** Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00
+**C-13561** Review: Chief Long requested added officers after seeing the crowd at 11:00; host says TPUSA did not
 
 Claim Timestamp: 00:31:20
 
@@ -2248,7 +2249,6 @@ Transcript Snippet: So, it was actually UVU that requested more people after obs
 Anchored Artifacts: A-2802.5
 Mentions: N-271
 Related Nodes: N-10762
-Qualifies: C-13551
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Obtain the 11:00 request and staffing records showing who asked for additional officers.
@@ -2560,7 +2560,7 @@ Investigative Direction: Obtain the TPUSA video team's drone flight logs and FAA
 
 ---
 
-**C-13583** Review: a drone from the Orem Police Department could have been requested but was not
+**C-13583** Review: a drone from the Orem Police Department could have been requested; host says it was not
 
 Claim Timestamp: 00:47:38
 
@@ -2637,6 +2637,7 @@ Transcript Snippet: They're all, they all kind of have this background history i
 Anchored Artifacts: A-2802.12
 Mentions: N-506, N-1
 Related Nodes: N-10709
+Tags: relevance:tangential
 Investigative Direction: Verify Bagley's assignment history and the other officers' backgrounds from personnel records.
 
 ---
@@ -2937,7 +2938,7 @@ Investigative Direction: Obtain dated posts and metadata of the Maine vacation f
 
 ---
 
-**C-13608** Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End
+**C-13608** Host Says Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End
 
 Claim Timestamp: 01:03:03
 
@@ -3025,7 +3026,6 @@ Transcript Snippet: it was just a followup to a letter that Charlie had written 
 Anchored Artifacts: A-2456.1
 Mentions: N-2, N-14, N-36, N-3
 Related Nodes: N-10320
-Qualifies: C-2134
 Investigative Direction: Obtain TPUSA's written rebuttal and the May 2025 Kirk letter to Netanyahu.
 
 ---
@@ -3165,6 +3165,7 @@ Transcript Snippet: her her father had passed suddenly and um that her family wa
 Anchored Artifacts: A-2804.4
 Mentions: N-8, N-3
 Related Nodes: 
+Tags: relevance:tangential
 Investigative Direction: Verify through obituaries and Idaho public records.
 
 ---
@@ -3180,6 +3181,7 @@ Transcript Snippet: A warrant was issued charging Kip Crofts, so that's her dad'
 Anchored Artifacts: A-2804.4, A-2457.1
 Mentions: N-12, N-8
 Related Nodes: N-10764
+Tags: relevance:tangential
 Investigative Direction: Obtain the Canyon County warrant, docket and arrest record.
 
 ---
@@ -3195,6 +3197,7 @@ Transcript Snippet: He was accused of touching himself in a classroom while watc
 Anchored Artifacts: A-2804.4
 Mentions: N-12
 Related Nodes: 
+Tags: relevance:tangential
 Investigative Direction: Obtain the charging documents describing the alleged 2024 incident.
 
 ---
@@ -3225,6 +3228,7 @@ Transcript Snippet: The case centered on allegations that Crofts exposed himself
 Anchored Artifacts: A-2457.1
 Mentions: N-12
 Related Nodes: 
+Tags: relevance:tangential
 Investigative Direction: Identify the news outlet and broadcast date of the clip and match the details to the court record.
 
 ---

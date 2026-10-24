@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:08:09",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c",
+    "- **Transcript SHA-256**: 998b9ea79e90c8fcb0fcc85cd6b6bd5cc8bed1ba3da9507da4c7558b607e81ea",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-814, N-815, N-11109, N-11111, N-11112, N-11113",
@@ -4014,8 +4014,8 @@
   {
    "kind": "claim",
    "id": "C-10423",
-   "header": "**C-10423** Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location",
-   "label": "Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location",
+   "header": "**C-10423** Host Shows Article Photo She Says Was Taken at Mihail Kogălniceanu Air Base for Task Force 82 / 82nd Airborne",
+   "label": "Host Shows Article Photo She Says Was Taken at Mihail Kogălniceanu Air Base for Task Force 82 / 82nd Airborne",
    "lines": [
     {
      "raw": ""
@@ -4094,6 +4094,10 @@
      "sep": ":"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records."
     },
@@ -4157,8 +4161,8 @@
   {
    "kind": "claim",
    "id": "C-10462",
-   "header": "**C-10462** Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck",
-   "label": "Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck",
+   "header": "**C-10462** Frank Turek Said on a Podcast He Did Not Believe There Was an Exit Wound on Charlie Kirk's Neck",
+   "label": "Frank Turek Said on a Podcast He Did Not Believe There Was an Exit Wound on Charlie Kirk's Neck",
    "lines": [
     {
      "raw": ""
@@ -4455,6 +4459,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10639"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5432,7 +5440,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5493,7 +5501,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -9482,7 +9490,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

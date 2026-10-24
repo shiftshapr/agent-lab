@@ -2697,7 +2697,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:03:55",
       "investigative_direction": "Interview the locals and check county and state Republican event records for George Zinn's attendance.",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:25:02
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
+- **Transcript SHA-256**: 1b7175fc05e84a9b792a942bdf9bdf2042f4fb8b2165bd2fb3635bed144fe1dd
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-799, N-800, N-11079, N-11080, N-11081, N-11082, N-11084, N-11085, N-11088, N-11089, N-11090, N-11091
@@ -1633,7 +1633,7 @@ Investigative Direction: Obtain the full 1997 Washington Post article, identify 
 
 ---
 
-**C-4846** Women's Federation made a $3.5 million grant to Christian Heritage Foundation in 1995 that helped bail out Liberty University
+**C-4846** Women's Federation Made $3.5 Million Grant in 1995 to Foundation That Later Bought Liberty University Debt
 
 Claim Timestamp: 01:06:00
 Claim: Per the 1997 Washington Post article the host reads, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later bought a portion of Liberty University's debt.
@@ -1688,7 +1688,7 @@ Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern E
 
 ---
 
-**C-4845** Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra
+**C-4845** Former Members Say Unificationists Gave ~$5 Million to Coalition That Backed Oliver North in Iran-Contra
 
 Claim Timestamp: 01:05:41
 Claim: Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.
@@ -1699,7 +1699,7 @@ Investigative Direction: Cross-reference against contemporaneous Iran-Contra inv
 
 ---
 
-**C-4844** Japan provides an estimated 70% of Unification Church wealth
+**C-4844** Church Observers Estimate Japan Provides as Much as 70% of Unification Church Wealth
 
 Claim Timestamp: 01:04:49
 Claim: Per the 1997 Washington Post article, Japan (not Korea) provides the bulk of Unification Church wealth, estimated at as much as 70% by church observers.
@@ -1721,7 +1721,7 @@ Investigative Direction: Locate the cited passage in *The Israel Lobby* (Mearshe
 
 ---
 
-**C-4814** Sun Myung Moon and Unification Church assisted the CIA in Iran-Contra and later bailed out Liberty University in mid-1990s
+**C-4814** Email Tip Says Sun Myung Moon's Unification Church Assisted the CIA in Iran-Contra and Bailed Out Liberty
 
 Claim Timestamp: 00:48:22
 Claim: Per an email tip, Sun Myung Moon and his Unification Church organizations (including CAUSA and The Washington Times) assisted the CIA in Iran-Contra efforts and later bailed out Liberty University in the mid-1990s for approximately $20–40 million.
@@ -1754,7 +1754,7 @@ Investigative Direction: Cross-reference the conference attendance records (Buil
 
 ---
 
-**C-4779** Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s
+**C-4779** Former Resident Says Liberty Godparent Home Locked Residents in Rooms 24 Hours a Day in Mid-1990s
 
 Claim Timestamp: 00:24:36
 Claim: Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994.
@@ -1765,7 +1765,7 @@ Investigative Direction: Cross-reference against the *Liberty Lost* podcast test
 
 ---
 
-**C-4786** Liberty Godparent Home residents were coerced to give up babies for adoption
+**C-4786** Former Resident Says Liberty Godparent Home Residents Were Coerced to Give Up Babies for Adoption
 
 Claim Timestamp: 00:28:57
 Claim: Per the recorded phone call, residents of the Liberty Godparent Home were pressured and coerced to place their babies for adoption, with adoption-folder selections presented under time pressure.
@@ -2339,7 +2339,7 @@ Transcript Snippet: was charged with running a child sex abuse ring. That is tru
 Anchored Artifacts: 
 Mentions: N-384
 Related Nodes: N-10671
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.
 
 ---
@@ -2376,7 +2376,7 @@ Anchored Artifacts:
 Mentions: N-42
 Related Nodes: N-10166
 Supports: C-1486
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.
 Open Questions: Q-28
 
@@ -3169,7 +3169,7 @@ Investigative Direction: Compare with documented histories of Iran-Contra and wi
 
 ---
 
-**C-4816** Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base
+**C-4816** Emailer Asks How Liberty University Might Connect to Fort Huachuca, Which He Calls a Drug-Smuggling Base
 
 Claim Timestamp: 00:49:44
 

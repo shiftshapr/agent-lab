@@ -2196,7 +2196,9 @@
       "related_nodes": [
         "N-10360"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:06",
       "investigative_direction": "Compare with the earlier episode where the host first raised the Bowyer allegation.",
       "transcript_snippet": "I didn't say that he abused him. I didn't say it was not consensual. I said that he likes younger boys.",
@@ -2243,7 +2245,9 @@
         "N-10360",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:06",
       "investigative_direction": "Unverified allegation from unnamed sources; seek independent corroboration and a response from Bowyer.",
       "transcript_snippet": "people that are currently um working for Turning Point USA who said that Tyler Bowyer and these are young men tried to hook up with them after um uh some events.",
@@ -2654,7 +2658,7 @@
       "@type": "Claim",
       "@id": "C-3552",
       "ref": "C-3552",
-      "label": "Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes",
+      "label": "Neff Says TPUSA Should Not Have to Answer Questions About Tunnels or Egyptian Planes",
       "claim": "In the statement the host plays, Blake Neff says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.",
       "anchored_artifacts": [
         "A-1489.1"

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:24:05
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
+- **Transcript SHA-256**: 331bcc89f24f95f885a7e99dfec40bb3b202f3a3d8249d5ea6cc0592aa8b0e10
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-10954, N-10955, N-10957
@@ -1262,6 +1262,7 @@ Transcript Snippet: I've even got something that I'm I'm going to reveal tomorro
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
+Tags: relevance:tangential
 Investigative Direction: Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then.
 
 ---
@@ -1351,6 +1352,7 @@ Transcript Snippet: Jessica Ghawi was in that food court. She paid her bill at l
 Anchored Artifacts: 
 Mentions: N-330, N-478
 Related Nodes: N-10954
+Tags: relevance:tangential
 Investigative Direction: Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.
 
 ---
@@ -1512,6 +1514,7 @@ Transcript Snippet: And Jean Michel Trogneux disappears after he joins the milit
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
+Tags: relevance:tangential
 Investigative Direction: Check French military service records and civil registry entries for Jean-Michel Trogneux.
 
 ---

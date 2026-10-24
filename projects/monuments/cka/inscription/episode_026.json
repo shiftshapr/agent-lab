@@ -2118,7 +2118,9 @@
         "A-1337.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:23:37–00:24:10",
       "investigative_direction": "Identify the original poster accounts and verify the original posts.",
       "mentions_person_refs": [
@@ -2404,7 +2406,7 @@
       "@type": "Claim",
       "@id": "C-2322",
       "ref": "C-2322",
-      "label": "TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
+      "label": "Host Says TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
       "claim": "The host says events are not instantly approved at Turning Point USA, that requests it could not fulfil in spring were rolled over to campuses the following fall semester, and that planning runs far in advance because Charlie Kirk travels constantly.",
       "anchored_artifacts": [
         "A-1333.1"
@@ -2458,7 +2460,7 @@
       "@type": "Claim",
       "@id": "C-2324",
       "ref": "C-2324",
-      "label": "Second Utah Stop Planned Ten Days After September 10",
+      "label": "Host Says a Second Utah Stop Was Planned Ten Days After September 10",
       "claim": "The host says Charlie Kirk was slated to speak in Utah on September 10 and return ten days later to a different Utah campus under two hours away, and that TPUSA normally does campus events back to back in a sweep, as with UCLA, Berkeley and Stanford.",
       "anchored_artifacts": [],
       "related_nodes": [

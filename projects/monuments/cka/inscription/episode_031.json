@@ -2760,7 +2760,8 @@
         "N-10232"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:19:19",
       "investigative_direction": "Search Florida court and news records for the accusation against Bob Coy and its outcome.",
@@ -2883,7 +2884,8 @@
         "N-10232"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:20:11",
       "investigative_direction": "Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.",
@@ -2934,7 +2936,8 @@
         "N-10232"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.",
@@ -2983,7 +2986,8 @@
         "N-10232"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.",

@@ -1428,7 +1428,7 @@
       "@type": "Claim",
       "@id": "C-5534",
       "ref": "C-5534",
-      "label": "Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor",
+      "label": "Host Says Charlie Kirk Received a Pressure Text From a Christian Zionist Donor",
       "claim": "The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, asking why he would platform Candace Owens and Tucker Carlson, telling him he was \"in violation of the Ninth Commandment\" by bearing false witness against \"your brother, Judah,\" and warning that those who \"curse Israel\" will be cursed.",
       "anchored_artifacts": [
         "A-1669.1"
@@ -1599,7 +1599,7 @@
       "@type": "Claim",
       "@id": "C-5579",
       "ref": "C-5579",
-      "label": "The terminated employee had worked 80–90 hour weeks immediately prior to termination",
+      "label": "Terminated Employee Says She Worked 80–90 Hour Weeks Before Termination",
       "claim": "The terminated employee stated in the recorded termination meeting with general counsel \"Frank\" that she had worked \"80, 90-hour weeks plus for AmFest\" without direction or explanation upon return.",
       "anchored_artifacts": [
         "A-1674.1"
@@ -1641,7 +1641,7 @@
       "@type": "Claim",
       "@id": "C-5568",
       "ref": "C-5568",
-      "label": "An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation",
+      "label": "Host Says Andrew Kolvet Led an Office Confrontation Over an Uber Driver's Reported Conversation",
       "claim": "The host says Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver said his daughter knew someone at TPUSA who \"maybe ... doesn't like stuff that's going on at the company.\"",
       "anchored_artifacts": [
         "A-1675.1"
@@ -1663,7 +1663,7 @@
       "@type": "Claim",
       "@id": "C-5586",
       "ref": "C-5586",
-      "label": "A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved",
+      "label": "Host Alleges a Part-Time TPUSA Employee Was Fired at Home by the General Counsel After a Fake Zoom Meeting",
       "claim": "The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.",
       "anchored_artifacts": [
         "A-1675.2"
@@ -2219,7 +2219,8 @@
         "N-10409"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:22",
       "investigative_direction": "Ask the host to publish the list and the tip; verify each entry against court records.",

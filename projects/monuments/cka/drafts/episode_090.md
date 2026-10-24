@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:08:25
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
+- **Transcript SHA-256**: 3be8967fe2e59ef46b5e418f4abbcb2dfc4c1f50c41caa09be812960e90faa93
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-810, N-811
@@ -755,7 +755,7 @@ Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula Wh
 
 ## 5. Claim Register
 
-**C-8059** Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11
+**C-8059** Defense Motion Records Robinson Miranda Advisement; Host Places It at 6:25 p.m. on September 11
 
 Claim Timestamp: 00:32:25
 
@@ -845,7 +845,7 @@ Investigative Direction: Authenticate the internal video; obtain the underlying 
 
 ---
 
-**C-8050** Caleb Robinson holds a board seat at Alliance Defending Freedom
+**C-8050** Host Says ADF Insiders Told Her Caleb Robinson Holds a Board Seat at Alliance Defending Freedom
 
 Claim Timestamp: 00:23:21
 
@@ -969,7 +969,7 @@ Investigative Direction: Obtain filing directly; assess admissibility standards 
 
 ---
 
-**C-8089** Trump Attacks Pope Leo XIV Over Iran War Criticism
+**C-8089** Host Says Trump Attacked Pope Leo XIV After His Iran War Criticism
 
 Claim Timestamp: 00:51:46–00:58:29
 

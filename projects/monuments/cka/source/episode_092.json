@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:56",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd",
+    "- **Transcript SHA-256**: 782e131aa6f15350a9ec49ebccd18f210bfb4cf4b9c7d643b59640512312254b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-889, N-11213, N-11214",
@@ -3898,8 +3898,8 @@
   {
    "kind": "claim",
    "id": "C-8206",
-   "header": "**C-8206** UGA TPUSA Staff Uninformed of Erika's Absence",
-   "label": "UGA TPUSA Staff Uninformed of Erika's Absence",
+   "header": "**C-8206** Host Says UGA TPUSA Staff Had Not Been Told of Erika's Absence",
+   "label": "Host Says UGA TPUSA Staff Had Not Been Told of Erika's Absence",
    "lines": [
     {
      "raw": ""
@@ -3983,10 +3983,6 @@
      "v": "N-2, N-14"
     },
     {
-     "k": "Contradicts",
-     "v": "C-8289"
-    },
-    {
      "raw": ""
     },
     {
@@ -4022,8 +4018,8 @@
   {
    "kind": "claim",
    "id": "C-8213",
-   "header": "**C-8213** TPUSA Security Team Declined to Guarantee Erika's Safety",
-   "label": "TPUSA Security Team Declined to Guarantee Erika's Safety",
+   "header": "**C-8213** Kolvet Says TPUSA Security Team Declined to Guarantee Erika's Safety",
+   "label": "Kolvet Says TPUSA Security Team Declined to Guarantee Erika's Safety",
    "lines": [
     {
      "raw": ""
@@ -4086,8 +4082,8 @@
   {
    "kind": "claim",
    "id": "C-8246",
-   "header": "**C-8246** Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
-   "label": "Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
+   "header": "**C-8246** Kolvet Says High School Event Was Also Cancelled Over Online Chatter",
+   "label": "Kolvet Says High School Event Was Also Cancelled Over Online Chatter",
    "lines": [
     {
      "raw": ""
@@ -4225,10 +4221,6 @@
     {
      "k": "Mentions",
      "v": "N-2"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-8289"
     },
     {
      "raw": ""
@@ -4490,8 +4482,8 @@
   {
    "kind": "claim",
    "id": "C-8221",
-   "header": "**C-8221** Akins Ford Arena Less Than 25% Filled for VP Event",
-   "label": "Akins Ford Arena Less Than 25% Filled for VP Event",
+   "header": "**C-8221** Reporter Says Akins Ford Arena Was Less Than 25% Filled for VP Event",
+   "label": "Reporter Says Akins Ford Arena Was Less Than 25% Filled for VP Event",
    "lines": [
     {
      "raw": ""
@@ -4882,8 +4874,8 @@
   {
    "kind": "claim",
    "id": "C-8211",
-   "header": "**C-8211** Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
-   "label": "Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
+   "header": "**C-8211** Host Asks What Changed After Erika Kirk Said She Was Not Afraid, Then Cancelled Over Security",
+   "label": "Host Asks What Changed After Erika Kirk Said She Was Not Afraid, Then Cancelled Over Security",
    "lines": [
     {
      "raw": ""
@@ -4977,6 +4969,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment."
     },
@@ -4994,8 +4990,8 @@
   {
    "kind": "claim",
    "id": "C-8247",
-   "header": "**C-8247** TPUSA Public Explanation Sequence Internally Inconsistent",
-   "label": "TPUSA Public Explanation Sequence Internally Inconsistent",
+   "header": "**C-8247** Host Says TPUSA's Public Explanation Sequence Kept Changing",
+   "label": "Host Says TPUSA's Public Explanation Sequence Kept Changing",
    "lines": [
     {
      "raw": ""
@@ -7130,7 +7126,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -7630,7 +7626,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8556,7 +8552,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–01:09:54
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:31:50Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd
+- **Transcript SHA-256**: ada53737ea86aadf8beaf032416528cb61190535e074d84d32f0fe6c4b67cd8e
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep002): N-10036, N-10053, N-10093, N-10100, N-10102, N-10158, N-10252, N-10320, N-10323, N-10328, N-10415, N-10684
@@ -950,7 +950,7 @@ Investigative Direction: Obtain full text of the May 2 letter and verify against
 
 ---
 
-**C-72** May 2 Letter Actually Expressed Concern Over Israel Influence
+**C-72** Host Asserts May 2 Letter Expressed Concern Over Israel Influence
 
 Claim Timestamp: 00:10:35
 Claim: Host asserts the May 2 letter actually expressed concerns about Israel influence on American politics, contradicting Netanyahu's framing.
@@ -978,7 +978,7 @@ Investigative Direction: Verify exact date of Megyn Kelly interview and guest li
 
 ---
 
-**C-79** Bill Ackman Staged Intervention Against Kirk in Hamptons
+**C-79** Host Says She Is Told Bill Ackman Staged Intervention Against Kirk in Hamptons
 
 Claim Timestamp: 00:15:24
 Claim: The host says she is told that Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
@@ -1006,7 +1006,7 @@ Investigative Direction: Cross-reference Netanyahu's Fox News statement with tex
 Tags: open_source_investigation
 ---
 
-**C-84** Kirk Declined Netanyahu's Israel Funding and Invitation
+**C-84** Host Asserts Kirk Declined Netanyahu's Israel Funding and Invitation
 
 Claim Timestamp: 00:17:13
 Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu would have provided.
@@ -1033,7 +1033,7 @@ Investigative Direction: Verify full interview and surrounding context of the qu
 
 ---
 
-**C-105** Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset
+**C-105** Kirk Clip: Epstein Was Possibly a Creation of Mossad or Other Intelligence for Blackmail
 
 Claim Timestamp: 00:29:11
 Claim: In a clip the host plays, Charlie Kirk refers to Epstein's friend Ghislaine and her father Robert Maxwell, whom he calls "obviously a spy of the Israeli intelligence agencies", says intel agencies want blackmail on powerful people, and says Epstein was a creation of either Mossad, Israeli, American or Saudi intelligence, or maybe just a hired gun.
@@ -1110,7 +1110,7 @@ Investigative Direction: Cross-reference official timeline and autopsy report.
 Tags: open_source_investigation
 ---
 
-**C-86** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
+**C-86** Host Says Seth Dillon and Bill Ackman Have Not Disputed Her Hamptons Account
 
 Claim Timestamp: 00:18:22
 Claim: The host says she is waiting for Bill Ackman or anyone at the Hamptons meeting to go on record disputing her account, and that Seth Dillon, whom she says is normally quick to respond, had not yet responded to her text messages.
@@ -1152,7 +1152,7 @@ Investigative Direction: Obtain FBI evidence photos and chain of custody for rec
 
 ---
 
-**C-125** Screwdriver Found on Roof
+**C-125** Host Says She Was Told a Screwdriver Was Found on Roof
 
 Claim Timestamp: 00:46:15
 Claim: The host says she has been told that a screwdriver was found on the roof.
@@ -1179,7 +1179,7 @@ Investigative Direction: Verify Cox's press conference transcript and corroborat
 
 ---
 
-**C-133** Robinson Has Not Confessed to Authorities
+**C-133** Cox Says Robinson Has Not Confessed to Authorities
 
 Claim Timestamp: 00:51:02
 Claim: Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.
@@ -1893,7 +1893,6 @@ Transcript Snippet: Israeli intelligence, American intelligence, Saudi intellige
 Anchored Artifacts: A-1086.1
 Mentions: N-1, N-9
 Related Nodes: N-10023, N-10015
-Qualifies: C-105
 Tags: relevance:context
 Investigative Direction: Identify the original Kirk broadcast and date; the clip lists several possible sponsors, which narrows the Israeli-only claim.
 
@@ -2016,7 +2015,7 @@ Open Questions: Q-23, Q-24, Q-25
 
 ---
 
-**C-119** Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks
+**C-119** Host Says Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks
 
 Claim Timestamp: 00:43:04
 
@@ -2087,7 +2086,7 @@ Open Questions: Q-21, Q-28
 
 ---
 
-**C-126** FBI Photos Show the Suspect in a Stairwell in a Second Outfit
+**C-126** Host Says FBI Photos Show the Suspect in a Stairwell in a Second Outfit
 
 Claim Timestamp: 00:46:45
 

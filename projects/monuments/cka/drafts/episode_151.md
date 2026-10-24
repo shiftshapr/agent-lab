@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:09
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 7bb121d0ec2fb6f7ef5f449856c387ad97b4f7d167aa9b95601e197b3fa147dc
+- **Transcript SHA-256**: 767c14ced6b0b957d86ef2b44f0de2d76fb7366cbbff9c337ccc8644a0533380
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-897, N-11227
@@ -879,7 +879,7 @@ Investigative Direction: Locate original tweet with timestamp; cross-check again
 
 ---
 
-**C-13053** Tyler Bowyer tweeted TP Action Commit 100 / ballot-chase link in response to vandalism
+**C-13053** Tyler Bowyer tweeted TP Action Commit 100 / ballot-chase link in response to alleged vandalism
 
 Claim Timestamp: 00:40:50
 
@@ -892,7 +892,7 @@ Investigative Direction: Pull the original tweet with timestamp; confirm author 
 
 ---
 
-**C-13057** Andrew Kolvet demanded Democratic response to vandalism
+**C-13057** Andrew Kolvet demanded Democratic response to alleged vandalism
 
 Claim Timestamp: 00:43:46
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:52:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827
+- **Transcript SHA-256**: 549bee0b25d2008bc1541a8994314174b0e9e8f67bdc2d1acee5fe2e2fda37b1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-714, N-10936, N-10937
@@ -594,7 +594,7 @@ Investigative Direction: Verify directly against the Egyptian presidency website
 
 ---
 
-**C-3628** El-Sisi Photographed in Egypt on September 10, 2025
+**C-3628** Host Says El-Sisi Was Photographed in Egypt on September 10, 2025
 
 Claim Timestamp: 00:17:13
 
@@ -755,7 +755,6 @@ Transcript Snippet: a collection of Charlie's friends will respond to statements
 Anchored Artifacts: A-1495.1
 Mentions: N-159, N-1, N-3
 Related Nodes: N-10728
-Qualifies: C-3610
 Investigative Direction: Retrieve the original post and confirm the stated Eastern and local times (the host reads 4:00 p.m. Eastern, 2:00 p.m. local), the studio location and the end-of-day deadline.
 
 ---

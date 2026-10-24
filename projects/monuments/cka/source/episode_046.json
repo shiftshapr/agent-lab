@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:21",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880",
+    "- **Transcript SHA-256**: 571729bc484797116006a34f53a2432694dbcce3d44ba69ad9e832ec2cb5e79f",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-11026",
@@ -3328,8 +3328,8 @@
   {
    "kind": "claim",
    "id": "C-4015",
-   "header": "**C-4015** Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness",
-   "label": "Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness",
+   "header": "**C-4015** Glenn Beck Appears to Tell Erika Kirk He Thinks Some Online Content Is Mental Illness",
+   "label": "Glenn Beck Appears to Tell Erika Kirk He Thinks Some Online Content Is Mental Illness",
    "lines": [
     {
      "raw": ""
@@ -4495,12 +4495,12 @@
      "v": "N-10185, N-10190"
     },
     {
-     "k": "Tags",
-     "v": "relevance:core"
-    },
-    {
      "k": "Qualifies",
      "v": "C-2661"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
     },
     {
      "k": "Investigative Direction",

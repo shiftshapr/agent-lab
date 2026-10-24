@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:49:26",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5",
+    "- **Transcript SHA-256**: d8daa6dfe46359b7df0871e2047346ac85db3e1a5397a4a75f5e696b2ff12b05",
     "",
     "- **Episode Ledger Summary**:",
     "  - Hole-minted Nodes (reintro-ep089): N-10673",
@@ -2382,8 +2382,8 @@
   {
    "kind": "claim",
    "id": "C-7990",
-   "header": "**C-7990** Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation",
-   "label": "Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation",
+   "header": "**C-7990** Candace Owens Says Charlie Kirk Told Her Miriam Adelson Offered Trump $100M for West Bank Annexation",
+   "label": "Candace Owens Says Charlie Kirk Told Her Miriam Adelson Offered Trump $100M for West Bank Annexation",
    "lines": [
     {
      "raw": ""
@@ -2969,8 +2969,8 @@
   {
    "kind": "claim",
    "id": "C-7958",
-   "header": "**C-7958** Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist",
-   "label": "Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist",
+   "header": "**C-7958** Trump Post Said Tucker Carlson Was Broken After Fox and Perhaps Should See a Psychiatrist",
+   "label": "Trump Post Said Tucker Carlson Was Broken After Fox and Perhaps Should See a Psychiatrist",
    "lines": [
     {
      "raw": ""
@@ -4325,10 +4325,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10026"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-7985"
     },
     {
      "k": "Tags",

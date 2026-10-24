@@ -1582,7 +1582,7 @@
       "@type": "Claim",
       "@id": "C-2280",
       "ref": "C-2280",
-      "label": "Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
+      "label": "Host Says Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
       "claim": "Per host's stated confirmation, Rob McCoy placed his Coronado (near San Diego) home on the market on August 24, 2025.",
       "anchored_artifacts": [
         "A-1327.1"
@@ -1652,7 +1652,9 @@
       "related_nodes": [
         "N-10166"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:52–00:43:00",
       "investigative_direction": "Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.",
       "mentions_person_refs": [
@@ -2043,7 +2045,7 @@
       "@type": "Claim",
       "@id": "C-2276",
       "ref": "C-2276",
-      "label": "Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
+      "label": "Host Says Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
       "claim": "The host says that after 17 years as head pastor, Rob McCoy's stepping down to the honorific role of pastor emeritus was publicly announced in January of this year, with the transition taking effect in mid-July.",
       "anchored_artifacts": [
         "A-1325.1"

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:25",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee",
+    "- **Transcript SHA-256**: 85da5b65599d709f45a326e59115badefdca2fbe9184a2b276a2821aa2c4ccd8",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-743, N-744, N-745, N-746, N-10980, N-10981",
@@ -3220,8 +3220,8 @@
   {
    "kind": "claim",
    "id": "C-11163",
-   "header": "**C-11163** Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
-   "label": "Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
+   "header": "**C-11163** NYT Article Cites Biography Saying Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
+   "label": "NYT Article Cites Biography Saying Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
    "lines": [
     {
      "raw": ""
@@ -3308,8 +3308,8 @@
   {
    "kind": "claim",
    "id": "C-11179",
-   "header": "**C-11179** Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years",
-   "label": "Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years",
+   "header": "**C-11179** Time Article Says Six Mormon Aides Attended Howard Hughes; Host Says They Controlled Him",
+   "label": "Time Article Says Six Mormon Aides Attended Howard Hughes; Host Says They Controlled Him",
    "lines": [
     {
      "raw": ""
@@ -3355,8 +3355,8 @@
   {
    "kind": "claim",
    "id": "C-11224",
-   "header": "**C-11224** Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article",
-   "label": "Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article",
+   "header": "**C-11224** Kolvet Said Daily Mail Was \"Doing the Bidding of Candace Owens\" and Maybe She's the Source",
+   "label": "Kolvet Said Daily Mail Was \"Doing the Bidding of Candace Owens\" and Maybe She's the Source",
    "lines": [
     {
      "raw": ""
@@ -3496,8 +3496,8 @@
   {
    "kind": "claim",
    "id": "C-11226",
-   "header": "**C-11226** Kolvet Asserted Erika Has Never Been Heard to Swear",
-   "label": "Kolvet Asserted Erika Has Never Been Heard to Swear",
+   "header": "**C-11226** Kolvet Says He Has Personally Never Heard Erika Swear at Someone",
+   "label": "Kolvet Says He Has Personally Never Heard Erika Swear at Someone",
    "lines": [
     {
      "raw": ""
@@ -3586,8 +3586,8 @@
   {
    "kind": "claim",
    "id": "C-11245",
-   "header": "**C-11245** Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt",
-   "label": "Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt",
+   "header": "**C-11245** Seamstress Email Asserts Burned Item Shows Seam and Thread Pattern Consistent With a Shirt",
+   "label": "Seamstress Email Asserts Burned Item Shows Seam and Thread Pattern Consistent With a Shirt",
    "lines": [
     {
      "raw": ""
@@ -4906,8 +4906,8 @@
   {
    "kind": "claim",
    "id": "C-11183",
-   "header": "**C-11183** The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation",
-   "label": "The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation",
+   "header": "**C-11183** Host Says the Jet Carrying Hughes When He Died Was Owned by Robert Graf of Duncan Aviation",
+   "label": "Host Says the Jet Carrying Hughes When He Died Was Owned by Robert Graf of Duncan Aviation",
    "lines": [
     {
      "raw": ""
@@ -5020,8 +5020,8 @@
   {
    "kind": "claim",
    "id": "C-11185",
-   "header": "**C-11185** Investigation found a deadly codeine injection given to a comatose Hughes",
-   "label": "Investigation found a deadly codeine injection given to a comatose Hughes",
+   "header": "**C-11185** Host Reads That an Investigation Found a Likely Fatal Codeine Injection Given to a Comatose Hughes",
+   "label": "Host Reads That an Investigation Found a Likely Fatal Codeine Injection Given to a Comatose Hughes",
    "lines": [
     {
      "raw": ""
@@ -5305,8 +5305,8 @@
   {
    "kind": "claim",
    "id": "C-11190",
-   "header": "**C-11190** Frank Gay became HHMI trustee and was later discovered to have worked with the CIA",
-   "label": "Frank Gay became HHMI trustee and was later discovered to have worked with the CIA",
+   "header": "**C-11190** Host Says Frank Gay Became HHMI Trustee and Was Later Discovered to Have Worked With the CIA",
+   "label": "Host Says Frank Gay Became HHMI Trustee and Was Later Discovered to Have Worked With the CIA",
    "lines": [
     {
      "raw": ""
@@ -6814,6 +6814,10 @@
      "v": "N-2, N-352, N-3"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Locate Erika Kirk's public response to the Blake Wynn allegation and its date."
     },
@@ -7571,11 +7575,11 @@
      "v": "N-10067, N-10675"
     },
     {
-     "k": "Qualifies",
-     "v": "C-11225"
+     "raw": ""
     },
     {
-     "raw": ""
+     "k": "Contradicts",
+     "v": "C-11225"
     },
     {
      "k": "Investigative Direction",
@@ -8165,10 +8169,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10504"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-11241"
     },
     {
      "raw": ""

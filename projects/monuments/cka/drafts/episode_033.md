@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
+- **Transcript SHA-256**: 22431c35372a1072e57406d1981671fa43236303a89e79d498578b053cc1a6be
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11247, N-11248, N-11249, N-11250
@@ -887,7 +887,7 @@ Investigative Direction: Pull the underlying ADSB Exchange raw data independentl
 
 ---
 
-**C-2917** Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations
+**C-2917** Spreadsheet Shown by Host Lists Overlaps Between Egyptian Aircraft and Erika Kirk's Locations
 
 Claim Timestamp: 00:16:40
 
@@ -961,7 +961,7 @@ Investigative Direction: Obtain corroborating testimony from Andrew Kolvet, Tuck
 
 ---
 
-**C-2937** N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10
+**C-2937** Host Says N560TW Flew Scottsdale–Provo–Santa Barbara–Scottsdale on September 10
 
 Claim Timestamp: 00:26:19–00:27:30
 
@@ -992,7 +992,7 @@ Investigative Direction: Obtain rental records from Duncan Aviation or the renta
 
 ---
 
-**C-2940** Four Specific License Plates Identified as Rental Vehicles
+**C-2940** Host Reads Four License Plates She Associates With the Rental Vehicles
 
 Claim Timestamp: 00:27:30–00:29:31
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Cross-reference plates against Flock LPR data (see A-14
 
 ---
 
-**C-2947** Three of Four TPUSA-Related 990 Forms Missing for FY2024
+**C-2947** Wolves and Finance Video Says Three of Four TPUSA-Related 990 Forms Missing for FY2024
 
 Claim Timestamp: 00:34:07–00:35:11
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Obtain dated documentation of Charlie Kirk's audit requ
 
 ---
 
-**C-2965** TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased
+**C-2965** Video Cited by Host Says TPUSA 501(c)(3) Arm Cut Staff by 33% While Salary Costs Increased
 
 Claim Timestamp: 00:43:40
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Verify the staff-count and salary figures directly agai
 
 ---
 
-**C-2963** Erika Kirk Assumed CEO Role on September 18, 2025
+**C-2963** Wolves and Finance Video Says Erika Kirk Assumed CEO Role on September 18, 2025
 
 Claim Timestamp: 00:42:25
 
@@ -1135,6 +1135,7 @@ Anchored Artifacts:
 Mentions: N-3, N-263
 Related Nodes: 
 Confidence: high
+Tags: relevance:tangential
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
 
 ---
@@ -1148,12 +1149,13 @@ Anchored Artifacts:
 Mentions: N-3, N-263
 Related Nodes: 
 Confidence: high
+Tags: relevance:tangential
 Investigative Direction: Preserve as brand / network framing claim (M-12 alias "decentralized intelligence agents"); identity of the tipster stays protected.
 
 ---
 
 
-**C-2909** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
+**C-2909** Host Says Andrew K. Smith Interview Was Ostensible Reason Charlie Kirk Flew Into Salt Lake City
 
 Claim Timestamp: 00:12:50
 
@@ -2099,7 +2101,6 @@ Transcript Snippet: it was UTC minus 6, not minus 7. So, for those times, you're
 Anchored Artifacts: A-3203.1
 Mentions: N-3
 Related Nodes: N-11250, N-10239
-Contradicts: C-2927, C-2924
 Tags: relevance:core
 Investigative Direction: Utah was on Mountain Daylight Time on September 10, 2025 (UTC minus 6); recompute the SUBND windows from the raw UTC values and re-test the '17 minutes after the shot' statement.
 Open Questions: Q-277

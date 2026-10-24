@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:45:24
 - **Extraction Timestamp (UTC)**: 2026-10-20T16:42:10Z
-- **Transcript SHA-256**: bb616583842a1563e09b3e8d48f11ade7745e16c4e1cb8d1ae5007528ab146df
+- **Transcript SHA-256**: 7ce1823024b40f02185f5fd250e4f0f9119f5448d5fd9aeef74e67786a02b6e4
 - **Model Version**: claude-manual-extract-seq167
 
 - **Episode Ledger Summary**:
@@ -1266,7 +1266,7 @@ Transcript Snippet: Val Peterson, the vice president of facilities over at UVU.
 Anchored Artifacts:
 Mentions: N-955, N-961
 Related Nodes: N-10012
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: UVU staff directory and Utah House member biography.
 Open Questions: Q-1267
 

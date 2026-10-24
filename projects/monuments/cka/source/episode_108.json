@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:57:23",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:37:06Z",
-    "- **Transcript SHA-256**: dd4e700c56736dbdc3d3959df1b6fe1418bfbdd897bf28c5b3e11ae9accc8d98",
+    "- **Transcript SHA-256**: 32ae60c75d4aa021adebe4f4adaf352f9a2a551b9a0958dafd7c2d484c7cc87b",
     "- **Model Version**: claude-manual-extract-seq108",
     "",
     "- **Episode Ledger Summary**:",
@@ -2186,8 +2186,8 @@
   {
    "kind": "claim",
    "id": "C-9489",
-   "header": "**C-9489** Thomas Massie lost his Kentucky primary",
-   "label": "Thomas Massie lost his Kentucky primary",
+   "header": "**C-9489** Host Says Thomas Massie Lost His Kentucky Primary",
+   "label": "Host Says Thomas Massie Lost His Kentucky Primary",
    "lines": [
     {
      "raw": ""
@@ -2643,8 +2643,8 @@
   {
    "kind": "claim",
    "id": "C-9497",
-   "header": "**C-9497** Eileen Marx mentors Erika Kirk",
-   "label": "Eileen Marx mentors Erika Kirk",
+   "header": "**C-9497** Host Says Marx Told Her Eileen Marx Mentors Erika Kirk",
+   "label": "Host Says Marx Told Her Eileen Marx Mentors Erika Kirk",
    "lines": [
     {
      "raw": ""
@@ -2701,8 +2701,8 @@
   {
    "kind": "claim",
    "id": "C-9498",
-   "header": "**C-9498** Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix",
-   "label": "Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix",
+   "header": "**C-9498** Host Says Marx Told Her His Team Took Over the Security Apparatus in Phoenix 48 Hours Later",
+   "label": "Host Says Marx Told Her His Team Took Over the Security Apparatus in Phoenix 48 Hours Later",
    "lines": [
     {
      "raw": ""
@@ -2861,8 +2861,8 @@
   {
    "kind": "claim",
    "id": "C-9501",
-   "header": "**C-9501** Frank Turek and the security team took Charlie Kirk to the hospital",
-   "label": "Frank Turek and the security team took Charlie Kirk to the hospital",
+   "header": "**C-9501** Host says Frank Turek and the security team took Charlie Kirk to the hospital",
+   "label": "Host says Frank Turek and the security team took Charlie Kirk to the hospital",
    "lines": [
     {
      "raw": ""
@@ -3046,8 +3046,8 @@
   {
    "kind": "claim",
    "id": "C-9504",
-   "header": "**C-9504** Victor Marx went to Erika and Charlie Kirk's home in the first two days",
-   "label": "Victor Marx went to Erika and Charlie Kirk's home in the first two days",
+   "header": "**C-9504** Host says Victor Marx went to Erika and Charlie Kirk's home in the first two days",
+   "label": "Host says Victor Marx went to Erika and Charlie Kirk's home in the first two days",
    "lines": [
     {
      "raw": ""
@@ -3160,8 +3160,8 @@
   {
    "kind": "claim",
    "id": "C-9506",
-   "header": "**C-9506** Marx texted Erika Kirk that \"they just wanted Charlie\"",
-   "label": "Marx texted Erika Kirk that \"they just wanted Charlie\"",
+   "header": "**C-9506** Marx says he texted Erika Kirk that \"they just wanted Charlie\"",
+   "label": "Marx says he texted Erika Kirk that \"they just wanted Charlie\"",
    "lines": [
     {
      "raw": ""
@@ -3274,8 +3274,8 @@
   {
    "kind": "claim",
    "id": "C-9508",
-   "header": "**C-9508** Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15",
-   "label": "Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15",
+   "header": "**C-9508** Host says Erika Kirk told people she and Charlie were to sign updated end-of-life documents on September 15",
+   "label": "Host says Erika Kirk told people she and Charlie were to sign updated end-of-life documents on September 15",
    "lines": [
     {
      "raw": ""
@@ -3389,8 +3389,8 @@
   {
    "kind": "claim",
    "id": "C-9510",
-   "header": "**C-9510** Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
-   "label": "Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
+   "header": "**C-9510** Host is told Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
+   "label": "Host is told Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
    "lines": [
     {
      "raw": ""
@@ -3505,8 +3505,8 @@
   {
    "kind": "claim",
    "id": "C-9512",
-   "header": "**C-9512** Charlie Kirk's DOGE internal audit was cancelled after his death",
-   "label": "Charlie Kirk's DOGE internal audit was cancelled after his death",
+   "header": "**C-9512** Host says Charlie Kirk's DOGE internal audit was cancelled after his death",
+   "label": "Host says Charlie Kirk's DOGE internal audit was cancelled after his death",
    "lines": [
     {
      "raw": ""
@@ -3567,8 +3567,8 @@
   {
    "kind": "claim",
    "id": "C-9513",
-   "header": "**C-9513** Charlie Kirk texted those closest to him \"They're going to kill me\"",
-   "label": "Charlie Kirk texted those closest to him \"They're going to kill me\"",
+   "header": "**C-9513** Host says Charlie Kirk texted those closest to him \"They're going to kill me\"",
+   "label": "Host says Charlie Kirk texted those closest to him \"They're going to kill me\"",
    "lines": [
     {
      "raw": ""
@@ -3679,8 +3679,8 @@
   {
    "kind": "claim",
    "id": "C-9515",
-   "header": "**C-9515** Andrew Kolvet ran Charlie Kirk's Twitter",
-   "label": "Andrew Kolvet ran Charlie Kirk's Twitter",
+   "header": "**C-9515** Host says Andrew Kolvet ran Charlie Kirk's Twitter",
+   "label": "Host says Andrew Kolvet ran Charlie Kirk's Twitter",
    "lines": [
     {
      "raw": ""
@@ -3737,8 +3737,8 @@
   {
    "kind": "claim",
    "id": "C-9516",
-   "header": "**C-9516** Mikey McCoy had Charlie Kirk's laptop",
-   "label": "Mikey McCoy had Charlie Kirk's laptop",
+   "header": "**C-9516** Host says Mikey McCoy had Charlie Kirk's laptop",
+   "label": "Host says Mikey McCoy had Charlie Kirk's laptop",
    "lines": [
     {
      "raw": ""
@@ -3791,8 +3791,8 @@
   {
    "kind": "claim",
    "id": "C-9517",
-   "header": "**C-9517** Kouri Richins was found guilty of murdering her husband after a grief book tour",
-   "label": "Kouri Richins was found guilty of murdering her husband after a grief book tour",
+   "header": "**C-9517** Host says Kouri Richins was found guilty of murdering her husband after a grief book tour",
+   "label": "Host says Kouri Richins was found guilty of murdering her husband after a grief book tour",
    "lines": [
     {
      "raw": ""
@@ -3830,6 +3830,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10865"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -3963,8 +3967,8 @@
   {
    "kind": "claim",
    "id": "C-9520",
-   "header": "**C-9520** Eric Richins covertly transferred his estate to his sister before his death",
-   "label": "Eric Richins covertly transferred his estate to his sister before his death",
+   "header": "**C-9520** Host says Eric Richins covertly transferred his estate to his sister before his death",
+   "label": "Host says Eric Richins covertly transferred his estate to his sister before his death",
    "lines": [
     {
      "raw": ""
@@ -4004,6 +4008,10 @@
      "v": "N-10865"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Review trial testimony and estate filings in the Richins case."
     },
@@ -4021,8 +4029,8 @@
   {
    "kind": "claim",
    "id": "C-9521",
-   "header": "**C-9521** Kouri Richins attempted to change the beneficiary of her husband's life insurance",
-   "label": "Kouri Richins attempted to change the beneficiary of her husband's life insurance",
+   "header": "**C-9521** Court heard Kouri Richins attempted to change the beneficiary of her husband's life insurance",
+   "label": "Court heard Kouri Richins attempted to change the beneficiary of her husband's life insurance",
    "lines": [
     {
      "raw": ""
@@ -4193,8 +4201,8 @@
   {
    "kind": "claim",
    "id": "C-9524",
-   "header": "**C-9524** Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
-   "label": "Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
+   "header": "**C-9524** Host says Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
+   "label": "Host says Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
    "lines": [
     {
      "raw": ""
@@ -4250,8 +4258,8 @@
   {
    "kind": "claim",
    "id": "C-9525",
-   "header": "**C-9525** TPUSA offered the Daily Mail a private screening of the disputed video",
-   "label": "TPUSA offered the Daily Mail a private screening of the disputed video",
+   "header": "**C-9525** Host says TPUSA offered the Daily Mail a private screening of the disputed video",
+   "label": "Host says TPUSA offered the Daily Mail a private screening of the disputed video",
    "lines": [
     {
      "raw": ""
@@ -4308,8 +4316,8 @@
   {
    "kind": "claim",
    "id": "C-9526",
-   "header": "**C-9526** Erika Kirk walked out to only the audio of the video",
-   "label": "Erika Kirk walked out to only the audio of the video",
+   "header": "**C-9526** Host says Erika Kirk walked out to only the audio of the video",
+   "label": "Host says Erika Kirk walked out to only the audio of the video",
    "lines": [
     {
      "raw": ""
@@ -4476,8 +4484,8 @@
   {
    "kind": "claim",
    "id": "C-9529",
-   "header": "**C-9529** The Robinson defense still has not received its discovery requests",
-   "label": "The Robinson defense still has not received its discovery requests",
+   "header": "**C-9529** Host says the Robinson defense still has not received its discovery requests",
+   "label": "Host says the Robinson defense still has not received its discovery requests",
    "lines": [
     {
      "raw": ""
@@ -4982,8 +4990,8 @@
   {
    "kind": "claim",
    "id": "C-9538",
-   "header": "**C-9538** Joe Rogan recorded a standalone apology for the first time in his show's history",
-   "label": "Joe Rogan recorded a standalone apology for the first time in his show's history",
+   "header": "**C-9538** Host says Joe Rogan recorded a standalone apology for the first time in his show's history",
+   "label": "Host says Joe Rogan recorded a standalone apology for the first time in his show's history",
    "lines": [
     {
      "raw": ""
@@ -5088,8 +5096,8 @@
   {
    "kind": "claim",
    "id": "C-9540",
-   "header": "**C-9540** Marx's post came around when Erika learned of the death and just before Kolvet did",
-   "label": "Marx's post came around when Erika learned of the death and just before Kolvet did",
+   "header": "**C-9540** Host and viewer say Marx's post came around when Erika learned of the death and just before Kolvet did",
+   "label": "Host and viewer say Marx's post came around when Erika learned of the death and just before Kolvet did",
    "lines": [
     {
      "raw": ""
@@ -5203,8 +5211,8 @@
   {
    "kind": "claim",
    "id": "C-9542",
-   "header": "**C-9542** Ed Gallrein had no crowd at his victory party",
-   "label": "Ed Gallrein had no crowd at his victory party",
+   "header": "**C-9542** Host says Ed Gallrein had no crowd at his victory party",
+   "label": "Host says Ed Gallrein had no crowd at his victory party",
    "lines": [
     {
      "raw": ""

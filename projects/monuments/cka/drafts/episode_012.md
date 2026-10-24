@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:49:34
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
+- **Transcript SHA-256**: dc2dbc2673a49ac70af1831d3a66560cc37c92e5e1164122d7107513ec09a794
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11134
@@ -761,7 +761,7 @@ Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 v
 
 ---
 
-**C-1100** Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.
+**C-1100** Host says video metadata shows Phil Lyman inside the Sorensen Center at 12:23, walking out calmly.
 
 Claim Timestamp: 00:15:58
 
@@ -834,7 +834,7 @@ Investigative Direction: Replicate the facial search; identify the named subject
 
 ---
 
-**C-1081** Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.
+**C-1081** Host says Shaner Broderick previously identified Phil Lyman as his uncle on Instagram and LinkedIn.
 
 Claim Timestamp: 00:06:43–00:07:30
 
@@ -844,8 +844,6 @@ Anchored Artifacts: A-1192.1, A-1192.2
 Mentions: N-61, N-128
 
 
-Verification: revised-by-host
-Verification Evidence: C-1082
 Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later "cousin, not nephew" revision.
 
 ---
@@ -880,7 +878,7 @@ Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sh
 
 ---
 
-**C-1133** Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing "deep love for Israel" and offering strategic counsel.
+**C-1133** NY Post shared a May letter attributed to Kirk reportedly expressing "deep love for Israel"; host questions it.
 
 Claim Timestamp: 00:34:37–00:35:21
 
@@ -1114,7 +1112,6 @@ Transcript Snippet: Actually maybe Shaner's confused.
 Anchored Artifacts: A-2999.1
 Mentions: N-61, N-128, N-3
 Related Nodes: N-10139
-Contradicts: C-1081
 Tags: relevance:core
 Investigative Direction: Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.
 Open Questions: Q-127
@@ -1147,7 +1144,7 @@ Transcript Snippet: He's also completely wiped his Facebook page entirely. And r
 Anchored Artifacts: 
 Mentions: N-128, N-3
 Related Nodes: N-10142
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
 Open Questions: Q-128
 
@@ -1423,7 +1420,6 @@ Transcript Snippet: Just because he's creating messages online first and foremos
 Anchored Artifacts: 
 Mentions: N-125, N-3
 Related Nodes: N-10146, N-10032
-Qualifies: C-1108
 Tags: relevance:core
 Investigative Direction: Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.
 Open Questions: Q-133, Q-134
@@ -1461,7 +1457,7 @@ Transcript Snippet: whether or not he had been blackmailed in some capacity to p
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10032
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.
 Open Questions: Q-28, Q-136
 

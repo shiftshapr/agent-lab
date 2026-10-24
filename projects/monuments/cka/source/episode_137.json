@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:54:28",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4e547f289a22113447c93d2ca9fef0dd0e07226713c206cab6e09945e3c02cb8",
+    "- **Transcript SHA-256**: 3c3dfb6d8b79e5a27bbaa14fec7d123b7ae9585e48e579b6d923070cff0c3995",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-11061",
@@ -3090,8 +3090,8 @@
   {
    "kind": "claim",
    "id": "C-11819",
-   "header": "**C-11819** Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine",
-   "label": "Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine",
+   "header": "**C-11819** Candace Owens Says Some Catholic Funeral Homes in Arizona Offer Cremation, Contrary to Catholic Doctrine",
+   "label": "Candace Owens Says Some Catholic Funeral Homes in Arizona Offer Cremation, Contrary to Catholic Doctrine",
    "lines": [
     {
      "raw": ""
@@ -5408,7 +5408,7 @@
      "v": "N-10700"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-11715"
     },
     {
@@ -5737,7 +5737,7 @@
      "v": "N-10700"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-11715"
     },
     {
@@ -6408,8 +6408,8 @@
   {
    "kind": "claim",
    "id": "C-11809",
-   "header": "**C-11809** Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
-   "label": "Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
+   "header": "**C-11809** Sky Clip Says an Analyst Reportedly Spotted the School in 2019 but It Was Not Passed Up the Chain",
+   "label": "Sky Clip Says an Analyst Reportedly Spotted the School in 2019 but It Was Not Passed Up the Chain",
    "lines": [
     {
      "raw": ""

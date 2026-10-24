@@ -2253,7 +2253,7 @@
       "@type": "Claim",
       "@id": "C-4521",
       "ref": "C-4521",
-      "label": "Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
+      "label": "Host Says Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
       "claim": "The host says Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo shared after his capture, verified his prior presence via credit card receipt, and contacted federal authorities days later, and that the feds only called them back and conducted no follow-up investigation at the restaurant.",
       "anchored_artifacts": [
         "A-1577.1"
@@ -2274,7 +2274,7 @@
       "@type": "Claim",
       "@id": "C-4552",
       "ref": "C-4552",
-      "label": "TPUSA Tent Was Group Decision",
+      "label": "Host Says TPUSA Asked Her to Clarify the Tent Was a Group Decision",
       "claim": "The host says Turning Point USA asked her to clarify that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2291,7 +2291,7 @@
       "@type": "Claim",
       "@id": "C-4554",
       "ref": "C-4554",
-      "label": "Erika's First September 8 Text Had Blocked Contact Name",
+      "label": "Host Says Erika's First September 8 Text Had Blocked Contact Name",
       "claim": "The host says Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2309,7 +2309,7 @@
       "@type": "Claim",
       "@id": "C-4556",
       "ref": "C-4556",
-      "label": "Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
+      "label": "Host Says Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
       "claim": "The host says that after her repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.",
       "anchored_artifacts": [
         "A-1578.1"
@@ -2329,7 +2329,7 @@
       "@type": "Claim",
       "@id": "C-4563",
       "ref": "C-4563",
-      "label": "Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage",
+      "label": "Candace Concludes Mark Amodei Likely Appears Early in 12-Hour Committee Footage",
       "claim": "After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, and that she thinks his story checks out.",
       "anchored_artifacts": [
         "A-1579.1"
@@ -2437,7 +2437,7 @@
       "@type": "Claim",
       "@id": "C-4615",
       "ref": "C-4615",
-      "label": "Daily Wire's \"In the Know Know\" Show Mocks Candace",
+      "label": "Host Says Daily Wire's \"In the Know Know\" Show Was Designed to Mock Her",
       "claim": "The host says Daily Wire has launched a show hosted by \"Maddie\" designed to mock her and Tucker Carlson, and plays a clip in which the show dramatizes her Utah state flag remarks.",
       "anchored_artifacts": [
         "A-1584.1"

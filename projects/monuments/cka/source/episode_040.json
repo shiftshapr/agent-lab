@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:05:42",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4",
+    "- **Transcript SHA-256**: b931b312fc9f5763d8cbbcc1a520c85ec5076a9bfd88991a11272bf81dfabdab",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-711, N-712, N-10935",
@@ -4252,6 +4252,10 @@
      "v": "N-10360"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare with the earlier episode where the host first raised the Bowyer allegation."
     },
@@ -4364,6 +4368,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10360, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5417,8 +5425,8 @@
   {
    "kind": "claim",
    "id": "C-3552",
-   "header": "**C-3552** Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes",
-   "label": "Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes",
+   "header": "**C-3552** Neff Says TPUSA Should Not Have to Answer Questions About Tunnels or Egyptian Planes",
+   "label": "Neff Says TPUSA Should Not Have to Answer Questions About Tunnels or Egyptian Planes",
    "lines": [
     {
      "raw": ""
@@ -7206,10 +7214,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10290"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-3588"
     },
     {
      "k": "Investigative Direction",

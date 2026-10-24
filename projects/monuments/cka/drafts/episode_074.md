@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:00:52
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
+- **Transcript SHA-256**: 726cbf7ffa428c17c69deeb21bdf35be021a467ee6696819637bd81576299229
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-854, N-855, N-11166, N-11167, N-11168, N-11169, N-11170
@@ -1298,12 +1298,13 @@ Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts d
 
 ---
 
-**C-6604** Erika and Jillian First Connected Through a Rent-Payment Encounter
+**C-6604** Host Says, per Jillian, Erika and Jillian First Connected Through a Rent-Payment Encounter
 
 Claim Timestamp: 00:03:40
 Claim: The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk at a door over a payment for rent, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.
 Anchored Artifacts: A-1780.1
 Mentions: N-564, N-2
+Qualifies: C-6603
 Investigative Direction: Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.
 
 ---
@@ -1423,7 +1424,7 @@ Investigative Direction: Independent verification of Erika's X/Twitter posting t
 
 ---
 
-**C-6656** Among ~40 DOJ file mentions of "color of the day," the file for the day of Charlie Kirk's assassination is the only one with the color redacted
+**C-6656** TikTok source says only the DOJ "color of the day" file for Kirk's assassination day has the color redacted
 
 Claim Timestamp: 00:29:58
 Claim: Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase "color of the day," and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.
@@ -1445,7 +1446,7 @@ Investigative Direction: Pull the Newsweek article directly and confirm the exac
 
 ---
 
-**C-6668** Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination
+**C-6668** Episode presents Mikey McCoy as using Charlie Kirk's home studio after the assassination
 
 Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
@@ -1596,7 +1597,6 @@ Transcript Snippet: Jillian had a friend and the friend's grandparents were rent
 
 Anchored Artifacts: A-1780.1
 Mentions: N-563, N-564, N-2
-Qualifies: C-6604
 Tags: relevance:core
 Investigative Direction: Ask Jillian which account of the first meeting is correct and obtain Michigan rental records for the home Erika leased.
 Open Questions: Q-612
@@ -1924,7 +1924,7 @@ Transcript Snippet: Tracy Martin, Erika's best friend, she's also has been invol
 Anchored Artifacts: 
 Mentions: N-3, N-544, N-2
 Related Nodes: N-10452
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Locate Tracy Martin's role in Dream City Church or Phoenix Dream Center in program records or filings.
 Open Questions: Q-572, Q-613
 

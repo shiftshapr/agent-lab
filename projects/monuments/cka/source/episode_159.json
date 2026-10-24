@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:09:39",
     "- **Extraction Timestamp (UTC)**: 2026-10-02T20:45:00Z",
-    "- **Transcript SHA-256**: a00b5df7209a7d2176cb96203718b03c467301aebcd1dcedd5b1d5a062ff4588",
+    "- **Transcript SHA-256**: 015391df5df60c5ebe9e0230b483b5583d5e0abf24ae95b681cc966147684376",
     "- **Model Version**: grok-manual-extract-seq159",
     "",
     "- **Episode Ledger Summary**:",
@@ -5991,8 +5991,8 @@
   {
    "kind": "claim",
    "id": "C-13730",
-   "header": "**C-13730** Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising",
-   "label": "Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising",
+   "header": "**C-13730** Host says leaked Dominate 2.0 Telegram messages show Erika seeking \"big hitters\" donor lists",
+   "label": "Host says leaked Dominate 2.0 Telegram messages show Erika seeking \"big hitters\" donor lists",
    "lines": [
     {
      "raw": ""
@@ -6103,8 +6103,8 @@
   {
    "kind": "claim",
    "id": "C-13755",
-   "header": "**C-13755** July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
-   "label": "July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
+   "header": "**C-13755** July 25 2025 Yrefy addendum added ~$1.25M for Charlie's fall campus tour sponsorship",
+   "label": "July 25 2025 Yrefy addendum added ~$1.25M for Charlie's fall campus tour sponsorship",
    "lines": [
     {
      "raw": ""
@@ -6159,8 +6159,8 @@
   {
    "kind": "claim",
    "id": "C-13760",
-   "header": "**C-13760** Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU",
-   "label": "Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU",
+   "header": "**C-13760** Host argues Feb-Aug 2025 events around Charlie, Epstein, and UVU form a non-coincidental timeline",
+   "label": "Host argues Feb-Aug 2025 events around Charlie, Epstein, and UVU form a non-coincidental timeline",
    "lines": [
     {
      "raw": ""
@@ -6215,8 +6215,8 @@
   {
    "kind": "claim",
    "id": "C-13780",
-   "header": "**C-13780** White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series",
-   "label": "White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series",
+   "header": "**C-13780** Host, citing NYT, says White House held repeated Epstein-files situation-room meetings, often without Trump",
+   "label": "Host, citing NYT, says White House held repeated Epstein-files situation-room meetings, often without Trump",
    "lines": [
     {
      "raw": ""
@@ -6308,6 +6308,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6420,8 +6424,8 @@
   {
    "kind": "claim",
    "id": "C-13825",
-   "header": "**C-13825** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
-   "label": "Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
+   "header": "**C-13825** Viewer and host source claim Erika's Telegram American-flag contact may be a shared Charlie account",
+   "label": "Viewer and host source claim Erika's Telegram American-flag contact may be a shared Charlie account",
    "lines": [
     {
      "raw": ""
@@ -6521,8 +6525,8 @@
   {
    "kind": "claim",
    "id": "C-13723",
-   "header": "**C-13723** Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
-   "label": "Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
+   "header": "**C-13723** Host says Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
+   "label": "Host says Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
    "lines": [
     {
      "raw": ""
@@ -6618,14 +6622,6 @@
      "v": "N-11010, N-10186"
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-13725"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025."
     },
@@ -6681,10 +6677,6 @@
     {
      "k": "Related Nodes",
      "v": "N-11010"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13724"
     },
     {
      "k": "Investigative Direction",
@@ -9464,8 +9456,8 @@
   {
    "kind": "claim",
    "id": "C-13778",
-   "header": "**C-13778** Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
-   "label": "Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
+   "header": "**C-13778** Host says Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
+   "label": "Host says Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
    "lines": [
     {
      "raw": ""
@@ -9928,8 +9920,8 @@
   {
    "kind": "claim",
    "id": "C-13787",
-   "header": "**C-13787** House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting",
-   "label": "House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting",
+   "header": "**C-13787** House Oversight voted July 23 to subpoena Epstein files; host says it coincided with a second situation-room meeting",
+   "label": "House Oversight voted July 23 to subpoena Epstein files; host says it coincided with a second situation-room meeting",
    "lines": [
     {
      "raw": ""
@@ -10099,8 +10091,8 @@
   {
    "kind": "claim",
    "id": "C-13790",
-   "header": "**C-13790** Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
-   "label": "Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
+   "header": "**C-13790** Host says Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
+   "label": "Host says Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
    "lines": [
     {
      "raw": ""
@@ -10681,8 +10673,8 @@
   {
    "kind": "claim",
    "id": "C-13800",
-   "header": "**C-13800** Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO",
-   "label": "Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO",
+   "header": "**C-13800** Host says Erika had a photo shoot with the children and Charlie at the Biltmore on August 14",
+   "label": "Host says Erika had a photo shoot with the children and Charlie at the Biltmore on August 14",
    "lines": [
     {
      "raw": ""
@@ -11537,6 +11529,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10793"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

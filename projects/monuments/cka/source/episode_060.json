@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:24:05",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05",
+    "- **Transcript SHA-256**: 331bcc89f24f95f885a7e99dfec40bb3b202f3a3d8249d5ea6cc0592aa8b0e10",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-10954, N-10955, N-10957",
@@ -4667,6 +4667,10 @@
      "v": "N-3, N-2"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then."
     },
@@ -5003,6 +5007,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10954"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5614,6 +5622,10 @@
     {
      "k": "Mentions",
      "v": "N-3, N-82"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

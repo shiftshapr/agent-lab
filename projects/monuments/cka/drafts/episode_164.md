@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:59:05
 - **Extraction Timestamp (UTC)**: 2026-10-19T21:18:06Z
-- **Transcript SHA-256**: 2d7a24d781f7c581f441b990cdb8d7609f322734d50ffb48839b21f2608103e6
+- **Transcript SHA-256**: 26ec07219364330c5bdc9d4397f24216739119ec085afc05cec5aee58c96a63e
 - **Model Version**: claude-manual-extract-seq164
 
 - **Episode Ledger Summary**:
@@ -1416,7 +1416,7 @@ Transcript Snippet: you will never guess who I learned that Tyler Clancy is alle
 Anchored Artifacts:
 Mentions: N-957, N-128
 Related Nodes:
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Social media connections and BYU lacrosse rosters.
 Open Questions: Q-1276
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:18
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
+- **Transcript SHA-256**: 9a8819abf16ed51ab5c2a2ce94930c2b3526099a64ce7fc82ea215cbe151cf94
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-785, N-786, N-787, N-11063
@@ -816,7 +816,7 @@ The host's assertion that January 6th was an event allegedly coordinated by fede
 
 ## V. Claim Register
 
-**C-12285** Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
+**C-12285** Host Says Footage Shows Farnsworth Pocketing SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes
 
 Claim Timestamp: 00:08:42
 
@@ -829,7 +829,7 @@ Investigative Direction: Obtain original unedited video and corroborate timestam
 
 ---
 
-**C-12288** Farnsworth Subsequently Inserted That SD Card Into His Laptop
+**C-12288** Host Says Farnsworth Appears to Have Inserted That SD Card Into His Laptop
 
 Claim Timestamp: 00:09:43
 
@@ -842,7 +842,7 @@ Investigative Direction: Recover laptop forensic artifacts (connection logs, fil
 
 ---
 
-**C-12296** Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
+**C-12296** Host Says Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:14:47
 
@@ -881,7 +881,7 @@ Investigative Direction: Cross-reference Trump's account against official law-en
 
 ---
 
-**C-12325** Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister
+**C-12325** Host Maps Trump's Description of a Law Enforcement Officer and Minister to Mike Mitchell
 
 Claim Timestamp: 00:32:51
 
@@ -1590,7 +1590,7 @@ Anchored Artifacts: A-2296.1
 Mentions: N-125, N-40
 Related Nodes: N-10146
 Supports: C-1108
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Verify Mitchell's scouting role and undercover assignments from employment records and the cited 1999 reporting.
 Open Questions: Q-731
 

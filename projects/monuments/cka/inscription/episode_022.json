@@ -2268,7 +2268,7 @@
       "@type": "Claim",
       "@id": "C-2000",
       "ref": "C-2000",
-      "label": "Military plane landed in Kalispell for under an hour before returning to Texas",
+      "label": "Host says military plane landed in Kalispell for under an hour before returning to Texas",
       "claim": "The host says the military-contracted plane from Biggs Army Airfield continued to Kalispell, Montana, landed for just under an hour, then departed back to Texas, dipping again to just over 300 feet over the Provo runway on the return.",
       "anchored_artifacts": [
         "A-1290.1"
@@ -2299,7 +2299,7 @@
       "@type": "Claim",
       "@id": "C-2002",
       "ref": "C-2002",
-      "label": "Maxfield plane co-owned by Casey Baugh",
+      "label": "Host says Maxfield plane is co-owned by Casey Baugh",
       "claim": "The host says the plane owned by Derek and Shelaine Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2324,7 +2324,7 @@
       "@type": "Claim",
       "@id": "C-2003",
       "ref": "C-2003",
-      "label": "Casey Baugh's name is on an institute at UVU's Woodbury Building",
+      "label": "Host says Casey Baugh's name is on an institute at UVU's Woodbury Building",
       "claim": "The host says Casey Baugh has his name on the Baugh Entrepreneurship Institute at Utah Valley University, which operates out of the Woodbury Business Building.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2480,7 +2480,8 @@
         "N-10195"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:09:22",
       "investigative_direction": "Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.",
@@ -2723,7 +2724,7 @@
       "@type": "Claim",
       "@id": "C-2025",
       "ref": "C-2025",
-      "label": "SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo",
+      "label": "Host says SU-BTT 2025 routing was Cairo, Paris, Minot, then Provo",
       "claim": "From the three-year FlightRadar history, the host says that in September 2025 the Egyptian plane went from Cairo to Paris to Minot, North Dakota, and then, on September 10, departed Provo, Utah at 7:14 a.m. local time.",
       "anchored_artifacts": [
         "A-1292.2"

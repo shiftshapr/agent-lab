@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–01:08:51
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:33:39Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 01827eb532b7317b128eba25a70f6def2108e8ca79fdbe46bd399b76d5e2e53f
+- **Transcript SHA-256**: dc82dd580410f8d42ff0fa3f2ce24ad330685ca7648da9c866f49714b25fa2de
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-10922, N-10923, N-10924, N-10925
@@ -913,7 +913,7 @@ Investigative Direction: Demand release of campus surveillance footage, drone fo
 
 ---
 
-**C-315** Robinson Left Rifle in Bush After Changing Outfits
+**C-315** Robinson's Text Says He Left Rifle in Bush After Changing Outfits
 
 Claim Timestamp: 00:12:07
 Claim: Robinson's text states he changed outfits and left the rifle (referred to as 'Prince') wrapped in a towel in a bush.
@@ -929,7 +929,7 @@ Investigative Direction: Cross-reference text account with forensic recovery loc
 Tags: open_source_investigation
 ---
 
-**C-338** Lance Twiggs Released Suspiciously Fast After Apartment Raid
+**C-338** Host Says She Was Told Lance Twiggs Was Allegedly Released Fast After Apartment Raid
 
 Claim Timestamp: 00:26:12
 Claim: The host says she has been told that Lance Twiggs was released to his parents ("allegedly") while his apartment was being raided and his electronics seized, and she argues he would normally be detained for at least 24 hours.
@@ -938,6 +938,7 @@ Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
 Mentions: N-54
 Related Nodes: N-10041
 Confidence: medium
+Tags: relevance:tangential
 Investigative Direction: Obtain the arrest/release log for Lance Twiggs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
 ---
@@ -970,7 +971,7 @@ Investigative Direction: Release full unedited video from both camera angles; fo
 
 ---
 
-**C-351** Lance Twiggs's Mother Holds Stanford BS in Psychology
+**C-351** Host Says Lance Twiggs's Mother Holds Stanford BS in Psychology
 
 Claim Timestamp: 00:36:23
 Claim: The host says Lance Twiggs's mother received a bachelor of science in psychology from Stanford University, says it seems a running theme in 'fed ops' that there is psychology somewhere in the family, and says she is not saying the mother has anything to do with anything.
@@ -980,11 +981,12 @@ Mentions: N-70, N-54
 Related Nodes: N-10042
 Confidence: low
 Uncertainty: Degree claim not independently sourced; presented as host assertion.
+Tags: relevance:tangential
 Investigative Direction: Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.
 
 ---
 
-**C-361** Donors Pressured Charlie Over Tucker Speaking Slot
+**C-361** Tucker Says Donors Pressured Charlie Over Tucker Speaking Slot
 
 Claim Timestamp: 00:45:45
 Claim: In a clip the host plays, Tucker Carlson says that a small, very intense group of donors tormented Charlie Kirk until the day he died and that two days before he died Charlie lost a $2 million donation because he had publicly pledged to bring Carlson to the next Turning Point conference in December.
@@ -1005,7 +1007,6 @@ Transcript Snippet: two days before he died, he lost a $2 million donation becau
 Anchored Artifacts: A-1107.1, A-1107.2
 Mentions: N-1, N-22
 Related Nodes: N-10044
-Contradicts: C-361
 Confidence: high
 Investigative Direction: Read C-361 together with this claim: re-attribute the donor-pressure account to Tucker Carlson's live show clip, then verify the $2M donation loss and the December Turning Point speaking pledge against TPUSA event flyers and donor records.
 
@@ -1303,7 +1304,7 @@ Investigative Direction: Obtain the September 11 FBI press conference video and 
 
 ---
 
-**C-323** NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference
+**C-323** Host Says NY Post Published Its Exclusive at 9:21 AM Mountain Time After the FBI Press Conference
 
 Claim Timestamp: 00:19:08
 
@@ -1318,7 +1319,7 @@ Investigative Direction: Retrieve the New York Post article's publication timest
 
 ---
 
-**C-324** FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later
+**C-324** Host Says FBI Salt Lake City Released Static Stills of the Stairs Figure Seven Minutes Later
 
 Claim Timestamp: 00:19:20
 
@@ -1489,7 +1490,7 @@ Transcript Snippet: then we don't know why the feds say that it was the 33rd hou
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10021
-Contradicts: C-162
+Qualifies: C-162
 Investigative Direction: Obtain the official timeline of the surrender from the sheriff's office and compare with the 7 p.m. local-text account.
 
 ---
@@ -1505,6 +1506,7 @@ Transcript Snippet: it's matching. Okay, so I'm I'm feeling good about this. We'
 Anchored Artifacts: 
 Mentions: N-54
 Related Nodes: N-10033
+Tags: relevance:tangential
 Investigative Direction: Obtain the search warrant return and the booking and release records for Lance.
 
 ---
@@ -1915,7 +1917,6 @@ Transcript Snippet: By the way, I'm not accusing anyone of being involved in tha
 Anchored Artifacts: A-1107.2
 Mentions: N-22, N-1
 Related Nodes: N-10044
-Qualifies: C-361
 Investigative Direction: Read this qualifier alongside C-361 when assessing how the donor-pressure clip relates to the killing.
 
 ---

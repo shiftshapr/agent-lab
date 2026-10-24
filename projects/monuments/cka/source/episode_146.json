@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:55:03",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7",
+    "- **Transcript SHA-256**: 3e52c235acc438ac84fa386846f547a77bd765bf7d7f2f676fe0a718b919edd2",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-788, N-11066",
@@ -2977,8 +2977,8 @@
   {
    "kind": "claim",
    "id": "C-12566",
-   "header": "**C-12566** Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk",
-   "label": "Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk",
+   "header": "**C-12566** Jack Hibbs Says Butch Hibbs Got a Front-Row Seat at UVU 9/10 Directly From Charlie Kirk",
+   "label": "Jack Hibbs Says Butch Hibbs Got a Front-Row Seat at UVU 9/10 Directly From Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -3156,8 +3156,8 @@
   {
    "kind": "claim",
    "id": "C-12589",
-   "header": "**C-12589** Butch Hibbs recorded footage on his phone within seconds of the shooting",
-   "label": "Butch Hibbs recorded footage on his phone within seconds of the shooting",
+   "header": "**C-12589** Host Says Footage Shows Butch Hibbs Recording on His Phone Within Seconds of the Shooting",
+   "label": "Host Says Footage Shows Butch Hibbs Recording on His Phone Within Seconds of the Shooting",
    "lines": [
     {
      "raw": ""
@@ -3325,8 +3325,8 @@
   {
    "kind": "claim",
    "id": "C-12576",
-   "header": "**C-12576** Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting",
-   "label": "Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting",
+   "header": "**C-12576** Jack Hibbs Placed Prayer Chain at About 12:30 PM Utah; Host Calculates About Seven Minutes After Shooting",
+   "label": "Jack Hibbs Placed Prayer Chain at About 12:30 PM Utah; Host Calculates About Seven Minutes After Shooting",
    "lines": [
     {
      "raw": ""
@@ -3559,8 +3559,8 @@
   {
    "kind": "claim",
    "id": "C-12579",
-   "header": "**C-12579** A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window",
-   "label": "A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window",
+   "header": "**C-12579** Host Suggests a Calvary Chapel Call May Have Begun During the Active Emergency Window",
+   "label": "Host Suggests a Calvary Chapel Call May Have Begun During the Active Emergency Window",
    "lines": [
     {
      "raw": ""
@@ -5505,7 +5505,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5770,10 +5770,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10741"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-12570"
     },
     {
      "k": "Tags",

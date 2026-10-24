@@ -1545,7 +1545,7 @@
       "@type": "Claim",
       "@id": "C-6103",
       "ref": "C-6103",
-      "label": "Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+      "label": "Host Says Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
       "claim": "The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post.",
       "anchored_artifacts": [
         "A-1727.1"
@@ -1567,7 +1567,7 @@
       "@type": "Claim",
       "@id": "C-6105",
       "ref": "C-6105",
-      "label": "Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
+      "label": "Host Says Sept 7, 2025 Erika Kirk Post Showed Mother Appearing Vulnerable With Countdown",
       "claim": "The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading \"10 days until September 16th.\"",
       "anchored_artifacts": [
         "A-1727.2"
@@ -1791,7 +1791,7 @@
       "@type": "Claim",
       "@id": "C-6112",
       "ref": "C-6112",
-      "label": "Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
+      "label": "Host Says Justin Streiff Texted Her That Erika's Mother Was Very Sick",
       "claim": "The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.",
       "anchored_artifacts": [
         "A-1735.1"
@@ -1822,7 +1822,9 @@
         "A-1736.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:06",
       "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage.",
       "mentions_person_refs": [
@@ -1836,7 +1838,7 @@
       "@type": "Claim",
       "@id": "C-6138",
       "ref": "C-6138",
-      "label": "Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+      "label": "Host Says Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
       "claim": "The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.",
       "anchored_artifacts": [
         "A-1737.1"
@@ -2822,7 +2824,7 @@
       "@type": "Claim",
       "@id": "C-6134",
       "ref": "C-6134",
-      "label": "Shapiro clip says Candace told Bassem Youssef about his childhood",
+      "label": "Shapiro clip says Candace told Bassem Youssef she thinks something bad happened in his childhood",
       "claim": "In the clip, Shapiro says Candace interviewed Bassem Youssef and told him she thinks something bad happened in his childhood because he fixated and lacks empathy.",
       "anchored_artifacts": [
         "A-1733.1"

@@ -2661,7 +2661,8 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:25:30",
       "investigative_direction": "Social media connections and BYU lacrosse rosters.",

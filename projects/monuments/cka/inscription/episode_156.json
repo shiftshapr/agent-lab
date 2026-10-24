@@ -1321,7 +1321,7 @@
       "@type": "Claim",
       "@id": "C-13475",
       "ref": "C-13475",
-      "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
+      "label": "Quick Quack Car Wash footage was obtained by investigators; host says it was never publicly released",
       "claim": "Per the search warrant the host reads, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the host says the footage has never been shown to the public.",
       "anchored_artifacts": [
         "A-2421.2"
@@ -1363,7 +1363,7 @@
       "@type": "Claim",
       "@id": "C-13513",
       "ref": "C-13513",
-      "label": "Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
+      "label": "Host Says Officer Goforth's Testimony Referenced a Partial License-Plate Match",
       "claim": "The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.",
       "anchored_artifacts": [
         "A-2424.1"
@@ -1424,7 +1424,7 @@
       "@type": "Claim",
       "@id": "C-13459",
       "ref": "C-13459",
-      "label": "Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time",
+      "label": "Host hypothesizes Dairy Queen 6:38 PM timestamp was recorded in UTC rather than Mountain time",
       "claim": "The host proposes as her favored hypothesis that the 6:38 PM timestamp on the Dairy Queen surveillance photo was recorded in UTC, which would convert to 12:38 PM Mountain time on September 10.",
       "anchored_artifacts": [
         "A-2418.1"
@@ -1442,7 +1442,7 @@
       "@type": "Claim",
       "@id": "C-13469",
       "ref": "C-13469",
-      "label": "Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand",
+      "label": "Host says Tyler Robinson's sneakers in Dairy Queen photo do not appear to be Converse brand",
       "claim": "The host observes that the sneakers worn by Tyler Robinson in the Dairy Queen surveillance photo do not appear to be Converse, and may be running shoes.",
       "anchored_artifacts": [
         "A-2418.1"
@@ -1485,7 +1485,7 @@
       "@type": "Claim",
       "@id": "C-13463",
       "ref": "C-13463",
-      "label": "Cemetery contains two large dumpsters in the middle",
+      "label": "Tipster says cemetery contains two large dumpsters in the middle",
       "claim": "Per tipster information, the cemetery where Tyler Robinson allegedly disposed of clothing contains two large dumpsters in the middle of it.",
       "anchored_artifacts": [
         "A-2425.1"
@@ -2302,7 +2302,8 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Locate the earlier aired material on Lance's online avatar name and its source.",

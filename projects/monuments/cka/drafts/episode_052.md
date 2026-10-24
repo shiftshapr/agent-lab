@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:41
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
+- **Transcript SHA-256**: 6b7e0e39b422baf7dd7b22022fe3899a7ea1300d4ace8e12edb41fb9a0e64f86
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-764, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
@@ -938,7 +938,7 @@ Related Nodes: N-10354
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
-**C-4521** Cowboys Smokehouse Verified Robinson's Presence via Credit Card
+**C-4521** Host Says Cowboys Smokehouse Verified Robinson's Presence via Credit Card
 
 Claim Timestamp: 00:04:45
 
@@ -951,7 +951,7 @@ Related Nodes: N-10354
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
-**C-4552** TPUSA Tent Was Group Decision
+**C-4552** Host Says TPUSA Asked Her to Clarify the Tent Was a Group Decision
 
 Claim Timestamp: 00:17:20
 
@@ -964,7 +964,7 @@ Related Nodes:
 
 Investigative Direction: Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.
 
-**C-4554** Erika's First September 8 Text Had Blocked Contact Name
+**C-4554** Host Says Erika's First September 8 Text Had Blocked Contact Name
 
 Claim Timestamp: 00:18:17
 
@@ -976,7 +976,7 @@ Mentions: N-2, N-1
 
 Investigative Direction: Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.
 
-**C-4556** Erika's Follow-Up Text Was a Charlie Kirk Contact Card
+**C-4556** Host Says Erika's Follow-Up Text Was a Charlie Kirk Contact Card
 
 Claim Timestamp: 00:18:58
 
@@ -988,7 +988,7 @@ Mentions: N-2, N-1
 
 Investigative Direction: Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.
 
-**C-4563** Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage
+**C-4563** Candace Concludes Mark Amodei Likely Appears Early in 12-Hour Committee Footage
 
 Claim Timestamp: 00:21:13
 
@@ -1052,7 +1052,7 @@ Related Nodes: N-10356, N-10357
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
-**C-4615** Daily Wire's "In the Know Know" Show Mocks Candace
+**C-4615** Host Says Daily Wire's "In the Know Know" Show Was Designed to Mock Her
 
 Claim Timestamp: 00:46:38
 
@@ -1324,8 +1324,8 @@ Transcript Snippet: Maybe it was actually 5:38 p. m. and time zones were wrong.
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10048, N-10775
-Revises: C-403
 Supports: C-4526
+Qualifies: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the original photo's metadata and the Dairy Queen's transaction logs to resolve the time zone question.
 Open Questions: Q-56
@@ -1660,9 +1660,8 @@ Transcript Snippet: Is it Pierre Dupont? Is it Pierre Falconee? I think it's Pie
 Anchored Artifacts: 
 Mentions: N-3, N-312, N-288
 Related Nodes: N-10298, N-10280, N-10000
-Qualifies: C-3476
-Tags: relevance:core
 Revises: C-3476
+Tags: relevance:core
 Investigative Direction: Identify the donor behind the reported check through TPUSA donor records or sources.
 Open Questions: Q-454
 
@@ -2321,7 +2320,6 @@ Transcript Snippet: Um I have an indication that it was actually earlier, but th
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10356
-Qualifies: C-4595
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the indication or source, then verify it with records.
 
@@ -2434,7 +2432,7 @@ Transcript Snippet: I am not suggesting that Turning Point USA is trafficking ch
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10755, N-10000
-Qualifies: C-4603, C-4599
+Qualifies: C-4603
 Tags: relevance:context
 Investigative Direction: Treat as a hedge on the host's trafficking-theme claims; test whether those claims rest on documents.
 
@@ -2517,7 +2515,6 @@ Transcript Snippet: Again, that could obviously just be a coincidence, but it's 
 Anchored Artifacts: A-1583.1
 Mentions: N-3
 Related Nodes: N-10357, N-10356
-Qualifies: C-4609
 Tags: relevance:context
 Investigative Direction: Obtain the summit's attendee list and agenda.
 

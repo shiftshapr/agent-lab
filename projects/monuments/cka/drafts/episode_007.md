@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–01:00:21
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:40:16Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5
+- **Transcript SHA-256**: deb98bf43063ff3a073cc6d1857b786e5481f44948c700d9f5dfd7b8d81f881c
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep007): N-99, N-10090, N-10106, N-10279, N-10319
@@ -982,7 +982,7 @@ Investigative Direction: Verify the actual date of the messages via metadata or 
 Tags: open_source_investigation
 ---
 
-**C-620** Released text messages were from 2023, not recent
+**C-620** Host asserts released text messages were from 2023, not recent
 
 Claim Timestamp: 00:31:08
 Claim: Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.

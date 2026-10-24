@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:16:16",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d",
+    "- **Transcript SHA-256**: b2f0290baa0006b80c2944253cd7225521c61281b1d639d3e0cd9fc72bd8f8f8",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11174",
@@ -3487,8 +3487,8 @@
   {
    "kind": "claim",
    "id": "C-8637",
-   "header": "**C-8637** Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction",
-   "label": "Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction",
+   "header": "**C-8637** Host Says Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction",
+   "label": "Host Says Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction",
    "lines": [
     {
      "raw": ""
@@ -3825,8 +3825,8 @@
   {
    "kind": "claim",
    "id": "C-8658",
-   "header": "**C-8658** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance",
-   "label": "Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance",
+   "header": "**C-8658** Candace Says She First Mentioned Harpole on November 19, Two Days After His Shawn Ryan Appearance",
+   "label": "Candace Says She First Mentioned Harpole on November 19, Two Days After His Shawn Ryan Appearance",
    "lines": [
     {
      "raw": ""
@@ -4171,8 +4171,8 @@
   {
    "kind": "claim",
    "id": "C-8679",
-   "header": "**C-8679** Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation",
-   "label": "Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation",
+   "header": "**C-8679** Host Says Lawsuit Accuses Candace of Confirming Snow's Claim While Including Her Non-Confirmation",
+   "label": "Host Says Lawsuit Accuses Candace of Confirming Snow's Claim While Including Her Non-Confirmation",
    "lines": [
     {
      "raw": ""
@@ -4620,8 +4620,8 @@
   {
    "kind": "claim",
    "id": "C-8709",
-   "header": "**C-8709** Resolution References Candace's Josef Mengele Commentary",
-   "label": "Resolution References Candace's Josef Mengele Commentary",
+   "header": "**C-8709** Resolution References Candace's July 2024 \"Bizarre Propaganda\" Holocaust Remark",
+   "label": "Resolution References Candace's July 2024 \"Bizarre Propaganda\" Holocaust Remark",
    "lines": [
     {
      "raw": ""
@@ -5551,7 +5551,7 @@
      "v": "N-10589"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-3018"
     },
     {
@@ -9183,7 +9183,7 @@
      "v": "N-10347"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-8662"
     },
     {

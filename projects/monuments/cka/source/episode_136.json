@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:51:59",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9",
+    "- **Transcript SHA-256**: 289215e96c90ea12a27c5b91edaf48d57ad8b59b5dca48186bc08e6fbd0922e1",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-11222, N-11223, N-11224, N-11225",
@@ -2672,8 +2672,8 @@
   {
    "kind": "claim",
    "id": "C-11696",
-   "header": "**C-11696** FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting",
-   "label": "FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting",
+   "header": "**C-11696** Kash Patel Says FBI Agents Arrived at UVU at 12:39 PM, 16 Minutes After the 12:23 PM Shooting",
+   "label": "Kash Patel Says FBI Agents Arrived at UVU at 12:39 PM, 16 Minutes After the 12:23 PM Shooting",
    "lines": [
     {
      "raw": ""
@@ -2970,8 +2970,8 @@
   {
    "kind": "claim",
    "id": "C-11702",
-   "header": "**C-11702** Red-hat man on Losi rooftop identified as Allan Robertson of USU PD",
-   "label": "Red-hat man on Losi rooftop identified as Allan Robertson of USU PD",
+   "header": "**C-11702** Muppet Masher Post Identifies Red-Hat Man on Losi Rooftop as Allan Robertson of USU PD",
+   "label": "Muppet Masher Post Identifies Red-Hat Man on Losi Rooftop as Allan Robertson of USU PD",
    "lines": [
     {
      "raw": ""
@@ -3023,8 +3023,8 @@
   {
    "kind": "claim",
    "id": "C-11705",
-   "header": "**C-11705** Blue-shirt man on Losi rooftop identified as Christopher Hawk",
-   "label": "Blue-shirt man on Losi rooftop identified as Christopher Hawk",
+   "header": "**C-11705** Muppet Masher Post Identifies Blue-Shirt Man on Losi Rooftop as Christopher Hawk",
+   "label": "Muppet Masher Post Identifies Blue-Shirt Man on Losi Rooftop as Christopher Hawk",
    "lines": [
     {
      "raw": ""
@@ -3076,8 +3076,8 @@
   {
    "kind": "claim",
    "id": "C-11703",
-   "header": "**C-11703** Allan Robertson joined the USU police force the summer before the Kirk shooting",
-   "label": "Allan Robertson joined the USU police force the summer before the Kirk shooting",
+   "header": "**C-11703** Host Says Allan Robertson Joined the USU Police Force the Summer Before the Kirk Shooting",
+   "label": "Host Says Allan Robertson Joined the USU Police Force the Summer Before the Kirk Shooting",
    "lines": [
     {
      "raw": ""
@@ -3220,6 +3220,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11791, C-11796"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels."
     },
@@ -3290,8 +3298,8 @@
   {
    "kind": "claim",
    "id": "C-11727",
-   "header": "**C-11727** US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran",
-   "label": "US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran",
+   "header": "**C-11727** CNN Reports US Central Command Officer Emailed a Request for Creative and Unconventional Ideas to Pressure Iran",
+   "label": "CNN Reports US Central Command Officer Emailed a Request for Creative and Unconventional Ideas to Pressure Iran",
    "lines": [
     {
      "raw": ""
@@ -5368,7 +5376,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -7161,10 +7169,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Revises",
-     "v": "C-11033"
     },
     {
      "k": "Investigative Direction",

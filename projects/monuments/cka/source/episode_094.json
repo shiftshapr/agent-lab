@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:42",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e",
+    "- **Transcript SHA-256**: c12ef118bc6acde62a82bd294ded5c0197a5592ef5bfe040bcf4cdcb51d70cd1",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-916, N-917, N-11265, N-11266",
@@ -4387,8 +4387,8 @@
   {
    "kind": "claim",
    "id": "C-8430",
-   "header": "**C-8430** Trump Truth Social Post: \"Dying Fast\"",
-   "label": "Trump Truth Social Post: \"Dying Fast\"",
+   "header": "**C-8430** Truth Social Post Under Trump's Name: \"Dying Fast\"",
+   "label": "Truth Social Post Under Trump's Name: \"Dying Fast\"",
    "lines": [
     {
      "raw": ""
@@ -4444,8 +4444,8 @@
   {
    "kind": "claim",
    "id": "C-8434",
-   "header": "**C-8434** Trump Follow-up Post Mentions \"Mentally Ill\"",
-   "label": "Trump Follow-up Post Mentions \"Mentally Ill\"",
+   "header": "**C-8434** Host Thinks Follow-up Trump Post Called Her \"Mentally Ill\"",
+   "label": "Host Thinks Follow-up Trump Post Called Her \"Mentally Ill\"",
    "lines": [
     {
      "raw": ""
@@ -4764,6 +4764,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements."
     },
@@ -5044,6 +5048,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify tweet and any linked court filings; check Davidson County court records."
     },
@@ -5098,6 +5106,10 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5286,8 +5298,8 @@
   {
    "kind": "claim",
    "id": "C-8405",
-   "header": "**C-8405** Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
-   "label": "Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
+   "header": "**C-8405** Host Says Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
+   "label": "Host Says Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
    "lines": [
     {
      "raw": ""
@@ -10475,7 +10487,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -10540,7 +10552,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:47:36
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
+- **Transcript SHA-256**: 51f39d3d49d6cbcf3404ce81300ea30a0b122f07a7cad24528e80d234a33c49a
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-886, N-11207, N-11208, N-11209
@@ -977,7 +977,7 @@ Investigative Direction: Conduct direct NY Department of State licensee search b
 
 ---
 
-**C-6953** SB 1439 Recipient Description Matches Turning Point USA Characteristics
+**C-6953** Host Says SB 1439 Recipient Description Matches Turning Point USA Characteristics
 
 Claim Timestamp: 00:31:36
 
@@ -1009,7 +1009,7 @@ Open Questions: Q-654
 
 ---
 
-**C-6901** Epstein frequented Next Model Management's offices
+**C-6901** Host says Epstein frequented Next Model Management's offices
 
 Claim Timestamp: 00:02:28
 
@@ -1026,7 +1026,7 @@ Open Questions: Q-655
 
 ---
 
-**C-6902** Faith Kates known for launching Eastern European models
+**C-6902** Host says Faith Kates is known for launching Eastern European models
 
 Claim Timestamp: 00:02:28
 
@@ -1044,7 +1044,7 @@ Open Questions: Q-655
 
 ---
 
-**C-6903** Faith Kates was Wilhelmina VP before co-founding Next
+**C-6903** Host says Faith Kates was Wilhelmina VP before co-founding Next
 
 Claim Timestamp: 00:03:16
 
@@ -1094,7 +1094,7 @@ Open Questions: Q-2
 
 ---
 
-**C-6907** Erika appeared before Ben Shapiro at AmFest
+**C-6907** Host says Erika appeared before Ben Shapiro at AmFest
 
 Claim Timestamp: 00:04:13
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Check the AmFest 2025 program and stage footage for spe
 
 ---
 
-**C-6908** Shapiro appeared in person in Charlie's studio after the murder
+**C-6908** Host says Shapiro appeared in person in Charlie's studio after the murder
 
 Claim Timestamp: 00:04:13
 
@@ -1141,7 +1141,7 @@ Open Questions: Q-2
 
 ---
 
-**C-6910** Erika set up Bari Weiss interviews and pushed Shabbat Shalom
+**C-6910** Host says Erika set up Bari Weiss interviews and pushed Shabbat Shalom
 
 Claim Timestamp: 00:05:11
 
@@ -1207,7 +1207,7 @@ Investigative Direction: Cross-check against reporting and the class action on N
 
 ---
 
-**C-6914** Erika was the contact for a white building on the Upper East Side
+**C-6914** Host says people recall Erika as the contact for a white building on the Upper East Side
 
 Claim Timestamp: 00:07:13
 
@@ -1258,7 +1258,7 @@ Open Questions: Q-663, Q-664
 
 ---
 
-**C-6917** Erika lived with Nicole Rothstein, who works in real estate
+**C-6917** Host says Erika lived with Nicole Rothstein, who works in real estate
 
 Claim Timestamp: 00:08:22
 
@@ -1307,7 +1307,7 @@ Investigative Direction: Genealogical records of the Rothstein family would conf
 
 ---
 
-**C-6921** Erika was auditioning for reality TV during her New York period
+**C-6921** Host says Erika was seeking reality TV bookings during her New York period
 
 Claim Timestamp: 00:10:37
 
@@ -1476,7 +1476,7 @@ Open Questions: Q-472, Q-646
 
 ---
 
-**C-6939** ASU is the only US university offering a minor in Romanian studies
+**C-6939** Host says ASU is the only US university offering a minor in Romanian studies
 
 Claim Timestamp: 00:23:16
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Check ASU's catalog and other US universities' Romanian
 
 ---
 
-**C-6940** Honorary Romanian consulate established at ASU in 2010, lectorate in 2011
+**C-6940** Host says honorary Romanian consulate was established at ASU in 2010, lectorate in 2011
 
 Claim Timestamp: 00:23:16
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Verify the consulate's founding date and location and t
 
 ---
 
-**C-6942** Romanian language institute funded the ASU lectorate and a collaborative launched
+**C-6942** Host says a Romanian language institute funded the ASU lectorate and a collaborative launched
 
 Claim Timestamp: 00:24:28
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Identify the campus location meant and the trafficking 
 
 ---
 
-**C-6945** Erika's mother sits on the Super Feed board with Tyler Bowyer
+**C-6945** Host says Erika's mother sits on the Super Feed board with Tyler Bowyer
 
 Claim Timestamp: 00:25:26
 
@@ -1610,7 +1610,7 @@ Open Questions: Q-308
 
 ---
 
-**C-6949** Jake Hoffman is a friend and partner of Bowyer and a former TPUSA employee
+**C-6949** Host says Jake Hoffman is a friend and partner of Bowyer and a former TPUSA employee
 
 Claim Timestamp: 00:29:37
 
@@ -1627,7 +1627,7 @@ Open Questions: Q-667
 
 ---
 
-**C-6950** Jake Hoffman Introduced the Plate Bill on January 28
+**C-6950** Host Says Jake Hoffman Introduced the Plate Bill on January 28
 
 Claim Timestamp: 00:30:42
 
@@ -1644,7 +1644,7 @@ Open Questions: Q-668
 
 ---
 
-**C-6951** Proposed plate would carry the words 'for Charlie'
+**C-6951** Host says proposed plate would carry the words 'for Charlie'
 
 Claim Timestamp: 00:30:42
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Retrieve the plate design submitted with the bill.
 
 ---
 
-**C-6954** SB 1439 passed the Senate and the House 31 to 23
+**C-6954** Host says SB 1439 passed the Senate and the House 31 to 23
 
 Claim Timestamp: 00:31:36
 

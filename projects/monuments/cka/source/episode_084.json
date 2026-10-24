@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:53:38",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:21:43Z",
-    "- **Transcript SHA-256**: 066882f635eb36caacf85a0b1abd2baa97dfc0f0575f065972db7d5293e11285",
+    "- **Transcript SHA-256**: ed4a23b335e423205248cb7dfdca1dff076afeedde0b2b19fbf76003669beadd",
     "- **Model Version**: claude-manual-extract-seq084",
     "",
     "- **Episode Ledger Summary**:",
@@ -2292,8 +2292,8 @@
   {
    "kind": "claim",
    "id": "C-7507",
-   "header": "**C-7507** TPUSA-associated plane spent time at Fort Huachuca after the assassination",
-   "label": "TPUSA-associated plane spent time at Fort Huachuca after the assassination",
+   "header": "**C-7507** Host says TPUSA-associated plane spent time at Fort Huachuca after the assassination",
+   "label": "Host says TPUSA-associated plane spent time at Fort Huachuca after the assassination",
    "lines": [
     {
      "raw": ""
@@ -2705,8 +2705,8 @@
   {
    "kind": "claim",
    "id": "C-7514",
-   "header": "**C-7514** Roughly 40-minute window in which the TPUSA core team did not know Charlie Kirk had died",
-   "label": "Roughly 40-minute window in which the TPUSA core team did not know Charlie Kirk had died",
+   "header": "**C-7514** Host says there was a roughly 40-minute window in which the TPUSA core team did not know Kirk had died",
+   "label": "Host says there was a roughly 40-minute window in which the TPUSA core team did not know Kirk had died",
    "lines": [
     {
      "raw": ""
@@ -2879,8 +2879,8 @@
   {
    "kind": "claim",
    "id": "C-7517",
-   "header": "**C-7517** Kolvet texted at 1:19 p.m. Utah time that Charlie had a pulse",
-   "label": "Kolvet texted at 1:19 p.m. Utah time that Charlie had a pulse",
+   "header": "**C-7517** Host says Kolvet told her at 1:19 p.m. Utah time that Charlie had a pulse",
+   "label": "Host says Kolvet told her at 1:19 p.m. Utah time that Charlie had a pulse",
    "lines": [
     {
      "raw": ""
@@ -3113,8 +3113,8 @@
   {
    "kind": "claim",
    "id": "C-7521",
-   "header": "**C-7521** Charlie Kirk's pilot was named Jamie and may be from Texas",
-   "label": "Charlie Kirk's pilot was named Jamie and may be from Texas",
+   "header": "**C-7521** Host says Charlie Kirk's pilot was named Jamie and may be from Texas",
+   "label": "Host says Charlie Kirk's pilot was named Jamie and may be from Texas",
    "lines": [
     {
      "raw": ""
@@ -3287,8 +3287,8 @@
   {
    "kind": "claim",
    "id": "C-7524",
-   "header": "**C-7524** Unexplained flight from Page, Arizona to Provo on September 10",
-   "label": "Unexplained flight from Page, Arizona to Provo on September 10",
+   "header": "**C-7524** Host says a flight went from Page, Arizona to Provo on September 10",
+   "label": "Host says a flight went from Page, Arizona to Provo on September 10",
    "lines": [
     {
      "raw": ""
@@ -3405,8 +3405,8 @@
   {
    "kind": "claim",
    "id": "C-7526",
-   "header": "**C-7526** Justin Streiff emailed staff the death announcement at 2:27",
-   "label": "Justin Streiff emailed staff the death announcement at 2:27",
+   "header": "**C-7526** Host says Justin Streiff emailed staff the death announcement at 2:27",
+   "label": "Host says Justin Streiff emailed staff the death announcement at 2:27",
    "lines": [
     {
      "raw": ""
@@ -3519,8 +3519,8 @@
   {
    "kind": "claim",
    "id": "C-7528",
-   "header": "**C-7528** President Trump announced the death on Truth Social at 2:40",
-   "label": "President Trump announced the death on Truth Social at 2:40",
+   "header": "**C-7528** Host's timeline says President Trump announced the death on Truth Social at 2:40",
+   "label": "Host's timeline says President Trump announced the death on Truth Social at 2:40",
    "lines": [
     {
      "raw": ""
@@ -3584,8 +3584,8 @@
   {
    "kind": "claim",
    "id": "C-7529",
-   "header": "**C-7529** Police scanner: Erika, Elizabeth, Tyler, Stacy Sheridan and Cat escorted to Timpanogos Hospital",
-   "label": "Police scanner: Erika, Elizabeth, Tyler, Stacy Sheridan and Cat escorted to Timpanogos Hospital",
+   "header": "**C-7529** Host says police scanner indicates Erika, Elizabeth, Tyler, Stacy Sheridan and Cat were to be escorted to Timpanogos",
+   "label": "Host says police scanner indicates Erika, Elizabeth, Tyler, Stacy Sheridan and Cat were to be escorted to Timpanogos",
    "lines": [
     {
      "raw": ""
@@ -3896,8 +3896,8 @@
   {
    "kind": "claim",
    "id": "C-7534",
-   "header": "**C-7534** Erika Kirk's mother was not in the hospital September 8 through 10",
-   "label": "Erika Kirk's mother was not in the hospital September 8 through 10",
+   "header": "**C-7534** Host asserts Erika Kirk's mother was not in the hospital September 8 through 10",
+   "label": "Host asserts Erika Kirk's mother was not in the hospital September 8 through 10",
    "lines": [
     {
      "raw": ""
@@ -4135,8 +4135,8 @@
   {
    "kind": "claim",
    "id": "C-7538",
-   "header": "**C-7538** Erika Kirk's New York Times account of Charlie's departure differs from later accounts",
-   "label": "Erika Kirk's New York Times account of Charlie's departure differs from later accounts",
+   "header": "**C-7538** Host says Erika Kirk's New York Times account of Charlie's departure differs from later accounts",
+   "label": "Host says Erika Kirk's New York Times account of Charlie's departure differs from later accounts",
    "lines": [
     {
      "raw": ""
@@ -4298,8 +4298,8 @@
   {
    "kind": "claim",
    "id": "C-7541",
-   "header": "**C-7541** Ted Cruz tweeted that the skit was \"beneath contempt\"",
-   "label": "Ted Cruz tweeted that the skit was \"beneath contempt\"",
+   "header": "**C-7541** Host says Ted Cruz tweeted that the skit was \"beneath contempt\"",
+   "label": "Host says Ted Cruz tweeted that the skit was \"beneath contempt\"",
    "lines": [
     {
      "raw": ""
@@ -4404,8 +4404,8 @@
   {
    "kind": "claim",
    "id": "C-7543",
-   "header": "**C-7543** Scott Bessent issued a letter saying Turning Point is in great financial standing",
-   "label": "Scott Bessent issued a letter saying Turning Point is in great financial standing",
+   "header": "**C-7543** Host says Scott Bessent issued a letter saying Turning Point is in great financial standing",
+   "label": "Host says Scott Bessent issued a letter saying Turning Point is in great financial standing",
    "lines": [
     {
      "raw": ""
@@ -4589,8 +4589,8 @@
   {
    "kind": "claim",
    "id": "C-7546",
-   "header": "**C-7546** The TPUSA-associated plane flew Pierre to Chicago to Provo on September 10",
-   "label": "The TPUSA-associated plane flew Pierre to Chicago to Provo on September 10",
+   "header": "**C-7546** Baron Coleman says a TPUSA-associated plane flew Pierre to Chicago to Provo on September 10",
+   "label": "Baron Coleman says a TPUSA-associated plane flew Pierre to Chicago to Provo on September 10",
    "lines": [
     {
      "raw": ""
@@ -4646,8 +4646,8 @@
   {
    "kind": "claim",
    "id": "C-7547",
-   "header": "**C-7547** The plane flew Atlanta to Fort Huachuca on October 4 and stayed all day",
-   "label": "The plane flew Atlanta to Fort Huachuca on October 4 and stayed all day",
+   "header": "**C-7547** Baron Coleman says the plane flew Atlanta to Fort Huachuca and stayed all day; host dates it October 4",
+   "label": "Baron Coleman says the plane flew Atlanta to Fort Huachuca and stayed all day; host dates it October 4",
    "lines": [
     {
      "raw": ""
@@ -4703,8 +4703,8 @@
   {
    "kind": "claim",
    "id": "C-7548",
-   "header": "**C-7548** Security team including Butch Hibbs was in Montana on October 5",
-   "label": "Security team including Butch Hibbs was in Montana on October 5",
+   "header": "**C-7548** Baron Coleman says security team including Butch Hibbs was in Montana on October 5",
+   "label": "Baron Coleman says security team including Butch Hibbs was in Montana on October 5",
    "lines": [
     {
      "raw": ""
@@ -4760,8 +4760,8 @@
   {
    "kind": "claim",
    "id": "C-7549",
-   "header": "**C-7549** Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane",
-   "label": "Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane",
+   "header": "**C-7549** Host says Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane",
+   "label": "Host says Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane",
    "lines": [
     {
      "raw": ""
@@ -4817,8 +4817,8 @@
   {
    "kind": "claim",
    "id": "C-7550",
-   "header": "**C-7550** The plane's tail number is N582MM",
-   "label": "The plane's tail number is N582MM",
+   "header": "**C-7550** Host identifies the plane's tail number as N582MM",
+   "label": "Host identifies the plane's tail number as N582MM",
    "lines": [
     {
      "raw": ""
@@ -4874,8 +4874,8 @@
   {
    "kind": "claim",
    "id": "C-7551",
-   "header": "**C-7551** The Egyptian planes are back in Provo",
-   "label": "The Egyptian planes are back in Provo",
+   "header": "**C-7551** Host says the Egyptian planes are back in Provo",
+   "label": "Host says the Egyptian planes are back in Provo",
    "lines": [
     {
      "raw": ""
@@ -4934,8 +4934,8 @@
   {
    "kind": "claim",
    "id": "C-7552",
-   "header": "**C-7552** Kolvet blames Joe Kent for the text leak but told many people about the text",
-   "label": "Kolvet blames Joe Kent for the text leak but told many people about the text",
+   "header": "**C-7552** Host says Kolvet blames Joe Kent for the text leak but told many people about the text",
+   "label": "Host says Kolvet blames Joe Kent for the text leak but told many people about the text",
    "lines": [
     {
      "raw": ""
@@ -4994,8 +4994,8 @@
   {
    "kind": "claim",
    "id": "C-7553",
-   "header": "**C-7553** Stacy Sheridan lives in the same complex as Charlie and Erika Kirk",
-   "label": "Stacy Sheridan lives in the same complex as Charlie and Erika Kirk",
+   "header": "**C-7553** Host confirms viewer claim that Stacy Sheridan lives in the same complex as Charlie and Erika Kirk",
+   "label": "Host confirms viewer claim that Stacy Sheridan lives in the same complex as Charlie and Erika Kirk",
    "lines": [
     {
      "raw": ""
@@ -5087,6 +5087,10 @@
      "v": "N-10577"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the author and source documents of the piece and the claimant on the insurance record."
     },
@@ -5164,8 +5168,8 @@
   {
    "kind": "claim",
    "id": "C-7556",
-   "header": "**C-7556** Tyler Robinson has not entered a plea or been arraigned",
-   "label": "Tyler Robinson has not entered a plea or been arraigned",
+   "header": "**C-7556** Host says Tyler Robinson has not entered a plea or been arraigned",
+   "label": "Host says Tyler Robinson has not entered a plea or been arraigned",
    "lines": [
     {
      "raw": ""

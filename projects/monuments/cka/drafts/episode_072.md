@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:50:19
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
+- **Transcript SHA-256**: 89ee5b2f8a4c1ceb259554652f75bcf6c6c885049d66087b3398188081071554
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11161, N-11162, N-11163, N-11164, N-11165
@@ -1007,7 +1007,7 @@ Existing node reused for new claims in this episode.
 
 ## 5. Claim Register
 
-**C-6467** USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group
+**C-6467** TikToker Says USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group
 
 Claim Timestamp: 00:26:41
 
@@ -1022,7 +1022,7 @@ Investigative Direction: Obtain and verify the original USA Today article and co
 
 ---
 
-**C-6470** Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President
+**C-6470** TikToker Says Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President
 
 Claim Timestamp: 00:27:38
 

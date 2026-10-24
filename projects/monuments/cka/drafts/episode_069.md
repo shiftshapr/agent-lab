@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:41:49
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
+- **Transcript SHA-256**: 189874e0bbfb8998228dd312c78f38855278873024dbed5827ba2edc723741cd
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11257
@@ -821,7 +821,7 @@ Investigative Direction: Identify the named general; verify the 2003 Iraq dig re
 
 ---
 
-**C-6180** Steve Quayle asserts human genome project aimed at genetic markers to "reanimate" Nimrod/Gilgamesh
+**C-6180** Steve Quayle says he was told the human genome project seeks markers letting spirits "reanimate" host bodies
 
 Claim Timestamp: 00:15:55
 
@@ -935,7 +935,7 @@ Investigative Direction: Identify the production-staff role, if any, of "Benjami
 
 ---
 
-**C-6241** AZ Masterbaker comment posits COVID tests were instruments of DNA collection for identifying Nimrod's descendants
+**C-6241** AZ Masterbaker comment believes COVID tests collected DNA, maybe to find Nimrod's descendants
 
 Claim Timestamp: 00:39:30
 
@@ -1901,7 +1901,7 @@ Transcript Snippet: a pretty strong series of tips that I received that Erika wa
 Anchored Artifacts: 
 Mentions: N-544, N-2, N-3
 Related Nodes: N-10440
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.
 Open Questions: Q-569
 
@@ -1969,7 +1969,7 @@ Transcript Snippet: Allegedly, she was with Erika when Mikey and Elizabeth calle
 Anchored Artifacts: 
 Mentions: N-544, N-2, N-190, N-217
 Related Nodes: N-10440, N-10185
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Same as the tips behind the alibi claim.
 Open Questions: Q-571
 

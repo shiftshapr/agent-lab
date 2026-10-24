@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:44",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1",
+    "- **Transcript SHA-256**: 22b379b3ea044064ab5bf8964d211a0346e93346db2300a49009edf25eb59747",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-906, N-907, N-11243, N-11244, N-11245, N-11246",
@@ -4786,8 +4786,8 @@
   {
    "kind": "claim",
    "id": "C-2105",
-   "header": "**C-2105** Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024",
-   "label": "Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024",
+   "header": "**C-2105** Host says Mikey McCoy was promoted to TPUSA Chief of Staff on January 3, 2024",
+   "label": "Host says Mikey McCoy was promoted to TPUSA Chief of Staff on January 3, 2024",
    "lines": [
     {
      "raw": ""
@@ -4958,8 +4958,8 @@
   {
    "kind": "claim",
    "id": "C-2139",
-   "header": "**C-2139** SUBTT Arrived in Provo on September 4, 2025 as a \"Full Plane\"",
-   "label": "SUBTT Arrived in Provo on September 4, 2025 as a \"Full Plane\"",
+   "header": "**C-2139** SUBTT Arrived in Provo on September 4, 2025; Overseas Source Says It Was a \"Full Plane\"",
+   "label": "SUBTT Arrived in Provo on September 4, 2025; Overseas Source Says It Was a \"Full Plane\"",
    "lines": [
     {
      "raw": ""
@@ -5042,8 +5042,8 @@
   {
    "kind": "claim",
    "id": "C-2173",
-   "header": "**C-2173** Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
-   "label": "Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
+   "header": "**C-2173** Host Says Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
+   "label": "Host Says Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
    "lines": [
     {
      "raw": ""
@@ -5382,8 +5382,8 @@
   {
    "kind": "claim",
    "id": "C-2122",
-   "header": "**C-2122** TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech",
-   "label": "TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech",
+   "header": "**C-2122** Host Says a TPUSA Donor Confronted Charlie Kirk After Tucker Carlson's July 11, 2025 Speech",
+   "label": "Host Says a TPUSA Donor Confronted Charlie Kirk After Tucker Carlson's July 11, 2025 Speech",
    "lines": [
     {
      "raw": ""
@@ -10169,7 +10169,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

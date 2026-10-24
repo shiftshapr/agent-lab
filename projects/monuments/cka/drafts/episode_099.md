@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:10:25
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098
+- **Transcript SHA-256**: b7399db473831c33d7ceb31500b25c799bcd5617ff47a739f2a27938851cac05
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-918, N-11268, N-11269, N-11270, N-11271
@@ -1073,7 +1073,7 @@ Investigative Direction: Corroborate the second message via original device reco
 
 ---
 
-**C-8826** Baron Coleman asserted the situation constitutes a spiritual war with demonic forces
+**C-8826** Baron Coleman Says Those Co-Opting Christian Language Answer to "Something Far Darker"
 
 Claim Timestamp: 00:07:45
 
@@ -1132,7 +1132,7 @@ Investigative Direction: Pull the FARA filing directly from DOJ FARA public regi
 
 ---
 
-**C-8837** Show Faith by Works LLC plans geofencing and church-targeted propaganda
+**C-8837** Host Says Show Faith by Works LLC Plans Geofencing and Church-Targeted Propaganda
 
 Claim Timestamp: 00:14:08
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Obtain DOJ memorandum directly; confirm effective date 
 
 ---
 
-**C-8868** Disbanding limits DOJ from criminally charging PR work for foreign nations
+**C-8868** DOJ Memo Limits Criminal FARA Charges to Conduct Similar to Traditional Espionage
 
 Claim Timestamp: 00:34:17
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Confirm via DOJ announcement and Senate confirmation re
 
 ---
 
-**C-8872** Dhillon Law Group drafted FARA paperwork for Clock Tower X and Show Faith by Works
+**C-8872** Host's Timeline Says Dhillon Law Group Drafted FARA Paperwork for Clock Tower X and Show Faith by Works
 
 Claim Timestamp: 00:36:54
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Obtain the original group text record; verify the parti
 
 ---
 
-**C-8876** Charlie Kirk's memorial was geofenced on September 21, 2025
+**C-8876** Host's Timeline Says Charlie Kirk's Memorial Was Geofenced on September 21
 
 Claim Timestamp: 00:38:35
 

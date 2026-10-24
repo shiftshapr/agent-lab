@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:54:15",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c",
+    "- **Transcript SHA-256**: 122958184de3beb6efcba7ff87df8be6167804fae65aec3d713a709de8373f58",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11318, N-11319, N-11320, N-11321",
@@ -4301,8 +4301,8 @@
   {
    "kind": "claim",
    "id": "C-10991",
-   "header": "**C-10991** Jennifer Faumuina completed Utah DPS post-training on May 20, 2013",
-   "label": "Jennifer Faumuina completed Utah DPS post-training on May 20, 2013",
+   "header": "**C-10991** Jennifer Faumuina Apparently Appears in Utah DPS Post-Training Photo Dated May 20, 2013",
+   "label": "Jennifer Faumuina Apparently Appears in Utah DPS Post-Training Photo Dated May 20, 2013",
    "lines": [
     {
      "raw": ""
@@ -4358,8 +4358,8 @@
   {
    "kind": "claim",
    "id": "C-10986",
-   "header": "**C-10986** Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio",
-   "label": "Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio",
+   "header": "**C-10986** Host Says a 2016 Article Shows Jennifer Faumuina Volunteered for Crowd Control at the 2016 RNC in Ohio",
+   "label": "Host Says a 2016 Article Shows Jennifer Faumuina Volunteered for Crowd Control at the 2016 RNC in Ohio",
    "lines": [
     {
      "raw": ""
@@ -4472,8 +4472,8 @@
   {
    "kind": "claim",
    "id": "C-10992",
-   "header": "**C-10992** Faumuina and Beau Mason Photographed Together on May 20, 2013",
-   "label": "Faumuina and Beau Mason Photographed Together on May 20, 2013",
+   "header": "**C-10992** Faumuina and Beau Mason Apparently Photographed Together on May 20, 2013",
+   "label": "Faumuina and Beau Mason Apparently Photographed Together on May 20, 2013",
    "lines": [
     {
      "raw": ""
@@ -4681,10 +4681,6 @@
      "raw": ""
     },
     {
-     "k": "Revises",
-     "v": "C-7806"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Confirm via hospital press releases and board minutes."
     },
@@ -4814,8 +4810,8 @@
   {
    "kind": "claim",
    "id": "C-11001",
-   "header": "**C-11001** Robert Bohls began his career at the Provo Police Department in the early 2000s",
-   "label": "Robert Bohls began his career at the Provo Police Department in the early 2000s",
+   "header": "**C-11001** 2004 Article Says Robert Bohls Served With the Provo Police Department Before the Military and FBI",
+   "label": "2004 Article Says Robert Bohls Served With the Provo Police Department Before the Military and FBI",
    "lines": [
     {
      "raw": ""
@@ -4871,8 +4867,8 @@
   {
    "kind": "claim",
    "id": "C-11003",
-   "header": "**C-11003** Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating",
-   "label": "Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating",
+   "header": "**C-11003** Host Says Misiona Faumuina Died in 1995 in Hawaii After a Beating in a Reported Gang Initiation",
+   "label": "Host Says Misiona Faumuina Died in 1995 in Hawaii After a Beating in a Reported Gang Initiation",
    "lines": [
     {
      "raw": ""
@@ -9140,14 +9136,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-11750"
     },
     {
      "k": "Investigative Direction",

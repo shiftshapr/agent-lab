@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:07:20
 - **Extraction Timestamp (UTC)**: 2026-10-02T20:40:00Z
-- **Transcript SHA-256**: 022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf
+- **Transcript SHA-256**: 95af29fcb9462cc4d1e29db8ea5070b25ccc110a02b04b952bcc0f2adea45b39
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
@@ -789,7 +789,7 @@ Investigative Direction: Extract all on-record political Q&A from the profile; c
 
 ---
 
-**C-13651** Erika declined substantive Israel/BB answers despite CEO role
+**C-13651** Erika said she lacks bandwidth on Israel/BB; host argues a CEO needs an opinion
 
 Claim Timestamp: 00:10:44
 
@@ -804,7 +804,7 @@ Investigative Direction: Compile Erika Israel-related statements pre/post Sept 1
 
 ---
 
-**C-13658** Erika directed the Aloe Yoga clothing run the night/morning after the assassination
+**C-13658** Profile says Erika had a TPUSA staffer buy Aloe clothing the morning after the assassination
 
 Claim Timestamp: 00:17:23
 
@@ -819,7 +819,7 @@ Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; 
 
 ---
 
-**C-13662** “Only thing that fit” glitter-suit explanation conflicts with other public outfits
+**C-13662** Host disputes Erika's "only thing that fit" glitter-suit explanation, citing other public outfits
 
 Claim Timestamp: 00:22:20
 
@@ -879,7 +879,7 @@ Investigative Direction: Pair with on-record Erika statements; treat Carlson quo
 
 ---
 
-**C-13692** After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package
+**C-13692** Host asserts smear narrative flipped to a fabricated lesbian/Zionist package after UVU review fallout
 
 Claim Timestamp: 00:40:02
 
@@ -909,7 +909,7 @@ Investigative Direction: Verify archive timestamps on primary archive.org (or eq
 
 ---
 
-**C-13710** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet
+**C-13710** Host Asserts Bill Ackman Amplified the Smear Package and Later Deleted the Tweet
 
 Claim Timestamp: 00:49:14
 
@@ -1072,7 +1072,7 @@ Transcript Snippet: 12 days after Charlie was murdered, Mikey McCoy was taking i
 Anchored Artifacts: 
 Mentions: N-190, N-1
 Related Nodes: N-11000, N-10190
-Contradicts: C-13655
+Qualifies: C-13655
 Investigative Direction: Date McCoy's Fox appearances and confirm the room they were filmed in from broadcast stills.
 
 ---
@@ -1577,7 +1577,6 @@ Transcript Snippet: So George chose ancient Hebrew and he did well.
 Anchored Artifacts: 
 Mentions: N-30, N-3
 Related Nodes: N-11006
-Qualifies: C-13695
 Investigative Direction: Check Oxford theology course requirements and George's published degree classification.
 
 ---

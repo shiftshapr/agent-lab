@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:52:19",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:35:51Z",
-    "- **Transcript SHA-256**: 236fef943cef52f96fb592632078d6db31c6860180f563aebb89ad68873b8fa5",
+    "- **Transcript SHA-256**: a2528198728f1d5c6611d68bb86eada5fd46c5f47d4b952a40b859ccf1244589",
     "- **Model Version**: claude-manual-extract-seq109",
     "",
     "- **Episode Ledger Summary**:",
@@ -2489,8 +2489,8 @@
   {
    "kind": "claim",
    "id": "C-9545",
-   "header": "**C-9545** Another White House shooting incident this weekend; the perpetrator fired and was killed",
-   "label": "Another White House shooting incident this weekend; the perpetrator fired and was killed",
+   "header": "**C-9545** Host says another White House shooting incident this weekend; the perpetrator fired and was killed",
+   "label": "Host says another White House shooting incident this weekend; the perpetrator fired and was killed",
    "lines": [
     {
      "raw": ""
@@ -2663,8 +2663,8 @@
   {
    "kind": "claim",
    "id": "C-9548",
-   "header": "**C-9548** Multiple DOD offices have access to the distribution lists",
-   "label": "Multiple DOD offices have access to the distribution lists",
+   "header": "**C-9548** Host says multiple DOD offices have access to the distribution lists",
+   "label": "Host says multiple DOD offices have access to the distribution lists",
    "lines": [
     {
      "raw": ""
@@ -2720,8 +2720,8 @@
   {
    "kind": "claim",
    "id": "C-9549",
-   "header": "**C-9549** Steven Cheung was copied on the original email and did not answer the follow-up",
-   "label": "Steven Cheung was copied on the original email and did not answer the follow-up",
+   "header": "**C-9549** Host says Steven Cheung was copied on the original email and did not answer the follow-up",
+   "label": "Host says Steven Cheung was copied on the original email and did not answer the follow-up",
    "lines": [
     {
      "raw": ""
@@ -3127,8 +3127,8 @@
   {
    "kind": "claim",
    "id": "C-9556",
-   "header": "**C-9556** Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
-   "label": "Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
+   "header": "**C-9556** Host says Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
+   "label": "Host says Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
    "lines": [
     {
      "raw": ""
@@ -3193,8 +3193,8 @@
   {
    "kind": "claim",
    "id": "C-9557",
-   "header": "**C-9557** Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
-   "label": "Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
+   "header": "**C-9557** Host says Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
+   "label": "Host says Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
    "lines": [
     {
      "raw": ""
@@ -3365,8 +3365,8 @@
   {
    "kind": "claim",
    "id": "C-9560",
-   "header": "**C-9560** No indication where Kash Patel was on September 9",
-   "label": "No indication where Kash Patel was on September 9",
+   "header": "**C-9560** Host says there is no indication where Kash Patel was on September 9",
+   "label": "Host says there is no indication where Kash Patel was on September 9",
    "lines": [
     {
      "raw": ""
@@ -3480,8 +3480,8 @@
   {
    "kind": "claim",
    "id": "C-9562",
-   "header": "**C-9562** Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
-   "label": "Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
+   "header": "**C-9562** Cuccia says she was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
+   "label": "Cuccia says she was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
    "lines": [
     {
      "raw": ""
@@ -3652,8 +3652,8 @@
   {
    "kind": "claim",
    "id": "C-9565",
-   "header": "**C-9565** The script was for an AI-generated video on behalf of the White House, NSC and Gorka",
-   "label": "The script was for an AI-generated video on behalf of the White House, NSC and Gorka",
+   "header": "**C-9565** Cuccia says she was told the script was for an AI-generated video for the White House, NSC and Gorka",
+   "label": "Cuccia says she was told the script was for an AI-generated video for the White House, NSC and Gorka",
    "lines": [
     {
      "raw": ""
@@ -3766,8 +3766,8 @@
   {
    "kind": "claim",
    "id": "C-9567",
-   "header": "**C-9567** Cuccia was given a Dropbox of VFT research with seven folders",
-   "label": "Cuccia was given a Dropbox of VFT research with seven folders",
+   "header": "**C-9567** Cuccia says she was given a Dropbox of VFT research with seven folders",
+   "label": "Cuccia says she was given a Dropbox of VFT research with seven folders",
    "lines": [
     {
      "raw": ""
@@ -3880,8 +3880,8 @@
   {
    "kind": "claim",
    "id": "C-9569",
-   "header": "**C-9569** VFT collected polling on Joe Kent's resignation",
-   "label": "VFT collected polling on Joe Kent's resignation",
+   "header": "**C-9569** Cuccia says VFT collected polling on Joe Kent's resignation",
+   "label": "Cuccia says VFT collected polling on Joe Kent's resignation",
    "lines": [
     {
      "raw": ""
@@ -4051,8 +4051,8 @@
   {
    "kind": "claim",
    "id": "C-9572",
-   "header": "**C-9572** VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish",
-   "label": "VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish",
+   "header": "**C-9572** Cuccia: VFT internal comments say undermine Fuentes's Christian identity; get Walsh or Knowles to publish",
+   "label": "Cuccia: VFT internal comments say undermine Fuentes's Christian identity; get Walsh or Knowles to publish",
    "lines": [
     {
      "raw": ""
@@ -4223,8 +4223,8 @@
   {
    "kind": "claim",
    "id": "C-9575",
-   "header": "**C-9575** TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
-   "label": "TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
+   "header": "**C-9575** Host says TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
+   "label": "Host says TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
    "lines": [
     {
      "raw": ""
@@ -4281,8 +4281,8 @@
   {
    "kind": "claim",
    "id": "C-9576",
-   "header": "**C-9576** VFT data compiles information on JD Vance's 2028 run and advises politicians",
-   "label": "VFT data compiles information on JD Vance's 2028 run and advises politicians",
+   "header": "**C-9576** Cuccia says VFT data compiles information on JD Vance's 2028 run and advises politicians",
+   "label": "Cuccia says VFT data compiles information on JD Vance's 2028 run and advises politicians",
    "lines": [
     {
      "raw": ""
@@ -4338,8 +4338,8 @@
   {
    "kind": "claim",
    "id": "C-9577",
-   "header": "**C-9577** VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
-   "label": "VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
+   "header": "**C-9577** Cuccia says VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
+   "label": "Cuccia says VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
    "lines": [
     {
      "raw": ""
@@ -4862,8 +4862,8 @@
   {
    "kind": "claim",
    "id": "C-9586",
-   "header": "**C-9586** Audio of the appointment was played as Erika Kirk's walkout music at AmFest",
-   "label": "Audio of the appointment was played as Erika Kirk's walkout music at AmFest",
+   "header": "**C-9586** Host says audio of the appointment was played as Erika Kirk's walkout music at AmFest",
+   "label": "Host says audio of the appointment was played as Erika Kirk's walkout music at AmFest",
    "lines": [
     {
      "raw": ""
@@ -5154,8 +5154,8 @@
   {
    "kind": "claim",
    "id": "C-9591",
-   "header": "**C-9591** Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
-   "label": "Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
+   "header": "**C-9591** Host says Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
+   "label": "Host says Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
    "lines": [
     {
      "raw": ""
@@ -5216,8 +5216,8 @@
   {
    "kind": "claim",
    "id": "C-9592",
-   "header": "**C-9592** Netanyahu went on Fox News the day after the assassination to deny involvement",
-   "label": "Netanyahu went on Fox News the day after the assassination to deny involvement",
+   "header": "**C-9592** Host mockingly says Netanyahu went on Fox News the day after the assassination to deny involvement",
+   "label": "Host mockingly says Netanyahu went on Fox News the day after the assassination to deny involvement",
    "lines": [
     {
      "raw": ""
@@ -5332,8 +5332,8 @@
   {
    "kind": "claim",
    "id": "C-9594",
-   "header": "**C-9594** Erika Kirk had someone in Kanye West's circle leaking to her",
-   "label": "Erika Kirk had someone in Kanye West's circle leaking to her",
+   "header": "**C-9594** Host says Erika Kirk had someone in Kanye West's circle leaking to her",
+   "label": "Host says Erika Kirk had someone in Kanye West's circle leaking to her",
    "lines": [
     {
      "raw": ""
@@ -5390,8 +5390,8 @@
   {
    "kind": "claim",
    "id": "C-9595",
-   "header": "**C-9595** AIPAC spent money to remove Thomas Massie",
-   "label": "AIPAC spent money to remove Thomas Massie",
+   "header": "**C-9595** Host says Charlie Kirk would not have appreciated AIPAC spending money to remove Thomas Massie",
+   "label": "Host says Charlie Kirk would not have appreciated AIPAC spending money to remove Thomas Massie",
    "lines": [
     {
      "raw": ""

@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:08:28",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7",
+    "- **Transcript SHA-256**: 336ad997895840199f775108c6fda3288fdc3f48f5fb17bd28343d8d2259339e",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-776, N-777, N-778, N-11056",
@@ -3966,8 +3966,8 @@
   {
    "kind": "claim",
    "id": "C-10909",
-   "header": "**C-10909** Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration",
-   "label": "Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration",
+   "header": "**C-10909** Frank Turek Says Hotel, Then Hospital, While Denying He Claimed 9 Hours on FaceTime",
+   "label": "Frank Turek Says Hotel, Then Hospital, While Denying He Claimed 9 Hours on FaceTime",
    "lines": [
     {
      "raw": ""
@@ -4849,10 +4849,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10704, N-10661"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-10873"
     },
     {
      "k": "Tags",

@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–01:02:26
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:41:06Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 24ae4dc831837ca22c3049f10c8b14e92c9e52b19a72a332213431c35e47c3bb
+- **Transcript SHA-256**: 28dcf4c433ab480d6f3198d7497a7b3fd43427694de64cfed71b5bf254b15823
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11235, N-11236
@@ -787,7 +787,7 @@ Existing organization; the witness says its published shooter timing and descrip
 
 ## 5. Claim Register
 
-**C-669** GMA reached Tiffany Barker via Phil Lyman political channel
+**C-669** Host says Tiffany Barker intimated GMA reached her via Phil Lyman political channel
 
 Claim Timestamp: 00:08:33
 Claim: The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.
@@ -827,7 +827,7 @@ Investigative Direction: Obtain the original follow-up video and any car-cam foo
 
 ---
 
-**C-674** George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed
+**C-674** Host's Timeline Puts George Zinn's Arrest ~1:48 After Shot Near Charlie's SUV
 
 Claim Timestamp: 00:14:20
 Claim: Per the host's timeline, ~40 seconds from the shot until Charlie is brought to the SUV and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
@@ -840,7 +840,7 @@ Investigative Direction: Independently verify the timeline from official police 
 
 ---
 
-**C-672** George Zinn's pants fell independently of arrest
+**C-672** Host says footage shows George Zinn's pants fell before any arrest
 
 Claim Timestamp: 00:12:38
 Claim: Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.
@@ -854,7 +854,7 @@ Investigative Direction: Cross-check the walking-clip frame-by-frame against law
 Tags: open_source_investigation
 ---
 
-**C-676** Handcuffs photo shared by Utah TPUSA advertiser
+**C-676** Host says handcuffs photo was shared by Utah TPUSA advertiser
 
 Claim Timestamp: 00:15:17
 Claim: Host says the viral handcuffs photo was shared by a Utah-based individual who advertises with Turning Point USA.
@@ -880,7 +880,7 @@ Investigative Direction: Identify the blue-shirted Wirefy individual; request th
 Tags: open_source_investigation
 ---
 
-**C-681** Roof video chain routed through Chicago-based intermediaries
+**C-681** Host traces roof video chain to Chicago-based intermediaries
 
 Claim Timestamp: 00:20:07
 Claim: Host traces the viral roof footage through the account that posted it, a pair of Chicago numbers sent via the poster's friend that go nowhere, and an Aaron with a Chicago number.
@@ -947,7 +947,7 @@ Investigative Direction: Audit TPUSA donor records against FARA filings; review 
 
 ---
 
-**C-711** SD cards removed by TPUSA affiliate to prevent theft/loss
+**C-711** Kolvet thinks SD cards were removed by TPUSA team to prevent theft
 
 Claim Timestamp: 00:41:15
 Claim: In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them.
@@ -998,7 +998,7 @@ Investigative Direction: Verify official White House transcript of the statement
 
 ---
 
-**C-670** Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman
+**C-670** Host Says Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman
 
 Claim Timestamp: 00:08:33
 Claim: Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman.
@@ -1011,7 +1011,7 @@ Investigative Direction: Verify Leman's 2024 lt. gov. running mate name and fami
 
 ---
 
-**C-737** Kash Patel indicated more parties involved than Robinson alone
+**C-737** Host says Kash Patel indicated more parties involved than Robinson alone
 
 Claim Timestamp: 00:59:20
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
@@ -1050,7 +1050,7 @@ Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the
 
 ---
 
-**C-659** Charlie was not wearing an earpiece
+**C-659** Host says she verified Charlie was not wearing an earpiece
 
 Claim Timestamp: 00:01:43
 Claim: Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.
@@ -1063,7 +1063,7 @@ Investigative Direction: Locate the high-resolution footage and clothing item Ch
 
 ---
 
-**C-660** Charlie was not wearing a bulletproof vest
+**C-660** Host says she verified Charlie was not wearing a bulletproof vest
 
 Claim Timestamp: 00:02:06
 Claim: Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.

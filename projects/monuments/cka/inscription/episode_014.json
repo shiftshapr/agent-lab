@@ -1864,7 +1864,7 @@
       "@type": "Claim",
       "@id": "C-1257",
       "ref": "C-1257",
-      "label": "ADL Shares Connecticut Office Space with FBI",
+      "label": "Kyle Undercover Thread Says ADL Shares Connecticut Office Space with FBI",
       "claim": "Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Connecticut office space with the FBI, with ADL offices also reportedly co-located with the United Nations in New York.",
       "anchored_artifacts": [
         "A-1211.1"
@@ -1957,7 +1957,9 @@
       "related_nodes": [
         "N-10155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:17:21–00:18:53",
       "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.",
       "mentions_person_refs": [
@@ -1970,7 +1972,7 @@
       "@type": "Claim",
       "@id": "C-1263",
       "ref": "C-1263",
-      "label": "Lyman Family Member Identified Possible Female Accomplice",
+      "label": "Lyman Family Member Raised Possibility of a Female Accomplice",
       "claim": "A Lyman family member, in a public clip, identified a timing anomaly in the suspect's movements and raised the possibility that a female accomplice assisted the shooter.",
       "anchored_artifacts": [
         "A-1214.1"

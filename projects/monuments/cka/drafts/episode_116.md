@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:14:28
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:44:51Z
-- **Transcript SHA-256**: 2865a9d56acee8144f7dfdfc4058179e5766001a04f9d76441ddbe53abe0b055
+- **Transcript SHA-256**: a2c4075f77a8a1d3d5459ca98218472865fef6712e375976bf7203174cfbd5e9
 - **Model Version**: claude-manual-extract-seq116
 
 - **Episode Ledger Summary**:
@@ -728,7 +728,7 @@ Investigative Direction: Locate Jon Bray's X posts on the theory and their earli
 
 ---
 
-**C-9980** Charlie Kirk always preferred a single handheld microphone
+**C-9980** Host says Charlie Kirk always preferred a handheld microphone
 
 Claim Timestamp: 00:04:06
 
@@ -773,7 +773,7 @@ Investigative Direction: Identify the exact microphone model used on September 1
 
 ---
 
-**C-9983** A shaped charge can act directionally like a bullet
+**C-9983** Host says a shaped charge can act directionally like a bullet
 
 Claim Timestamp: 00:08:07
 
@@ -788,7 +788,7 @@ Investigative Direction: Consult explosives experts on whether a microphone-size
 
 ---
 
-**C-9984** Bomb dogs on scene were not brought to where Charlie Kirk sat
+**C-9984** Host says bomb dogs on scene were not brought to where Charlie Kirk sat
 
 Claim Timestamp: 00:13:08
 
@@ -803,7 +803,7 @@ Investigative Direction: Obtain K9 deployment logs from the agencies on scene at
 
 ---
 
-**C-9985** Bomb dogs can detect trace explosives for up to 10 days
+**C-9985** Host says bomb dogs can detect trace explosives for up to 10 days
 
 Claim Timestamp: 00:13:08
 
@@ -818,7 +818,7 @@ Investigative Direction: Check published K9 detection research for residue persi
 
 ---
 
-**C-9986** No evidence the rifle was fired on September 10
+**C-9986** Host says there is no evidence the rifle was fired on September 10
 
 Claim Timestamp: 00:14:05
 
@@ -882,7 +882,7 @@ Investigative Direction: Identify the station and air date of the report and mat
 
 ---
 
-**C-9990** A .30-06 round would have nearly decapitated Charlie Kirk
+**C-9990** Host asserts a .30-06 round would have nearly decapitated Charlie Kirk
 
 Claim Timestamp: 00:20:26
 
@@ -928,7 +928,7 @@ Investigative Direction: Review the full September 16 TPUSA Zoom recording to id
 
 ---
 
-**C-9993** Outside the front wound, Charlie Kirk's body was in very good condition
+**C-9993** Host says that outside the front wound, Charlie Kirk's body was in very good condition
 
 Claim Timestamp: 00:21:49
 
@@ -958,7 +958,7 @@ Investigative Direction: Identify the test video's source and verify the glass r
 
 ---
 
-**C-9995** A .30-06 can pierce most bulletproof glass but 20 g of PETN cannot
+**C-9995** Host says a .30-06 can pierce most bulletproof glass but 20 g of PETN cannot
 
 Claim Timestamp: 00:23:18
 
@@ -973,7 +973,7 @@ Investigative Direction: Compare published NIJ level ratings for .30-06 penetrat
 
 ---
 
-**C-9996** Terryl Farnsworth was instructed to take the SD card from the back camera
+**C-9996** Host says Terryl Farnsworth was instructed to take the SD card from the back camera
 
 Claim Timestamp: 00:24:11
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Have the SUV shards forensically analyzed or obtain any
 
 ---
 
-**C-9999** The transport SUV was towed, cleaned, towed again and put up for resale
+**C-9999** Host says the transport SUV was towed, cleaned, towed again and put up for resale
 
 Claim Timestamp: 00:25:46
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Trace the vehicle's VIN through tow, detailing and auct
 
 ---
 
-**C-10000** Shards appear in the captain chair where Charlie Kirk's body was placed
+**C-10000** Host says shards appear in the captain chair where Charlie Kirk's body was placed
 
 Claim Timestamp: 00:26:45
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Identify the lawyer and confirm the date of the call.
 
 ---
 
-**C-10006** Five other sets of prints are on Tyler Robinson's rifle
+**C-10006** Host says five other sets of prints are on Tyler Robinson's rifle
 
 Claim Timestamp: 00:31:18
 
@@ -1141,7 +1141,7 @@ Investigative Direction: Obtain the latent print report on the rifle from the co
 
 ---
 
-**C-10007** Police did not perform a gunshot residue test on Tyler Robinson
+**C-10007** Host says police did not perform a gunshot residue test on Tyler Robinson
 
 Claim Timestamp: 00:32:07
 
@@ -1171,7 +1171,7 @@ Investigative Direction: Compare the charging documents' description of the text
 
 ---
 
-**C-10009** TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial
+**C-10009** Host says TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial
 
 Claim Timestamp: 00:33:34
 
@@ -1262,7 +1262,7 @@ Investigative Direction: Obtain the FaceTime session logs from Turek's or his so
 
 ---
 
-**C-10015** Kash Patel instructed the feds to take the hospital footage
+**C-10015** Host says Kash Patel instructed the feds to take the hospital footage
 
 Claim Timestamp: 00:38:35
 
@@ -1412,7 +1412,7 @@ Investigative Direction: Archive the FBI post and the acknowledgment letter it r
 
 ---
 
-**C-10025** FBI has held documents requested by Tyler Robinson's defense since September
+**C-10025** Host says FBI has held documents requested by Tyler Robinson's defense since September
 
 Claim Timestamp: 00:50:52
 
@@ -1442,7 +1442,7 @@ Investigative Direction: Archive all FBI account posts addressed to the host tha
 
 ---
 
-**C-10027** DOJ staged influencers holding effectively empty Epstein binders
+**C-10027** Host says DOJ had influencers pose with effectively empty Epstein binders
 
 Claim Timestamp: 00:52:57
 
@@ -1501,7 +1501,7 @@ Investigative Direction: None needed beyond the host's correction; identity is w
 
 ---
 
-**C-10031** VA gives veterans drugs that are illegal in Russia
+**C-10031** Host says VA gives veterans drugs she says are illegal in Russia
 
 Claim Timestamp: 00:58:29
 
@@ -1562,7 +1562,7 @@ Investigative Direction: Obtain FBI evidence logs for the necklace's recovery.
 
 ---
 
-**C-10035** The necklace broke before Charlie Kirk reacted to the wound
+**C-10035** Host says the necklace broke before Charlie Kirk reacted to the wound
 
 Claim Timestamp: 01:09:28
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Frame-by-frame analysis of the back-camera and audience
 
 ---
 
-**C-10037** Connor Henderson was interning in the Timpanogos ER
+**C-10037** Host says Connor Henderson was interning in the Timpanogos ER
 
 Claim Timestamp: 01:09:55
 
@@ -1589,11 +1589,12 @@ Anchored Artifacts: A-2676.3
 Mentions: N-414, N-410
 Related Nodes: N-10529, N-10088
 Supports: C-7798
+Tags: relevance:tangential
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
 
 ---
 
-**C-10036** Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House
+**C-10036** Host Says Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House
 
 Claim Timestamp: 01:09:28
 

@@ -16,7 +16,7 @@
     "- **Video Timestamp Range**: 00:00:00–01:05:08",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772",
+    "- **Transcript SHA-256**: 28a183b1500c4ed160751597079af08a3e0646ed1e421af1df681f90fb62140c",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-901, N-11237",
@@ -4288,8 +4288,8 @@
   {
    "kind": "claim",
    "id": "C-1459",
-   "header": "**C-1459** O'Neill identifies visible wound as exit wound",
-   "label": "O'Neill identifies visible wound as exit wound",
+   "header": "**C-1459** O'Neill says visible wound appeared to be an exit wound",
+   "label": "O'Neill says visible wound appeared to be an exit wound",
    "lines": [
     {
      "raw": ""
@@ -5032,8 +5032,8 @@
   {
    "kind": "claim",
    "id": "C-1480",
-   "header": "**C-1480** Lance Twiggs was raided but released within 6 hours",
-   "label": "Lance Twiggs was raided but released within 6 hours",
+   "header": "**C-1480** Family says Lance Twiggs was raided but released within 6 hours",
+   "label": "Family says Lance Twiggs was raided but released within 6 hours",
    "lines": [
     {
      "raw": ""
@@ -5078,8 +5078,8 @@
   {
    "kind": "claim",
    "id": "C-1483",
-   "header": "**C-1483** Apartment locks illegally changed after raid",
-   "label": "Apartment locks illegally changed after raid",
+   "header": "**C-1483** Lance's family says apartment locks were illegally changed after raid",
+   "label": "Lance's family says apartment locks were illegally changed after raid",
    "lines": [
     {
      "raw": ""
@@ -5161,6 +5161,10 @@
      "v": "N-10166"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records."
     },
@@ -5178,8 +5182,8 @@
   {
    "kind": "claim",
    "id": "C-1471",
-   "header": "**C-1471** George Zinn has potential familial connections to a federal department",
-   "label": "George Zinn has potential familial connections to a federal department",
+   "header": "**C-1471** Tip relayed by Candace says George Zinn has potential familial connections to a federal department",
+   "label": "Tip relayed by Candace says George Zinn has potential familial connections to a federal department",
    "lines": [
     {
      "raw": ""
@@ -7091,7 +7095,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8615,7 +8619,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

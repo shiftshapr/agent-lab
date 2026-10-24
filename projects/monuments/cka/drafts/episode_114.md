@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:02:38
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:43:48Z
-- **Transcript SHA-256**: e59ef23947937abb11240bb4332ca23fd6de863e534d55478de53e8073ce29e1
+- **Transcript SHA-256**: 02db69ec8c6b86abafa02bdc2ec794bade214b69e31e452f1268b9e1ec658d52
 - **Model Version**: claude-manual-extract-seq114
 
 - **Episode Ledger Summary**:
@@ -777,7 +777,7 @@ Investigative Direction: Identify withheld Butler investigation records through 
 
 ---
 
-**C-9876** Trump did not fire the Secret Service agents who failed at Butler
+**C-9876** Host says Trump did not fire the Secret Service agents who failed at Butler
 
 Claim Timestamp: 00:10:28
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain call records or testimony from Kirk's staff abou
 
 ---
 
-**C-9886** Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks
+**C-9886** Host says Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks
 
 Claim Timestamp: 00:17:29
 
@@ -983,7 +983,7 @@ Investigative Direction: Review the full video of Carlson's July 11, 2025 SAS sp
 
 ---
 
-**C-9890** Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo
+**C-9890** Host says Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo
 
 Claim Timestamp: 00:19:42
 
@@ -1013,7 +1013,7 @@ Investigative Direction: Check TPUSA Faith leadership listings and Calvary Chape
 
 ---
 
-**C-9892** Erika Kirk did not attend the Student Action Summit
+**C-9892** Host says Erika Kirk did not attend the Student Action Summit
 
 Claim Timestamp: 00:20:49
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary 
 
 ---
 
-**C-9894** James Kaddis made a PragerU video as an Egyptian pastor who supports Israel
+**C-9894** Host says James Kaddis made a PragerU video as an Egyptian pastor who supports Israel
 
 Claim Timestamp: 00:21:49
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Locate the PragerU video and confirm the speaker's iden
 
 ---
 
-**C-9895** The UVU request went in on July 18 and its submitter is unknown
+**C-9895** Host says the UVU request went in on July 18 and its submitter is unknown
 
 Claim Timestamp: 00:23:28
 
@@ -1073,7 +1073,7 @@ Investigative Direction: Obtain the UVU event request record and submitter ident
 
 ---
 
-**C-9896** Charlie Kirk vacationed in Maine around July 20–30 with the McCoys
+**C-9896** Host says Charlie Kirk vacationed in Maine around July 20–30 with the McCoys
 
 Claim Timestamp: 00:23:28
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Check photo metadata of the Maine images and the McCoys
 
 ---
 
-**C-9897** Yrefy became the fall tour's number one sponsor via an addendum
+**C-9897** Host says Yrefy became the fall tour's number one sponsor via an addendum
 
 Claim Timestamp: 00:23:28
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Ask Tucker Carlson to confirm or deny the remark.
 
 ---
 
-**C-9902** After the assassination Erika Kirk appeared with Bari Weiss saying anti-Israel people have "brain rot"
+**C-9902** Host says Erika Kirk appeared with Bari Weiss after the assassination saying anti-Israel people have "brain rot"
 
 Claim Timestamp: 00:28:47
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Compare dates of Kolvet's denial and Clark's statement;
 
 ---
 
-**C-9904** The Hamptons retreat was an intervention Erika Kirk attended
+**C-9904** Host says Charlie Kirk called the Hamptons retreat an intervention and Erika Kirk attended
 
 Claim Timestamp: 00:33:05
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Obtain attendee lists and Charlie Kirk's own descriptio
 
 ---
 
-**C-9905** Netanyahu offered to take TPUSA to the next level and Charlie declined
+**C-9905** Host says Netanyahu offered to take TPUSA to the next level and Charlie declined
 
 Claim Timestamp: 00:33:05
 
@@ -1221,7 +1221,7 @@ Investigative Direction: Seek testimony from those aware of the Netanyahu call a
 
 ---
 
-**C-9906** Erika Kirk went to the August 15 Aspen retreat but not the meeting
+**C-9906** Host says Erika Kirk went to the August 15 Aspen retreat but not the meeting
 
 Claim Timestamp: 00:33:45
 
@@ -1236,7 +1236,7 @@ Investigative Direction: Ask Aspen attendees whether Erika Kirk was in the room 
 
 ---
 
-**C-9907** Erika Kirk was back in the office within two days of the assassination
+**C-9907** Host says Erika Kirk was back in the office within two days of the assassination
 
 Claim Timestamp: 00:38:10
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Establish the date and context of the host's meeting wi
 
 ---
 
-**C-9909** Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest
+**C-9909** Host says under Erika Kirk TPUSA deepened its IFCJ partnership and invited Weiss and Shapiro to AmFest
 
 Claim Timestamp: 00:40:29
 
@@ -1295,7 +1295,7 @@ Investigative Direction: Confirm Hansell's title and confirmation record.
 
 ---
 
-**C-9911** Reaching out to Brian Harpole produced a lawsuit rather than evidence
+**C-9911** Host says reaching out to Brian Harpole produced a lawsuit rather than evidence
 
 Claim Timestamp: 00:42:15
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Obtain Harpole's travel and location records for Septem
 
 ---
 
-**C-9912** Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8
+**C-9912** Host says Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8
 
 Claim Timestamp: 00:42:15
 
@@ -1325,7 +1325,7 @@ Investigative Direction: Obtain the SAM702 manifest for the Tucson-to-Fort Huach
 
 ---
 
-**C-9913** The plane flew to El Paso on September 9 and stayed 4 hours 10 minutes
+**C-9913** Host says the plane flew to El Paso on September 9 and stayed 4 hours 10 minutes
 
 Claim Timestamp: 00:43:16
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Pull ADS-B data for SAM702 on September 9, 2025.
 
 ---
 
-**C-9914** Hansell's 19-hour Fort Huachuca stop was the longest of the trip
+**C-9914** Host says Hansell's 19-hour Fort Huachuca stop was the longest of the trip
 
 Claim Timestamp: 00:43:16
 

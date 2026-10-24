@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:52
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
+- **Transcript SHA-256**: 0f76bf1358d1070a8295c81498f10f623474b3db4055b358200dbc94e0f87ac5
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-805, N-806, N-807, N-11105, N-11106
@@ -784,7 +784,7 @@ Investigative Direction: Obtain direct documentary confirmation (call logs, eyew
 
 ---
 
-**C-7356** Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address
+**C-7356** Host's outreach says Hopkinson Aircrafts occupies a separate building using Atlantic Aviation's mail
 
 Claim Timestamp: 00:13:06
 
@@ -857,7 +857,7 @@ Investigative Direction: Obtain full text thread with carrier-verified timestamp
 
 ---
 
-**C-7389** N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST
+**C-7389** Host says N40JD plane left Scottsdale about an hour after Charlie Kirk was shot, landed Provo 2:29 PM MST
 
 Claim Timestamp: 00:39:16
 
@@ -904,7 +904,7 @@ Investigative Direction: Verify the Comando Vermelho footage, dates, and circums
 
 ---
 
-**C-7394** Joe Kent acknowledged federal investigators did not thoroughly pursue other leads
+**C-7394** Host says Joe Kent stated federal investigators did not thoroughly pursue other leads
 
 Claim Timestamp: 00:43:38
 
@@ -1296,7 +1296,7 @@ Transcript Snippet: we learned that he did answer Aubrey um, on a separate Teleg
 Anchored Artifacts: A-2939.1
 Mentions: N-3, N-14, N-550, N-689
 Related Nodes: N-10507
-Revises: C-7296
+Qualifies: C-7296
 Tags: relevance:core
 Investigative Direction: Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025.
 Open Questions: Q-695
@@ -1421,7 +1421,7 @@ Open Questions: Q-709
 
 ---
 
-**C-7379** Kolvet says Charlie's texts came about 33 minutes before he was killed
+**C-7379** Kolvet says he thinks Charlie's texts came about 33 minutes before he was killed
 
 Claim Timestamp: 00:32:29
 
@@ -1664,8 +1664,8 @@ Transcript Snippet: Tyler Robinson's parents see that photo and think, "That loo
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40
 Related Nodes: N-10932
-Contradicts: C-3999
 Supports: C-3227
+Contradicts: C-3999
 Tags: relevance:core
 Verification: contradicted-by-record
 Verification Evidence: S-4

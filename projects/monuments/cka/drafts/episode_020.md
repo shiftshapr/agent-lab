@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–01:10:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
+- **Transcript SHA-256**: b3319c5558ff3ff44465f28e452e8c1d184e8edac73cd3200011703f38abdc4d
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-902, N-903, N-904, N-905, N-11239, N-11240, N-11241, N-11242
@@ -1457,7 +1457,7 @@ Investigative Direction: Identify date and outlet of Turk's full segment; confir
 
 ---
 
-**C-1893** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
+**C-1893** Host displays a hospital internal message restricting a trauma patient's chart to two named individuals
 
 Claim Timestamp: 00:34:15
 
@@ -1471,7 +1471,7 @@ Investigative Direction: Obtain independent verification of the message (forensi
 
 ---
 
-**C-1885** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
+**C-1885** Host says tips indicate a Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
 
 Claim Timestamp: 00:32:30–00:35:00
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; 
 
 ---
 
-**C-1861** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
+**C-1861** George Webb ties Rob McCoy to the NAR-aligned Ziklag donor network
 
 Claim Timestamp: 00:24:50
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Obtain independent verification of Ziklag's donor list 
 
 ---
 
-**C-1928** Brigitte Macron is registered on French tax forms as "Jean-Michel" male
+**C-1928** Host says Brigitte Macron is registered on French tax forms as "Jean-Michel" male
 
 Claim Timestamp: 00:57:00
 
@@ -2806,7 +2806,6 @@ Transcript Snippet: I think I said UVU medical. I meant to say&nbsp; Utah Valley
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10188, N-11241
-Qualifies: C-1885
 Tags: relevance:core
 Investigative Direction: Identify the hospital system that holds the alleged record and request confirmation.
 Open Questions: Q-225

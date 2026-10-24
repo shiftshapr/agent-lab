@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:07:17
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
+- **Transcript SHA-256**: 7f1ff5de09d7d6f35f37c126895cdbce30f26f4ecc279cb3f0c28bc259fa4883
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-11144, N-11145, N-11146
@@ -1070,7 +1070,7 @@ Investigative Direction: Obtain photographs of the pendant from TPUSA or family 
 
 ---
 
-**C-2426** Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk
+**C-2426** Host Says a Priest Is Visible in Backstage Ole Miss Video Behind Jesse Watters and Erika Kirk
 
 Claim Timestamp: 00:15:23
 
@@ -1139,7 +1139,6 @@ Transcript Snippet: She says, "Since some of you guys are struggling, no venue y
 Anchored Artifacts: A-1347.2
 Mentions: N-227
 Related Nodes: N-10211
-Revises: C-2448
 Confidence: high
 Investigative Direction: Read with C-2448; obtain the underlying text thread to verify Allie's characterization of venue status.
 
@@ -2085,7 +2084,7 @@ Transcript Snippet: You postponed having to read ads and said that you made them
 Anchored Artifacts: 
 Mentions: N-3, N-99
 Related Nodes: N-11146
-Contradicts: C-2468
+Qualifies: C-2468
 Tags: relevance:context
 Investigative Direction: Review Clark's later episodes for make-good ad reads and her statements about them.
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:27
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
+- **Transcript SHA-256**: fcb7aa98357ab70c81e3b78082e0f7725f74411d328a994b8c8b2099e987cc98
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11179, N-11180, N-11181
@@ -1073,6 +1073,7 @@ Mentions: N-42
 
 Related Nodes:
 
+Tags: relevance:tangential
 Investigative Direction: Obtain New York Post article referenced and court records for George Zinn's case.*
 
 *Optional Flag: Artifact verbally referenced but not shown.*
@@ -1190,7 +1191,7 @@ Investigative Direction: Obtain the May–June 2022 Utah County Sheriff's Office
 
 ---
 
-**C-13152** Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility
+**C-13152** Host, citing Bulwark, says Matt Tardio pled no contest to felony coercion over an October 2025 ICE-facility incident
 
 Claim Timestamp: 00:38:56–00:41:02
 
@@ -1201,6 +1202,7 @@ Mentions: N-587
 
 Related Nodes:
 
+Tags: relevance:tangential
 Investigative Direction: Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*
 
 ---
@@ -1248,6 +1250,7 @@ Mentions: N-2
 
 Related Nodes: N-10755
 
+Tags: relevance:tangential
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 
 ---
@@ -1299,6 +1302,7 @@ Mentions: N-42
 
 Related Nodes:
 
+Tags: relevance:tangential
 Investigative Direction: Pull George Zinn's Utah court records for sentencing outcomes.*
 
 *Optional Flag: Artifact verbally referenced but not shown.*
@@ -1350,7 +1354,7 @@ Transcript Snippet: Colonel Otto B O Busher of course was accused of running a b
 Anchored Artifacts: A-2382.1
 Mentions: N-687, N-2
 Related Nodes: N-11081
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.
 
 ---
@@ -1366,7 +1370,7 @@ Transcript Snippet: David Frodsham. He was the civilian commander that was stati
 Anchored Artifacts: A-2382.1
 Mentions: N-384
 Related Nodes: N-10390
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.
 
 ---
@@ -1721,7 +1725,7 @@ Transcript Snippet: our decoy boy number one, George Zinn, who created a distrac
 Anchored Artifacts: 
 Mentions: N-42
 Related Nodes: N-10032
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Collect eyewitness video and police reports of Zinn's shouting and timing relative to the shot.
 Open Questions: Q-28
 
@@ -1856,7 +1860,7 @@ Transcript Snippet: George Zinn being the exception here as someone who was comm
 
 Anchored Artifacts: A-3084.1
 Mentions: N-42
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain the diagram source and verify each person's listed career against official bios.
 Open Questions: Q-1188
 
@@ -2417,7 +2421,7 @@ Anchored Artifacts: A-3085.1
 Mentions: N-587
 Related Nodes: N-11181
 Supports: C-13152
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Bulwark report, the Portland police report and the court docket.
 
 ---

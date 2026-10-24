@@ -2135,7 +2135,7 @@
       "@type": "Claim",
       "@id": "C-9057",
       "ref": "C-9057",
-      "label": "Marcus Wada provides AI voice services for TPUSA presentations",
+      "label": "Source Says Marcus Wada Provides AI Voice Services for TPUSA Presentations",
       "claim": "The host says, citing information from a source who came forward, that Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.",
       "anchored_artifacts": [
         "A-2068.1"
@@ -2156,7 +2156,7 @@
       "@type": "Claim",
       "@id": "C-9058",
       "ref": "C-9058",
-      "label": "TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations",
+      "label": "Source Says TPUSA Typically Uses AI-Cloned Voice of Pastor John Amanchukwu in Presentations",
       "claim": "Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice. The host says she is sure it is done with his permission.",
       "anchored_artifacts": [
         "A-2068.2"
@@ -2300,7 +2300,7 @@
       "@type": "Claim",
       "@id": "C-9075",
       "ref": "C-9075",
-      "label": "ASU did not offer international relations degree in 2012",
+      "label": "Researchers Say ASU Did Not Offer an International Relations Degree in 2012",
       "claim": "Per Baron Coleman and other online researchers, Arizona State University did not offer an international relations degree program at all in 2012, when Erika Kirk claims to have graduated.",
       "anchored_artifacts": [
         "A-2072.1"
@@ -2455,7 +2455,7 @@
       "@type": "Claim",
       "@id": "C-9135",
       "ref": "C-9135",
-      "label": "Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son",
+      "label": "Host Says Paramount Tactical Admitted the Fort Huachuca Alibi Photo Boy Is Not Erika Kirk's Son",
       "claim": "The host says Paramount Tactical admitted over the weekend that the boy in the Fort Huachuca alibi photograph is not Erika Kirk's son, and that someone very close to the family told her the child is neither of Erika's children.",
       "anchored_artifacts": [
         "A-2075.3"
@@ -2476,7 +2476,7 @@
       "@type": "Claim",
       "@id": "C-9136",
       "ref": "C-9136",
-      "label": "Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
+      "label": "Host Says Andrew Kolvet Coordinated Erika Alibi Pushback With Paramount Tactical and Valhalla",
       "claim": "Per the host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts, including the alibi photo given for Erika Kirk, to push back on the Fort Huachuca allegations, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
       "anchored_artifacts": [
         "A-2075.2",
@@ -4253,7 +4253,8 @@
         "N-10921"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:51:41",
       "investigative_direction": "Compare their messages to the host with their calls to Mitch.",

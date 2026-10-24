@@ -1930,7 +1930,9 @@
         "A-2426.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.",
       "mentions_person_refs": [
@@ -2234,7 +2236,7 @@
       "@type": "Claim",
       "@id": "C-12918",
       "ref": "C-12918",
-      "label": "If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM",
+      "label": "Host's timeline: if the receipt is confirmed, Tyler Robinson could not have reached Orem before ~1:47 AM",
       "claim": "Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.",
       "anchored_artifacts": [
         "A-2433.1"
@@ -2254,7 +2256,7 @@
       "@type": "Claim",
       "@id": "C-12908",
       "ref": "C-12908",
-      "label": "The Cowboy Smokehouse has received harassment (bad reviews) since July",
+      "label": "Host says the Cowboy Smokehouse has apparently been harassed with bad reviews since July",
       "claim": "The host states that, apparently, since July the restaurant has been \"severely harassed\" with bad reviews, characterizing the activity as \"completely psychotic.\"",
       "anchored_artifacts": [
         "A-2433.1"
@@ -2271,7 +2273,7 @@
       "@type": "Claim",
       "@id": "C-12909",
       "ref": "C-12909",
-      "label": "The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect",
+      "label": "Host says Cowboy Smokehouse owner contacted the FBI after the server believed he served the suspect",
       "claim": "Per the host's account, the server contacted the owner after believing he had served the suspect; the owner then contacted the FBI.",
       "anchored_artifacts": [
         "A-2433.1"
@@ -3473,7 +3475,7 @@
       "@type": "Claim",
       "@id": "C-12879",
       "ref": "C-12879",
-      "label": "Footage Shows Turek Getting Into the Boot of the SUV",
+      "label": "Host Says Footage Shows Turek Getting Into the Boot of the SUV",
       "claim": "The host says that after Harreff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.",
       "anchored_artifacts": [
         "A-2432.2"

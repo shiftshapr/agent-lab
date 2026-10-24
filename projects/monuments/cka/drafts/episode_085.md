@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:00:18
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f
+- **Transcript SHA-256**: 70cca38fbfd784c8fbecd3e6fbe98f771b956ae41740e95456b1fcc264f0c744
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11313
@@ -1146,7 +1146,7 @@ Investigative Direction: Verify whether this allegation appears in formal charge
 
 ---
 
-**C-7576** Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators
+**C-7576** Host Says Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Led the Alleged Conspiracy
 
 Claim Timestamp: 00:10:32
 
@@ -1155,11 +1155,12 @@ Claim: The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, 
 Anchored Artifacts: A-1903.1
 Mentions: N-409, N-408, N-397
 Related Nodes: N-10519
+Tags: relevance:tangential
 Investigative Direction: Verify role assignments via French court documents.
 
 ---
 
-**C-7578** Daniel Beaulieu Attempted Suicide in Prison
+**C-7578** Host Says Daniel Beaulieu Had an Apparent Suicide Attempt in Prison
 
 Claim Timestamp: 00:11:16
 
@@ -1208,7 +1209,7 @@ Investigative Direction: Verify against other witness accounts of the moment.
 
 ---
 
-**C-7600** Stacy Sheridan and Katherine Locastro identified as with Erika
+**C-7600** Frank Turek says Stacy Sheridan and Katherine Locastro were with Erika
 
 Claim Timestamp: 00:20:50
 
@@ -1281,6 +1282,8 @@ Claim: Governor Cox stated that Robinson had "confessed to them or implied that 
 Anchored Artifacts: A-1907.1
 Mentions: N-41, N-40
 Related Nodes: N-10021
+Contradicts: C-7625, C-7627
+Qualifies: C-7626
 Investigative Direction: Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.
 
 ---
@@ -1315,7 +1318,7 @@ Investigative Direction: Verify against other sources.
 
 ---
 
-**C-7640** Robinson's parents convinced him not to go to remote area
+**C-7640** Sheriff Brooksby says Robinson's parents convinced him not to go to remote area
 
 Claim Timestamp: 00:36:15
 
@@ -1330,7 +1333,7 @@ Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
 
-**C-7661** Friend drove Robinson and parents to Sheriff's office
+**C-7661** Sheriff Brooksby says friend drove Robinson and parents to Sheriff's office
 
 Claim Timestamp: 00:41:56
 
@@ -1360,7 +1363,7 @@ Investigative Direction: Compare with Cox's framing of an outright confession (C
 
 ---
 
-**C-7669** Erika Kirk was on plane when Charlie was pronounced dead
+**C-7669** NYT reports Erika Kirk was on plane when Charlie was pronounced dead
 
 Claim Timestamp: 00:50:16
 
@@ -1399,7 +1402,7 @@ Investigative Direction: Obtain official Washington County Commission statement 
 
 ---
 
-**C-7619** Brooksby resignation occurred on a Friday
+**C-7619** Host says Brooksby resignation occurred on a Friday
 
 Claim Timestamp: 00:28:15
 
@@ -1666,7 +1669,7 @@ Transcript Snippet: the hitmen say that Daniel is the one that told them that th
 Anchored Artifacts: A-1903.1
 Mentions: N-409, N-3
 Related Nodes: N-10519
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check French court reporting for the hitmen's statements naming Balou as the source of the government claim.
 
 ---
@@ -2295,7 +2298,6 @@ Anchored Artifacts:
 Mentions: N-40, N-3
 Related Nodes: N-10021, N-10022
 Supports: C-1481
-Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Request the charging documents and any signed statements; compare with the Governor's 'confessed or implied' wording and the probable-cause affidavit.
 Open Questions: Q-713
@@ -2313,7 +2315,6 @@ Transcript Snippet: None of this has been presented as evidence and said, I was 
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10021
-Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Check the probable-cause statement and docket for any recorded or signed admission, and for a statement by Robinson's father.
 Open Questions: Q-713
@@ -2331,7 +2332,6 @@ Transcript Snippet: Tyler Robinson repeatedly said that he was not guilty, that 
 Anchored Artifacts: 
 Mentions: N-40, N-125, N-3
 Related Nodes: N-10021, N-10136
-Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Seek the source and any corroborating witnesses; compare with Brooksby's statement that Robinson had suicidal ideation and was talked down by his parents.
 Open Questions: Q-34, Q-713
@@ -2581,7 +2581,7 @@ Transcript Snippet: I think he was working with the feds on trying to to get Tyl
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-3
 Related Nodes: N-10136
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: No evidence is offered; seek records of any federal contact with Mitchell before the surrender.
 Open Questions: Q-21, Q-731
 
@@ -2771,7 +2771,7 @@ Transcript Snippet: never says that he signed a statement, never says that he sa
 Anchored Artifacts: 
 Mentions: N-272, N-40, N-775, N-3
 Related Nodes: N-10021, N-11360
-Contradicts: C-7656
+Qualifies: C-7656
 Tags: relevance:core
 Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).
 Open Questions: Q-713, Q-735

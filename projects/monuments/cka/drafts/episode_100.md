@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:08:59
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:30:15Z
-- **Transcript SHA-256**: b431db12fe6cfaee417ec617c35007447f9925f4319f577ec5e0dc347f7bba8f
+- **Transcript SHA-256**: 88e6fc395487f149b440a7ab55c47b0a5fa87e997676d4fb0042c41f63affef2
 - **Model Version**: claude-manual-extract-seq100
 
 - **Episode Ledger Summary**:
@@ -605,7 +605,7 @@ Investigation target: the pending child sexual abuse material case against forme
 
 ## 5. Claim Register
 
-**C-8921** Harpole's lawyers have begun sending preservation orders
+**C-8921** Host Says Harpole's Lawyers Have Begun Sending Preservation Orders
 
 Claim Timestamp: 00:01:19
 
@@ -770,7 +770,7 @@ Investigative Direction: Archive the original Bednarz posts with URLs and timest
 
 ---
 
-**C-8932** Bednarz was served a preservation order by Dhillon Law Group, not sued
+**C-8932** Host Says Bednarz Told Her He Was Served a Preservation Order by Dhillon Law Group, Not Sued
 
 Claim Timestamp: 00:09:54
 
@@ -814,7 +814,7 @@ Investigative Direction: Obtain the host's message history with Bednarz and any 
 
 ---
 
-**C-8935** Bednarz shifted to pushing Harpole material in December
+**C-8935** Host Says Bednarz Shifted to Pushing Harpole Material in December
 
 Claim Timestamp: 00:12:15
 
@@ -870,6 +870,7 @@ Transcript Snippet: We can do it the hard way and tie her to a con artist with a
 Anchored Artifacts: A-2548.2
 Mentions: N-361, N-3
 Related Nodes: N-10820
+Tags: relevance:tangential
 Investigative Direction: Authenticate the message and its sender, and check court records before relying on any allegation about Mitch Snow's past.
 
 ---
@@ -937,7 +938,7 @@ Investigative Direction: Seek any recording or notes of the December 15, 2025 me
 
 ---
 
-**C-8943** Erika's photo alibi sent via Kolvet showed the wrong dates
+**C-8943** Host Says Erika's Photo Alibi Sent via Kolvet Showed the Wrong Dates
 
 Claim Timestamp: 00:19:02
 
@@ -1013,7 +1014,7 @@ Investigative Direction: Review the full Jesse Watters interview transcript for 
 
 ---
 
-**C-8948** The Kirks' September 9 dinner was with Father Klein
+**C-8948** Host Says the Kirks' September 9 Dinner Was With Father Klein
 
 Claim Timestamp: 00:21:38
 
@@ -1027,7 +1028,7 @@ Investigative Direction: Confirm the September 9, 2025 dinner and its location w
 
 ---
 
-**C-8949** Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th
+**C-8949** Host Says Paramount Tactical's Gary Confirmed Kolvet's Messages Referred to the 9th
 
 Claim Timestamp: 00:21:38
 
@@ -1087,7 +1088,7 @@ Investigative Direction: Obtain Daily Wire travel and expense records for intern
 
 ---
 
-**C-8953** Boreing used Alyssa Cordova to pass material to Ian Miles Cheong
+**C-8953** Host Alleges Boreing Used Alyssa Cordova to Pass Material to Ian Miles Cheong
 
 Claim Timestamp: 00:28:52
 
@@ -1158,6 +1159,7 @@ Transcript Snippet: public records and documents have surfaced alleging that Can
 Anchored Artifacts: A-2551.1
 Mentions: N-366, N-30, N-3
 Related Nodes: N-10577
+Tags: relevance:tangential
 Investigative Direction: Search Davidson County (Nashville) arrest and court records for August 2023 and confirm the identity of any George Farmer named.
 
 ---
@@ -1192,7 +1194,7 @@ Investigative Direction: Compare the date of the incident report Laura Loomer pu
 
 ---
 
-**C-8960** Pendragon drove the Daily Wire into the ground financially
+**C-8960** Host Says Pendragon Drove the Daily Wire Into the Ground Financially
 
 Claim Timestamp: 00:35:24
 
@@ -1207,7 +1209,7 @@ Investigative Direction: Obtain Pendragon Cycle production budgets and Daily Wir
 
 ---
 
-**C-8961** Boreing stepped aside as CEO to shoot Pendragon in Hungary
+**C-8961** Host Says Boreing Stepped Aside as CEO to Shoot Pendragon in Hungary
 
 Claim Timestamp: 00:36:54
 
@@ -1222,7 +1224,7 @@ Investigative Direction: Confirm the dates of Boreing's leave as CEO and of the 
 
 ---
 
-**C-8962** George Farmer introduced the Daily Wire's interim CEO to London investors
+**C-8962** Host Says George Farmer Introduced the Daily Wire's Interim CEO to London Investors
 
 Claim Timestamp: 00:37:43
 
@@ -1267,7 +1269,7 @@ Investigative Direction: Seek confirmation from the New York Post of any 2024 pi
 
 ---
 
-**C-8965** The New York Post, and then lower-rung outlets, declined to publish
+**C-8965** Host Says the New York Post, and Then Lower-Rung Outlets, Declined to Publish
 
 Claim Timestamp: 00:39:18
 
@@ -1308,6 +1310,7 @@ Transcript Snippet: Citing and naming a person, remember Tracy Robinson, this is
 Anchored Artifacts:
 Mentions: N-60, N-30
 Related Nodes: N-10577
+Tags: relevance:tangential
 Investigative Direction: Compare Loomer's posts with the insurance record and any court or police records involving Tracy Robinson.
 
 ---
@@ -1327,7 +1330,7 @@ Investigative Direction: Through lawful channels only, compare George Farmer's n
 
 ---
 
-**C-8969** Loomer is tagging DHS leadership to investigate George Farmer
+**C-8969** Host Says Loomer Is Tagging DHS Leadership to Investigate George Farmer
 
 Claim Timestamp: 00:42:09
 
@@ -1397,11 +1400,12 @@ Transcript Snippet: he's been accused of distributing pornography of pre-pubesce
 Anchored Artifacts: A-2554.1
 Mentions: N-605
 Related Nodes: N-10833, N-10821
+Tags: relevance:tangential
 Investigative Direction: Obtain the arrest record, charging documents and docket for Zachary Lewis.
 
 ---
 
-**C-8974** Zachary Lewis worked in the Daily Wire's kids department
+**C-8974** Host Says Zachary Lewis Worked in the Daily Wire's Kids Department
 
 Claim Timestamp: 00:46:20
 
@@ -1427,11 +1431,12 @@ Transcript Snippet: I am told that he was not immediately dismissed from The Dai
 Anchored Artifacts:
 Mentions: N-605
 Related Nodes: N-10833, N-10821
+Tags: relevance:tangential
 Investigative Direction: Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.
 
 ---
 
-**C-8976** Six felony counts are pending against Lewis
+**C-8976** Host Says Six Felony Counts Are Pending Against Lewis
 
 Claim Timestamp: 00:47:56
 
@@ -1461,7 +1466,7 @@ Investigative Direction: Seek accounts from Daily Wire employees on how Lewis's 
 
 ---
 
-**C-8978** Brett Cooper declined a Lady Ballers role that involved licking Boreing's face
+**C-8978** Host Says Brett Cooper Declined a Lady Ballers Role That Involved Licking Boreing's Face
 
 Claim Timestamp: 00:50:07
 
@@ -1515,6 +1520,7 @@ Transcript Snippet: But while that accusation is terrible, it has nothing to do 
 Anchored Artifacts: A-2553.3
 Mentions: N-366, N-605
 Related Nodes: N-10833
+Tags: relevance:tangential
 Investigative Direction: Establish what Daily Wire leadership knew about the Lewis case and when, and Boreing's role over the kids department at the time.
 
 ---

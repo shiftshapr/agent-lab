@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:09:02
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
+- **Transcript SHA-256**: 6969acf30e690dfa513f1b1c557216f8857275094643e2238559c0647ff677cf
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11046, N-11049, N-11050, N-11051
@@ -853,6 +853,7 @@ Claim: Father Ripperger, in an audio clip played by the host, stated that Satani
 
 Anchored Artifacts: A-2438.1
 Mentions: N-324
+Qualifies: C-6732
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -881,7 +882,7 @@ Investigative Direction: Verify the text matches a published Masonic source or w
 
 ---
 
-**C-6740** Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president
+**C-6740** Tyler Bowyer said Charlie privately believed Erika would be president someday
 
 Claim Timestamp: 00:19:40
 
@@ -932,7 +933,7 @@ Investigative Direction: Identify the original event and capture full context of
 
 ---
 
-**C-6776** Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro
+**C-6776** Host reads headline on Venezuela's first oil shipment to Israel, says Israel benefited after Maduro's removal
 
 Claim Timestamp: 00:38:50
 
@@ -1455,7 +1456,6 @@ Transcript Snippet: he's not saying this to be clear in the context of Charlie K
 Anchored Artifacts: A-2438.1
 
 Mentions: N-324, N-1, N-3
-Qualifies: C-6734
 Tags: relevance:context
 Investigative Direction: Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.
 
@@ -1830,7 +1830,6 @@ Anchored Artifacts: A-2444.1
 
 Mentions: N-277, N-2, N-1
 Related Nodes: N-10376
-Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Dillon frames this as a hypothetical; any support would need records of TPUSA funds Charlie may have traced.
 
@@ -1848,7 +1847,6 @@ Anchored Artifacts: A-2444.1
 
 Mentions: N-277
 Related Nodes: N-10376
-Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Obtain the full Tim Dillon episode and confirm the disclaimers on either side of the excerpt.
 
@@ -2119,7 +2117,6 @@ Anchored Artifacts: A-2447.1
 
 Mentions: N-3
 Related Nodes: N-11051
-Qualifies: C-6781
 Tags: relevance:context
 Investigative Direction: Identify the headline's publisher and date and any rights-group findings about white phosphorus in southern Lebanon.
 
@@ -2257,7 +2254,6 @@ Transcript Snippet: Here is Israel's defense minister, Benny Gantz, discussing t
 Anchored Artifacts: A-2449.1
 
 Mentions: N-771, N-3
-Qualifies: C-6790
 Tags: relevance:context
 Investigative Direction: Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.
 

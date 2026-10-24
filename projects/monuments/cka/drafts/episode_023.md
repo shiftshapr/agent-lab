@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:44
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1
+- **Transcript SHA-256**: 22b379b3ea044064ab5bf8964d211a0346e93346db2300a49009edf25eb59747
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-906, N-907, N-11243, N-11244, N-11245, N-11246
@@ -1296,7 +1296,7 @@ Investigative Direction: Verify Flightradar archive for SUBND on each cited date
 
 ---
 
-**C-2105** Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024
+**C-2105** Host says Mikey McCoy was promoted to TPUSA Chief of Staff on January 3, 2024
 
 Claim Timestamp: 00:19:50
 Claim: The host says Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, saying she has the internal TPUSA email and so it is a fact.
@@ -1339,7 +1339,7 @@ Investigative Direction: Verify against FAA / airport maintenance logs whether a
 
 ---
 
-**C-2139** SUBTT Arrived in Provo on September 4, 2025 as a "Full Plane"
+**C-2139** SUBTT Arrived in Provo on September 4, 2025; Overseas Source Says It Was a "Full Plane"
 
 Claim Timestamp: 00:39:39
 Claim: The episode presents that SUBTT landed in Provo on September 4, 2025 at 12:46 PM and that, per a "person overseas who had intimate knowledge," the plane was full on arrival.
@@ -1360,7 +1360,7 @@ Investigative Direction: Verify against Flightradar archives; obtain Canadian / 
 
 ---
 
-**C-2173** Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025
+**C-2173** Host Says Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025
 
 Claim Timestamp: 01:01:33
 Claim: The host states that the tail number of one of the planes, which she believes is the blue plane, was Googled from Israel on September 8, 2025, two days before the assassination, in response to a live-chat comment suggesting Google Trends correlation.
@@ -1447,7 +1447,7 @@ Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (v
 
 ---
 
-**C-2122** TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech
+**C-2122** Host Says a TPUSA Donor Confronted Charlie Kirk After Tucker Carlson's July 11, 2025 Speech
 
 Claim Timestamp: 00:32:39
 Claim: The host says she knows for a fact that when Tucker came off stage after his July 11, 2025 speech, a woman donor she has not named instantly started yelling at Charlie, and that Charlie then got the full donor squeeze: "you are not allowed to be anti-Israel."
@@ -2698,7 +2698,7 @@ Transcript Snippet: Tyler was hooking up with young interns, young male interns 
 Anchored Artifacts: A-3201.1
 Mentions: N-11, N-3
 Related Nodes: N-10000
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Request the proof the tipster says he has and any HR complaints; treat as an unverified allegation.
 
 ---

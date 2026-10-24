@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–00:46:11
 - **Extraction Timestamp (UTC)**: 2026-09-23T21:04:03Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 67ab3083b0404df7c9507cf5fc4bd6362c3ea15854f1bf7fc1d747721c83de9f
+- **Transcript SHA-256**: 4443f7dbb1a0682ebcd1df65b1e743a25393f59f6e05b056864a7477012177b1
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11287
@@ -885,7 +885,7 @@ Investigative Direction: Obtain the original signed memo directly from TPUSA or 
 
 ---
 
-**C-836** Charlie Kirk expressed concern about TPUSA finances one week before his death
+**C-836** Host says Charlie Kirk expressed concern about TPUSA finances one week before his death
 
 Claim Timestamp: 00:00:01
 Claim: The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that.
@@ -899,7 +899,7 @@ Investigative Direction: Identify insiders, obtain contemporaneous communication
 
 ---
 
-**C-912** Windows in the flag hall do not open, complicating the inside-source muzzle flash theory
+**C-912** Host says flag hall windows appear not to open, complicating the inside-source muzzle flash theory
 
 Claim Timestamp: 00:29:09
 Claim: The host says that, from everything she could see in the photos, the window in the flag hall does not open, so if the muzzle flash Range Day Bro describes came from inside, broken glass should be visible; she says she may be wrong and asks to be corrected.
@@ -913,7 +913,7 @@ Investigative Direction: Obtain architectural plans or on-site verification of t
 
 ---
 
-**C-909** Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain
+**C-909** Host argues Range Day Bro's blood-splatter entry wound is Charlie's necklace chain
 
 Claim Timestamp: 00:27:54
 Claim: Host argues that what Range Day Bro identified as blood splatter from an entry wound is in fact Charlie Kirk's necklace chain whipping up after the shot.
@@ -939,7 +939,7 @@ Investigative Direction: Obtain the ground photographs referenced, compare with 
 
 ---
 
-**C-879** Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities
+**C-879** Rooftop Runner Footage Filmer Says He Was Never Contacted by Federal or Local Authorities
 
 Claim Timestamp: 00:13:53
 Claim: The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.
@@ -952,7 +952,7 @@ Investigative Direction: Confirm filmer's identity independently, obtain date-st
 
 ---
 
-**C-883** Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15
+**C-883** Second Rooftop Witness Says He Gave Footage to Orem Police; Feds Did Not Contact Him Until September 15
 
 Claim Timestamp: 00:15:24
 Claim: A second rooftop witness told the host's team he walked in and gave his footage to the Orem Police Department, which said it was overwhelmed on day one, and that the feds did not reach out to him until September 15, after Governor Cox said the investigation was over and they had the guy.
@@ -988,7 +988,6 @@ Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
 Related Nodes: N-10027, N-10129
-Revises: C-847
 Confidence: medium
 Investigative Direction: Read with C-847; match DuRousseau's video and channel records under the corrected spelling.
 
@@ -1015,7 +1014,6 @@ Transcript Snippet: one of the influencers did post on August 6th that she was i
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
 Related Nodes: N-10027, N-10129
-Revises: C-861
 Confidence: high
 Investigative Direction: Read with C-861; verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
@@ -1066,7 +1064,7 @@ Investigative Direction: Obtain Bill Ackman's 959-word essay and check whether i
 
 ---
 
-**C-837** Netanyahu tweeted about Charlie Kirk's death before the US President
+**C-837** Host says Netanyahu tweeted about Charlie Kirk's death before the US President
 
 Claim Timestamp: 00:01:53
 Claim: The host says Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States, and that, on Fox News and Greta Van Susteren's show, 'he' lied about the contents of a letter Charlie Kirk had written him in May.
@@ -1114,7 +1112,6 @@ Transcript Snippet: Natasha Hausdorff was there. Seth Dillon was there. And Seth
 Anchored Artifacts: A-2520.1
 Mentions: N-1, N-38, N-55, N-115, N-116
 Related Nodes: N-10000
-Revises: C-853
 Confidence: medium
 Investigative Direction: Read with C-853; corroborate the attendee list and the exchange with other Hamptons weekend accounts.
 
@@ -1578,7 +1575,7 @@ Transcript Snippet: we haven't received any updates whatsoever on the raid that 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
 Related Nodes: N-10059
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Request the search warrant, return and any charging or non-charging decision concerning Lance.
 Open Questions: Q-99
 

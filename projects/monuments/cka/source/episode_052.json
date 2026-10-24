@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:05:41",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018",
+    "- **Transcript SHA-256**: 6b7e0e39b422baf7dd7b22022fe3899a7ea1300d4ace8e12edb41fb9a0e64f86",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033",
@@ -3452,8 +3452,8 @@
   {
    "kind": "claim",
    "id": "C-4521",
-   "header": "**C-4521** Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
-   "label": "Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
+   "header": "**C-4521** Host Says Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
+   "label": "Host Says Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
    "lines": [
     {
      "raw": ""
@@ -3502,8 +3502,8 @@
   {
    "kind": "claim",
    "id": "C-4552",
-   "header": "**C-4552** TPUSA Tent Was Group Decision",
-   "label": "TPUSA Tent Was Group Decision",
+   "header": "**C-4552** Host Says TPUSA Asked Her to Clarify the Tent Was a Group Decision",
+   "label": "Host Says TPUSA Asked Her to Clarify the Tent Was a Group Decision",
    "lines": [
     {
      "raw": ""
@@ -3553,8 +3553,8 @@
   {
    "kind": "claim",
    "id": "C-4554",
-   "header": "**C-4554** Erika's First September 8 Text Had Blocked Contact Name",
-   "label": "Erika's First September 8 Text Had Blocked Contact Name",
+   "header": "**C-4554** Host Says Erika's First September 8 Text Had Blocked Contact Name",
+   "label": "Host Says Erika's First September 8 Text Had Blocked Contact Name",
    "lines": [
     {
      "raw": ""
@@ -3599,8 +3599,8 @@
   {
    "kind": "claim",
    "id": "C-4556",
-   "header": "**C-4556** Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
-   "label": "Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
+   "header": "**C-4556** Host Says Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
+   "label": "Host Says Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
    "lines": [
     {
      "raw": ""
@@ -3645,8 +3645,8 @@
   {
    "kind": "claim",
    "id": "C-4563",
-   "header": "**C-4563** Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage",
-   "label": "Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage",
+   "header": "**C-4563** Candace Concludes Mark Amodei Likely Appears Early in 12-Hour Committee Footage",
+   "label": "Candace Concludes Mark Amodei Likely Appears Early in 12-Hour Committee Footage",
    "lines": [
     {
      "raw": ""
@@ -3891,8 +3891,8 @@
   {
    "kind": "claim",
    "id": "C-4615",
-   "header": "**C-4615** Daily Wire's \"In the Know Know\" Show Mocks Candace",
-   "label": "Daily Wire's \"In the Know Know\" Show Mocks Candace",
+   "header": "**C-4615** Host Says Daily Wire's \"In the Know Know\" Show Was Designed to Mock Her",
+   "label": "Host Says Daily Wire's \"In the Know Know\" Show Was Designed to Mock Her",
    "lines": [
     {
      "raw": ""
@@ -4932,12 +4932,12 @@
      "v": "N-10048, N-10775"
     },
     {
-     "k": "Revises",
-     "v": "C-403"
-    },
-    {
      "k": "Supports",
      "v": "C-4526"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-403"
     },
     {
      "k": "Tags",
@@ -6219,16 +6219,12 @@
      "v": "N-10298, N-10280, N-10000"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-3476"
     },
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Revises",
-     "v": "C-3476"
     },
     {
      "k": "Investigative Direction",
@@ -8746,10 +8742,6 @@
      "v": "N-10356"
     },
     {
-     "k": "Qualifies",
-     "v": "C-4595"
-    },
-    {
      "k": "Tags",
      "v": "relevance:context"
     },
@@ -9178,7 +9170,7 @@
     },
     {
      "k": "Qualifies",
-     "v": "C-4603, C-4599"
+     "v": "C-4603"
     },
     {
      "k": "Tags",
@@ -9492,10 +9484,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10357, N-10356"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-4609"
     },
     {
      "k": "Tags",

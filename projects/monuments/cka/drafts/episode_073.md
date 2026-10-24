@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:32
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842
+- **Transcript SHA-256**: 4126c32d16ed196a0ce6bca138b0274bd68b41621b5df237eba9792af2ce2a24
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-802, N-11103
@@ -737,7 +737,7 @@ Investigative Direction: Compare the September 8, 2025 broadcast frame against p
 
 ---
 
-**C-6520** Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview
+**C-6520** Host Says Wedding Photo Was Absent From Background During Dec 12, 2025 Glenn Beck Interview
 
 Claim Timestamp: 00:04:44
 
@@ -2024,7 +2024,7 @@ Transcript Snippet: I did look into that. I I watched Baron Coleman's episode an
 
 Anchored Artifacts: A-2934.2
 Mentions: N-3, N-2, N-330
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The allegation is a viewer comment read on air and is unverified; seek documentary evidence before treating it as established.
 
 ---

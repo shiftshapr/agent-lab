@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:49:39
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
+- **Transcript SHA-256**: 7b2402fffd8785f420deb726dfe6482e2a6782d4e31f111f9b6c3d54b579e480
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-11121, N-11122
@@ -936,7 +936,7 @@ Question of whether Charlie Kirk's wedding ring fell from his finger at the scen
 
 ## V. Claim Register
 
-**C-11371** Kolvet publicly disputed authenticity of text messages shared by Candace Owens
+**C-11371** Kolvet Said He Had No Idea Whether Text Messages Shared by Candace Owens Were Authentic
 
 Claim Timestamp: 00:06:57
 
@@ -980,7 +980,7 @@ Mentions: N-1, N-2, N-798
 Related Nodes: N-10681
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
-**C-11405** Pastor Russell denounced named political opponents in sermon
+**C-11405** Pastor Russell Denounced Unnamed "Muslim-Funded Ex-Fox News Personalities" and Others in Sermon
 
 Claim Timestamp: 00:24:17
 
@@ -1523,8 +1523,8 @@ Transcript Snippet: a day before Charlie died, when Erika posted her mother look
 Anchored Artifacts: A-2985.1
 Mentions: N-2, N-1
 Related Nodes: N-10449
+Contradicts: C-7533
 Tags: relevance:context
-Revises: C-7533, C-7904
 Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
 ---

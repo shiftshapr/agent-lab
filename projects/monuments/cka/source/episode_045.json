@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:01:46",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e",
+    "- **Transcript SHA-256**: 3d7302b5843a830c5cefbdb3fa33637b49c5a779cc182956251b28febfd6fc99",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-798, N-11078",
@@ -2316,8 +2316,8 @@
   {
    "kind": "claim",
    "id": "C-3906",
-   "header": "**C-3906** Erika Kirk published casket video on Instagram",
-   "label": "Erika Kirk published casket video on Instagram",
+   "header": "**C-3906** Host Says Erika Kirk Had a Casket Video Recorded and Published It on Instagram",
+   "label": "Host Says Erika Kirk Had a Casket Video Recorded and Published It on Instagram",
    "lines": [
     {
      "raw": ""
@@ -2414,8 +2414,8 @@
   {
    "kind": "claim",
    "id": "C-3923",
-   "header": "**C-3923** Tucker Carlson confirms Egyptian-registered aircraft followed Erika Kirk",
-   "label": "Tucker Carlson confirms Egyptian-registered aircraft followed Erika Kirk",
+   "header": "**C-3923** Tucker Carlson Says Claim That Egyptian-Registered Aircraft Followed Erika Kirk Is \"Factually True\"",
+   "label": "Tucker Carlson Says Claim That Egyptian-Registered Aircraft Followed Erika Kirk Is \"Factually True\"",
    "lines": [
     {
      "raw": ""
@@ -2463,8 +2463,8 @@
   {
    "kind": "claim",
    "id": "C-3926",
-   "header": "**C-3926** Tucker Carlson confirms foreign-registered cell phones at Kirk event",
-   "label": "Tucker Carlson confirms foreign-registered cell phones at Kirk event",
+   "header": "**C-3926** Tucker Carlson Says Claim of Foreign-Registered Cell Phones at Kirk Event Is \"True\"",
+   "label": "Tucker Carlson Says Claim of Foreign-Registered Cell Phones at Kirk Event Is \"True\"",
    "lines": [
     {
      "raw": ""
@@ -2865,8 +2865,8 @@
   {
    "kind": "claim",
    "id": "C-3958",
-   "header": "**C-3958** Pam Bondi previously flew on USAF C37A 99-044",
-   "label": "Pam Bondi previously flew on USAF C37A 99-044",
+   "header": "**C-3958** Tipster Email Says Pam Bondi Appears to Have Flown on USAF C37A 99-044",
+   "label": "Tipster Email Says Pam Bondi Appears to Have Flown on USAF C37A 99-044",
    "lines": [
     {
      "raw": ""
@@ -4193,10 +4193,6 @@
      "v": "N-10239"
     },
     {
-     "k": "Qualifies",
-     "v": "C-3923"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -4989,7 +4985,7 @@
      "v": "N-10305"
     },
     {
-     "k": "Qualifies",
+     "k": "Revises",
      "v": "C-3836"
     },
     {
@@ -5186,10 +5182,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10305"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-3944"
     },
     {
      "k": "Tags",
@@ -5992,10 +5984,6 @@
      "v": "N-10305"
     },
     {
-     "k": "Qualifies",
-     "v": "C-3944"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -6059,10 +6047,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10311"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-3952"
     },
     {
      "k": "Tags",

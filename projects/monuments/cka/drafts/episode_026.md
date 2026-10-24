@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:04:05
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
+- **Transcript SHA-256**: 10c30228d1dce1eec91d5f15f8dd79238a5f00c1a006e295116296e5ff65c6e7
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-840, N-841, N-842, N-843, N-844, N-11142
@@ -1093,6 +1093,7 @@ Anchored Artifacts: A-1337.2
 Mentions: N-221
 
 
+Tags: relevance:tangential
 Investigative Direction: Identify the original poster accounts and verify the original posts.
 
 ---
@@ -1277,7 +1278,7 @@ Investigative Direction: Obtain the full October 2023 email and compare it with 
 
 ---
 
-**C-2322** TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall
+**C-2322** Host Says TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall
 
 Claim Timestamp: 00:04:40
 
@@ -1311,7 +1312,7 @@ Open Questions: Q-268
 
 ---
 
-**C-2324** Second Utah Stop Planned Ten Days After September 10
+**C-2324** Host Says a Second Utah Stop Was Planned Ten Days After September 10
 
 Claim Timestamp: 00:05:44
 

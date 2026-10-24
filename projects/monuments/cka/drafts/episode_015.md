@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–01:04:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45
+- **Transcript SHA-256**: 59eea04af213cea7fdebaf2ea7edd178a68b80f9dcd504fe3ab5900ed899b22b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11016
@@ -761,7 +761,6 @@ Claim: Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards becau
 
 Anchored Artifacts: A-1220.1
 Mentions: N-11
-Contradicts: C-1358
 
 Related Nodes: N-10156
 
@@ -800,7 +799,6 @@ Claim: Andrew Kolvet, speaking with Tucker Carlson, who was guest-hosting Charli
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22
-Contradicts: C-1363
 
 Related Nodes: N-10156
 
@@ -898,7 +896,7 @@ Related Nodes: N-10157, N-10100
 
 Investigative Direction: Independent forensic authentication of chat; cross-reference against donor records and any contemporaneous statements from Kirk on the topic.
 
-**C-1352** Josh Hammer identified as group chat participant
+**C-1352** Host identifies Josh Hammer as group chat participant
 
 Claim Timestamp: 00:17:45
 
@@ -1513,7 +1511,6 @@ Transcript Snippet: No one's ever heard police officers ask them to secure the f
 Anchored Artifacts: A-1220.1
 Mentions: N-11, N-3
 Related Nodes: N-10156
-Contradicts: C-711
 Tags: relevance:core
 Investigative Direction: Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.
 Open Questions: Q-63, Q-165

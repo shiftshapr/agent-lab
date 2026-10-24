@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:56:29",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: e492b18e60b2e0b9a4d69085cba757bcd906aa883d586d7f4657db854693f868",
+    "- **Transcript SHA-256**: 78f226b6ce296b35bc3e5e489388d385779dee4562ebe85ce6fcdd9a6b7c243b",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11295, N-11296, N-11297, N-11298",
@@ -5415,8 +5415,8 @@
   {
    "kind": "claim",
    "id": "C-4063",
-   "header": "**C-4063** Erika confirmed Andrew Kolvet received pre-incident text",
-   "label": "Erika confirmed Andrew Kolvet received pre-incident text",
+   "header": "**C-4063** Host Says Erika Acknowledged Andrew Kolvet Received a Message From Charlie the Night Before",
+   "label": "Host Says Erika Acknowledged Andrew Kolvet Received a Message From Charlie the Night Before",
    "lines": [
     {
      "raw": ""
@@ -5452,14 +5452,6 @@
     },
     {
      "raw": ""
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-4061"
     },
     {
      "k": "Investigative Direction",
@@ -5906,10 +5898,6 @@
      "raw": ""
     },
     {
-     "k": "Revises",
-     "v": "C-2676"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Verify against official identity records."
     },
@@ -5956,10 +5944,6 @@
      "v": "N-3, N-159, N-190, N-2, N-17"
     },
     {
-     "k": "Contradicts",
-     "v": "C-4104"
-    },
-    {
      "raw": ""
     },
     {
@@ -5987,8 +5971,8 @@
   {
    "kind": "claim",
    "id": "C-4109",
-   "header": "**C-4109** Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility",
-   "label": "Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility",
+   "header": "**C-4109** Host Says Elizabeth McCoy Was Left Out of Public Narrative Despite Memorial/Vacation Visibility",
+   "label": "Host Says Elizabeth McCoy Was Left Out of Public Narrative Despite Memorial/Vacation Visibility",
    "lines": [
     {
      "raw": ""
@@ -6138,14 +6122,6 @@
      "raw": ""
     },
     {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-5695"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet."
     },
@@ -6215,8 +6191,8 @@
   {
    "kind": "claim",
    "id": "C-4076",
-   "header": "**C-4076** Rob McCoy does not work for TPUSA in any capacity",
-   "label": "Rob McCoy does not work for TPUSA in any capacity",
+   "header": "**C-4076** Host Says She Learned Rob McCoy Does Not Work for TPUSA in Any Capacity",
+   "label": "Host Says She Learned Rob McCoy Does Not Work for TPUSA in Any Capacity",
    "lines": [
     {
      "raw": ""
@@ -6327,8 +6303,8 @@
   {
    "kind": "claim",
    "id": "C-4080",
-   "header": "**C-4080** Andrew Kolvet posted surgeon \"man of steel\" bullet description",
-   "label": "Andrew Kolvet posted surgeon \"man of steel\" bullet description",
+   "header": "**C-4080** Host Says Kolvet Tweeted an Alleged Surgeon Quote Calling Kirk \"Like the Man of Steel\"",
+   "label": "Host Says Kolvet Tweeted an Alleged Surgeon Quote Calling Kirk \"Like the Man of Steel\"",
    "lines": [
     {
      "raw": ""
@@ -6727,8 +6703,8 @@
   {
    "kind": "claim",
    "id": "C-4129",
-   "header": "**C-4129** Candace never drove her car to Daily Wire",
-   "label": "Candace never drove her car to Daily Wire",
+   "header": "**C-4129** Candace Says She Never Drove Her Car to Daily Wire",
+   "label": "Candace Says She Never Drove Her Car to Daily Wire",
    "lines": [
     {
      "raw": ""
@@ -6930,6 +6906,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify through hospital records, nurse testimony, or police interview of Zin."
     },
@@ -7059,8 +7039,8 @@
   {
    "kind": "claim",
    "id": "C-4111",
-   "header": "**C-4111** Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet",
-   "label": "Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet",
+   "header": "**C-4111** Host Says Seth Dillon Confronted Charlie at Hampton Retreat Over Hypothetical Anti-Netanyahu Tweet",
+   "label": "Host Says Seth Dillon Confronted Charlie at Hampton Retreat Over Hypothetical Anti-Netanyahu Tweet",
    "lines": [
     {
      "raw": ""
@@ -7291,8 +7271,8 @@
   {
    "kind": "claim",
    "id": "C-4152",
-   "header": "**C-4152** TPUSA/UVU/BYU August 27 graphic had no location details",
-   "label": "TPUSA/UVU/BYU August 27 graphic had no location details",
+   "header": "**C-4152** Candace Says TPUSA/UVU/BYU August 27 Graphic Had No Location Details",
+   "label": "Candace Says TPUSA/UVU/BYU August 27 Graphic Had No Location Details",
    "lines": [
     {
      "raw": ""
@@ -7821,10 +7801,6 @@
      "v": "N-10318"
     },
     {
-     "k": "Contradicts",
-     "v": "C-4063"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -8087,10 +8063,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10318"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-4064"
     },
     {
      "k": "Tags",
@@ -11944,7 +11916,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -12013,7 +11985,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

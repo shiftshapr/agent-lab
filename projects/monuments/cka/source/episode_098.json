@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:02:57",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b",
+    "- **Transcript SHA-256**: 2e57fb41d3d95029e041aa70b2c350ebdd67ae37ae9c3ff653a0b79f5c26f555",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10e): N-891, N-892, N-893, N-11215",
@@ -4697,8 +4697,8 @@
   {
    "kind": "claim",
    "id": "C-8731",
-   "header": "**C-8731** Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
-   "label": "Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
+   "header": "**C-8731** Jacob William Roth Is Listed as a Partner on the Harpole Lawsuit; Host Thinks He Is Ben Shapiro's Brother-in-Law",
+   "label": "Jacob William Roth Is Listed as a Partner on the Harpole Lawsuit; Host Thinks He Is Ben Shapiro's Brother-in-Law",
    "lines": [
     {
      "raw": ""
@@ -4809,8 +4809,8 @@
   {
    "kind": "claim",
    "id": "C-8803",
-   "header": "**C-8803** FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)",
-   "label": "FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)",
+   "header": "**C-8803** Host Says FARA Filing's Church List Overlaps With Turning Point-Affiliated Churches",
+   "label": "Host Says FARA Filing's Church List Overlaps With Turning Point-Affiliated Churches",
    "lines": [
     {
      "raw": ""
@@ -4858,8 +4858,8 @@
   {
    "kind": "claim",
    "id": "C-8806",
-   "header": "**C-8806** Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
-   "label": "Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
+   "header": "**C-8806** Donation Comment Hopes the Harpole Case Could Enable Discovery of Underlying Materials",
+   "label": "Donation Comment Hopes the Harpole Case Could Enable Discovery of Underlying Materials",
    "lines": [
     {
      "raw": ""
@@ -4993,7 +4993,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:05:13
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709
+- **Transcript SHA-256**: f41841c17afa1215b14cd7526d7901a8b4b3985f8869bb226b6317a5dd16f9cc
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11230
@@ -757,7 +757,6 @@ Claim: The host says, citing an ABC News report, that TPUSA's UVU chapter declin
 
 Anchored Artifacts: A-2393.1
 Mentions: N-3
-Contradicts: C-13241
 
 Related Nodes: N-10763
 
@@ -919,7 +918,7 @@ Investigative Direction: Obtain full Politico article and publication date.
 
 ---
 
-**C-13349** Politico Profile Framed Blake Neff's Free Speech Position As "Maximalist"
+**C-13349** Tucker Carlson Says Politico Profile Framed Blake Neff's Free Speech Position As "Maximalist"
 
 Claim Timestamp: 00:47:48
 
@@ -949,7 +948,7 @@ Investigative Direction: Identify the original Tucker Carlson platform/episode w
 
 ---
 
-**C-13351** Blake Neff Verbatim Censorship Quote
+**C-13351** Tucker Carlson Reads What He Calls a Verbatim Blake Neff Censorship Quote
 
 Claim Timestamp: 00:49:42
 
@@ -1296,8 +1295,6 @@ Anchored Artifacts:
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10003
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-13308, C-13309, C-13365
 Investigative Direction: Locate Kolvet's public statements on the end of the friendship and their dates.
 Open Questions: Q-1211
 
@@ -1314,7 +1311,6 @@ Transcript Snippet: Charlie and Erika came to my wedding in August of 2019, whic
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
 Related Nodes: N-10003
-Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: Wedding guest lists, photos and travel records for August 2019.
 Open Questions: Q-1211
@@ -1332,7 +1328,6 @@ Transcript Snippet: we hosted the Black Leadership Summit together, me and Charl
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10003, N-10072
-Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: White House event records and coverage of the October 2019 summit.
 Open Questions: Q-1211
@@ -1389,7 +1384,7 @@ Open Questions: Q-1212
 
 ---
 
-**C-13313** Kolvet Attributed the Forwarded Message to the Groypers' Walls
+**C-13313** Host Says Kolvet Attributed the Forwarded Message to the Groypers' Walls
 
 Claim Timestamp: 00:13:26
 
@@ -1989,7 +1984,6 @@ Transcript Snippet: Did Charlie and I stop being friends in 2019? Or do the Grap
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10003
-Contradicts: C-13307
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's 2019 groyper explanation with his 2025 public statements.
 Open Questions: Q-1211, Q-1212

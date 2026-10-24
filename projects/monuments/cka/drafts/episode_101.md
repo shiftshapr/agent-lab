@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:48:38
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:30:38Z
-- **Transcript SHA-256**: 218c95ca794b9c37cf8f6732b6b3c50c03c20cf1089ea3220417c61705afcb10
+- **Transcript SHA-256**: 4717768de6eb6dc5475d8da35e4e5466e5c407923188d58c3bcc68ce5785eb68
 - **Model Version**: claude-manual-extract-seq101
 
 - **Episode Ledger Summary**:
@@ -634,7 +634,7 @@ Investigative Direction: Request the full, unedited source video of the Aspen re
 
 ---
 
-**C-8987** Blake Neff shared a screen grab showing progress bars on Candace episodes
+**C-8987** Host Says Blake Neff Shared a Screen Grab Showing Progress Bars on Candace Episodes
 
 Claim Timestamp: 00:00:01
 
@@ -664,7 +664,7 @@ Investigative Direction: Archive the original bounty announcement (episode and p
 
 ---
 
-**C-8989** Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry
+**C-8989** Host Says Show Faith by Works LLC Is a FARA-Registered Propaganda Arm of the Israeli Foreign Ministry
 
 Claim Timestamp: 00:01:56
 
@@ -693,7 +693,7 @@ Investigative Direction: Locate the exact wording of the "October 7th experience
 
 ---
 
-**C-8991** Israel is increasing its propaganda spend to about $750 million
+**C-8991** Host Says Israel Is Increasing Its Propaganda Spend to About $750 Million
 
 Claim Timestamp: 00:02:40
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain the full 30-second video with original metadata 
 
 ---
 
-**C-9007** Sara Sidner of CNN first posted the video but stopped short of saying she recorded it
+**C-9007** Host Says CNN's Sara Sidner First Posted the Video but Stopped Short of Saying She Recorded It
 
 Claim Timestamp: 00:13:49
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Track responses to the renewed offer and the identities
 
 ---
 
-**C-9012** Trump is teaming up with AIPAC to unseat Thomas Massie
+**C-9012** Host Says Trump Is Teaming Up With AIPAC to Unseat Thomas Massie
 
 Claim Timestamp: 00:21:42
 
@@ -1032,7 +1032,7 @@ Investigative Direction: Check FEC independent-expenditure reports for the race 
 
 ---
 
-**C-9014** Massie's previous primaries were won by margins of 81, 76 and 75 points
+**C-9014** Tucker Carlson Says Massie's Previous Primaries Were Won by Margins of 81, 76 and 75 Points
 
 Claim Timestamp: 00:22:49
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Pull MAGA Kentucky's FEC filings for its donor list and
 
 ---
 
-**C-9017** Miriam Adelson has given over $200 million to the president
+**C-9017** Massie Says Miriam Adelson Has Given Over $200 Million to the President
 
 Claim Timestamp: 00:24:27
 
@@ -1092,7 +1092,7 @@ Investigative Direction: Total Adelson's FEC-reported contributions to Trump-ali
 
 ---
 
-**C-9018** Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)
+**C-9018** Host Alleges Andrew Kolvet Has Been Working With Jessica Reed Kraus (House Inhabit)
 
 Claim Timestamp: 00:26:58
 
@@ -1207,7 +1207,7 @@ Investigative Direction: Archive the Daily Mail article with its publication dat
 
 ---
 
-**C-9026** Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.
+**C-9026** Host Says Jessica Reed Kraus Attacked Ashley St. Clair at 3:00 a.m.
 
 Claim Timestamp: 00:29:01
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Archive St. Clair's public account and her statement to
 
 ---
 
-**C-9028** Daily Mail confirmed the review was real and the number was the husband's
+**C-9028** Host Says Daily Mail Confirmed the Review Was Real and the Number Was the Husband's
 
 Claim Timestamp: 00:30:36
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Obtain Kraus's full statement to the Daily Mail and the
 
 ---
 
-**C-9030** Kraus's husband confirmed the number was his
+**C-9030** Host Says Kraus's Husband Told the Daily Mail the Number Was His
 
 Claim Timestamp: 00:31:51
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Identify and interview the donors present at the Aspen 
 
 ---
 
-**C-9038** Charlie Kirk was skilled at mimicking voices
+**C-9038** Host Says Charlie Kirk Was Skilled at Mimicking Voices
 
 Claim Timestamp: 00:39:44
 

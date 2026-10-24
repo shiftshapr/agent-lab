@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:58:30",
     "- **Extraction Timestamp (UTC)**: 2026-10-13T21:38:12Z",
-    "- **Transcript SHA-256**: a316d7453a384cbd49985112bbc5db6432257f1fd1bc2e359ce7d4447e782b63",
+    "- **Transcript SHA-256**: dddca5a0011d7f8d718105d4e76fcd9779160141a40a70f9860d0513c3a864bf",
     "- **Model Version**: claude-manual-extract-seq112",
     "",
     "- **Episode Ledger Summary**:",
@@ -2162,8 +2162,8 @@
   {
    "kind": "claim",
    "id": "C-9771",
-   "header": "**C-9771** Erika Kirk left the Women's Leadership Summit without closing out the event",
-   "label": "Erika Kirk left the Women's Leadership Summit without closing out the event",
+   "header": "**C-9771** Host is told Erika Kirk left the Women's Leadership Summit without closing out the event",
+   "label": "Host is told Erika Kirk left the Women's Leadership Summit without closing out the event",
    "lines": [
     {
      "raw": ""
@@ -2220,8 +2220,8 @@
   {
    "kind": "claim",
    "id": "C-9772",
-   "header": "**C-9772** Dana Loesch confirmed on her show that Erika Kirk did not stay the whole weekend",
-   "label": "Dana Loesch confirmed on her show that Erika Kirk did not stay the whole weekend",
+   "header": "**C-9772** Dana Loesch says Erika Kirk was not at the summit the whole weekend; host calls it confirmation",
+   "label": "Dana Loesch says Erika Kirk was not at the summit the whole weekend; host calls it confirmation",
    "lines": [
     {
      "raw": ""
@@ -2394,8 +2394,8 @@
   {
    "kind": "claim",
    "id": "C-9775",
-   "header": "**C-9775** Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
-   "label": "Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
+   "header": "**C-9775** Host says Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
+   "label": "Host says Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
    "lines": [
     {
      "raw": ""
@@ -2684,8 +2684,8 @@
   {
    "kind": "claim",
    "id": "C-9780",
-   "header": "**C-9780** Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
-   "label": "Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
+   "header": "**C-9780** Host says Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
+   "label": "Host says Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
    "lines": [
     {
      "raw": ""
@@ -2802,8 +2802,8 @@
   {
    "kind": "claim",
    "id": "C-9782",
-   "header": "**C-9782** No TPUSA employee has answered whether the WLS appointment video is doctored",
-   "label": "No TPUSA employee has answered whether the WLS appointment video is doctored",
+   "header": "**C-9782** Host says no TPUSA employee has answered whether the WLS appointment video is doctored",
+   "label": "Host says no TPUSA employee has answered whether the WLS appointment video is doctored",
    "lines": [
     {
      "raw": ""
@@ -2974,8 +2974,8 @@
   {
    "kind": "claim",
    "id": "C-9785",
-   "header": "**C-9785** Blake Neff and Graham Allen do not work for Turning Point USA",
-   "label": "Blake Neff and Graham Allen do not work for Turning Point USA",
+   "header": "**C-9785** Host says Blake Neff and Graham Allen do not work for Turning Point USA",
+   "label": "Host says Blake Neff and Graham Allen do not work for Turning Point USA",
    "lines": [
     {
      "raw": ""
@@ -3843,8 +3843,8 @@
   {
    "kind": "claim",
    "id": "C-9800",
-   "header": "**C-9800** The project also includes five miles of beachfront across from the island",
-   "label": "The project also includes five miles of beachfront across from the island",
+   "header": "**C-9800** Ivanka Trump says the project also includes five miles of beachfront across from the island",
+   "label": "Ivanka Trump says the project also includes five miles of beachfront across from the island",
    "lines": [
     {
      "raw": ""
@@ -4766,8 +4766,8 @@
   {
    "kind": "claim",
    "id": "C-9816",
-   "header": "**C-9816** Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
-   "label": "Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
+   "header": "**C-9816** Host says Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
+   "label": "Host says Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
    "lines": [
     {
      "raw": ""
@@ -4825,8 +4825,8 @@
   {
    "kind": "claim",
    "id": "C-9817",
-   "header": "**C-9817** Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
-   "label": "Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
+   "header": "**C-9817** Host says Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
+   "label": "Host says Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
    "lines": [
     {
      "raw": ""

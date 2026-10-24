@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–00:53:10
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:38:45Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e
+- **Transcript SHA-256**: fbdd8b5eb6ee96b26f1c79aaafbfc1821533eafc17b5378a850f17b3654ee96f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-930, N-11283, N-11284
@@ -1020,7 +1020,6 @@ Transcript Snippet: Bill Ackman brought receipts. How long was that tweet? It's 
 
 Anchored Artifacts: A-1125.1
 Mentions: N-37, N-3, N-57, N-72
-Contradicts: C-531
 Confidence: medium
 Uncertainty: The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.
 Investigative Direction: Read with C-531; identify the PBD guest from the full segment.
@@ -1035,7 +1034,6 @@ Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-57, N-72
 Related Nodes: N-10000
-Contradicts: C-540
 Confidence: high
 Investigative Direction: Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.
 
@@ -1164,7 +1162,7 @@ Transcript Snippet: Here is me speaking on Turning Point USA's stage last year..
 Anchored Artifacts: A-1130.1, A-1130.2
 Mentions: N-3, N-1
 Related Nodes: N-10000
-Contradicts: C-534
+Contradicts: C-534, C-538
 Confidence: high
 Investigative Direction: Cross-reference TPUSA website archive and event recordings; verify dates.
 
@@ -1182,7 +1180,7 @@ Related Nodes: N-10014, N-10074
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 
-Tags: open_source_investigation
+Tags: open_source_investigation, relevance:tangential
 ---
 
 **C-572** Chris Olsen posted parody clip of Robinson-Lance texts
@@ -1620,7 +1618,6 @@ Transcript Snippet: Utah manufacture specialized industrial valves and control s
 Anchored Artifacts: A-1123.1
 Mentions: N-3
 Related Nodes: N-10062, N-10071, N-10077
-Qualifies: C-527
 Tags: relevance:context
 Investigative Direction: Search federal contract databases for awards to Caldera Engineering to test the email's own caveat.
 
@@ -1671,7 +1668,6 @@ Anchored Artifacts: A-1125.1
 Mentions: N-14, N-3, N-57, N-72
 Related Nodes: N-10000, N-10056
 Supports: C-459, C-461
-Contradicts: C-534
 Tags: relevance:context
 Investigative Direction: Replay the full PBD segment to confirm who answers 'Yeah' and 'Uh, not in many years'; compare with the episode 5 identification of Eric Bolling and with TPUSA's published board list.
 
@@ -1723,7 +1719,6 @@ Anchored Artifacts: A-1125.1
 Mentions: N-3, N-57
 Related Nodes: N-10000, N-10056
 Supports: C-460
-Contradicts: C-540
 Tags: relevance:context
 Investigative Direction: Compare against the TPUSA event speaker archive and the Live Free Tour dates the host cites.
 
@@ -2246,7 +2241,7 @@ Transcript Snippet: "Andrew Kolvet was there in the Hamptons." No, he wasn't. An
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-14, N-57
 Related Nodes: N-10027, N-10129
-Contradicts: C-458, C-533
+Contradicts: C-533
 Tags: relevance:core
 Investigative Direction: Obtain the August 2025 Hamptons attendee list and Kolvet's travel records for those days.
 Open Questions: Q-9

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:01
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240
+- **Transcript SHA-256**: 72141261ea7642703739b3ce03a1492f8eb1bb209ccb757e33eb5f77e7d21b3b
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep066): N-10595
@@ -663,7 +663,7 @@ Investigative Direction: Retrieve full Daily Mail article text and verify quotes
 
 ---
 
-**C-5909** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning
+**C-5909** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk Against Grief Policing
 
 Claim Timestamp: 00:04:11
 
@@ -786,7 +786,7 @@ Investigative Direction: Host must release or publish the Wayback Machine screen
 
 ---
 
-**C-5952** TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target
+**C-5952** Host Says TPUSA Top Fundraiser Pitched Donor on Mar-a-Lago Gala With ~$42M Target
 
 Claim Timestamp: 00:31:32
 
@@ -855,7 +855,7 @@ Investigative Direction: Look for payment records, sponsorship disclosures or co
 
 ---
 
-**C-5910** Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic
+**C-5910** Daily Mail Article Has Dr. Wolfelt Suspecting Erika's Getting Dressed and Making Up Is a Survival Tactic
 
 Claim Timestamp: 00:04:59
 

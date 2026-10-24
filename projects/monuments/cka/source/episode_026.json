@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:04:05",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d",
+    "- **Transcript SHA-256**: 10c30228d1dce1eec91d5f15f8dd79238a5f00c1a006e295116296e5ff65c6e7",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-840, N-841, N-842, N-843, N-844, N-11142",
@@ -4007,6 +4007,10 @@
      "raw": ""
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the original poster accounts and verify the original posts."
     },
@@ -4700,8 +4704,8 @@
   {
    "kind": "claim",
    "id": "C-2322",
-   "header": "**C-2322** TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
-   "label": "TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
+   "header": "**C-2322** Host Says TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
+   "label": "Host Says TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
    "lines": [
     {
      "raw": ""
@@ -4830,8 +4834,8 @@
   {
    "kind": "claim",
    "id": "C-2324",
-   "header": "**C-2324** Second Utah Stop Planned Ten Days After September 10",
-   "label": "Second Utah Stop Planned Ten Days After September 10",
+   "header": "**C-2324** Host Says a Second Utah Stop Was Planned Ten Days After September 10",
+   "label": "Host Says a Second Utah Stop Was Planned Ten Days After September 10",
    "lines": [
     {
      "raw": ""

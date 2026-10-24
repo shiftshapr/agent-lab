@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:59
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:47:03Z
-- **Transcript SHA-256**: 34410b87b3905bed4aa35f76bd6e73c4fd1f749747c3c02fc87512e448bd6163
+- **Transcript SHA-256**: f979a84bd34352a8b48b999602ee93be56dbb5ef814c9cfda9b27508f2349de2
 - **Model Version**: claude-manual-extract-seq118
 
 - **Episode Ledger Summary**:
@@ -511,7 +511,7 @@ Investigative Direction: Retrieve the New York Times article and any official ac
 
 ---
 
-**C-10108** Kolvet was at the White House executive office building the day before the Epstein files release
+**C-10108** Host says Kolvet was at the White House executive office building the day before the Epstein files release
 
 Claim Timestamp: 00:00:49
 
@@ -527,7 +527,7 @@ Investigative Direction: White House and EEOB visitor logs for the day before th
 
 ---
 
-**C-10109** Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel to appear to be in Arizona
+**C-10109** Host says Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel to appear to be in Arizona
 
 Claim Timestamp: 00:00:49
 
@@ -543,7 +543,7 @@ Investigative Direction: Charlie Kirk Show production records and broadcast meta
 
 ---
 
-**C-10110** Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal breaking
+**C-10110** Host says Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal breaking
 
 Claim Timestamp: 00:02:29
 
@@ -573,7 +573,7 @@ Investigative Direction: Miami Herald "Perversion of Justice" publication date.
 
 ---
 
-**C-10112** Epstein's trafficking network was embedded in pageantry and modeling
+**C-10112** Host says Epstein's trafficking network was embedded in pageantry and modeling
 
 Claim Timestamp: 00:03:41
 
@@ -588,7 +588,7 @@ Investigative Direction: Court records and reporting on Epstein's links to model
 
 ---
 
-**C-10113** Erika Kirk spent time at Next Model Management, run by Epstein friend Faith Kates
+**C-10113** Host says Erika Kirk spent time at Next Model Management, run by Epstein friend Faith Kates
 
 Claim Timestamp: 00:05:03
 
@@ -618,7 +618,7 @@ Investigative Direction: Interviews with the former Next Model Management worker
 
 ---
 
-**C-10115** Faith Kates supported Epstein after his 2009 arrest
+**C-10115** Host says Faith Kates supported Epstein after his 2009 arrest
 
 Claim Timestamp: 00:05:53
 
@@ -648,7 +648,7 @@ Investigative Direction: TPUSA high school chapter program and Erika Kirk's scho
 
 ---
 
-**C-10117** Trump and Epstein fell out over a real estate deal
+**C-10117** Host believes Trump and Epstein fell out over a real estate deal
 
 Claim Timestamp: 00:06:38
 
@@ -678,7 +678,7 @@ Investigative Direction: The New York Times account and Charlie Kirk Show staff 
 
 ---
 
-**C-10119** SAM 702 stopped in Tucson for about 4 hours on September 8 before overnighting at Fort Huachuca
+**C-10119** Host says SAM 702 stopped in Tucson for about 4 hours on September 8 before overnighting at Fort Huachuca
 
 Claim Timestamp: 00:08:29
 
@@ -693,7 +693,7 @@ Investigative Direction: ADS-B flight data and Air Force mission records for SAM
 
 ---
 
-**C-10120** Bradley Hansell's office organized the SAM 702 flight
+**C-10120** Host says Bradley Hansell's office organized the SAM 702 flight
 
 Claim Timestamp: 00:08:29
 
@@ -709,7 +709,7 @@ Investigative Direction: Department of War travel and mission-request records fo
 
 ---
 
-**C-10121** Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends
+**C-10121** Host Says Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends
 
 Claim Timestamp: 00:08:29
 
@@ -740,7 +740,7 @@ Investigative Direction: Fort Huachuca visitor and meeting records for September
 
 ---
 
-**C-10123** Mitch Snow saw Erika Kirk in the Fort Huachuca hotel lobby on September 8
+**C-10123** Mitch Snow believes he saw Erika Kirk in the Fort Huachuca hotel lobby on September 8
 
 Claim Timestamp: 00:09:33
 
@@ -801,7 +801,7 @@ Investigative Direction: The official Department of War organizational chart.
 
 ---
 
-**C-10127** Feinberg is the wealthiest person in the Trump administration
+**C-10127** Host says Feinberg is the wealthiest person in the Trump administration
 
 Claim Timestamp: 00:12:04
 
@@ -876,7 +876,7 @@ Investigative Direction: Public biographies of DeVos and Prince.
 
 ---
 
-**C-10132** Feinberg owned DynCorp from 2010 to 2020 while joining the Trump administration in 2017
+**C-10132** Host says Feinberg owned DynCorp from 2010 to 2020 while joining the Trump administration in 2017
 
 Claim Timestamp: 00:16:49
 
@@ -966,7 +966,7 @@ Investigative Direction: Human Rights Watch's 2002 Bosnia trafficking report and
 
 ---
 
-**C-10138** DynCorp contractors enjoyed immunity and the company kept its US contracts
+**C-10138** Host says DynCorp contractors enjoyed immunity and the company kept its US contracts
 
 Claim Timestamp: 00:21:39
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Recent DOJ/OIP FOIA guidance and executive orders on cl
 
 ---
 
-**C-10143** Department of War offices orchestrated messaging to make Erika Kirk the top trend
+**C-10143** Host says Department of War offices orchestrated messaging to make Erika Kirk the top trend
 
 Claim Timestamp: 00:25:18
 
@@ -1056,7 +1056,7 @@ Investigative Direction: The underlying email and its distribution list, sought 
 
 ---
 
-**C-10144** Elizabeth Kravchuk McCoy's family ministry rescues orphans in Ukraine
+**C-10144** Host says Elizabeth Kravchuk McCoy's family ministry rescues orphans in Ukraine
 
 Claim Timestamp: 00:26:20
 
@@ -1101,7 +1101,7 @@ Investigative Direction: Archived copies of the ministry website and its financi
 
 ---
 
-**C-10147** Ratajkowski separated from her husband within a year of giving birth
+**C-10147** Host believes Ratajkowski separated from her husband within a year of giving birth
 
 Claim Timestamp: 00:34:14
 
@@ -1191,7 +1191,7 @@ Investigative Direction: Autopsy and medical examiner findings; high-resolution 
 
 ---
 
-**C-10153** Charlie Kirk saved himself for marriage and Erika was his first real relationship
+**C-10153** Host Says Charlie Kirk Saved Himself for Marriage and Erika Was Sort of His First Real Relationship
 
 Claim Timestamp: 00:45:31
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Charlie Kirk's own public statements on dating and marr
 
 ---
 
-**C-10154** Erika Kirk brought pastors into Charlie Kirk's faith life
+**C-10154** Host Says Erika Kirk Brought Pastors Into Charlie Kirk's Faith Life
 
 Claim Timestamp: 00:47:10
 
@@ -1221,7 +1221,7 @@ Investigative Direction: TPUSA Faith staffing and speaker records after 2021.
 
 ---
 
-**C-10155** The New York Times account covers the start of the Trump administration, before the Iran rift
+**C-10155** Host Says the New York Times Account Covers the Start of the Trump Administration, Before the Iran Rift
 
 Claim Timestamp: 00:48:32
 
@@ -1236,7 +1236,7 @@ Investigative Direction: The dates of the events described in the New York Times
 
 ---
 
-**C-10156** Three of Jeffrey Epstein's four grandparents were born in Russia
+**C-10156** Viewer Says Three of Jeffrey Epstein's Four Grandparents Were Born in Russia; Host Agrees
 
 Claim Timestamp: 00:49:17
 

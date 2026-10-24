@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:55:55
 - **Extraction Timestamp (UTC)**: 2026-10-19T21:30:00Z
-- **Transcript SHA-256**: c0ea603c5abbad010bf6580736cb26a666167fef7cc0296e507a61038cbb4c8a
+- **Transcript SHA-256**: 44b77026b9584a0d26f2702026a7a183b01e1a9772cf2fb6f260e9ed103dbc2c
 - **Model Version**: claude-manual-extract-seq163
 
 - **Episode Ledger Summary**:
@@ -936,7 +936,7 @@ Open Questions: Q-1252
 
 ---
 
-**C-14074** Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker
+**C-14074** Host Says Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker
 
 Claim Timestamp: 00:10:00
 
@@ -1073,7 +1073,7 @@ Open Questions: Q-1252
 
 ---
 
-**C-14082** Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him
+**C-14082** Host Says Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him
 
 Claim Timestamp: 00:14:58
 
@@ -1090,7 +1090,7 @@ Open Questions: Q-1252
 
 ---
 
-**C-14083** Footage Shows Mikey, Neff and Philip Getting Into a White Vehicle With a Federal Officer
+**C-14083** Host Says Footage Shows Mikey, Neff and Philip Leaving With a Federal Officer
 
 Claim Timestamp: 00:16:05
 
@@ -1943,7 +1943,7 @@ Open Questions: Q-1262
 
 ---
 
-**C-14132** Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer
+**C-14132** Host Says Still Shows Mikey, Neff and Philip's Car on the Left, With an Officer
 
 Claim Timestamp: 00:44:25
 

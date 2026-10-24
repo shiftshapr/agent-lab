@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00-00:58:52
 - **Extraction Timestamp (UTC)**: 2026-10-06T18:30:00Z
-- **Transcript SHA-256**: 24d90a160bd049729eeb3c14c85fbb5fb98847e2f37c82b3d1ec5cd543177375
+- **Transcript SHA-256**: 400453172c8dc0798aab0f6f41a14d74003898de8c418da5e4aecbb616bed6da
 - **Model Version**: grok-manual-extract-seq160
 
 - **Episode Ledger Summary**:
@@ -987,7 +987,7 @@ Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against 
 
 ---
 
-**C-13834** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein
+**C-13834** Host says Las Vegas 2017 coverage was displaced within five days by MeToo / Weinstein
 
 Claim Timestamp: 00:05:42
 Claim: The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Stephen Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.
@@ -997,7 +997,7 @@ Investigative Direction: Verify the five-day media-shift claim against contempor
 
 ---
 
-**C-13836** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest
+**C-13836** Host says Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest
 
 Claim Timestamp: 00:08:23
 Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, also goes to Brazil (which she says she will not get into), and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
@@ -1008,7 +1008,7 @@ Investigative Direction: Confirm Shirley appearance date/booking chain on Charli
 
 ---
 
-**C-13845** U.S. filicide is rare and majority male; epidemic framing lacks statistical basis
+**C-13845** Host argues U.S. filicide is rare and majority male and epidemic framing lacks statistical basis
 
 Claim Timestamp: 00:15:48
 Claim: The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.
@@ -1026,13 +1026,14 @@ Claim: The host reads the UVU independent review stating that Station 3 personne
 Anchored Artifacts: A-2476.1
 Mentions: N-1, N-8, N-10
 Related Nodes: N-10762, N-10780, N-10795
+Contradicts: C-13855
 Verification: corroborated
 Verification Evidence: S-12
 Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review.
 
 ---
 
-**C-13853** Neither Turek nor Harpole mentions a fire captain performing CPR
+**C-13853** Host says neither Turek nor Harpole mentions a fire captain performing CPR
 
 Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
@@ -1043,7 +1044,7 @@ Investigative Direction: Align Turek, Harpole, and review timelines minute-by-mi
 
 ---
 
-**C-13859** Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30
+**C-13859** Host times dispatch audio redirecting ladder 33 and engine 34 toward Timpanogos to ~12:30
 
 Claim Timestamp: 00:27:16
 Claim: The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative.
@@ -1065,7 +1066,7 @@ Investigative Direction: Preserve full Tatum interview; compare Turek's roofs cl
 
 ---
 
-**C-13874** Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties
+**C-13874** Host reports whistleblower Simon Andriesz died after flagging Howard Lutnick Epstein ties
 
 Claim Timestamp: 00:40:26
 Claim: The host reports that former British banker and BGC Group managing director Simon Andriesz, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.
@@ -1481,7 +1482,6 @@ Anchored Artifacts: A-2476.1
 Mentions: N-266
 Related Nodes: N-10636
 Supports: C-12856
-Contradicts: C-13858
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-12

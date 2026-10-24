@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00-01:12:42",
     "- **Extraction Timestamp (UTC)**: 2026-10-07T15:30:00Z",
-    "- **Transcript SHA-256**: f08cf480290560da50615af509c0d856b367a6b6b09d150f0f30475d26c77440",
+    "- **Transcript SHA-256**: ec9f6b25131bcc554425db9429a9d65dc6781e56b5534b1d8c8fdcff45ee077b",
     "- **Model Version**: grok-manual-extract-seq161",
     "",
     "- **Episode Ledger Summary**:",
@@ -3190,10 +3190,6 @@
      "v": "N-10806"
     },
     {
-     "k": "Revises",
-     "v": "C-13892"
-    },
-    {
      "k": "Confidence",
      "v": "medium"
     },
@@ -3351,8 +3347,8 @@
   {
    "kind": "claim",
    "id": "C-13904",
-   "header": "**C-13904** Discord pivoted $75k to make Andrew Wilson look good vs Candace",
-   "label": "Discord pivoted $75k to make Andrew Wilson look good vs Candace",
+   "header": "**C-13904** Discord messages show $75k pool clipping Candace vs Andrew Wilson debate only where Candace looks bad",
+   "label": "Discord messages show $75k pool clipping Candace vs Andrew Wilson debate only where Candace looks bad",
    "lines": [
     {
      "raw": ""
@@ -3376,10 +3372,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10802, N-10000, N-10013"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-13914"
     },
     {
      "k": "Investigative Direction",
@@ -3514,10 +3506,6 @@
      "v": "N-10000, N-10807, N-10813"
     },
     {
-     "k": "Contradicts",
-     "v": "C-13904"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Compare Kolvet statement to Discord TPUSA campaign language and Enclave drive metadata."
     },
@@ -3535,8 +3523,8 @@
   {
    "kind": "claim",
    "id": "C-13915",
-   "header": "**C-13915** Erika Kirk clips uploaded to campaign drives September 15 2025 via Enclave staff",
-   "label": "Erika Kirk clips uploaded to campaign drives September 15 2025 via Enclave staff",
+   "header": "**C-13915** Erika Kirk clips uploaded to campaign drives September 15 2025, apparently by Enclave staff",
+   "label": "Erika Kirk clips uploaded to campaign drives September 15 2025, apparently by Enclave staff",
    "lines": [
     {
      "raw": ""
@@ -3623,8 +3611,8 @@
   {
    "kind": "claim",
    "id": "C-13935",
-   "header": "**C-13935** Wayback Machine shows only loading for Monster Lab captures from September 12 2025",
-   "label": "Wayback Machine shows only loading for Monster Lab captures from September 12 2025",
+   "header": "**C-13935** Host says Wayback Machine shows only loading for Monster Lab captures from September 12 2025",
+   "label": "Host says Wayback Machine shows only loading for Monster Lab captures from September 12 2025",
    "lines": [
     {
      "raw": ""
@@ -3977,10 +3965,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10808"
-    },
-    {
-     "k": "Revises",
-     "v": "C-13941"
     },
     {
      "k": "Confidence",

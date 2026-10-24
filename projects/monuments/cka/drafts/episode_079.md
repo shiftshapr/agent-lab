@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:55:04
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
+- **Transcript SHA-256**: da17f421fab66d1e2bf912f8e902e0af29da1c549f0c2aaca58c15d87b9bc1c6
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11210, N-11211
@@ -1327,7 +1327,7 @@ Investigative Direction: Obtain the full press exchange transcript and date.
 
 ---
 
-**C-7120** Donald Trump stated the US went to war with Iran "out of habit"
+**C-7120** Donald Trump said "you could say" the US went to war with Iran "out of habit"
 
 Claim Timestamp: 00:31:42–00:34:14
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or C
 
 ---
 
-**C-7116** Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations
+**C-7116** Host reads statements from Germany, EU, Britain, Japan, China and others declining or hedging on Hormuz escorts
 
 Claim Timestamp: 00:26:19–00:28:13
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Obtain original government press releases or transcript
 
 ---
 
-**C-7139** Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy
+**C-7139** Randy Fine publicly cited Genesis 12:3 in a post about Tucker Carlson "learning the hard way"
 
 Claim Timestamp: 00:44:36–00:45:22
 
@@ -1417,7 +1417,7 @@ Investigative Direction: Retrieve original X post via archive.
 
 ---
 
-**C-7122** The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad
+**C-7122** Headline says the US urged citizens to leave Iraq after an attack on the embassy in Baghdad
 
 Claim Timestamp: 00:34:14–00:35:03
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Obtain the original news article; verify date and sourc
 
 ---
 
-**C-7126** Candace Owens published an article arguing Zionists are attempting a "fake it till you make it" strategy on war
+**C-7126** Candace Owens published thoughts calling Zionists "their own worst enemy"; says they tried "fake it till you make it"
 
 Claim Timestamp: 00:36:50–00:40:07
 
@@ -2061,8 +2061,6 @@ Mentions: N-36, N-3
 Related Nodes: N-10499
 Supports: C-7118
 Tags: relevance:context
-Verification: revised-by-host
-Verification Evidence: C-7230
 Investigative Direction: Obtain proof-of-life reporting and Israeli government statements on his whereabouts.
 
 ---

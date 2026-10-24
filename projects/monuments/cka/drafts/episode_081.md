@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:38
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43
+- **Transcript SHA-256**: ac6e85c5460a0d9d8af4828c5df66b4076de32b8dbbe8e3583acc3304c5bd2dc
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11212
@@ -821,7 +821,7 @@ Investigative Direction: Verify against any direct messaging logs or third-party
 
 ---
 
-**C-7296** Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat
+**C-7296** Kolvet sent no message 1:30pm–3:25pm Utah time in PR chat
 
 Claim Timestamp: 00:21:46
 
@@ -912,7 +912,7 @@ Investigative Direction: Verify against FAA flight plan / tail-number tracking.
 
 ---
 
-**C-7319** Blake Neff's "I put that phone away" implies second phone
+**C-7319** Host says Blake Neff's "I put that phone away" implies a second phone
 
 Claim Timestamp: 00:33:30
 

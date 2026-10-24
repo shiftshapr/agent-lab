@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:29:06",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3",
+    "- **Transcript SHA-256**: 7539165169e8b443c7f7950212e5c62bed632637d0a9031328c78b8cde6801a2",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-747, N-10987",
@@ -4600,10 +4600,6 @@
      "v": "C-9204"
     },
     {
-     "k": "Revises",
-     "v": "C-12143"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Identify the clip's source (the December 2025 Glenn Beck interview or the debate's played clips) and confirm the speaker."
     },
@@ -6609,10 +6605,6 @@
     {
      "k": "Mentions",
      "v": "N-18, N-2"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-12153"
     },
     {
      "k": "Investigative Direction",

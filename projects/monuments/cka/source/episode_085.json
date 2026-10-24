@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:00:18",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f",
+    "- **Transcript SHA-256**: 70cca38fbfd784c8fbecd3e6fbe98f771b956ae41740e95456b1fcc264f0c744",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11313",
@@ -4144,8 +4144,8 @@
   {
    "kind": "claim",
    "id": "C-7576",
-   "header": "**C-7576** Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
-   "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
+   "header": "**C-7576** Host Says Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Led the Alleged Conspiracy",
+   "label": "Host Says Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Led the Alleged Conspiracy",
    "lines": [
     {
      "raw": ""
@@ -4177,6 +4177,10 @@
      "v": "N-10519"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Verify role assignments via French court documents."
     },
@@ -4194,8 +4198,8 @@
   {
    "kind": "claim",
    "id": "C-7578",
-   "header": "**C-7578** Daniel Beaulieu Attempted Suicide in Prison",
-   "label": "Daniel Beaulieu Attempted Suicide in Prison",
+   "header": "**C-7578** Host Says Daniel Beaulieu Had an Apparent Suicide Attempt in Prison",
+   "label": "Host Says Daniel Beaulieu Had an Apparent Suicide Attempt in Prison",
    "lines": [
     {
      "raw": ""
@@ -4382,8 +4386,8 @@
   {
    "kind": "claim",
    "id": "C-7600",
-   "header": "**C-7600** Stacy Sheridan and Katherine Locastro identified as with Erika",
-   "label": "Stacy Sheridan and Katherine Locastro identified as with Erika",
+   "header": "**C-7600** Frank Turek says Stacy Sheridan and Katherine Locastro were with Erika",
+   "label": "Frank Turek says Stacy Sheridan and Katherine Locastro were with Erika",
    "lines": [
     {
      "raw": ""
@@ -4662,6 +4666,14 @@
      "v": "N-10021"
     },
     {
+     "k": "Contradicts",
+     "v": "C-7625, C-7627"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-7626"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim."
     },
@@ -4795,8 +4807,8 @@
   {
    "kind": "claim",
    "id": "C-7640",
-   "header": "**C-7640** Robinson's parents convinced him not to go to remote area",
-   "label": "Robinson's parents convinced him not to go to remote area",
+   "header": "**C-7640** Sheriff Brooksby says Robinson's parents convinced him not to go to remote area",
+   "label": "Sheriff Brooksby says Robinson's parents convinced him not to go to remote area",
    "lines": [
     {
      "raw": ""
@@ -4853,8 +4865,8 @@
   {
    "kind": "claim",
    "id": "C-7661",
-   "header": "**C-7661** Friend drove Robinson and parents to Sheriff's office",
-   "label": "Friend drove Robinson and parents to Sheriff's office",
+   "header": "**C-7661** Sheriff Brooksby says friend drove Robinson and parents to Sheriff's office",
+   "label": "Sheriff Brooksby says friend drove Robinson and parents to Sheriff's office",
    "lines": [
     {
      "raw": ""
@@ -4969,8 +4981,8 @@
   {
    "kind": "claim",
    "id": "C-7669",
-   "header": "**C-7669** Erika Kirk was on plane when Charlie was pronounced dead",
-   "label": "Erika Kirk was on plane when Charlie was pronounced dead",
+   "header": "**C-7669** NYT reports Erika Kirk was on plane when Charlie was pronounced dead",
+   "label": "NYT reports Erika Kirk was on plane when Charlie was pronounced dead",
    "lines": [
     {
      "raw": ""
@@ -5120,8 +5132,8 @@
   {
    "kind": "claim",
    "id": "C-7619",
-   "header": "**C-7619** Brooksby resignation occurred on a Friday",
-   "label": "Brooksby resignation occurred on a Friday",
+   "header": "**C-7619** Host says Brooksby resignation occurred on a Friday",
+   "label": "Host says Brooksby resignation occurred on a Friday",
    "lines": [
     {
      "raw": ""
@@ -6143,7 +6155,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:context"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -8547,10 +8559,6 @@
      "v": "C-1481"
     },
     {
-     "k": "Contradicts",
-     "v": "C-7656"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -8616,10 +8624,6 @@
      "v": "N-10021"
     },
     {
-     "k": "Contradicts",
-     "v": "C-7656"
-    },
-    {
      "k": "Tags",
      "v": "relevance:core"
     },
@@ -8683,10 +8687,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10021, N-10136"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-7656"
     },
     {
      "k": "Tags",
@@ -9644,7 +9644,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -10370,7 +10370,7 @@
      "v": "N-10021, N-11360"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-7656"
     },
     {

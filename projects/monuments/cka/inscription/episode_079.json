@@ -2292,7 +2292,7 @@
       "@type": "Claim",
       "@id": "C-7120",
       "ref": "C-7120",
-      "label": "Donald Trump stated the US went to war with Iran \"out of habit\"",
+      "label": "Donald Trump said \"you could say\" the US went to war with Iran \"out of habit\"",
       "claim": "In a clip the host plays, Donald Trump says: \"We don't need oil... It's almost you could say we did it out of habit, which is not a good thing to do. But we did it because we have some good allies there. We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
       "anchored_artifacts": [
         "A-1853.1"
@@ -2334,7 +2334,7 @@
       "@type": "Claim",
       "@id": "C-7116",
       "ref": "C-7116",
-      "label": "Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations",
+      "label": "Host reads statements from Germany, EU, Britain, Japan, China and others declining or hedging on Hormuz escorts",
       "claim": "The host reads statements attributed to governments including Germany, the EU, Britain, Australia, Japan, China, Spain and South Korea that decline or hedge on participating in Strait of Hormuz escort operations. She says Italy's Meloni described the war as part of a trend of interventions outside the scope of international law, and that France's Emmanuel Macron said he would be willing to use the French navy to escort ships only if the conflict stabilized.",
       "anchored_artifacts": [
         "A-1855.1",
@@ -2365,7 +2365,7 @@
       "@type": "Claim",
       "@id": "C-7139",
       "ref": "C-7139",
-      "label": "Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy",
+      "label": "Randy Fine publicly cited Genesis 12:3 in a post about Tucker Carlson \"learning the hard way\"",
       "claim": "Randy Fine posted on X: \"It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'\"",
       "anchored_artifacts": [
         "A-1857.1"
@@ -2430,7 +2430,7 @@
       "@type": "Claim",
       "@id": "C-7122",
       "ref": "C-7122",
-      "label": "The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad",
+      "label": "Headline says the US urged citizens to leave Iraq after an attack on the embassy in Baghdad",
       "claim": "A news headline states: \"US urges citizens to leave Iraq on after attack on the embassy in Baghdad,\" following strikes that killed three members of Kata'ib Hezbollah.",
       "anchored_artifacts": [
         "A-1860.1"
@@ -2448,7 +2448,7 @@
       "@type": "Claim",
       "@id": "C-7126",
       "ref": "C-7126",
-      "label": "Candace Owens published an article arguing Zionists are attempting a \"fake it till you make it\" strategy on war",
+      "label": "Candace Owens published thoughts calling Zionists \"their own worst enemy\"; says they tried \"fake it till you make it\"",
       "claim": "Candace Owens published her thoughts (read aloud in this episode), quoting Jordan Peterson (\"you cannot twist the fabric of reality without it snapping back\") and arguing Zionists are \"their own worst enemy\"; she says separately that they were trying a \"fake it till you make it\" strategy with war.",
       "anchored_artifacts": [
         "A-1856.1"
@@ -3465,10 +3465,8 @@
         "N-36",
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-7230"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

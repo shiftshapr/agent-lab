@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:46
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
+- **Transcript SHA-256**: 3d7302b5843a830c5cefbdb3fa33637b49c5a779cc182956251b28febfd6fc99
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-798, N-11078
@@ -638,7 +638,7 @@ Investigative Direction: Compile catalog of identified TPUSA staff statements th
 
 ---
 
-**C-3906** Erika Kirk published casket video on Instagram
+**C-3906** Host Says Erika Kirk Had a Casket Video Recorded and Published It on Instagram
 
 Claim Timestamp: 00:05:53
 
@@ -664,7 +664,7 @@ Investigative Direction: Cross-reference ceremony date with Erika Kirk's public 
 
 ---
 
-**C-3923** Tucker Carlson confirms Egyptian-registered aircraft followed Erika Kirk
+**C-3923** Tucker Carlson Says Claim That Egyptian-Registered Aircraft Followed Erika Kirk Is "Factually True"
 
 Claim Timestamp: 00:24:32
 
@@ -677,7 +677,7 @@ Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraf
 
 ---
 
-**C-3926** Tucker Carlson confirms foreign-registered cell phones at Kirk event
+**C-3926** Tucker Carlson Says Claim of Foreign-Registered Cell Phones at Kirk Event Is "True"
 
 Claim Timestamp: 00:24:45
 
@@ -783,7 +783,7 @@ Investigative Direction: Identify the specific Candlewood Suites property, send 
 
 ---
 
-**C-3958** Pam Bondi previously flew on USAF C37A 99-044
+**C-3958** Tipster Email Says Pam Bondi Appears to Have Flown on USAF C37A 99-044
 
 Claim Timestamp: 00:46:20
 
@@ -1131,7 +1131,6 @@ Transcript Snippet: I have literally no idea. I can't even guess but that's very
 Anchored Artifacts: A-1528.1
 Mentions: N-22, N-2, N-3
 Related Nodes: N-10239
-Qualifies: C-3923
 Tags: relevance:core
 Investigative Direction: Ask Carlson what basis he has for calling the Egyptian-registration claim true and whether he saw flight records.
 Open Questions: Q-399
@@ -1339,7 +1338,7 @@ Transcript Snippet: I think I made the mistake when I transferred my notes becau
 Anchored Artifacts: 
 Mentions: N-3, N-360
 Related Nodes: N-10305
-Qualifies: C-3836
+Revises: C-3836
 Tags: relevance:core
 Investigative Direction: Compare the host's raw call notes with the published account to confirm the rank given.
 Open Questions: Q-390
@@ -1391,7 +1390,6 @@ Transcript Snippet: I sent picture options to him as your emails were coming in
 Anchored Artifacts: 
 Mentions: N-319, N-360, N-3
 Related Nodes: N-10305
-Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Independently verify Adam Neff's identity and assignment through Army records.
 Open Questions: Q-401
@@ -1601,7 +1599,6 @@ Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could b
 Anchored Artifacts: 
 Mentions: N-319, N-360, N-3
 Related Nodes: N-10305
-Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Have the witness identify the captain from an unlabeled photo array in a documented process.
 Open Questions: Q-401
@@ -1619,7 +1616,6 @@ Transcript Snippet: it could line up well with what this air that with this airc
 Anchored Artifacts: A-1529.1
 Mentions: N-3
 Related Nodes: N-10311
-Qualifies: C-3952
 Tags: relevance:core
 Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
 Open Questions: Q-402

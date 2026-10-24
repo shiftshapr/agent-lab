@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:47:48
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:39:36Z
-- **Transcript SHA-256**: 284494e41be2a4e0d3496dd36da9a63186261daf51e052dbe0b6d145c6781632
+- **Transcript SHA-256**: 926f85a05129dd7908c6f1dfc749b6d4afac8d6b1cc14f4fe8159a69585d5506
 - **Model Version**: claude-manual-extract-seq113
 
 - **Episode Ledger Summary**:
@@ -546,7 +546,7 @@ Called "Paramount Not So Tactical"; the host says it debunked the Fort Huachuca 
 
 ## 5. Claim Register
 
-**C-9818** Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity
+**C-9818** Host calls Erika Kirk CEO and chairman of a quarter-billion-dollar-per-year charity
 
 Claim Timestamp: 00:00:01
 
@@ -576,7 +576,7 @@ Investigative Direction: Review the full Ivanka Trump interview in which she des
 
 ---
 
-**C-9820** The boat Ivanka Trump jumped off was owned by a Rothschild
+**C-9820** Host says the boat Ivanka Trump jumped off was owned by a Rothschild
 
 Claim Timestamp: 00:01:44
 
@@ -696,7 +696,7 @@ Investigative Direction: Check Albanian government schedules and press reports f
 
 ---
 
-**C-9828** The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny
+**C-9828** Host says the Albanian prime minister who did the deal was on the boat; links it to corruption scrutiny
 
 Claim Timestamp: 00:09:12
 
@@ -741,7 +741,7 @@ Investigative Direction: Verify the quotation against the published text of Hoxh
 
 ---
 
-**C-9831** Trump is bombing Iran without a vote from Congress
+**C-9831** Host says Trump is bombing Iran without a vote from Congress
 
 Claim Timestamp: 00:11:08
 
@@ -801,7 +801,7 @@ Investigative Direction: Check EIA import data and shipping records for Venezuel
 
 ---
 
-**C-9835** Venezuelan oil was immediately shipped to Israel
+**C-9835** Host says headlines reported Venezuelan oil was immediately shipped to Israel
 
 Claim Timestamp: 00:12:55
 
@@ -862,7 +862,7 @@ Investigative Direction: Compare with published photographs of Hegseth's tattoos
 
 ---
 
-**C-9839** Hegseth stages runs with troops abroad
+**C-9839** Host says Hegseth ran with troops abroad
 
 Claim Timestamp: 00:21:34
 
@@ -892,7 +892,7 @@ Investigative Direction: Locate the original DVIDS or War Department video and i
 
 ---
 
-**C-9841** Hegseth went to Guantanamo Bay with Laura Loomer
+**C-9841** Host says Hegseth went to Guantanamo Bay with Laura Loomer
 
 Claim Timestamp: 00:24:25
 
@@ -907,7 +907,7 @@ Investigative Direction: Check the Department of War press pool roster for Hegse
 
 ---
 
-**C-9842** Laura Loomer is not legally allowed to own a weapon
+**C-9842** Host asserts Laura Loomer is not legally allowed to own a weapon
 
 Claim Timestamp: 00:24:25
 
@@ -1089,7 +1089,7 @@ Investigative Direction: Commission independent forensic analysis of the clip an
 
 ---
 
-**C-9854** Blake Neff is not a TPUSA employee
+**C-9854** Host says Blake Neff is not a TPUSA employee
 
 Claim Timestamp: 00:33:48
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Consult histories of the 1903 Uganda Scheme and other p
 
 ---
 
-**C-9859** Russia and Persia ended the Khazar Empire
+**C-9859** Host asserts Russia and Persia ended the Khazar Empire
 
 Claim Timestamp: 00:40:14
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Obtain the response letter and file an appeal or a para
 
 ---
 
-**C-9864** Hansell stopped in Tucson and went to Fort Huachuca on September 8
+**C-9864** Host says Hansell stopped in Tucson and went to Fort Huachuca on September 8
 
 Claim Timestamp: 00:46:42
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Obtain Candlewood Suites Fort Huachuca guest records an
 
 ---
 
-**C-9866** Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered
+**C-9866** Host says Erika Kirk has not provided an alibi and Paramount Tactical debunked the one offered
 
 Claim Timestamp: 00:46:42
 

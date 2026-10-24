@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:07
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:30:27Z
-- **Transcript SHA-256**: 6a70160ad25b0671d6727882cdd16b59ea5327ccea326b1fd84e733d4157fb26
+- **Transcript SHA-256**: 4a36c30237a86619f309287eca28e68a60aa5224fb52e4e593eb6d95244b6cfe
 - **Model Version**: claude-manual-extract-seq103
 
 - **Episode Ledger Summary**:
@@ -578,12 +578,11 @@ Transcript Snippet: He finally answered and so I'm going to set a time for him t
 Anchored Artifacts:
 Mentions: N-341, N-3
 Related Nodes: N-10560
-Revises: C-8632
 Investigative Direction: Check the host's Instagram direct-message thread with Victor Marx and any later scheduled appearance.
 
 ---
 
-**C-9154** Victor Marx was the first documented public person to announce Charlie Kirk's death
+**C-9154** Host Says Victor Marx Was the First Documented Public Person to Announce Charlie Kirk's Death
 
 Claim Timestamp: 00:01:59
 
@@ -599,7 +598,7 @@ Investigative Direction: Compare the posting timestamp of Marx's video with Trum
 
 ---
 
-**C-9155** Victor Marx hugged Erika Kirk in her home after she flew back to Arizona
+**C-9155** Host Says Victor Marx Hugged Erika Kirk in Her Home After She Flew Back to Arizona
 
 Claim Timestamp: 00:02:42
 
@@ -615,7 +614,7 @@ Investigative Direction: Identify the source and date of the photos or video sho
 
 ---
 
-**C-9156** Charlie Kirk and Victor Marx had a falling out and unfollowed each other
+**C-9156** Host's TPUSA Sources Say Charlie Kirk and Victor Marx Had a Falling Out and Unfollowed Each Other
 
 Claim Timestamp: 00:02:42
 
@@ -630,7 +629,7 @@ Investigative Direction: Check archived follower lists for Charlie Kirk's and Vi
 
 ---
 
-**C-9157** Marx's last public appearance with Charlie Kirk was an October 2023 report from Israel
+**C-9157** Host Says Marx's Last Public Appearance With Charlie Kirk Appears to Be an October 2023 Report From Israel
 
 Claim Timestamp: 00:03:34
 
@@ -689,7 +688,7 @@ Investigative Direction: Check Colorado Secretary of State candidate filings and
 
 ---
 
-**C-9161** A friend of Erika Kirk was at the Aurora theater shooting
+**C-9161** Host Says a Friend of Erika Kirk Was at the Aurora Theater Shooting
 
 Claim Timestamp: 00:06:01
 
@@ -705,7 +704,7 @@ Investigative Direction: Locate Erika Kirk's original post about the friend and 
 
 ---
 
-**C-9162** No security plan was in place for Charlie Kirk's September 11 Charis Bible College event
+**C-9162** Host Says No Security Plan Was in Place for Charlie Kirk's September 11 Charis Bible College Event
 
 Claim Timestamp: 00:07:03
 
@@ -765,7 +764,7 @@ Investigative Direction: Identify the outlet and original article of September 1
 
 ---
 
-**C-9166** Charis Bible College founder Andrew Wommack is former military
+**C-9166** Host Says Charis Bible College Founder Andrew Wommack Is Former Military
 
 Claim Timestamp: 00:09:26
 
@@ -796,7 +795,7 @@ Investigative Direction: Review Erika Kirk's Jesse Watters interview transcript 
 
 ---
 
-**C-9168** N582MM became Charlie Kirk's main plane after Mikey McCoy became chief of staff
+**C-9168** Host Says N582MM Became Charlie Kirk's Main Plane After Mikey McCoy Became Chief of Staff
 
 Claim Timestamp: 00:10:19
 
@@ -811,7 +810,7 @@ Investigative Direction: Obtain FAA registration and charter records for N582MM 
 
 ---
 
-**C-9169** Someone known to TPUSA flew N582MM to Provo after the shooting
+**C-9169** Host Says Someone Known to TPUSA Flew N582MM to Provo After the Shooting
 
 Claim Timestamp: 00:10:19
 
@@ -826,7 +825,7 @@ Investigative Direction: Obtain the passenger manifest for N582MM's September 10
 
 ---
 
-**C-9170** N582MM is tied to Paradise Jets, like the plane Charlie Kirk took that day
+**C-9170** Host Says N582MM Is Tied to Paradise Jets, Like the Plane Charlie Kirk Took That Day
 
 Claim Timestamp: 00:11:05
 
@@ -841,7 +840,7 @@ Investigative Direction: Check FAA registry and Paradise Jets management listing
 
 ---
 
-**C-9171** N582MM departed Denver at 11:58 a.m. and landed at Pierre at 12:56 p.m. Mountain Time
+**C-9171** Host Says Flight Data Shows N582MM Departed Denver at 11:58 a.m. and Landed at Pierre at 12:56 p.m.
 
 Claim Timestamp: 00:11:05
 
@@ -858,7 +857,7 @@ Investigative Direction: Pull ADS-B history for N582MM on September 10, 2025 and
 
 ---
 
-**C-9172** N582MM went Pierre–Chicago–Provo, landing at 6:57 p.m. and staying overnight
+**C-9172** Host Says N582MM Went Pierre–Chicago–Provo, Landing at 6:57 p.m. and Staying Overnight
 
 Claim Timestamp: 00:11:05
 
@@ -875,7 +874,7 @@ Investigative Direction: Obtain ADS-B and FBO records for N582MM's Chicago stop 
 
 ---
 
-**C-9173** After overnighting in Provo, N582MM returned to Pierre, South Dakota
+**C-9173** Host Says N582MM Returned to Pierre, South Dakota, After Overnighting in Provo
 
 Claim Timestamp: 00:12:07
 
@@ -892,7 +891,7 @@ Investigative Direction: Pull N582MM's September 11, 2025 flight history.
 
 ---
 
-**C-9174** The Evergreen High School shooting happened at almost the same minute as the Charlie Kirk shooting
+**C-9174** Host Says the Evergreen High School Shooting Happened at Almost the Same Minute as Charlie Kirk's
 
 Claim Timestamp: 00:12:07
 
@@ -922,7 +921,7 @@ Investigative Direction: Review the Jefferson County Sheriff's Office incident r
 
 ---
 
-**C-9176** Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it
+**C-9176** Host Says Holly Shot Matthew Silverstone at an Intersection and Delmer Martinez Filmed It
 
 Claim Timestamp: 00:13:58
 
@@ -995,7 +994,7 @@ Investigative Direction: Obtain the full CBS Colorado interview and Martinez's e
 
 ---
 
-**C-9181** Locals could not find the house or contractor Martinez was working for
+**C-9181** Host Says Locals Could Not Find the House or Contractor Martinez Was Working For
 
 Claim Timestamp: 00:21:15
 
@@ -1010,7 +1009,7 @@ Investigative Direction: Search Jefferson County building-permit records for Eve
 
 ---
 
-**C-9182** Evergreen's assigned school resource officer was on medical leave; a Conifer deputy was filling in
+**C-9182** Host Says Evergreen's School Resource Officer Was on Medical Leave, With a Conifer Deputy Filling In
 
 Claim Timestamp: 00:22:50
 
@@ -1052,7 +1051,7 @@ Investigative Direction: Obtain the deputy's CAD dispatch history for September 
 
 ---
 
-**C-9185** The crash the SRO was dispatched to has never been documented
+**C-9185** Host Says the Crash the SRO Was Dispatched to Has Never Been Documented
 
 Claim Timestamp: 00:24:23
 
@@ -1081,7 +1080,7 @@ Investigative Direction: Identify any crisis PR firm retained by TPUSA after Sep
 
 ---
 
-**C-9187** Erika Kirk and Kolvet coordinated with Gary Melton to air a Fort Huachuca alibi
+**C-9187** Host Alleges Erika Kirk and Kolvet Coordinated With Gary Melton to Air a Fort Huachuca Alibi
 
 Claim Timestamp: 00:27:27
 
@@ -1190,7 +1189,7 @@ Investigative Direction: Archive Melton's tweet and the post he replied to.
 
 ---
 
-**C-9194** Marcus Wada uses AI voices in TPUSA donor presentations
+**C-9194** Host Says Marcus Wada Uses AI Voices in TPUSA Donor Presentations
 
 Claim Timestamp: 00:36:33
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Obtain copies of TPUSA donor presentation videos and id
 
 ---
 
-**C-9195** Marcus Wada met with Hollywood AI deepfake companies after Charlie Kirk's death
+**C-9195** Host Says Marcus Wada Met With Hollywood AI Deepfake Companies After Charlie Kirk's Death
 
 Claim Timestamp: 00:36:33
 
@@ -1221,7 +1220,7 @@ Investigative Direction: Obtain TPUSA vendor meeting records and correspondence 
 
 ---
 
-**C-9196** The Hollywood AI company TPUSA met with is VFX LA
+**C-9196** Host Names VFX LA as the Hollywood AI Company Brought Into TPUSA Through Marcus Wada
 
 Claim Timestamp: 00:37:32
 
@@ -1281,7 +1280,7 @@ Investigative Direction: Archive the VFX LA demonstration video and its client a
 
 ---
 
-**C-9200** Kolvet said TPUSA met with deepfake vendors offering Charlie Kirk content and declined
+**C-9200** Host Says Kolvet Acknowledged TPUSA Met With Deepfake Vendors Offering Charlie Kirk Content and Declined
 
 Claim Timestamp: 00:42:46
 
@@ -1326,7 +1325,7 @@ Investigative Direction: Review Turning Point Action's IRS filings and audits fo
 
 ---
 
-**C-9203** Superfeed, with Lori Frantzve and Tyler Bowyer on its board, powers the TPUSA app
+**C-9203** Host Says Superfeed, With Lori Frantzve and Tyler Bowyer on Its Board, Powers the TPUSA App
 
 Claim Timestamp: 00:49:36
 
@@ -1357,7 +1356,7 @@ Investigative Direction: Compare the Glenn Beck interview transcript with Kolvet
 
 ---
 
-**C-9205** Charlie Kirk's night-before message to Dan Flood was an iMessage, not Telegram
+**C-9205** Host Says Charlie Kirk's Night-Before Message to Dan Flood Was an iMessage, Not Telegram
 
 Claim Timestamp: 00:52:22
 
@@ -1388,7 +1387,7 @@ Investigative Direction: Follow up on any records requests submitted through the
 
 ---
 
-**C-9207** An Aurora theater victim had survived an earlier shooting at a Canadian food court
+**C-9207** Host Says an Aurora Theater Victim Had Survived an Earlier Shooting at a Canadian Food Court
 
 Claim Timestamp: 00:53:58
 

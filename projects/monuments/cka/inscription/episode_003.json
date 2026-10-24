@@ -2072,7 +2072,7 @@
       "@type": "Claim",
       "@id": "C-179",
       "ref": "C-179",
-      "label": "Robinson mother recognized shooter from news photo",
+      "label": "Robinson mother told police news photo of shooter looked like her son",
       "claim": "Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband.",
       "anchored_artifacts": [
         "A-1095.5"
@@ -2095,7 +2095,7 @@
       "@type": "Claim",
       "@id": "C-184",
       "ref": "C-184",
-      "label": "Robinson father matched rifle to gifted weapon",
+      "label": "Robinson father believed rifle matched gifted weapon",
       "claim": "Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond.",
       "anchored_artifacts": [
         "A-1095.6"
@@ -2143,7 +2143,7 @@
       "@type": "Claim",
       "@id": "C-181",
       "ref": "C-181",
-      "label": "Robinson shifted politically left over last year",
+      "label": "Robinson mother told police he shifted politically left over last year",
       "claim": "Per the probable cause statement the host reads, Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.",
       "anchored_artifacts": [
         "A-1095.5"
@@ -2220,7 +2220,7 @@
       "@type": "Claim",
       "@id": "C-182",
       "ref": "C-182",
-      "label": "Robinson dated roommate, biological male transitioning",
+      "label": "Robinson mother told police he dated roommate, biological male transitioning",
       "claim": "Per the probable cause statement the host reads, Robinson's mother told police he began dating his roommate, a biological male transitioning genders.",
       "anchored_artifacts": [
         "A-1095.5",
@@ -2245,7 +2245,7 @@
       "@type": "Claim",
       "@id": "C-156",
       "ref": "C-156",
-      "label": "George Zinn arrested for obstruction after decoy confession",
+      "label": "George Zinn arrested for obstruction after implying he was the shooter",
       "claim": "The host says George Zinn, a 71-year-old man, jumped up after the Kirk shooting implying he did it, was arrested, and now faces obstruction of justice charges.",
       "anchored_artifacts": [
         "A-1096.1",
@@ -2471,7 +2471,9 @@
       "related_nodes": [
         "N-10033"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Corroborate with other family members or contemporaneous records.",
       "transcript_snippet": "his parents kicked him out junior year of high school because he was problematic",
@@ -2493,7 +2495,9 @@
       "related_nodes": [
         "N-10033"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:02",
       "investigative_direction": "Request medical/ER records and corroborating family testimony.",
       "transcript_snippet": "He almost overdosed. He drank a bottle of vodka",
@@ -2552,7 +2556,9 @@
       "claim": "The host says Lance Twiggs's family members told her, as allegations she relays exclusively, that the house Tyler Robinson lived in with Lance is owned by them and that Tyler Robinson pays rent to them.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:52",
       "investigative_direction": "Verify property ownership via county records; obtain lease or payment records.",
       "transcript_snippet": "the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent",
@@ -2613,7 +2619,7 @@
       "@type": "Claim",
       "@id": "C-239",
       "ref": "C-239",
-      "label": "Seth Dillon and Josh Hammer pressured Charlie at retreat",
+      "label": "Host says Seth Dillon and Josh Hammer pressured Charlie at retreat",
       "claim": "Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2637,7 +2643,7 @@
       "@type": "Claim",
       "@id": "C-269",
       "ref": "C-269",
-      "label": "Top Jewish donors pulled funding and demanded name removal from building",
+      "label": "Host says sources report top Jewish donors pulled funding and demanded name removal from building",
       "claim": "The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2730,7 +2736,7 @@
       "@type": "Claim",
       "@id": "C-278",
       "ref": "C-278",
-      "label": "Hamptons Attendee Ring Debate Around Sarah Stock",
+      "label": "Host Recalls Ring Debate Around Hamptons Attendee She Believes Was Sarah Stock",
       "claim": "The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.",
       "anchored_artifacts": [
         "A-2516.3"
@@ -2854,7 +2860,7 @@
       "@type": "Claim",
       "@id": "C-158",
       "ref": "C-158",
-      "label": "Zinn Was Evasive About Giving Police His Cell Phone",
+      "label": "Article Says Zinn Was Evasive About Giving Police His Cell Phone",
       "claim": "The host, reading from the Zinn article, says that when police approached Zinn he was being weird about giving them his cell phone, after which he was taken into custody, treated for a medical condition and questioned about why he screamed for someone to shoot him; she also calls the obstruction charge a second-degree felony.",
       "anchored_artifacts": [
         "A-1096.1"
@@ -2889,7 +2895,8 @@
         "N-10032"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:05:22",
       "investigative_direction": "This is an inference rather than a record; it could only be tested against evidence of any contact between Zinn and an intelligence or blackmail operation, which no cited document shows.",
@@ -3483,7 +3490,8 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:18:39",
       "investigative_direction": "Check Washington County and Utah County booking and custody records for any detention or interview of Lance Twiggs on September 11.",
@@ -4918,7 +4926,7 @@
       "@type": "Claim",
       "@id": "C-255",
       "ref": "C-255",
-      "label": "Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
+      "label": "Speaker, Apparently Megyn Kelly, Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause",
       "claim": "In the clip, the first speaker, who appears from later context to be Megyn Kelly, says some in the pro-Israel camp are so kneejerk about calling you antisemitic or getting deeply offended that it undermines their own cause, and that she finds it very irritating.",
       "anchored_artifacts": [
         "A-1099.1"

@@ -1006,7 +1006,7 @@
       "@type": "Claim",
       "@id": "C-28",
       "ref": "C-28",
-      "label": "Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
+      "label": "Host says Charlie and Candace drove 8 hours to DC during a hurricane, she thinks from NC or SC",
       "claim": "The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.",
       "anchored_artifacts": [
         "A-1077.2"
@@ -1081,7 +1081,7 @@
       "@type": "Claim",
       "@id": "C-37",
       "ref": "C-37",
-      "label": "Charlie was egged by Antifa at a Philadelphia restaurant",
+      "label": "Host says Charlie was egged by Antifa at a Philadelphia restaurant",
       "claim": "The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.",
       "anchored_artifacts": [
         "A-1077.3"
@@ -1208,7 +1208,7 @@
       "@type": "Claim",
       "@id": "C-18",
       "ref": "C-18",
-      "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
+      "label": "Host says Don Jr. and, she thinks, Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
       "claim": "The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.",
       "anchored_artifacts": [
         "A-2514.1"

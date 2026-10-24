@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:58:27
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
+- **Transcript SHA-256**: 688e20b29e4d09f35f384bedfd89f879b43e998ab7f87540e7b93c533ed8c039
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-817, N-818, N-11114, N-11116, N-11117
@@ -1001,7 +1001,7 @@ Investigative Direction: Obtain full Megyn Kelly interview and any prior on-reco
 
 ---
 
-**C-10819** Comperatore Asserts Butler Shooting Was "Inside Job"
+**C-10819** Comperatore Says She Believes Butler Shooting Was an "Inside Job"
 
 Claim Timestamp: 00:29:15
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Obtain NewsNation transcript and verify Secret Service 
 
 ---
 
-**C-10827** Time Reported Israeli PR Campaign via Clock Tower X Backfired
+**C-10827** Time Reported Israeli PR Campaign via Clock Tower X; Host Says It Seems to Have Backfired
 
 Claim Timestamp: 00:34:37
 
@@ -1040,7 +1040,7 @@ Investigative Direction: Obtain Time article in full; verify spend figures and n
 
 ---
 
-**C-10831** Time Reported Campaign Spend of ~$1.5 Million/Day
+**C-10831** Host Believes Time Reported Campaign Spend of ~$1.5 Million/Day
 
 Claim Timestamp: 00:35:39
 
@@ -1231,7 +1231,6 @@ Transcript Snippet: >> I don't remember communicating that. >> Okay. If that's i
 Anchored Artifacts: A-2139.2
 Mentions: N-505
 Related Nodes: N-10654, N-10896
-Qualifies: C-10782
 Tags: relevance:core
 Verification: corroborated
 Verification Evidence: S-5

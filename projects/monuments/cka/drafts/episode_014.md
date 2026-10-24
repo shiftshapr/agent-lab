@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:54:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
+- **Transcript SHA-256**: 2ad9e73596a9da9e9be4624ac0413720623a81fe76a0ee7dc0b959865878f274
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-791, N-792, N-793, N-794, N-11070, N-11071, N-11072, N-11073
@@ -946,7 +946,7 @@ Optional Flag: A-1218.1 is a verbally referenced tip; host claims corroboration 
 
 ---
 
-**C-1257** ADL Shares Connecticut Office Space with FBI
+**C-1257** Kyle Undercover Thread Says ADL Shares Connecticut Office Space with FBI
 
 Claim Timestamp: 00:11:32–00:13:03
 
@@ -1019,11 +1019,12 @@ Mentions: N-144
 
 Related Nodes: N-10155
 
+Tags: relevance:tangential
 Investigative Direction: Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.
 
 ---
 
-**C-1263** Lyman Family Member Identified Possible Female Accomplice
+**C-1263** Lyman Family Member Raised Possibility of a Female Accomplice
 
 Claim Timestamp: 00:15:52–00:17:00
 

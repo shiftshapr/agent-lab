@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:57
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
+- **Transcript SHA-256**: 386e1d820db45e0e357fe745972b60ac3dada14f91c0a0016205487e1c7f521b
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-756, N-757, N-758, N-759, N-760, N-761, N-762, N-763, N-11024
@@ -1294,6 +1294,7 @@ Claim: A YouTube commenter using the handle "Modern Realy" asks whether anyone h
 
 Anchored Artifacts: A-1398.4
 Mentions: N-1
+Contradicts: C-2807
 Investigative Direction: Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene.
 
 ---
@@ -1527,7 +1528,6 @@ Transcript Snippet: Kamino's lawyer said his client, who had previously maintain
 Anchored Artifacts: A-1393.1
 Mentions: N-249
 Related Nodes: N-11024
-Contradicts: C-2748
 Tags: relevance:context
 Investigative Direction: Retrieve the 1995 LA Times article and the sentencing transcript to check the lawyer's statement and whether Camino pleaded or went to trial.
 
@@ -1707,7 +1707,7 @@ Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 Anchored Artifacts: A-2826.1
 Mentions: N-756, N-17, N-3
 Related Nodes: N-10232
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search Florida court and news records for the accusation against Bob Coy and its outcome.
 
 ---
@@ -1787,7 +1787,7 @@ Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 Anchored Artifacts: A-2826.1
 Mentions: N-758, N-759, N-3
 Related Nodes: N-10232
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.
 
 ---
@@ -1819,7 +1819,7 @@ Transcript Snippet: The former Calvary uh pastor's name was Doug DeAndrea. He is
 Anchored Artifacts: A-2826.1
 Mentions: N-760, N-3
 Related Nodes: N-10232
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.
 
 ---
@@ -1851,7 +1851,7 @@ Transcript Snippet: He went to prison for 11 months. And then when he got out, h
 Anchored Artifacts: A-2826.1
 Mentions: N-761, N-3
 Related Nodes: N-10232
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.
 
 ---
@@ -2509,7 +2509,6 @@ Transcript Snippet: So, we actually did look really close on clear footage and i
 
 Anchored Artifacts: A-2830.1
 Mentions: N-67, N-3
-Contradicts: C-2810
 Tags: relevance:core
 Investigative Direction: Obtain the multi-angle footage and run a frame-by-frame review of the guards' hands in the first seconds after the shot.
 Open Questions: Q-155

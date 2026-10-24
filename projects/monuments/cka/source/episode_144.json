@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:10:13",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc",
+    "- **Transcript SHA-256**: 6876b9fdcf368d47abaab608197975d99b261e20858176e248a9b19c579bb52c",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-749, N-10988, N-10991",
@@ -3151,8 +3151,8 @@
   {
    "kind": "claim",
    "id": "C-12428",
-   "header": "**C-12428** Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
-   "label": "Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
+   "header": "**C-12428** Host Says Andrew Kolvet Briefed Her on Bill Ackman Summit, BB Netanyahu Letter, and Charlie's Texts to Dan Flood",
+   "label": "Host Says Andrew Kolvet Briefed Her on Bill Ackman Summit, BB Netanyahu Letter, and Charlie's Texts to Dan Flood",
    "lines": [
     {
      "raw": ""
@@ -3245,10 +3245,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10737"
-    },
-    {
-     "k": "Revises",
-     "v": "C-12428"
     },
     {
      "k": "Confidence",
@@ -5415,7 +5411,7 @@
      "v": "N-10989"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-12396"
     },
     {
@@ -5664,8 +5660,8 @@
   {
    "kind": "claim",
    "id": "C-12404",
-   "header": "**C-12404** Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
-   "label": "Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+   "header": "**C-12404** Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+   "label": "Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
    "lines": [
     {
      "raw": ""
@@ -6124,8 +6120,8 @@
   {
    "kind": "claim",
    "id": "C-12413",
-   "header": "**C-12413** Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye",
-   "label": "Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye",
+   "header": "**C-12413** Kolvet Says He Thinks She Cancelled an Event the Day Before and Went to France With Kanye",
+   "label": "Kolvet Says He Thinks She Cancelled an Event the Day Before and Went to France With Kanye",
    "lines": [
     {
      "raw": ""

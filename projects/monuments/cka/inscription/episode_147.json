@@ -1748,7 +1748,7 @@
       "@type": "Claim",
       "@id": "C-12677",
       "ref": "C-12677",
-      "label": "Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in",
+      "label": "Host Says Justin Davis Sprinted to and Opened the Passenger Door of a Vehicle He Did Not Arrive In",
       "claim": "The host says that in footage she shows of the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.",
       "anchored_artifacts": [
         "A-2329.1"
@@ -1814,7 +1814,7 @@
       "@type": "Claim",
       "@id": "C-12680",
       "ref": "C-12680",
-      "label": "A backpack was ejected from the trunk of Kirk's vehicle",
+      "label": "Host Says a Backpack Fell or Was Tossed From the Trunk of Kirk's Vehicle",
       "claim": "The host says that as Kirk's vehicle departed for the hospital, a backpack fell or was tossed from the trunk; she thinks it is \"Chris's bag\" but says she is \"not 100% certain.\"",
       "anchored_artifacts": [
         "A-2329.3"
@@ -1835,7 +1835,7 @@
       "@type": "Claim",
       "@id": "C-12669",
       "ref": "C-12669",
-      "label": "Kirk communicated the night before 9/10 that he feared for his life",
+      "label": "Host Says Kirk Communicated the Night Before 9/10 That He Feared for His Life",
       "claim": "The host says we now know for a fact that Charlie Kirk communicated the night before that he was fearful for his life and thought they were going to kill him, something she says his wife Erika Kirk initially denied and then had to concede, and that people are now saying he also told his security people to be on him and no one else.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1940,7 +1940,7 @@
       "@type": "Claim",
       "@id": "C-12659",
       "ref": "C-12659",
-      "label": "Two security team members remain unidentified",
+      "label": "Two security team members remain unidentified by the host",
       "claim": "Two members of the Charlie Kirk security team shown in the security photo remain unidentified by the host: one in a short-sleeve bright blue shirt at front-right, and one in a hat with a beard in the middle.",
       "anchored_artifacts": [
         "A-2331"
@@ -2001,7 +2001,7 @@
       "@type": "Claim",
       "@id": "C-12701",
       "ref": "C-12701",
-      "label": "Viva Frei echoed the same political-assassination framing",
+      "label": "Host says Viva Frei echoed the same political-assassination framing",
       "claim": "The host says Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing, and that she has blocked him.",
       "anchored_artifacts": [
         "A-2333"
@@ -2139,7 +2139,7 @@
       "@type": "Claim",
       "@id": "C-12714",
       "ref": "C-12714",
-      "label": "Defense page 32 asserts inference-upon-inference as to political motivation",
+      "label": "Defense page 32 says no evidence of political expressions; host says it argues inference upon inference",
       "claim": "Per the August 11 defense filing the host shows (page 32), \"There's no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on\"; the host says the defense argues the state is \"inferring upon an inference.\"",
       "anchored_artifacts": [
         "A-2337"
@@ -2182,7 +2182,7 @@
       "@type": "Claim",
       "@id": "C-12687",
       "ref": "C-12687",
-      "label": "Blake Neff's testimony describes a 20-second window from \"active shooter\" to \"all clear\"",
+      "label": "Blake Neff testified he concluded within ~15-20 seconds the shooter was likely stopped",
       "claim": "Blake Neff testified that after the shot he and Mikey McCoy ran because they believed there might be more shooters, but that approximately 15–20 seconds later he concluded the shooter had likely been \"detained or stopped\" and that they were not in immediate danger.",
       "anchored_artifacts": [
         "A-2338"
@@ -2232,7 +2232,7 @@
       "@type": "Claim",
       "@id": "C-12717",
       "ref": "C-12717",
-      "label": "\"Mikey said there's so much blood\" claim traces to Hibbs / Turek, not McCoy",
+      "label": "Host says \"so much blood\" claim traces to Hibbs / Turek, not McCoy",
       "claim": "The host says the \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit,\" and that McCoy never described seeing a lot of blood in his press.",
       "anchored_artifacts": [
         "A-2339"
@@ -2293,7 +2293,7 @@
       "@type": "Claim",
       "@id": "C-12652",
       "ref": "C-12652",
-      "label": "Bill Ackman \"million dollars\" narrative was dropped",
+      "label": "Host asserts Bill Ackman \"million dollars\" narrative was dropped",
       "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars,\" referring to Tyler Robinson's father, was dropped entirely because \"there was no truth and no substance.\"",
       "anchored_artifacts": [],
       "related_nodes": [],

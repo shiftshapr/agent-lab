@@ -2091,7 +2091,9 @@
       "claim": "The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:14",
       "investigative_direction": "Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then.",
       "transcript_snippet": "I've even got something that I'm I'm going to reveal tomorrow about her parents having worked with somebody that was accused something to do with children.",
@@ -2216,7 +2218,9 @@
       "related_nodes": [
         "N-10954"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:10",
       "investigative_direction": "Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.",
       "transcript_snippet": "Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started",
@@ -2441,7 +2445,9 @@
       "claim": "The host says Jean-Michel Trogneux disappears after he joins the military and is stationed in Germany, and that where he went is not known, and ties it to the same military child abuse themes.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:22:03",
       "investigative_direction": "Check French military service records and civil registry entries for Jean-Michel Trogneux.",
       "transcript_snippet": "And Jean Michel Trogneux disappears after he joins the military and is stationed over in Germany and to where he goes we don't know.",

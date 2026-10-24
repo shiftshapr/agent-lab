@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:02:29",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76",
+    "- **Transcript SHA-256**: 53d0474d4b98aff4f5a4efac001ade709d24360c12070bf58358eda9a1f1de15",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-808, N-809",
@@ -3336,8 +3336,8 @@
   {
    "kind": "claim",
    "id": "C-7871",
-   "header": "**C-7871** Tour Qureshi trained at Fort Huachuca using reconnaissance drones",
-   "label": "Tour Qureshi trained at Fort Huachuca using reconnaissance drones",
+   "header": "**C-7871** Tour Qureshi's LinkedIn says he trained at Fort Huachuca using reconnaissance drones",
+   "label": "Tour Qureshi's LinkedIn says he trained at Fort Huachuca using reconnaissance drones",
    "lines": [
     {
      "raw": ""
@@ -3376,8 +3376,8 @@
   {
    "kind": "claim",
    "id": "C-7866",
-   "header": "**C-7866** \"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
-   "label": "\"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
+   "header": "**C-7866** \"BILT\" app co-founded by Ahmed Qureshi is reported to have 3D mission-prep visualization capability",
+   "label": "\"BILT\" app co-founded by Ahmed Qureshi is reported to have 3D mission-prep visualization capability",
    "lines": [
     {
      "raw": ""
@@ -3420,8 +3420,8 @@
   {
    "kind": "claim",
    "id": "C-7883",
-   "header": "**C-7883** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music",
-   "label": "TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music",
+   "header": "**C-7883** Host says TPUSA used the alleged Aspen CEO-successor audio as Erika's AmFest walkout music",
+   "label": "Host says TPUSA used the alleged Aspen CEO-successor audio as Erika's AmFest walkout music",
    "lines": [
     {
      "raw": ""
@@ -3905,8 +3905,8 @@
   {
    "kind": "claim",
    "id": "C-7917",
-   "header": "**C-7917** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025",
-   "label": "Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025",
+   "header": "**C-7917** Host says multiple sources allegedly place Erika Kirk without her mother on Sept 10, 2025",
+   "label": "Host says multiple sources allegedly place Erika Kirk without her mother on Sept 10, 2025",
    "lines": [
     {
      "raw": ""
@@ -4040,7 +4040,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5845,14 +5845,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-11384"
     },
     {
      "k": "Investigative Direction",

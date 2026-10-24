@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–01:05:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
+- **Transcript SHA-256**: 28a183b1500c4ed160751597079af08a3e0646ed1e421af1df681f90fb62140c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-901, N-11237
@@ -1161,7 +1161,7 @@ Investigative Direction: Identify the events Blake claims to have witnessed; det
 
 ---
 
-**C-1459** O'Neill identifies visible wound as exit wound
+**C-1459** O'Neill says visible wound appeared to be an exit wound
 
 Claim Timestamp: 00:28:21
 
@@ -1355,7 +1355,7 @@ Investigative Direction: Identify and timestamp the Frank Turek podcast episode 
 
 ---
 
-**C-1480** Lance Twiggs was raided but released within 6 hours
+**C-1480** Family says Lance Twiggs was raided but released within 6 hours
 
 Claim Timestamp: 00:38:49
 
@@ -1367,7 +1367,7 @@ Investigative Direction: Obtain official arrest / detention logs from Utah autho
 
 ---
 
-**C-1483** Apartment locks illegally changed after raid
+**C-1483** Lance's family says apartment locks were illegally changed after raid
 
 Claim Timestamp: 00:40:07
 
@@ -1389,11 +1389,12 @@ Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and
 Anchored Artifacts: A-1235.4
 Mentions: N-3, N-42
 Related Nodes: N-10166
+Tags: relevance:tangential
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
 
-**C-1471** George Zinn has potential familial connections to a federal department
+**C-1471** Tip relayed by Candace says George Zinn has potential familial connections to a federal department
 
 Claim Timestamp: 00:36:11
 
@@ -1895,7 +1896,7 @@ Transcript Snippet: I mean, there hasn't even been an Israeli name that has popp
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10032
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check whether the host's later episodes name any Israeli person; the claim about Zinn's background is the host's, unverified.
 
 ---
@@ -2294,7 +2295,7 @@ Transcript Snippet: there are thus for a total of four decoys like George Zinn, 
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10165, N-10032
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Ask the host to identify each decoy by footage time and to say who she thinks fired; verify each against official release materials.
 Open Questions: Q-28, Q-136, Q-161
 

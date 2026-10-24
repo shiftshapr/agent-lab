@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:44
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e
+- **Transcript SHA-256**: 787e6a24ad052109ee62178c1204183fdf1346880e5036da020b8dd1df4d6e50
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-11277, N-11278
@@ -2444,7 +2444,7 @@ Transcript Snippet: I have always suspected and even more so after the prelimina
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10545, N-10617
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Seek any court, FOIA or source documentation of a relationship between Lance and a federal agency.
 Open Questions: Q-174
 

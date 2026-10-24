@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:56:18",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84",
+    "- **Transcript SHA-256**: a423455b89fefdbcdbf052ec103ba501a70c1473e31dbe896c09e71d7c0b1c96",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10d): N-848, N-11148, N-11149, N-11150, N-11151",
@@ -3733,8 +3733,8 @@
   {
    "kind": "claim",
    "id": "C-2668",
-   "header": "**C-2668** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
-   "label": "UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
+   "header": "**C-2668** Local Utah News Says UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
+   "label": "Local Utah News Says UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
    "lines": [
     {
      "raw": ""
@@ -5929,7 +5929,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6060,14 +6060,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "revised-by-host"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "C-4099"
     },
     {
      "k": "Investigative Direction",
@@ -8108,10 +8100,6 @@
     {
      "k": "Related Nodes",
      "v": "N-10004"
-    },
-    {
-     "k": "Qualifies",
-     "v": "C-2715"
     },
     {
      "k": "Tags",

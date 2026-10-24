@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:25
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
+- **Transcript SHA-256**: 85da5b65599d709f45a326e59115badefdca2fbe9184a2b276a2821aa2c4ccd8
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-743, N-744, N-745, N-746, N-10980, N-10981
@@ -866,7 +866,7 @@ The host's claim that Erika Kirk invited influencers into the courtroom at Tyler
 
 ## 5. Claim Register
 
-**C-11163** Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947
+**C-11163** NYT Article Cites Biography Saying Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947
 
 Claim Timestamp: 00:04:35
 
@@ -888,7 +888,7 @@ Related Nodes:
 
 Investigative Direction: Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.
 
-**C-11179** Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years
+**C-11179** Time Article Says Six Mormon Aides Attended Howard Hughes; Host Says They Controlled Him
 
 Claim Timestamp: 00:14:54
 
@@ -900,7 +900,7 @@ Related Nodes: N-10677
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 
-**C-11224** Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article
+**C-11224** Kolvet Said Daily Mail Was "Doing the Bidding of Candace Owens" and Maybe She's the Source
 
 Claim Timestamp: 00:36:31
 
@@ -936,7 +936,7 @@ Related Nodes: N-10675
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
-**C-11226** Kolvet Asserted Erika Has Never Been Heard to Swear
+**C-11226** Kolvet Says He Has Personally Never Heard Erika Swear at Someone
 
 Claim Timestamp: 00:36:31
 
@@ -959,7 +959,7 @@ Related Nodes: N-10504
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 
-**C-11245** Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt
+**C-11245** Seamstress Email Asserts Burned Item Shows Seam and Thread Pattern Consistent With a Shirt
 
 Claim Timestamp: 00:46:58
 
@@ -1307,7 +1307,7 @@ Investigative Direction: Obtain the Hughes death certificate and autopsy summari
 
 ---
 
-**C-11183** The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation
+**C-11183** Host Says the Jet Carrying Hughes When He Died Was Owned by Robert Graf of Duncan Aviation
 
 Claim Timestamp: 00:16:30
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Pull flight-tracking and FBO records for the Egyptian-r
 
 ---
 
-**C-11185** Investigation found a deadly codeine injection given to a comatose Hughes
+**C-11185** Host Reads That an Investigation Found a Likely Fatal Codeine Injection Given to a Comatose Hughes
 
 Claim Timestamp: 00:17:34
 
@@ -1412,7 +1412,7 @@ Investigative Direction: Verify the estate value, settlement timeline and the HH
 
 ---
 
-**C-11190** Frank Gay became HHMI trustee and was later discovered to have worked with the CIA
+**C-11190** Host Says Frank Gay Became HHMI Trustee and Was Later Discovered to Have Worked With the CIA
 
 Claim Timestamp: 00:20:27
 
@@ -1811,6 +1811,7 @@ Transcript Snippet: one of the only times that Erika has ever responded to anyth
 
 Anchored Artifacts: 
 Mentions: N-2, N-352, N-3
+Tags: relevance:tangential
 Investigative Direction: Locate Erika Kirk's public response to the Blake Wynn allegation and its date.
 
 ---
@@ -2011,8 +2012,8 @@ Transcript Snippet: they have not removed the article. They have not issued any 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10067, N-10675
-Qualifies: C-11225
 
+Contradicts: C-11225
 Investigative Direction: Compare archived versions of the Daily Mail article to document every update, including source description changes.
 
 ---
@@ -2169,7 +2170,6 @@ Transcript Snippet: it is also a plausibility that Charlie gave his phone um to 
 Anchored Artifacts: A-2176.1
 Mentions: N-1, N-190, N-3
 Related Nodes: N-10504
-Qualifies: C-11241
 
 Investigative Direction: Check video of Charlie Kirk's table and stage at the event for his phone.
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:39
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:29:39Z
-- **Transcript SHA-256**: 9caf7f4e6900b57aa8316245f9dee50f6b95263f387bc66ce213bb573aaa6fe6
+- **Transcript SHA-256**: 274820f33c7f869dbbd869340c3fa45acfdf77a54ce3f2d23a7e7c18df506b99
 - **Model Version**: claude-manual-extract-seq105
 
 - **Episode Ledger Summary**:
@@ -512,7 +512,7 @@ A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pasto
 
 ## 5. Claim Register
 
-**C-9255** White House Military Office email instructed immediate amplification of Erika Kirk
+**C-9255** Host Says White House Military Office Email Instructed Immediate Amplification of Erika Kirk
 
 Claim Timestamp: 00:02:28
 
@@ -527,7 +527,7 @@ Investigative Direction: File FOIA requests for White House Military Office and 
 
 ---
 
-**C-9256** Trump has survived three shooting assassination attempts in under two years
+**C-9256** Host Questions That Trump Survived Three Shooting Assassination Attempts in Under Two Years
 
 Claim Timestamp: 00:04:07
 
@@ -542,7 +542,7 @@ Investigative Direction: Compile Secret Service and FBI records of the Butler, W
 
 ---
 
-**C-9257** Putin has been president for 22 years without comparable shooting attempts
+**C-9257** Host Says Putin Has Been President for 22 Years Without Comparable Shooting Attempts
 
 Claim Timestamp: 00:05:04
 
@@ -572,7 +572,7 @@ Investigative Direction: Authenticate the email through the White House Communic
 
 ---
 
-**C-9259** Erika Kirk was appointed to the Air Force Academy Board of Visitors
+**C-9259** Host Says Erika Kirk Was Appointed to the Air Force Academy Board of Visitors
 
 Claim Timestamp: 00:06:15
 
@@ -587,7 +587,7 @@ Investigative Direction: Obtain the appointment notice and membership roster of 
 
 ---
 
-**C-9260** Erika Kirk visited the West Wing just before the WHCD shooting
+**C-9260** Host Says Erika Kirk Visited the West Wing Just Before the WHCD Shooting
 
 Claim Timestamp: 00:06:26
 
@@ -618,7 +618,7 @@ Investigative Direction: Compare Erika Kirk's public explanation of her DC trip 
 
 ---
 
-**C-9262** The WHCD shooting took place at 8:39 p.m. Eastern
+**C-9262** Host Says the WHCD Shooting Took Place at 8:39 p.m. Eastern
 
 Claim Timestamp: 00:06:45
 
@@ -634,7 +634,7 @@ Investigative Direction: Confirm the time from Secret Service and Metropolitan P
 
 ---
 
-**C-9263** Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.
+**C-9263** Host Says Sara Sidner of CNN Uploaded the Erika Kirk Video at 9:25 p.m.
 
 Claim Timestamp: 00:06:45
 
@@ -650,7 +650,7 @@ Investigative Direction: Archive Sidner's original post with its timestamp and e
 
 ---
 
-**C-9264** About 25 minutes later the email went to the wrong internal teams
+**C-9264** Host Says About 25 Minutes Later the Email Went to the Wrong Internal Teams
 
 Claim Timestamp: 00:06:45
 
@@ -710,7 +710,7 @@ Investigative Direction: FOIA any list of "approved surrogates" or digital partn
 
 ---
 
-**C-9268** Email expected aligned outside commentators to amplify set themes
+**C-9268** Host Says Email Expected Aligned Outside Commentators to Amplify Set Themes
 
 Claim Timestamp: 00:09:00
 
@@ -725,7 +725,7 @@ Investigative Direction: Compare the themes listed in the email against commenta
 
 ---
 
-**C-9269** Email was delivered from the White House Communications Agency domain
+**C-9269** Host Says Email Was Delivered From the White House Communications Agency Domain
 
 Claim Timestamp: 00:09:00
 
@@ -755,7 +755,7 @@ Investigative Direction: Check DoD and White House Military Office documentation
 
 ---
 
-**C-9271** Email went to Karoline Leavitt's press office and national security teams
+**C-9271** Host Says Email Went to Karoline Leavitt's Press Office and National Security Teams
 
 Claim Timestamp: 00:10:20
 
@@ -770,7 +770,7 @@ Investigative Direction: Ask the White House press office to confirm or deny rec
 
 ---
 
-**C-9272** Steven Cheung and Richard Smale were on the email
+**C-9272** Host Says Steven Cheung and Richard Smale Were on the Email
 
 Claim Timestamp: 00:10:20
 
@@ -785,7 +785,7 @@ Investigative Direction: Confirm the named individuals' positions and their incl
 
 ---
 
-**C-9273** Gustav Anderly and Ryan Rippeon, military communications staff, were on the email
+**C-9273** Host Says Gustav Anderly and Ryan Rippeon, Military Communications Staff, Were on the Email
 
 Claim Timestamp: 00:10:20
 
@@ -800,7 +800,7 @@ Investigative Direction: Verify these names and roles in DoD and Navy personnel 
 
 ---
 
-**C-9274** Michaela Mott of the Navy was on the email
+**C-9274** Host Says Michaela Mott of the Navy Was on the Email
 
 Claim Timestamp: 00:11:19
 
@@ -845,7 +845,7 @@ Investigative Direction: Obtain White House staff duty rosters and badge-access 
 
 ---
 
-**C-9277** White House press conference took place at 10:33 p.m.
+**C-9277** Host Says White House Press Conference Took Place at 10:33 p.m.
 
 Claim Timestamp: 00:13:11
 
@@ -905,7 +905,7 @@ Investigative Direction: Archive the full Charlie Kirk Show episode and compare 
 
 ---
 
-**C-9281** Stratos AI data center will cover more than 40,000 acres in Box Elder County
+**C-9281** Guardian Says Stratos AI Data Center Will Cover More Than 40,000 Acres in Box Elder County
 
 Claim Timestamp: 00:17:29
 
@@ -920,7 +920,7 @@ Investigative Direction: Obtain Box Elder County planning filings for the Strato
 
 ---
 
-**C-9282** The data center will need about 9 gigawatts, more than Utah consumes
+**C-9282** Guardian Says the Data Center Will Need About 9 Gigawatts, More Than Utah Consumes
 
 Claim Timestamp: 00:17:29
 
@@ -935,7 +935,7 @@ Investigative Direction: Compare the project's stated power demand with Utah's t
 
 ---
 
-**C-9283** County commissioners approved the project despite thousands of objections
+**C-9283** Guardian Says County Commissioners Approved the Project Despite Thousands of Objections
 
 Claim Timestamp: 00:17:29
 
@@ -995,7 +995,7 @@ Investigative Direction: Archive O'Leary's posts and compare with the residency 
 
 ---
 
-**C-9287** Authorities can remotely shut down many newer cars
+**C-9287** Host Says Authorities Can Remotely Shut Down Many Newer Cars
 
 Claim Timestamp: 00:19:54
 
@@ -1040,7 +1040,7 @@ Investigative Direction: Compile the military service and affiliation records of
 
 ---
 
-**C-9290** Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination
+**C-9290** Host Says Erika Kirk Urged People to Sign Up for TPUSA 48 Hours After the Assassination
 
 Claim Timestamp: 00:25:37
 
@@ -1055,7 +1055,7 @@ Investigative Direction: Compare the timing of Erika Kirk's September 2025 state
 
 ---
 
-**C-9291** Donors present say Charlie Kirk never made the appointment statement
+**C-9291** Host Says Donors Present Say Charlie Kirk Never Made the Appointment Statement
 
 Claim Timestamp: 00:26:33
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Review sponsor contract terms, if disclosed, for exclus
 
 ---
 
-**C-9298** The boycott led to the show's biggest day of merch sales
+**C-9298** Host Says the Boycott Led to the Show's Biggest Day of Merch Sales
 
 Claim Timestamp: 00:36:36
 
@@ -1208,7 +1208,7 @@ Investigative Direction: Archive Paramount Tactical's original statement on the 
 
 ---
 
-**C-9301** People who know the daughter say the girl in the photo is not hers
+**C-9301** Host Says People Who Know the Daughter Say the Girl in the Photo Is Not Hers
 
 Claim Timestamp: 00:37:06
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Archive the tweet and the follow-up posts with timestam
 
 ---
 
-**C-9303** Gary Melton served as a Green Beret
+**C-9303** Host Says Gary Melton Served as a Green Beret
 
 Claim Timestamp: 00:39:34
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Archive Tracy Martin's statement and identify the child
 
 ---
 
-**C-9305** A 22-foot golden Trump statue was unveiled at a Florida golf course
+**C-9305** Host Says a 22-Foot Golden Trump Statue Was Unveiled at a Florida Golf Course
 
 Claim Timestamp: 00:42:00
 
@@ -1284,7 +1284,7 @@ Investigative Direction: Identify the golf course, date of unveiling and the com
 
 ---
 
-**C-9306** Pastor John Mark Burns defended the statue
+**C-9306** Host Says Pastor John Mark Burns Defended the Statue
 
 Claim Timestamp: 00:42:00
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Archive Burns's public statements on the statue.
 
 ---
 
-**C-9307** Hasidic Jewish donors financially backed the statue
+**C-9307** Host Believes Hasidic Jewish Donors Financially Backed the Statue
 
 Claim Timestamp: 00:43:03
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Identify the article and the named donors or funding en
 
 ---
 
-**C-9308** Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group
+**C-9308** Host Describes Matthew Shupe as a PR Agent for Harmeet Dhillon and Dhillon Law Group
 
 Claim Timestamp: 00:47:33
 
@@ -1329,7 +1329,7 @@ Investigative Direction: Confirm Shupe's client relationships and whether he was
 
 ---
 
-**C-9309** Harmeet Dhillon sat with Andrew Kolvet at the WHCD
+**C-9309** Host Says Harmeet Dhillon Sat With Andrew Kolvet at the WHCD
 
 Claim Timestamp: 00:47:33
 

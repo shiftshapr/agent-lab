@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:59:48
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
+- **Transcript SHA-256**: db327e3b59ea95dd3c50d31c157401496d9e0c894ed65e3e9fe0b513db8d4ecc
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-795, N-796, N-797
@@ -952,6 +952,7 @@ Mentions: N-238, N-239
 
 Related Nodes: N-10228
 
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kerkhoff" and "Kirkup" refer to the same individual.
 
 **C-2606** Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were "Digitally Fabricated"

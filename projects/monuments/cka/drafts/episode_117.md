@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:00:51
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:46:17Z
-- **Transcript SHA-256**: cdea606f4db12541d7dd7145c6087e2f0544cebb089904ad1145af7169642a66
+- **Transcript SHA-256**: eb42ef3f489fbc3da928ceb9342de62b872c29d9c38e8362cdc1321cba14f65b
 - **Model Version**: claude-manual-extract-seq117
 
 - **Episode Ledger Summary**:
@@ -797,7 +797,7 @@ Investigation target: who recorded the viral video of Erika Kirk leaving the Whi
 
 ## 5. Claim Register
 
-**C-10038** Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
+**C-10038** Host says Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
 
 Claim Timestamp: 00:00:01
 
@@ -875,7 +875,7 @@ Investigative Direction: Obtain police and federal K-9 deployment records for th
 
 ---
 
-**C-10043** Article: PETN's low water solubility and high soil absorption would require digging out the soil
+**C-10043** Host cites article on PETN's low solubility and soil absorption, says soil would need digging out
 
 Claim Timestamp: 00:06:08
 
@@ -920,7 +920,7 @@ Investigative Direction: Obtain Merrill's photographs with metadata and compare 
 
 ---
 
-**C-10046** Shattered black plastic or glass appears throughout the SUV that carried Charlie Kirk
+**C-10046** Host says shattered black plastic or glass appears throughout the SUV that carried Charlie Kirk
 
 Claim Timestamp: 00:07:34
 
@@ -936,7 +936,7 @@ Investigative Direction: Request evidence photographs and the evidence inventory
 
 ---
 
-**C-10047** No Footage or Eyewitness Shows a Shot Fired From the Losee Building
+**C-10047** Host Says No Footage or Eyewitness Shows a Shot Fired From the Losee Building
 
 Claim Timestamp: 00:07:34
 
@@ -951,7 +951,7 @@ Investigative Direction: Review the prosecution's discovery and released video f
 
 ---
 
-**C-10048** Federal agents did not perform a GSR test on Tyler Robinson
+**C-10048** Host says federal agents did not perform a GSR test on Tyler Robinson
 
 Claim Timestamp: 00:07:34
 
@@ -966,7 +966,7 @@ Investigative Direction: Check the charging documents, discovery and court filin
 
 ---
 
-**C-10049** Farnsworth removed the SD card from the back camera at the crime scene
+**C-10049** Host says Farnsworth removed the SD card from the back camera at the crime scene
 
 Claim Timestamp: 00:08:29
 
@@ -998,7 +998,7 @@ Investigative Direction: Obtain the UVU event security and medical plan and TPUS
 
 ---
 
-**C-10051** Erika Kirk forgave Tyler Robinson faster than she forgave Druski
+**C-10051** Host says Erika Kirk forgave Tyler Robinson faster than she forgave Druski
 
 Claim Timestamp: 00:09:19
 
@@ -1028,7 +1028,7 @@ Investigative Direction: Preserve the emails received and ask independent audio 
 
 ---
 
-**C-10053** On September 10 the Rode mic was placed inside Charlie Kirk's shirt with the magnetic clasp outside
+**C-10053** Host says on September 10 the Rode mic was placed inside Charlie Kirk's shirt with the magnetic clasp outside
 
 Claim Timestamp: 00:09:48
 
@@ -1058,7 +1058,7 @@ Investigative Direction: Review footage of Charlie Kirk's campus events before a
 
 ---
 
-**C-10055** On the fall 2024 tour the mic moved from outside to inside Charlie Kirk's shirt from October 8
+**C-10055** Host says on the fall 2024 tour the mic moved from outside to inside Charlie Kirk's shirt from October 8
 
 Claim Timestamp: 00:12:03
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Determine whether any broadcast or live-stream recordin
 
 ---
 
-**C-10057** Farnsworth has run Charlie Kirk's AV team for over 10 years and grew up with Tyler Bowyer's family
+**C-10057** Host says Farnsworth has run Charlie Kirk's AV team for over 10 years and grew up with Tyler Bowyer's family
 
 Claim Timestamp: 00:14:08
 
@@ -1103,7 +1103,7 @@ Investigative Direction: Check Visual Impulse's corporate filings and TPUSA vend
 
 ---
 
-**C-10058** Tyler Bowyer hired the people around Charlie Kirk
+**C-10058** Host says Tyler Bowyer hired the people around Charlie Kirk
 
 Claim Timestamp: 00:14:08
 
@@ -1118,7 +1118,7 @@ Investigative Direction: Interview current and former TPUSA staff and review hir
 
 ---
 
-**C-10059** Philip Goldsberry Jr. was the AV technician who mic'd Charlie Kirk
+**C-10059** Host says Philip Goldsberry Jr. was the AV technician who mic'd Charlie Kirk
 
 Claim Timestamp: 00:14:08
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Compare the equipment visible in the footage with Rode 
 
 ---
 
-**C-10061** Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace
+**C-10061** Sam Parker's video says Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace
 
 Claim Timestamp: 00:15:55
 
@@ -1163,7 +1163,7 @@ Investigative Direction: Frame-by-frame analysis of the mic-up and shooting foot
 
 ---
 
-**C-10062** Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor in Arizona who studied psychology
+**C-10062** Host says Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor in Arizona who studied psychology
 
 Claim Timestamp: 00:17:32
 
@@ -1178,7 +1178,7 @@ Investigative Direction: Verify Dr. Goldsberry's ministry, credentials and famil
 
 ---
 
-**C-10063** Erika Kirk won a teen pageant crown in 2006 under the Trump Miss Universe organization
+**C-10063** Host says Erika Kirk won a teen pageant crown in 2006 under the Trump Miss Universe organization
 
 Claim Timestamp: 00:17:32
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Check pageant records for the title Erika Kirk (then Fr
 
 ---
 
-**C-10064** Dr. Philip Goldsberry co-founded a charity working in Eastern Europe in 2006
+**C-10064** Host says Dr. Philip Goldsberry co-founded a charity working in Eastern Europe in 2006
 
 Claim Timestamp: 00:17:32
 
@@ -1208,7 +1208,7 @@ Investigative Direction: Obtain Soter Global Ministries' founding documents, IRS
 
 ---
 
-**C-10065** Soter Global Ministries provided medical care to orphanages in Ukraine and Romania
+**C-10065** Host says Soter Global Ministries provided medical care to orphanages in Ukraine and Romania
 
 Claim Timestamp: 00:18:27
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Review Soter Global Ministries' annual reports and Form
 
 ---
 
-**C-10066** Soter filed formal paperwork in 2010, the year the Black Sea Rotational Force set up in Romania
+**C-10066** Host says Soter filed formal paperwork in 2010, the year the Black Sea Rotational Force set up in Romania
 
 Claim Timestamp: 00:18:27
 
@@ -1249,6 +1249,7 @@ Transcript Snippet: This is what landed Erika's Romanian Angels in some hot wate
 Anchored Artifacts: 
 Mentions: N-2, N-687
 Related Nodes: N-10910, N-10374
+Tags: relevance:tangential
 Investigative Direction: Identify the officer's correct name and command, find the source of the accusation, and check for any official investigation or finding.
 
 ---
@@ -1283,7 +1284,7 @@ Investigative Direction: Archive the website timeline and cross-check it against
 
 ---
 
-**C-10070** Tyler Bowyer did missionary work in the same region in 2005–2006
+**C-10070** Host says Tyler Bowyer did missionary work in the same region in 2005–2006
 
 Claim Timestamp: 00:20:37
 
@@ -1313,7 +1314,7 @@ Investigative Direction: Identify the agency and the woman referred to, and chec
 
 ---
 
-**C-10072** Epstein went down almost to the day of Charlie and Erika Kirk's first date
+**C-10072** Host says Epstein went down almost to the day of Charlie and Erika Kirk's first date
 
 Claim Timestamp: 00:21:30
 
@@ -1328,7 +1329,7 @@ Investigative Direction: Compare the documented date of Epstein's death with the
 
 ---
 
-**C-10073** Plane 888 was formerly registered in Romania and its owners help trafficking victims
+**C-10073** Host says plane 888 was formerly registered in Romania and its owners help trafficking victims
 
 Claim Timestamp: 00:23:15
 
@@ -1343,7 +1344,7 @@ Investigative Direction: Pull FAA and Romanian civil aviation registry history f
 
 ---
 
-**C-10074** Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base
+**C-10074** Host says Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base
 
 Claim Timestamp: 00:23:15
 
@@ -1358,7 +1359,7 @@ Investigative Direction: Obtain records of the Romanian Angels Project and any M
 
 ---
 
-**C-10075** Tyler Bowyer went to Romania in 2011 to work with the Romanian government
+**C-10075** Host says Tyler Bowyer went to Romania in 2011 to work with the Romanian government
 
 Claim Timestamp: 00:23:15
 
@@ -1389,7 +1390,7 @@ Investigative Direction: Archive the original 2013 post and identify the adoptio
 
 ---
 
-**C-10077** Greg Laurie's Harvest church is in court over accusations of trafficking from Romania
+**C-10077** Host says Greg Laurie's Harvest church is in court over accusations of trafficking from Romania
 
 Claim Timestamp: 00:24:24
 
@@ -1405,7 +1406,7 @@ Investigative Direction: Review the dockets of the lawsuits against Harvest Chri
 
 ---
 
-**C-10078** Andrew Kolvet's brother Curtis was recently stationed in Romania as a lieutenant colonel
+**C-10078** Host says Andrew Kolvet's brother Curtis was recently stationed in Romania as a lieutenant colonel
 
 Claim Timestamp: 00:24:24
 
@@ -1420,7 +1421,7 @@ Investigative Direction: Confirm the officer's identity, rank and assignment thr
 
 ---
 
-**C-10079** Tyler Bowyer holds a Russian studies degree and lived in Russia for two years
+**C-10079** Host says Tyler Bowyer holds a Russian studies degree and lived in Russia for two years
 
 Claim Timestamp: 00:25:09
 
@@ -1435,7 +1436,7 @@ Investigative Direction: Verify Bowyer's degree with his university and the date
 
 ---
 
-**C-10080** Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006
+**C-10080** Host says Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006
 
 Claim Timestamp: 00:25:09
 
@@ -1450,7 +1451,7 @@ Investigative Direction: Check McCoy's public biography and statements for the a
 
 ---
 
-**C-10081** TPUSA's biggest donor Nelda Buckman is extensively involved in anti-trafficking work
+**C-10081** Host says TPUSA's biggest donor Nelda Buckman is extensively involved in anti-trafficking work
 
 Claim Timestamp: 00:25:09
 
@@ -1540,7 +1541,7 @@ Investigative Direction: Subpoena or request TPUSA's streaming accounts and inte
 
 ---
 
-**C-10087** Charlie Kirk's white Freedom shirt is not listed as evidence in the court hearing
+**C-10087** Host says Charlie Kirk's white Freedom shirt is not listed as evidence in the court hearing
 
 Claim Timestamp: 00:30:04
 
@@ -1555,7 +1556,7 @@ Investigative Direction: Review the evidence lists in the Robinson case filings 
 
 ---
 
-**C-10088** The bloodied handheld mic was given to TPUSA, which displays it in a glass case to raise money
+**C-10088** Host says the bloodied handheld mic was given to TPUSA, which displays it in a glass case to raise money
 
 Claim Timestamp: 00:31:04
 
@@ -1585,7 +1586,7 @@ Investigative Direction: Seek the full September 9 text threads through subpoena
 
 ---
 
-**C-10090** Charlie Kirk's phone was given to Erika Kirk instead of being held as evidence
+**C-10090** Host says Charlie Kirk's phone was given to Erika Kirk instead of being held as evidence
 
 Claim Timestamp: 00:32:03
 
@@ -1707,7 +1708,7 @@ Investigative Direction: Compare public examples of Erika Kirk's signature over 
 
 ---
 
-**C-10098** The paver had never heard of a "paver emergency"
+**C-10098** Viewer comment quotes the paver as never having heard of a "paver emergency"
 
 Claim Timestamp: 00:49:54
 
@@ -1737,7 +1738,7 @@ Investigative Direction: Check YouTube live concurrent-viewer statistics for the
 
 ---
 
-**C-10100** An email shows the Department of War artificially boosted Erika Kirk as an "emotional asset"
+**C-10100** Host says an email shows the Department of War artificially boosted Erika Kirk as an "emotional asset"
 
 Claim Timestamp: 00:53:39
 
@@ -1831,7 +1832,7 @@ Investigative Direction: Match the dates of Erika Kirk's pageant titles against 
 
 ---
 
-**C-10106** Alex Clark appeared in a Mark Burnett Productions dating show
+**C-10106** Host is told Alex Clark appeared in a Mark Burnett Productions dating show
 
 Claim Timestamp: 00:55:47
 

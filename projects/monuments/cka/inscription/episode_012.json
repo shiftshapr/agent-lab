@@ -1618,7 +1618,7 @@
       "@type": "Claim",
       "@id": "C-1100",
       "ref": "C-1100",
-      "label": "Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.",
+      "label": "Host says video metadata shows Phil Lyman inside the Sorensen Center at 12:23, walking out calmly.",
       "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorensen building at 12:23 and then calmly walked out rather than running.",
       "anchored_artifacts": [
         "A-1185.1"
@@ -1721,7 +1721,7 @@
       "@type": "Claim",
       "@id": "C-1081",
       "ref": "C-1081",
-      "label": "Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.",
+      "label": "Host says Shaner Broderick previously identified Phil Lyman as his uncle on Instagram and LinkedIn.",
       "claim": "The host says Shaner Broderick posted on his Instagram 'My uncle Phil Lyman' and that his LinkedIn listed Phil Lyman as an uncle connection, before Lyman said they are only cousins.",
       "anchored_artifacts": [
         "A-1192.1",
@@ -1735,10 +1735,8 @@
         "N-61",
         "N-128"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-1082"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1788,7 +1786,7 @@
       "@type": "Claim",
       "@id": "C-1133",
       "ref": "C-1133",
-      "label": "Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing \"deep love for Israel\" and offering strategic counsel.",
+      "label": "NY Post shared a May letter attributed to Kirk reportedly expressing \"deep love for Israel\"; host questions it.",
       "claim": "The host says the New York Post and Israeli Post shared a May letter to Netanyahu in which Charlie Kirk reportedly 'wrote of his deep love for Israel'; she questions whether it is authentic and asks for the email to be authenticated.",
       "anchored_artifacts": [
         "A-1191.1"
@@ -2196,7 +2194,8 @@
         "N-10142"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.",
@@ -2712,7 +2711,8 @@
         "N-10032"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.",

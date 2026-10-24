@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:22:06
 - **Extraction Timestamp (UTC)**: 2026-10-13T21:38:38Z
-- **Transcript SHA-256**: c712347d8eaed2c3f4d138d1c3341477fcf064c6a3a6da584168a38f51b1366b
+- **Transcript SHA-256**: 4b52a6c63fdf6a46350805c305690b1feff6191f44ba7a1d485831c3238e3551
 - **Model Version**: claude-manual-extract-seq111
 
 - **Episode Ledger Summary**:
@@ -712,7 +712,7 @@ Investigative Direction: Obtain the host's interview request correspondence with
 
 ---
 
-**C-9708** Trump administration sent a delegation to SPIEF
+**C-9708** Host says Trump administration sent a delegation to SPIEF
 
 Claim Timestamp: 00:03:32
 
@@ -831,7 +831,7 @@ Investigative Direction: Obtain the hospital's surgical record and the wife's em
 
 ---
 
-**C-9716** Staffer had tried for years to get a VA appointment
+**C-9716** Staffer's wife says he had tried for years to get a VA appointment
 
 Claim Timestamp: 00:12:36
 
@@ -846,7 +846,7 @@ Investigative Direction: Obtain the veteran's VA appointment-request history (wi
 
 ---
 
-**C-9717** Staffer's platoon survived a sonar blast and several members later died by suicide
+**C-9717** Staffer's wife says his platoon survived a sonar blast and several members later died by suicide
 
 Claim Timestamp: 00:13:34
 
@@ -950,7 +950,7 @@ Investigative Direction: Consult historical records of the 1918 Yekaterinburg ex
 
 ---
 
-**C-9724** More than 60 million Russian Christians were murdered under communism
+**C-9724** Host says more than 60 million Russian Christians were murdered under communism
 
 Claim Timestamp: 00:23:20
 
@@ -978,7 +978,7 @@ Investigative Direction: Retrieve the New York Times article and the historical 
 
 ---
 
-**C-9726** Soviet Bureau was financed by diamonds smuggled into New York
+**C-9726** NYT article says Soviet Bureau was allegedly financed by diamonds smuggled into New York
 
 Claim Timestamp: 00:25:49
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Obtain full event footage and any venue security report
 
 ---
 
-**C-9732** Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit
+**C-9732** Host says Erika Kirk toured with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit
 
 Claim Timestamp: 00:40:20
 
@@ -1076,6 +1076,7 @@ Anchored Artifacts:
 Mentions: N-2, N-450, N-451
 Related Nodes: N-10384, N-10374
 Supports: C-5042
+Tags: relevance:tangential
 Investigative Direction: Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.
 
 ---
@@ -1153,7 +1154,7 @@ Investigative Direction: Full summit footage.
 
 ---
 
-**C-9738** Female chapter leaders declined to attend; the summit dropped "Young" from its name
+**C-9738** Host says female chapter leaders declined to attend; the summit dropped "Young" from its name
 
 Claim Timestamp: 00:47:49
 
@@ -1197,7 +1198,7 @@ Investigative Direction: Interview sponsors and advertisers who dropped or decli
 
 ---
 
-**C-9741** Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel
+**C-9741** Host says Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel
 
 Claim Timestamp: 00:50:16
 
@@ -1241,7 +1242,7 @@ Investigative Direction: Check White House visitor logs for Alex Clark and the t
 
 ---
 
-**C-9744** Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie
+**C-9744** Host says Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie
 
 Claim Timestamp: 00:51:07
 
@@ -1284,7 +1285,7 @@ Investigative Direction: Check ADF staff listings and the Running on Butter site
 
 ---
 
-**C-9747** Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview
+**C-9747** Host says Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview
 
 Claim Timestamp: 00:55:43
 
@@ -1314,7 +1315,7 @@ Investigative Direction: Source each clip in the supercut to its original event 
 
 ---
 
-**C-9749** TPUSA first said it withheld the video because people would call it AI
+**C-9749** Host says TPUSA first said it withheld the video because people would call it AI
 
 Claim Timestamp: 01:00:14
 
@@ -1329,7 +1330,7 @@ Investigative Direction: Locate the original TPUSA statement and its author.
 
 ---
 
-**C-9750** Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest
+**C-9750** Host says bloody microphone was displayed in glass case at Mar-a-Lago fundraiser and AmFest
 
 Claim Timestamp: 01:00:58
 
@@ -1344,7 +1345,7 @@ Investigative Direction: Event photos from the Mar-a-Lago fundraiser and AmFest,
 
 ---
 
-**C-9751** Erika Kirk used a personal letter from Charlie in a fundraising email
+**C-9751** Host says Erika Kirk used a personal letter from Charlie in a fundraising email
 
 Claim Timestamp: 01:00:58
 
@@ -1390,7 +1391,7 @@ Investigative Direction: On-record interviews with the Aspen attendees and the f
 
 ---
 
-**C-9754** Attendees who are Erika fans also do not remember the appointment
+**C-9754** Host says attendees who are Erika fans also do not remember the appointment
 
 Claim Timestamp: 01:02:31
 
@@ -1405,7 +1406,7 @@ Investigative Direction: Forensic comparison of the released clip with the full 
 
 ---
 
-**C-9755** Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith
+**C-9755** Host says Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith
 
 Claim Timestamp: 01:03:31
 
@@ -1420,7 +1421,7 @@ Investigative Direction: Full Aspen presentation recording and attendance record
 
 ---
 
-**C-9756** Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation
+**C-9756** Host says Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation
 
 Claim Timestamp: 01:04:20
 
@@ -1541,7 +1542,7 @@ Investigative Direction: Follow whether the full video is released.
 
 ---
 
-**C-9764** TPUSA partnered with AI companies that make after-death videos
+**C-9764** Host says TPUSA partnered with AI companies that make after-death videos
 
 Claim Timestamp: 01:08:58
 
@@ -1556,7 +1557,7 @@ Investigative Direction: Identify TPUSA's AI vendor contracts and announcements 
 
 ---
 
-**C-9765** Becoming Brigitte series is widely watched in Russia
+**C-9765** Host says Russians told her they watch the Becoming Brigitte series
 
 Claim Timestamp: 01:13:42
 
@@ -1600,7 +1601,7 @@ Investigative Direction: The FOIA request numbers and agency correspondence.
 
 ---
 
-**C-9768** Erika Kirk is treated as an "emotional asset" and the Department of War was involved in the emails
+**C-9768** Host says Erika Kirk is treated as an "emotional asset" and the Department of War appears involved
 
 Claim Timestamp: 01:20:03
 

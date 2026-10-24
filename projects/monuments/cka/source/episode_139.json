@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:03:44",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e",
+    "- **Transcript SHA-256**: 787e6a24ad052109ee62178c1204183fdf1346880e5036da020b8dd1df4d6e50",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-11277, N-11278",
@@ -9171,7 +9171,7 @@
     },
     {
      "k": "Tags",
-     "v": "relevance:core"
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",

@@ -1759,7 +1759,7 @@
       "@type": "Claim",
       "@id": "C-9931",
       "ref": "C-9931",
-      "label": "Erika Kirk gave Dan Flood a raise after the assassination",
+      "label": "Host says Erika Kirk gave Dan Flood a raise after the assassination",
       "claim": "The host says Erika Kirk offered members of Charlie Kirk's security team a raise after his assassination, as she did with Dan Flood.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1847,7 +1847,7 @@
       "@type": "Claim",
       "@id": "C-9935",
       "ref": "C-9935",
-      "label": "Well perforating requires PETN",
+      "label": "Host says well perforating requires PETN",
       "claim": "The host says the perforating technique used by Surefire Wireline requires the explosive PETN.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1872,7 +1872,9 @@
         "N-10893",
         "N-10895"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
       "transcript_snippet": "Allegedly, Mark Liti had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
@@ -1893,7 +1895,9 @@
         "N-10896",
         "N-10893"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.",
       "transcript_snippet": "The ATF was apparently investigating for this, investigating him for this.",
@@ -1928,7 +1932,7 @@
       "@type": "Claim",
       "@id": "C-9939",
       "ref": "C-9939",
-      "label": "Liti's confidant was Corey Comperatore",
+      "label": "Host says Liti's confidant was Corey Comperatore",
       "claim": "The host says Mark Liti's longtime high school friend, to whom he confided taking the explosives, was Corey Comperatore.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1949,7 +1953,7 @@
       "@type": "Claim",
       "@id": "C-9940",
       "ref": "C-9940",
-      "label": "An unknown woman escorted the Comperatore family to the front at Butler",
+      "label": "Host says an unknown woman escorted the Comperatore family to the front at Butler",
       "claim": "The host says Corey Comperatore had regular tickets, and that while the family waited in the crowd an unknown woman asked whether they would like to be escorted to the very front.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1993,7 +1997,7 @@
       "@type": "Claim",
       "@id": "C-9942",
       "ref": "C-9942",
-      "label": "Liti was Facebook friends with members of the Crooks family",
+      "label": "Host says Liti was Facebook friends with members of the Crooks family",
       "claim": "The host says Mark Liti was Facebook friends with various members of the Crooks family, while calling it possibly a small-town coincidence.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2264,7 +2268,7 @@
       "@type": "Claim",
       "@id": "C-9954",
       "ref": "C-9954",
-      "label": "Trump is satisfied with the Butler investigation and wants it shut down",
+      "label": "Host says Trump is satisfied with the Butler investigation and wants it shut down",
       "claim": "The host says Trump is satisfied with the Butler investigation and wants it shut down, and calls Dan Bongino's reaction to Butler strange.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2288,7 +2292,7 @@
       "@type": "Claim",
       "@id": "C-9955",
       "ref": "C-9955",
-      "label": "The Comperatore family is not satisfied with the Butler investigation",
+      "label": "Host says the Comperatore family is not satisfied with the Butler investigation",
       "claim": "The host says she has it on authority that Corey Comperatore's widow and family are not satisfied with the investigation or the answers they have received, and are unhappy that Secret Service agents never lost their jobs.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2308,7 +2312,7 @@
       "@type": "Claim",
       "@id": "C-9956",
       "ref": "C-9956",
-      "label": "An FBI plane landed in Salt Lake City on September 8, 2025",
+      "label": "Host says an FBI plane landed in Salt Lake City on September 8, 2025",
       "claim": "The host says an FBI plane landed in Salt Lake City, Utah on September 8, 2025, which is partly why she requested Kash Patel's schedule.",
       "anchored_artifacts": [
         "A-2662.1"
@@ -2331,7 +2335,7 @@
       "@type": "Claim",
       "@id": "C-9957",
       "ref": "C-9957",
-      "label": "Charlie Kirk first went to Salt Lake City on the morning of September 10",
+      "label": "Host says Charlie Kirk first went to Salt Lake City on the morning of September 10",
       "claim": "The host says Charlie Kirk first went to Salt Lake City on the morning of September 10 for a restaurant interview that became his final interview.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2351,7 +2355,7 @@
       "@type": "Claim",
       "@id": "C-9958",
       "ref": "C-9958",
-      "label": "The FBI plane flew Richmond to Salt Lake City and left an hour later",
+      "label": "Host says the FBI plane flew Richmond to Salt Lake City and left an hour later",
       "claim": "The host says the FBI plane left Richmond, Virginia at 9:50 a.m., arrived in Salt Lake City at 12:00 p.m. and departed about an hour later, adding that this does not mean Kash Patel was aboard.",
       "anchored_artifacts": [
         "A-2662.1"
@@ -2399,7 +2403,7 @@
       "@type": "Claim",
       "@id": "C-9960",
       "ref": "C-9960",
-      "label": "Taxpayers pay for Kash Patel's girlfriend's security",
+      "label": "Host says taxpayers pay for Kash Patel's girlfriend's security",
       "claim": "The host says taxpayers pay to fly Kash Patel around and even pay for his girlfriend's security.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2701,7 +2705,7 @@
       "@type": "Claim",
       "@id": "C-9973",
       "ref": "C-9973",
-      "label": "Erika Kirk filed CK trademarks soon after Charlie's death",
+      "label": "Host believes Erika Kirk filed CK trademarks soon after Charlie's death",
       "claim": "Responding to a viewer comment, the host says Erika Kirk holds many trademarks for \"Charlie Kirk\" and \"CK\" and believes she filed them in the immediate aftermath of his death.",
       "anchored_artifacts": [
         "A-2667.1"
@@ -2724,7 +2728,7 @@
       "@type": "Claim",
       "@id": "C-9974",
       "ref": "C-9974",
-      "label": "Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
+      "label": "Host says Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
       "claim": "The host says Erika Kirk was in the office every day after Charlie Kirk's death and that Rob McCoy's wife watched her children.",
       "anchored_artifacts": [],
       "related_nodes": [

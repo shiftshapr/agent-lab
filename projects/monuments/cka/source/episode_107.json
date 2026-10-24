@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–01:38:11",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5",
+    "- **Transcript SHA-256**: 3f25d740260416ef998481d15873d73319c8cfa037117e6b9fcac6e4e5753734",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10): N-727, N-728, N-10965, N-10966, N-10967, N-10968, N-10969, N-10970",
@@ -2564,6 +2564,10 @@
      "v": "N-341, N-347"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction."
     },
@@ -3017,8 +3021,8 @@
   {
    "kind": "claim",
    "id": "C-9360",
-   "header": "**C-9360** White House press team has not answered about the email",
-   "label": "White House press team has not answered about the email",
+   "header": "**C-9360** Host Says White House Press Team Has Not Answered About the Email",
+   "label": "Host Says White House Press Team Has Not Answered About the Email",
    "lines": [
     {
      "raw": ""
@@ -3245,8 +3249,8 @@
   {
    "kind": "claim",
    "id": "C-9366",
-   "header": "**C-9366** Marx's birth name is Von Victor Kennedy",
-   "label": "Marx's birth name is Von Victor Kennedy",
+   "header": "**C-9366** Host Says Marx's Birth Name Is Von Victor Kennedy",
+   "label": "Host Says Marx's Birth Name Is Von Victor Kennedy",
    "lines": [
     {
      "raw": ""
@@ -3285,6 +3289,10 @@
      "v": "N-10551"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain birth or name-change records and compare with Marx's own account."
     },
@@ -3302,8 +3310,8 @@
   {
    "kind": "claim",
    "id": "C-9367",
-   "header": "**C-9367** Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy",
-   "label": "Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy",
+   "header": "**C-9367** Host Says Marx's Stepfather Served in Army Counterintelligence and Pled Guilty to a Drug Smuggling Conspiracy",
+   "label": "Host Says Marx's Stepfather Served in Army Counterintelligence and Pled Guilty to a Drug Smuggling Conspiracy",
    "lines": [
     {
      "raw": ""
@@ -3473,8 +3481,8 @@
   {
    "kind": "claim",
    "id": "C-9370",
-   "header": "**C-9370** Marx's biological father spent time in a mental hospital for homicidal tendencies",
-   "label": "Marx's biological father spent time in a mental hospital for homicidal tendencies",
+   "header": "**C-9370** Host Says Marx's Biological Father Spent Time in a Mental Hospital for Homicidal Tendencies",
+   "label": "Host Says Marx's Biological Father Spent Time in a Mental Hospital for Homicidal Tendencies",
    "lines": [
     {
      "raw": ""
@@ -3530,8 +3538,8 @@
   {
    "kind": "claim",
    "id": "C-9371",
-   "header": "**C-9371** Marx's grandfather killed his grandmother in a public murder-suicide",
-   "label": "Marx's grandfather killed his grandmother in a public murder-suicide",
+   "header": "**C-9371** Host Says Marx's Grandfather Killed His Grandmother in a Public Murder-Suicide",
+   "label": "Host Says Marx's Grandfather Killed His Grandmother in a Public Murder-Suicide",
    "lines": [
     {
      "raw": ""
@@ -3587,8 +3595,8 @@
   {
    "kind": "claim",
    "id": "C-9372",
-   "header": "**C-9372** Marx lived in 17 homes and attended 14 schools by age 17",
-   "label": "Marx lived in 17 homes and attended 14 schools by age 17",
+   "header": "**C-9372** Host Says Marx Lived in 17 Homes and Attended 14 Schools by Age 17",
+   "label": "Host Says Marx Lived in 17 Homes and Attended 14 Schools by Age 17",
    "lines": [
     {
      "raw": ""
@@ -3709,8 +3717,8 @@
   {
    "kind": "claim",
    "id": "C-9374",
-   "header": "**C-9374** Marx married Eileen Breining Marx at 23 and has five children",
-   "label": "Marx married Eileen Breining Marx at 23 and has five children",
+   "header": "**C-9374** Host Says Marx Married Eileen Breining Marx at 23 and Has Five Children",
+   "label": "Host Says Marx Married Eileen Breining Marx at 23 and Has Five Children",
    "lines": [
     {
      "raw": ""
@@ -3766,8 +3774,8 @@
   {
    "kind": "claim",
    "id": "C-9375",
-   "header": "**C-9375** Marx and his brother began All Things Possible Ministries in 2003",
-   "label": "Marx and his brother began All Things Possible Ministries in 2003",
+   "header": "**C-9375** Host Says Marx and His Brother Began All Things Possible Ministries in 2003",
+   "label": "Host Says Marx and His Brother Began All Things Possible Ministries in 2003",
    "lines": [
     {
      "raw": ""
@@ -3823,8 +3831,8 @@
   {
    "kind": "claim",
    "id": "C-9376",
-   "header": "**C-9376** Eileen's brother Kenneth Breining tried to shoot Marx in 2023",
-   "label": "Eileen's brother Kenneth Breining tried to shoot Marx in 2023",
+   "header": "**C-9376** Host Says Eileen's Brother Kenneth Breining Tried to Shoot Marx in 2023",
+   "label": "Host Says Eileen's Brother Kenneth Breining Tried to Shoot Marx in 2023",
    "lines": [
     {
      "raw": ""
@@ -3880,8 +3888,8 @@
   {
    "kind": "claim",
    "id": "C-9377",
-   "header": "**C-9377** Kenneth Breining later killed his own girlfriend",
-   "label": "Kenneth Breining later killed his own girlfriend",
+   "header": "**C-9377** Host Says Kenneth Breining Later Killed His Own Girlfriend",
+   "label": "Host Says Kenneth Breining Later Killed His Own Girlfriend",
    "lines": [
     {
      "raw": ""
@@ -3916,6 +3924,10 @@
      "v": "N-726, N-343"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the homicide case record naming Kenneth Breining and the victim."
     },
@@ -3933,8 +3945,8 @@
   {
    "kind": "claim",
    "id": "C-9378",
-   "header": "**C-9378** Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial",
-   "label": "Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial",
+   "header": "**C-9378** Host Says Marx Announced His Candidacy on October 1 and Teased It at Charlie Kirk's Memorial",
+   "label": "Host Says Marx Announced His Candidacy on October 1 and Teased It at Charlie Kirk's Memorial",
    "lines": [
     {
      "raw": ""
@@ -4616,6 +4628,10 @@
      "v": "N-10967"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain any police or court filings by Holly Chalmers and the border records for her crossing."
     },
@@ -4673,6 +4689,10 @@
      "v": "N-10967"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements."
     },
@@ -4728,6 +4748,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -4899,6 +4923,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5076,6 +5104,10 @@
      "v": "N-10968"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report."
     },
@@ -5192,6 +5224,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10968"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -5888,6 +5924,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -6757,7 +6797,7 @@
      "v": "N-10552"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-9156"
     },
     {
@@ -7982,10 +8022,6 @@
      "v": "N-10814, N-10965"
     },
     {
-     "k": "Contradicts",
-     "v": "C-9454"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Ask for documented counts of persons rescued versus assisted."
     },
@@ -8499,6 +8535,10 @@
      "v": "N-10967"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Locate the couple's video and check its post date."
     },
@@ -8554,6 +8594,10 @@
     {
      "k": "Related Nodes",
      "v": "N-10967"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
     },
     {
      "k": "Investigative Direction",
@@ -9083,10 +9127,6 @@
     {
      "k": "Supports",
      "v": "C-8324"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-8169"
     },
     {
      "k": "Investigative Direction",

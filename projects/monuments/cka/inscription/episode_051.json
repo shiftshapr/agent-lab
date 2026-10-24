@@ -1916,7 +1916,7 @@
       "@type": "Claim",
       "@id": "C-4458",
       "ref": "C-4458",
-      "label": "Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer",
+      "label": "Host Says Daily Wire Reactivated Her Old YouTube and Instagram and Re-Released Her 2021 Joining Trailer",
       "claim": "The host says people messaged her that The Daily Wire had brought back her old YouTube channel, which she says it had apparently privatized, and her old Instagram account, and premiered her trailer from when she joined The Daily Wire (with a front card saying it was shot in 2021) on those channels.",
       "anchored_artifacts": [
         "A-1575.1"
@@ -1959,7 +1959,7 @@
       "@type": "Claim",
       "@id": "C-4513",
       "ref": "C-4513",
-      "label": "Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans",
+      "label": "Retired Army Law Enforcement Commenter Calls Paramount Tactical Valhalla an Embarrassment to Veterans",
       "claim": "A top fan comment from the prior episode, read aloud on air, identifies the commenter as retired army law enforcement and characterizes Paramount Tactical Valhalla as \"an embarrassment to me as a vet.\"",
       "anchored_artifacts": [
         "A-1576.2"
@@ -2680,7 +2680,8 @@
         "N-10351"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:06",
       "investigative_direction": "Obtain Mitch Snow's military service record and the streams in which his past was discussed.",

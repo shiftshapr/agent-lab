@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–01:06:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
+- **Transcript SHA-256**: f0661ab63bd543af9567f388609b98e135d25c7efd4aad8e766bd21b361d269f
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11291, N-11292, N-11293
@@ -885,7 +885,7 @@ The host's report that a person was said to have been told not to speak to the m
 
 ## 5. Claim Register
 
-**C-1612** Front Shot, No Exit
+**C-1612** Host Says Front Shot, No Exit
 
 Claim Timestamp: 00:03:37
 
@@ -971,7 +971,7 @@ Investigative Direction: Identify the witness and obtain a signed statement cons
 
 ---
 
-**C-1626** Pusher Not TPUSA or UVU Affiliated
+**C-1626** Host Says Pusher Was Not TPUSA or UVU Affiliated
 
 Claim Timestamp: 00:11:30
 
@@ -1101,7 +1101,7 @@ Investigative Direction: Locate Utah state announcement and prior employment rec
 
 ---
 
-**C-1664** Israeli Individual Listed as Caldera Founder
+**C-1664** Uncorroborated Listing Names Israeli Individual as Caldera Founder
 
 Claim Timestamp: 00:30:39
 
@@ -1137,7 +1137,7 @@ Investigative Direction: Verify via LinkedIn / professional profile cross-checks
 
 ---
 
-**C-1669** Caldera Early Trademark Lawyer – Tyler Bowyer Connection
+**C-1669** Host Says Caldera Early Trademark Lawyer Has Tyler Bowyer Connection
 
 Claim Timestamp: 00:32:52
 

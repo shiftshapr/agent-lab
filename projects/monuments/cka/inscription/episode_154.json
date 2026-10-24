@@ -1805,7 +1805,7 @@
       "@type": "Claim",
       "@id": "C-13349",
       "ref": "C-13349",
-      "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+      "label": "Tucker Carlson Says Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
       "claim": "In a clip the host plays, Tucker Carlson says the Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" and notes this is the author's framing, not a Neff quote.",
       "anchored_artifacts": [
         "A-2400.2"
@@ -1847,7 +1847,7 @@
       "@type": "Claim",
       "@id": "C-13351",
       "ref": "C-13351",
-      "label": "Blake Neff Verbatim Censorship Quote",
+      "label": "Tucker Carlson Reads What He Calls a Verbatim Blake Neff Censorship Quote",
       "claim": "In a clip the host plays, Tucker Carlson reads what he calls a verbatim quote from Blake Neff: \"Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it.\"",
       "anchored_artifacts": [
         "A-2400.1"
@@ -2390,12 +2390,8 @@
         "N-1",
         "N-3"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-13308",
-        "C-13309",
-        "C-13365"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-1211"
       ]
@@ -2543,7 +2539,7 @@
       "@type": "Claim",
       "@id": "C-13313",
       "ref": "C-13313",
-      "label": "Kolvet Attributed the Forwarded Message to the Groypers' Walls",
+      "label": "Host Says Kolvet Attributed the Forwarded Message to the Groypers' Walls",
       "claim": "The host says that when she asked who wrote the forwarded message about a public feud, Kolvet answered that the \"Graers\" wrote it on their walls and later said it was on their blogs.",
       "anchored_artifacts": [
         "A-2394.1"

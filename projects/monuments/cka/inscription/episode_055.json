@@ -1754,7 +1754,7 @@
       "@type": "Claim",
       "@id": "C-4883",
       "ref": "C-4883",
-      "label": "Andrew Kolvet Never Replied to the Dream Text From Candace Owens",
+      "label": "Host Says Andrew Kolvet Never Replied to Her Dream Text",
       "claim": "The host stated that Andrew Kolvet did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1896,7 +1896,7 @@
       "@type": "Claim",
       "@id": "C-4932",
       "ref": "C-4932",
-      "label": "Sun Myung Moon declared Ron Godwin as one of three disciples",
+      "label": "Host Presents Sun Myung Moon Quotation Declaring Ron Godwin One of Three Disciples",
       "claim": "The host presented a Sun Myung Moon quotation declaring Ron Godwin to be one of three disciples, charged with multiplying their own disciples.",
       "anchored_artifacts": [
         "A-1614.1"
@@ -1940,7 +1940,7 @@
       "@type": "Claim",
       "@id": "C-4946",
       "ref": "C-4946",
-      "label": "A Likud party representative declared Tucker Carlson and Candace Owens enemies of Israel in a Knesset speech",
+      "label": "Likud Member Calls Tucker Carlson and Candace Owens \"a New Enemy Rising From Within\" in Knesset Speech",
       "claim": "An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens \"a new enemy rising from within\" the West and accused them of \"intellectual vandalism.\"",
       "anchored_artifacts": [
         "A-1611.1"
@@ -2185,7 +2185,7 @@
       "@type": "Claim",
       "@id": "C-4911",
       "ref": "C-4911",
-      "label": "Mark Burnett named as Johnnie Moore's Hollywood employer",
+      "label": "Host Says Johnnie Moore Went to Hollywood in 2015 to Work With Mark Burnett",
       "claim": "The host stated that Johnnie Moore went to Hollywood in 2015 to work with Mark Burnett.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2203,7 +2203,7 @@
       "@type": "Claim",
       "@id": "C-4913",
       "ref": "C-4913",
-      "label": "Mark Burnett became chairperson of MGM and acquired Summerhouse",
+      "label": "Host Says MGM Acquired Summerhouse When Mark Burnett Became Chairperson",
       "claim": "The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2220,7 +2220,7 @@
       "@type": "Claim",
       "@id": "C-4947",
       "ref": "C-4947",
-      "label": "Murder plot against Candace Owens discovered on September 10, still in courts",
+      "label": "Host Says Murder Plot Against Her Was Discovered on September 10 and Is Still in Courts",
       "claim": "The host stated that someone was plotting her murder on September 10, \"a year from the date that Charlie was murdered,\" that the plot was discovered, and that the matter is still making its way through the courts.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2240,7 +2240,7 @@
       "@type": "Claim",
       "@id": "C-4893",
       "ref": "C-4893",
-      "label": "Turning Point USA soliciting 401ks, property, and estate/will inclusions",
+      "label": "Host Says Turning Point USA Solicits 401ks, Property, and Estate/Will Inclusions",
       "claim": "The host stated that Turning Point USA has evolved from soliciting one-time donations to soliciting pledges of 401k accounts, property, and inclusion in donors' wills and estate planning.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2850,7 +2850,8 @@
         "N-10375"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.",
@@ -2926,7 +2927,8 @@
         "N-11300"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Review Falwell Jr.'s own public statements on the affair and the 2020 board and Liberty documents on his departure.",

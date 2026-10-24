@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:54:53
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
+- **Transcript SHA-256**: 81e5ab6edb6fe005e5afc675635b9c0befa94273be7707900549cdbebde3fd5c
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-847, N-11147
@@ -784,7 +784,7 @@ Investigative Direction: Verify the original X Space audio against the HuffPost 
 
 ---
 
-**C-2511** Boreing Invited Fuentes Onto Daily Wire Shows
+**C-2511** HuffPost Says Boreing Would Be Thrilled to Have Fuentes on a Daily Wire Show
 
 Claim Timestamp: 00:14:04–00:15:45
 
@@ -799,7 +799,7 @@ Investigative Direction: Confirm via the original X Space audio that this invita
 
 ---
 
-**C-2515** Candace–Charlie Text Exchange Documents Shapiro's Behavior
+**C-2515** Host Reads Candace–Charlie Texts About Treating Shapiro Like Noise
 
 Claim Timestamp: 00:16:27–00:17:50
 
@@ -825,6 +825,7 @@ Mentions: N-235, N-3
 
 Related Nodes: N-10225
 
+Tags: relevance:tangential
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
 ---
@@ -917,7 +918,7 @@ Investigative Direction: Locate the original tweets via web archives to verify w
 
 ---
 
-**C-2497** Shapiro–Carlson Private Text Exchange After Kirk's Death
+**C-2497** Shapiro Says He Texted Carlson Proposing a Joint Show and His Outreach Went Unanswered
 
 Claim Timestamp: 00:04:34–00:05:23
 
@@ -1041,7 +1042,7 @@ Investigative Direction: Confirm the date of the Carlson and Greene episode agai
 
 ---
 
-**C-2501** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country
+**C-2501** Clip: Speaker Says Mamdani Said He Would Stay in New York When Asked Which Foreign Country He Would Visit
 
 Claim Timestamp: 00:08:20
 
@@ -1155,13 +1156,12 @@ Transcript Snippet: when the Daily Wire position in 2024 was that their CEO coul
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-366, N-201
 Related Nodes: N-10821
-Qualifies: C-2510
 Tags: relevance:context
 Investigative Direction: Confirm the year of the X Space; the existing claim C-2510 gives March 25, 2025, which the transcript does not state.
 
 ---
 
-**C-2513** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'
+**C-2513** Clip: Fuentes Says Guys Like Shapiro Will Not Say 'Christ Is King'
 
 Claim Timestamp: 00:14:04
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:01:11
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
+- **Transcript SHA-256**: 176a215955ee7f152c2925059d2e2a076d5015aa1043a52070712ab26e6ddece
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-933, N-934, N-935, N-936, N-11305, N-11306
@@ -1198,7 +1198,7 @@ Investigative Direction: Obtain the full Freud-Fliess correspondence from standa
 
 ---
 
-**C-5989** Epstein Emails Mention Israel Twice as Much as Trump
+**C-5989** TikTok Compilation Says Epstein Files Mention Israel Twice as Much as Trump
 
 Claim Timestamp: 00:10:32
 
@@ -1212,7 +1212,7 @@ Investigative Direction: Independently count Israel/Trump mentions across DOJ-re
 
 ---
 
-**C-5990** Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation
+**C-5990** Compilation Says Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation
 
 Claim Timestamp: 00:10:32
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Cross-check against Maria Farmer's prior sworn testimon
 
 ---
 
-**C-5987** Epstein Emailed That He Works for the Rothschilds
+**C-5987** Host Says Epstein Emailed That He Works for the Rothschilds
 
 Claim Timestamp: 00:09:45
 
@@ -1278,6 +1278,7 @@ Anchored Artifacts: A-1716.1
 Mentions: N-9, N-182, N-525
 
 
+Tags: relevance:tangential
 Investigative Direction: Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin.
 
 ---
@@ -1292,6 +1293,7 @@ Anchored Artifacts: A-1716.1
 Mentions: N-525, N-182
 
 
+Tags: relevance:tangential
 Investigative Direction: Verify the litigation through court records (UK).
 
 ---
@@ -1338,7 +1340,7 @@ Investigative Direction: Obtain the full Bennett interview recording.
 
 ---
 
-**C-6010** Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation
+**C-6010** Ben Shapiro Says Naftali Bennett Told Him Pollard 1987 Was Last Mossad US Operation
 
 Claim Timestamp: 00:20:07
 
@@ -1454,7 +1456,7 @@ Investigative Direction: Verify against Charlie Kirk's text message timestamp; c
 
 ---
 
-**C-5998** WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief
+**C-5998** Host Reads WikiLeaks Email to Podesta She Attributes to Kathryn Tate, Referencing Pizza-Related Handkerchief
 
 Claim Timestamp: 00:14:46
 
@@ -1889,7 +1891,6 @@ Transcript Snippet: Here is Tucker then asserting that it was actually Mossad. A
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-22, N-9
 Related Nodes: N-10023, N-10015
-Contradicts: C-6009
 Tags: relevance:context
 Investigative Direction: Find the Tucker Carlson statement and date; identify what, if anything, he cited as evidence.
 

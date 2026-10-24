@@ -1764,7 +1764,7 @@
       "@type": "Claim",
       "@id": "C-2827",
       "ref": "C-2827",
-      "label": "Lou Taylor's Husband Pastored at Calvary Chapel Brentwood",
+      "label": "Brett Cooper Says Lou Taylor's Husband Was a Pastor at Calvary Church in Brentwood",
       "claim": "In a clip the host plays, Brett Cooper says Lou Taylor began her career working in a church alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.",
       "anchored_artifacts": [
         "A-1399.2"
@@ -1785,7 +1785,7 @@
       "@type": "Claim",
       "@id": "C-2828",
       "ref": "C-2828",
-      "label": "Lou Taylor Lacked Formal Financial Qualifications",
+      "label": "Brett Cooper Says Lou Taylor Had No Financial Background",
       "claim": "Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager.",
       "anchored_artifacts": [
         "A-1399.2"
@@ -1855,7 +1855,9 @@
         "A-1401.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.",
       "mentions_person_refs": [
@@ -1914,7 +1916,7 @@
       "@type": "Claim",
       "@id": "C-2835",
       "ref": "C-2835",
-      "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+      "label": "Email Alleges Lou Taylor's Church Is a Front and Suspects Intelligence Ties",
       "claim": "Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for \"them and Aruse\" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it.",
       "anchored_artifacts": [
         "A-1405.1"
@@ -1922,7 +1924,9 @@
       "related_nodes": [
         "N-10234"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.",
       "mentions_person_refs": [
@@ -2105,7 +2109,7 @@
       "@type": "Claim",
       "@id": "C-2873",
       "ref": "C-2873",
-      "label": "Samir Was Permitted to Interview Astrid Tuminez",
+      "label": "Host Says Samir Was Granted an Interview With Astrid Tuminez",
       "claim": "Per host, \"Samir\" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2143,7 +2147,7 @@
       "@type": "Claim",
       "@id": "C-2886",
       "ref": "C-2886",
-      "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+      "label": "Host Says Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
       "claim": "The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's \"heir\" or equivalent.",
       "anchored_artifacts": [
         "A-1412.1"
@@ -2163,7 +2167,7 @@
       "@type": "Claim",
       "@id": "C-2888",
       "ref": "C-2888",
-      "label": "Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
+      "label": "Host Says Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
       "claim": "The host says the Wall Street Journal repeated the \"heir apparent\" framing of Allie Beth Stuckey for TPUSA.",
       "anchored_artifacts": [
         "A-1413.1"

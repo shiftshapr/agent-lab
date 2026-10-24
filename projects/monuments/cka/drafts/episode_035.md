@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:40
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
+- **Transcript SHA-256**: 3155ebea493455f0ff6fd03a8045326f1045a0a2ae0adcb9fecc16ea887a00be
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11076, N-11077
@@ -1047,7 +1047,7 @@ Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview cl
 
 ---
 
-**C-3115** Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description
+**C-3115** Host Says Brian Harpole Doubled Down on the 3,000 lbs of Energy Bullet Description
 
 Claim Timestamp: 00:33:46–00:36:45
 
@@ -1138,7 +1138,7 @@ Open Questions: Q-331
 
 ---
 
-**C-3053** Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier
+**C-3053** Host Says Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier
 
 Claim Timestamp: 00:02:32
 
@@ -1156,7 +1156,7 @@ Open Questions: Q-277
 
 ---
 
-**C-3055** Wilmington Landing About 2.5 Hours Before the Shooting
+**C-3055** Host Says SUBTT Landed in Wilmington About 2.5 Hours Before the Shooting
 
 Claim Timestamp: 00:03:51
 
@@ -1719,7 +1719,7 @@ Open Questions: Q-337
 
 ---
 
-**C-3094** Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.
+**C-3094** Host Says Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.
 
 Claim Timestamp: 00:27:09
 
@@ -1737,7 +1737,7 @@ Open Questions: Q-338
 
 ---
 
-**C-3095** Cessna Citation Returned to Scottsdale at 12:44 p.m.
+**C-3095** Host Says Cessna Citation Returned to Scottsdale at 12:44 p.m.
 
 Claim Timestamp: 00:27:09
 
@@ -2026,7 +2026,6 @@ Anchored Artifacts: A-1441.1, A-1442.1
 Mentions: N-266, N-7, N-3, N-1
 Related Nodes: N-10251
 Supports: C-3110
-Contradicts: C-3106
 Tags: relevance:core
 Investigative Direction: Obtain drone logs, FAA airspace restrictions and TPUSA security records for September 10, 2025; reconcile with Harpole's statement that drones were not allowed.
 Open Questions: Q-342

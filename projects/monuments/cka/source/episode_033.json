@@ -15,7 +15,7 @@
     "- **Source**: Candace Owens YouTube",
     "- **Video Timestamp Range**: 00:00:00–00:56:29",
     "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
-    "- **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159",
+    "- **Transcript SHA-256**: 22431c35372a1072e57406d1981671fa43236303a89e79d498578b053cc1a6be",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10f): N-11247, N-11248, N-11249, N-11250",
@@ -3197,8 +3197,8 @@
   {
    "kind": "claim",
    "id": "C-2917",
-   "header": "**C-2917** Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
-   "label": "Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
+   "header": "**C-2917** Spreadsheet Shown by Host Lists Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
+   "label": "Spreadsheet Shown by Host Lists Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
    "lines": [
     {
      "raw": ""
@@ -3474,8 +3474,8 @@
   {
    "kind": "claim",
    "id": "C-2937",
-   "header": "**C-2937** N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
-   "label": "N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
+   "header": "**C-2937** Host Says N560TW Flew Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
+   "label": "Host Says N560TW Flew Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
    "lines": [
     {
      "raw": ""
@@ -3590,8 +3590,8 @@
   {
    "kind": "claim",
    "id": "C-2940",
-   "header": "**C-2940** Four Specific License Plates Identified as Rental Vehicles",
-   "label": "Four Specific License Plates Identified as Rental Vehicles",
+   "header": "**C-2940** Host Reads Four License Plates She Associates With the Rental Vehicles",
+   "label": "Host Reads Four License Plates She Associates With the Rental Vehicles",
    "lines": [
     {
      "raw": ""
@@ -3646,8 +3646,8 @@
   {
    "kind": "claim",
    "id": "C-2947",
-   "header": "**C-2947** Three of Four TPUSA-Related 990 Forms Missing for FY2024",
-   "label": "Three of Four TPUSA-Related 990 Forms Missing for FY2024",
+   "header": "**C-2947** Wolves and Finance Video Says Three of Four TPUSA-Related 990 Forms Missing for FY2024",
+   "label": "Wolves and Finance Video Says Three of Four TPUSA-Related 990 Forms Missing for FY2024",
    "lines": [
     {
      "raw": ""
@@ -3814,8 +3814,8 @@
   {
    "kind": "claim",
    "id": "C-2965",
-   "header": "**C-2965** TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased",
-   "label": "TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased",
+   "header": "**C-2965** Video Cited by Host Says TPUSA 501(c)(3) Arm Cut Staff by 33% While Salary Costs Increased",
+   "label": "Video Cited by Host Says TPUSA 501(c)(3) Arm Cut Staff by 33% While Salary Costs Increased",
    "lines": [
     {
      "raw": ""
@@ -3870,8 +3870,8 @@
   {
    "kind": "claim",
    "id": "C-2963",
-   "header": "**C-2963** Erika Kirk Assumed CEO Role on September 18, 2025",
-   "label": "Erika Kirk Assumed CEO Role on September 18, 2025",
+   "header": "**C-2963** Wolves and Finance Video Says Erika Kirk Assumed CEO Role on September 18, 2025",
+   "label": "Wolves and Finance Video Says Erika Kirk Assumed CEO Role on September 18, 2025",
    "lines": [
     {
      "raw": ""
@@ -4129,6 +4129,10 @@
      "v": "high"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified."
     },
@@ -4181,6 +4185,10 @@
      "v": "high"
     },
     {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Preserve as brand / network framing claim (M-12 alias \"decentralized intelligence agents\"); identity of the tipster stays protected."
     },
@@ -4201,8 +4209,8 @@
   {
    "kind": "claim",
    "id": "C-2909",
-   "header": "**C-2909** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
-   "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
+   "header": "**C-2909** Host Says Andrew K. Smith Interview Was Ostensible Reason Charlie Kirk Flew Into Salt Lake City",
+   "label": "Host Says Andrew K. Smith Interview Was Ostensible Reason Charlie Kirk Flew Into Salt Lake City",
    "lines": [
     {
      "raw": ""
@@ -7807,10 +7815,6 @@
     {
      "k": "Related Nodes",
      "v": "N-11250, N-10239"
-    },
-    {
-     "k": "Contradicts",
-     "v": "C-2927, C-2924"
     },
     {
      "k": "Tags",

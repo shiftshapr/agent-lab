@@ -2217,7 +2217,7 @@
       "@type": "Claim",
       "@id": "C-8731",
       "ref": "C-8731",
-      "label": "Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
+      "label": "Jacob William Roth Is Listed as a Partner on the Harpole Lawsuit; Host Thinks He Is Ben Shapiro's Brother-in-Law",
       "claim": "The host says the Brian Harpole lawsuit's final page lists Jacob William Roth as a partner of the firm, and says she thinks Roth has been married to Ben Shapiro's sister since 2018.",
       "anchored_artifacts": [
         "A-2042.1"
@@ -2261,7 +2261,7 @@
       "@type": "Claim",
       "@id": "C-8803",
       "ref": "C-8803",
-      "label": "FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)",
+      "label": "Host Says FARA Filing's Church List Overlaps With Turning Point-Affiliated Churches",
       "claim": "The host says the Show Faith by Works FARA filing named churches to be geofenced that include many Calvary Chapel churches where Turning Point USA pastors are involved and Dream City Church in Phoenix, which hosted Erika Kirk and Donald Trump; she says she has not personally confirmed a link.",
       "anchored_artifacts": [
         "A-2044.1",
@@ -2283,7 +2283,7 @@
       "@type": "Claim",
       "@id": "C-8806",
       "ref": "C-8806",
-      "label": "Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
+      "label": "Donation Comment Hopes the Harpole Case Could Enable Discovery of Underlying Materials",
       "claim": "A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance \"we might have\" to get to the truth.",
       "anchored_artifacts": [
         "A-2040.3"
@@ -2328,7 +2328,8 @@
         "N-10577"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:context",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the original posts making the doxing, money-hiding and hit-and-run accusations and any police or court record of the alleged incident.",

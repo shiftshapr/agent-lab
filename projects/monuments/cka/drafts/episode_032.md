@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4
+- **Transcript SHA-256**: bebd71738f8a36d6e81c983e4b18f17f1eab9347d3ea88a2c105424b71b12e47
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-870, N-871, N-872, N-873, N-874, N-11191, N-11192
@@ -867,7 +867,7 @@ Existing node reused for new claims in this episode.
 
 ## V. Claim Register
 
-**C-2827** Lou Taylor's Husband Pastored at Calvary Chapel Brentwood
+**C-2827** Brett Cooper Says Lou Taylor's Husband Was a Pastor at Calvary Church in Brentwood
 
 Claim Timestamp: 00:11:07
 
@@ -881,7 +881,7 @@ Investigative Direction: Verify Calvary Chapel Brentwood staff records circa 200
 
 ---
 
-**C-2828** Lou Taylor Lacked Formal Financial Qualifications
+**C-2828** Brett Cooper Says Lou Taylor Had No Financial Background
 
 Claim Timestamp: 00:11:07
 
@@ -934,6 +934,7 @@ Anchored Artifacts: A-1401.1
 Mentions: N-870, N-252, N-250, N-221
 
 
+Tags: relevance:tangential
 Investigative Direction: Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.
 
 ---
@@ -966,7 +967,7 @@ Investigative Direction: Compare Lohan's public statement against contemporaneou
 
 ---
 
-**C-2835** Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links
+**C-2835** Email Alleges Lou Taylor's Church Is a Front and Suspects Intelligence Ties
 
 Claim Timestamp: 00:14:40
 
@@ -977,6 +978,7 @@ Mentions: N-250, N-251
 
 Related Nodes: N-10234
 
+Tags: relevance:tangential
 Investigative Direction: Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.
 
 ---
@@ -1098,7 +1100,7 @@ Investigative Direction: Identify the second individual in the Samir photo; conf
 
 ---
 
-**C-2873** Samir Was Permitted to Interview Astrid Tuminez
+**C-2873** Host Says Samir Was Granted an Interview With Astrid Tuminez
 
 Claim Timestamp: 00:44:05
 
@@ -1126,7 +1128,7 @@ Investigative Direction: Confirm Butch Hibbs's official role/access at the event
 
 ---
 
-**C-2886** Daily Mail Headline Framed Allie Beth Stuckey as TPUSA "Heir"
+**C-2886** Host Says Daily Mail Headline Framed Allie Beth Stuckey as TPUSA "Heir"
 
 Claim Timestamp: 00:56:34
 
@@ -1140,7 +1142,7 @@ Investigative Direction: Obtain the article and verify framing language; host di
 
 ---
 
-**C-2888** Wall Street Journal Repeated "Heir Apparent" Framing of Allie Beth Stuckey
+**C-2888** Host Says Wall Street Journal Repeated "Heir Apparent" Framing of Allie Beth Stuckey
 
 Claim Timestamp: 00:56:58
 

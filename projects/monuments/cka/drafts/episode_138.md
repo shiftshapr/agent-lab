@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:03:14
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
+- **Transcript SHA-256**: 66d91812fc4cd0fba9bbb43c27ce9e6de29806a2b1723926dfecb8845235cfca
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-824, N-11123, N-11125, N-11126
@@ -1112,7 +1112,7 @@ Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter
 
 ---
 
-**C-11863** Group Chat Members Shared Candace Owens' Home Address
+**C-11863** Shady Lady Katie Post Says Group Chat Members Shared Candace Owens' Home Address
 
 Claim Timestamp: 00:19:12–00:20:10
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Obtain original venue surveillance footage with verifie
 
 ---
 
-**C-11883** Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm
+**C-11883** NBC Reports Miami-Dade Deputies Responded to Perez Hilton's Residence Over Reported Live-Streamed Self-Harm
 
 Claim Timestamp: 00:36:50–00:37:30
 
@@ -1322,6 +1322,7 @@ Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54, N-775
 Related Nodes: N-10707
+Tags: relevance:tangential
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
 ---
@@ -1389,7 +1390,7 @@ Anchored Artifacts:
 Mentions: N-3, N-42
 Related Nodes: N-10093
 Supports: C-157
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain the Zinn arrest record, charging documents and booking date to confirm the charge and compare with the confession episode.
 Open Questions: Q-135
 
@@ -1406,7 +1407,7 @@ Transcript Snippet: He goes by David Sprague, but he actually changed his name. 
 Anchored Artifacts: 
 Mentions: N-3, N-814
 Related Nodes: 
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.
 Open Questions: Q-1066
 

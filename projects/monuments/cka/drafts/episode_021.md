@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:57:35
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
+- **Transcript SHA-256**: a163f2f1c02c8e98cc8a6998b8aabd4cd3f7742a148233cf51445bcfecbed223
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-754, N-11018, N-11019
@@ -689,7 +689,7 @@ Investigative Direction: Locate the NYT article by date, headline, and quoted ma
 
 ---
 
-**C-1967** Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry
+**C-1967** Host Says Kash Patel Apparently Met With Wiles, Kent, Gabbard and, She Thinks, JD Vance on the Inquiry
 
 Claim Timestamp: 00:21:37
 
@@ -1132,8 +1132,6 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10193
 Tags: relevance:core
-Verification: revised-by-host
-Verification Evidence: C-11561
 Investigative Direction: Check parish and cemetery records, the funeral program and public notices for the rite and burial location.
 Open Questions: Q-232
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:53:49
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e
+- **Transcript SHA-256**: c376a3208af85a4b85702d61f01f3f8e4659d759bb24c2fc977ee70bc3232a92
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-894, N-895, N-11217, N-11218, N-11219
@@ -966,7 +966,7 @@ Investigative Direction: Obtain defense discovery materials or testimony from se
 
 *Flag: Artifact verbally referenced but not shown*
 
-**C-11642** Hospital EMR system incompatibility
+**C-11642** Host Says the Hospital EMR Systems Were Incompatible
 
 Claim Timestamp: 00:26:02
 

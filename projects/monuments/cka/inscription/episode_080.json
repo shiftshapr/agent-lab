@@ -2084,7 +2084,7 @@
       "@type": "Claim",
       "@id": "C-7228",
       "ref": "C-7228",
-      "label": "Netanyahu Misses Security Council Meeting",
+      "label": "Host Says Netanyahu Allegedly Missed a Security Council Meeting",
       "claim": "The host says Netanyahu allegedly missed a Security Council meeting, which she says is purportedly highly unusual, and that she thinks Israel Katz ran the meeting in his place.",
       "anchored_artifacts": [
         "A-1875.1"
@@ -2105,7 +2105,7 @@
       "@type": "Claim",
       "@id": "C-7229",
       "ref": "C-7229",
-      "label": "Yair Netanyahu Social Media Silence Pattern",
+      "label": "Host Says Yair Netanyahu Went Silent on Social Media for 7 Days",
       "claim": "The host says somebody noted that Yair Netanyahu, who she says normally tweets or retweets about 30 times a day, went completely radio silent for 7 days.",
       "anchored_artifacts": [
         "A-1875.1"

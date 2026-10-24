@@ -267,3 +267,35 @@ Run by fresh Opus agents with adversarial briefs, at Daveed's request (the ROADM
 - **C-1676**: At ~39:33 host says "It went to Page, Arizona"; the "intended destination" content ("it was supposed to land in Page, Arizona ... Million Air FBO. Last second, it made a change") is in the [40:07] block, est. ~40:30, about 80s after 00:39:09. → _Timestamp 00:40:07_
 - **C-6928**: No snippet. The license material starts in the 14:38 segment ('I am indeed able to find a relic of it on a third-party site', licence number, 'issued on October 24th of 2018'); only 'valid at least until 2020' falls at 15:31, so the link lands ~40-50 s after the core content. → _00:14:38_
 
+
+## 6.2 fixes applied (2026-10-24, after Daveed's rulings)
+
+Daveed ruled to rebuild the then-vs-now ledger, run the title sweep, and mark the privacy flags tangential.
+
+**Then-vs-now ledger rebuilt.**
+- **Tool.** `scripts/ledger/apply_pair_audit.py` applied the 282 pair verdicts to the `Revises`, `Contradicts` and
+  `Qualifies` links on the claims.
+- **Changes to the links.**
+  - 110 material pairs were dropped.
+  - Minor pairs were relabelled or swapped.
+  - Three real self-revisions were re-filed as host-vs-herself `revises`.
+  - Kept pairs carry a "Phase 6" audit note.
+- **Voice flags.** `config/host_voice_overrides.json` corrects the "host's own words" flag where the audit showed the
+  text heuristic was wrong; `export_then_vs_now.py` now reads it.
+- **Result.** The ledger went from 282 links to 172, of which 57 are host-vs-herself. `revised-by-host` statuses went
+  from 53 to 36 because some dropped links had set them.
+
+**Privacy flags.** All 185 flagged claims are tagged `relevance:tangential` (167 changed, 18 already were). The tags
+are copied into the inscriptions.
+
+**Title sweep.**
+- 1,980 titles were at risk: titles with no attribution word, plus titles that drop a hedge the claim sentence keeps.
+- 7 Opus agents compared each title with its claim sentence.
+- 949 titles were rewritten so the allegation is attributed ("Host Says…", "Host Alleges…") or hedged. They are logged
+  old → new in `title_fixes.json`.
+- The labels are patched in the inscriptions and the companion. Claim ids and sentences are unchanged.
+
+**Not yet applied.** These are the other 6.2 items from the findings above:
+- the 30 material verification-status fixes (stratum A);
+- the about 70 note and evidence corrections (stratum A);
+- the 31 material allegation fixes (stratum C), apart from the title-framing ones the sweep covered.

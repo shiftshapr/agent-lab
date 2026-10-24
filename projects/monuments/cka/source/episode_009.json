@@ -19,7 +19,7 @@
     "- **Video Timestamp Range**: 00:00:00–00:47:35",
     "- **Extraction Timestamp (UTC)**: 2026-09-23T21:00:52Z",
     "- **Model Version**: MiniMax-M2.5",
-    "- **Transcript SHA-256**: 7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f",
+    "- **Transcript SHA-256**: 875c500c897be4aa9185c5a5bfee97e90405b0cadb855acaad4e05a2f9efe914",
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11285, N-11286",
@@ -3054,8 +3054,8 @@
   {
    "kind": "claim",
    "id": "C-790",
-   "header": "**C-790** Existence of 80-page Crooks online-history document",
-   "label": "Existence of 80-page Crooks online-history document",
+   "header": "**C-790** Host says she has an 80-page Crooks online-history document",
+   "label": "Host says she has an 80-page Crooks online-history document",
    "lines": [
     {
      "raw": ""
@@ -3526,8 +3526,8 @@
   {
    "kind": "claim",
    "id": "C-743",
-   "header": "**C-743** FBI pressuring Utah to close Kirk case",
-   "label": "FBI pressuring Utah to close Kirk case",
+   "header": "**C-743** Host's source says FBI is pressuring Utah to close Kirk case",
+   "label": "Host's source says FBI is pressuring Utah to close Kirk case",
    "lines": [
     {
      "raw": ""
@@ -3578,8 +3578,8 @@
   {
    "kind": "claim",
    "id": "C-745",
-   "header": "**C-745** No video shows Tyler Robinson firing weapon",
-   "label": "No video shows Tyler Robinson firing weapon",
+   "header": "**C-745** Host asserts no video shows Tyler Robinson firing weapon",
+   "label": "Host asserts no video shows Tyler Robinson firing weapon",
    "lines": [
     {
      "raw": ""
@@ -3630,8 +3630,8 @@
   {
    "kind": "claim",
    "id": "C-751",
-   "header": "**C-751** Bullet too fragmented to match Tyler's rifle",
-   "label": "Bullet too fragmented to match Tyler's rifle",
+   "header": "**C-751** Host's source says bullet too fragmented to match Tyler's rifle",
+   "label": "Host's source says bullet too fragmented to match Tyler's rifle",
    "lines": [
     {
      "raw": ""
@@ -3690,8 +3690,8 @@
   {
    "kind": "claim",
    "id": "C-749",
-   "header": "**C-749** FBI lacks footage of rifle reaching the roof",
-   "label": "FBI lacks footage of rifle reaching the roof",
+   "header": "**C-749** Host's source says FBI lacks footage of rifle reaching the roof",
+   "label": "Host's source says FBI lacks footage of rifle reaching the roof",
    "lines": [
     {
      "raw": ""
@@ -3742,8 +3742,8 @@
   {
    "kind": "claim",
    "id": "C-756",
-   "header": "**C-756** Multiple sets of prints on Robinson rifle",
-   "label": "Multiple sets of prints on Robinson rifle",
+   "header": "**C-756** Host's source says multiple sets of prints on Robinson rifle",
+   "label": "Host's source says multiple sets of prints on Robinson rifle",
    "lines": [
     {
      "raw": ""
@@ -8001,10 +8001,6 @@
      "v": "N-10110"
     },
     {
-     "k": "Qualifies",
-     "v": "C-776"
-    },
-    {
      "k": "Tags",
      "v": "relevance:tangential"
     },
@@ -8123,7 +8119,7 @@
      "v": "N-10110"
     },
     {
-     "k": "Contradicts",
+     "k": "Qualifies",
      "v": "C-777"
     },
     {

@@ -1753,7 +1753,7 @@
       "@type": "Claim",
       "@id": "C-9545",
       "ref": "C-9545",
-      "label": "Another White House shooting incident this weekend; the perpetrator fired and was killed",
+      "label": "Host says another White House shooting incident this weekend; the perpetrator fired and was killed",
       "claim": "The host says another shooting incident happened at the White House over the weekend, in which the perpetrator fired shots and was killed, and nobody else died.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1817,7 +1817,7 @@
       "@type": "Claim",
       "@id": "C-9548",
       "ref": "C-9548",
-      "label": "Multiple DOD offices have access to the distribution lists",
+      "label": "Host says multiple DOD offices have access to the distribution lists",
       "claim": "The host says her team learned that multiple offices within the Department of Defense have access to various distribution lists, which she says makes the White House denial narrow.",
       "anchored_artifacts": [
         "A-2610.2"
@@ -1839,7 +1839,7 @@
       "@type": "Claim",
       "@id": "C-9549",
       "ref": "C-9549",
-      "label": "Steven Cheung was copied on the original email and did not answer the follow-up",
+      "label": "Host says Steven Cheung was copied on the original email and did not answer the follow-up",
       "claim": "The host says she copied Steven Cheung and the communications team on a follow-up asking whether the email was fake, notes that Cheung was copied on the original, and says the White House then stopped responding.",
       "anchored_artifacts": [
         "A-2610.2"
@@ -2001,7 +2001,7 @@
       "@type": "Claim",
       "@id": "C-9556",
       "ref": "C-9556",
-      "label": "Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
+      "label": "Host says Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
       "claim": "The host says an Air Force plane left Fort Huachuca at 11:43 a.m. local time on September 9, flew to El Paso, Texas, and landed at 1:31 p.m. local time.",
       "anchored_artifacts": [
         "A-2611.1"
@@ -2022,7 +2022,7 @@
       "@type": "Claim",
       "@id": "C-9557",
       "ref": "C-9557",
-      "label": "Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
+      "label": "Host says Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
       "claim": "The host says Brian Harpole's alibi was that he flew from Texas to Salt Lake City at 2:30 in the afternoon. She says the SAM plane could have carried someone from the Fort Huachuca meeting to Texas.",
       "anchored_artifacts": [
         "A-2611.1"
@@ -2085,7 +2085,7 @@
       "@type": "Claim",
       "@id": "C-9560",
       "ref": "C-9560",
-      "label": "No indication where Kash Patel was on September 9",
+      "label": "Host says there is no indication where Kash Patel was on September 9",
       "claim": "The host says there is no indication of where Kash Patel was on September 9 and notes that the SAM plane flies around Las Vegas, where he is from.",
       "anchored_artifacts": [
         "A-2611.1"
@@ -2129,7 +2129,7 @@
       "@type": "Claim",
       "@id": "C-9562",
       "ref": "C-9562",
-      "label": "Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
+      "label": "Cuccia says she was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
       "claim": "The host says Gabrielle Cuccia was fired as the Pentagon's chief correspondent. According to the host, Cuccia says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.",
       "anchored_artifacts": [
         "A-2612.1"
@@ -2199,7 +2199,7 @@
       "@type": "Claim",
       "@id": "C-9565",
       "ref": "C-9565",
-      "label": "The script was for an AI-generated video on behalf of the White House, NSC and Gorka",
+      "label": "Cuccia says she was told the script was for an AI-generated video for the White House, NSC and Gorka",
       "claim": "According to Cuccia's thread, she was told the script would be used for an AI-generated video made on behalf of the White House, specifically for the NSC and Sebastian Gorka. She says it was routed through VFT so it would not look like it came from the White House.",
       "anchored_artifacts": [
         "A-2612.2"
@@ -2246,7 +2246,7 @@
       "@type": "Claim",
       "@id": "C-9567",
       "ref": "C-9567",
-      "label": "Cuccia was given a Dropbox of VFT research with seven folders",
+      "label": "Cuccia says she was given a Dropbox of VFT research with seven folders",
       "claim": "According to Cuccia's thread, she was given a Dropbox link with research, polling data, internal comments and strategy material compiled by VFT and the third party, organized in seven folders.",
       "anchored_artifacts": [
         "A-2612.2",
@@ -2298,7 +2298,7 @@
       "@type": "Claim",
       "@id": "C-9569",
       "ref": "C-9569",
-      "label": "VFT collected polling on Joe Kent's resignation",
+      "label": "Cuccia says VFT collected polling on Joe Kent's resignation",
       "claim": "According to Cuccia's thread, VFT also collected polling and response data about Joe Kent's resignation from the administration.",
       "anchored_artifacts": [
         "A-2612.2"
@@ -2368,7 +2368,7 @@
       "@type": "Claim",
       "@id": "C-9572",
       "ref": "C-9572",
-      "label": "VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish",
+      "label": "Cuccia: VFT internal comments say undermine Fuentes's Christian identity; get Walsh or Knowles to publish",
       "claim": "According to Cuccia's thread, VFT internal comments say undermining Nick Fuentes's Christian identity is \"probably a good idea\" and consider getting Matt Walsh or Michael Knowles to publish on behalf of VFT.",
       "anchored_artifacts": [
         "A-2612.2"
@@ -2439,7 +2439,7 @@
       "@type": "Claim",
       "@id": "C-9575",
       "ref": "C-9575",
-      "label": "TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
+      "label": "Host says TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
       "claim": "The host says Joe Kent has been called weak and a leaker for trying to investigate whether the assassination was a foreign influence operation, and that the organization Erika Kirk heads got behind the smearing.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2461,7 +2461,7 @@
       "@type": "Claim",
       "@id": "C-9576",
       "ref": "C-9576",
-      "label": "VFT data compiles information on JD Vance's 2028 run and advises politicians",
+      "label": "Cuccia says VFT data compiles information on JD Vance's 2028 run and advises politicians",
       "claim": "According to Cuccia's thread, an internal comment discusses advising politicians on the basis of VFT data, which also compiles information on JD Vance's 2028 run, and says \"There is definitely a way to use this in our favor.\"",
       "anchored_artifacts": [
         "A-2612.2"
@@ -2484,7 +2484,7 @@
       "@type": "Claim",
       "@id": "C-9577",
       "ref": "C-9577",
-      "label": "VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
+      "label": "Cuccia says VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
       "claim": "According to Cuccia's thread, the documents discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing and ideological audience segmentation.",
       "anchored_artifacts": [
         "A-2612.2",
@@ -2672,7 +2672,7 @@
       "@type": "Claim",
       "@id": "C-9586",
       "ref": "C-9586",
-      "label": "Audio of the appointment was played as Erika Kirk's walkout music at AmFest",
+      "label": "Host says audio of the appointment was played as Erika Kirk's walkout music at AmFest",
       "claim": "The host says TPUSA played the audio as Erika Kirk's walkout music at AmFest, so it should also release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2792,7 +2792,7 @@
       "@type": "Claim",
       "@id": "C-9591",
       "ref": "C-9591",
-      "label": "Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
+      "label": "Host says Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
       "claim": "The host says Charlie Kirk announced the day before he died that he was left with no choice but to abandon the pro-Israel cause. She says TPUSA figures denied the message existed until she released it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2816,7 +2816,7 @@
       "@type": "Claim",
       "@id": "C-9592",
       "ref": "C-9592",
-      "label": "Netanyahu went on Fox News the day after the assassination to deny involvement",
+      "label": "Host mockingly says Netanyahu went on Fox News the day after the assassination to deny involvement",
       "claim": "The host says sarcastically that she bets it was Iran that made Benjamin Netanyahu go on Fox News the next day and say \"I didn't kill him. It wasn't me.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2857,7 +2857,7 @@
       "@type": "Claim",
       "@id": "C-9594",
       "ref": "C-9594",
-      "label": "Erika Kirk had someone in Kanye West's circle leaking to her",
+      "label": "Host says Erika Kirk had someone in Kanye West's circle leaking to her",
       "claim": "Responding to a viewer, the host says Erika Kirk had someone in Kanye West's circle leaking to her and playing both sides, and admits she never found out who it was.",
       "anchored_artifacts": [
         "A-2615.2"
@@ -2878,7 +2878,7 @@
       "@type": "Claim",
       "@id": "C-9595",
       "ref": "C-9595",
-      "label": "AIPAC spent money to remove Thomas Massie",
+      "label": "Host says Charlie Kirk would not have appreciated AIPAC spending money to remove Thomas Massie",
       "claim": "The host says Charlie Kirk would not have appreciated money being spent by AIPAC to remove Thomas Massie.",
       "anchored_artifacts": [],
       "related_nodes": [

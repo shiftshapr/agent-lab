@@ -12,7 +12,7 @@
 - **Video Timestamp Range**: 00:00:00–01:17:18
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:32:56Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53
+- **Transcript SHA-256**: a497ca885b29cc4aa5cc9515d1aa10cd4470d192da446693a27e1fa3831fb25a
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (wave4-events): N-11360
@@ -959,7 +959,7 @@ Investigative Direction: Request close-up images and chain of custody for the ca
 
 ---
 
-**C-179** Robinson mother recognized shooter from news photo
+**C-179** Robinson mother told police news photo of shooter looked like her son
 
 Claim Timestamp: 00:13:50
 Claim: Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband.
@@ -973,7 +973,7 @@ Investigative Direction: Verify timing of news publication vs. mother's call via
 
 ---
 
-**C-184** Robinson father matched rifle to gifted weapon
+**C-184** Robinson father believed rifle matched gifted weapon
 
 Claim Timestamp: 00:15:07
 Claim: Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond.
@@ -1002,7 +1002,7 @@ Investigative Direction: Confirm retired deputy's identity and role in surrender
 
 ---
 
-**C-181** Robinson shifted politically left over last year
+**C-181** Robinson mother told police he shifted politically left over last year
 
 Claim Timestamp: 00:14:26
 Claim: Per the probable cause statement the host reads, Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.
@@ -1045,7 +1045,7 @@ Investigative Direction: Obtain unredacted text logs with metadata from discover
 Tags: open_source_investigation
 ---
 
-**C-182** Robinson dated roommate, biological male transitioning
+**C-182** Robinson mother told police he dated roommate, biological male transitioning
 
 Claim Timestamp: 00:14:33
 Claim: Per the probable cause statement the host reads, Robinson's mother told police he began dating his roommate, a biological male transitioning genders.
@@ -1059,7 +1059,7 @@ Investigative Direction: Verify roommate's stated identity and timeline.
 
 ---
 
-**C-156** George Zinn arrested for obstruction after decoy confession
+**C-156** George Zinn arrested for obstruction after implying he was the shooter
 
 Claim Timestamp: 00:03:33
 Claim: The host says George Zinn, a 71-year-old man, jumped up after the Kirk shooting implying he did it, was arrested, and now faces obstruction of justice charges.
@@ -1191,6 +1191,7 @@ Mentions: N-54
 Related Nodes: N-10033
 Confidence: medium
 Uncertainty: Family statement relayed by host, not on the record.
+Tags: relevance:tangential
 Investigative Direction: Corroborate with other family members or contemporaneous records.
 
 ---
@@ -1204,6 +1205,7 @@ Anchored Artifacts:
 Mentions: N-54
 Related Nodes: N-10033
 Confidence: medium
+Tags: relevance:tangential
 Investigative Direction: Request medical/ER records and corroborating family testimony.
 
 ---
@@ -1241,6 +1243,7 @@ Transcript Snippet: the house that Tyler Robinson was living in with Lance is ow
 Anchored Artifacts: 
 Mentions: N-40, N-54
 Confidence: medium
+Tags: relevance:tangential
 Investigative Direction: Verify property ownership via county records; obtain lease or payment records.
 
 ---
@@ -1270,7 +1273,7 @@ Investigative Direction: Compare Cox's earlier press statements to indictment ti
 
 ---
 
-**C-239** Seth Dillon and Josh Hammer pressured Charlie at retreat
+**C-239** Host says Seth Dillon and Josh Hammer pressured Charlie at retreat
 
 Claim Timestamp: 00:42:46
 Claim: Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.
@@ -1284,7 +1287,7 @@ Investigative Direction: Interview multiple attendees; obtain any recorded retre
 
 ---
 
-**C-269** Top Jewish donors pulled funding and demanded name removal from building
+**C-269** Host says sources report top Jewish donors pulled funding and demanded name removal from building
 
 Claim Timestamp: 00:57:19
 Claim: The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.
@@ -1337,7 +1340,7 @@ Investigative Direction: Build a timeline of Netanyahu's 2025 US podcast appeara
 
 ---
 
-**C-278** Hamptons Attendee Ring Debate Around Sarah Stock
+**C-278** Host Recalls Ring Debate Around Hamptons Attendee She Believes Was Sarah Stock
 
 Claim Timestamp: 01:00:30
 Claim: The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.
@@ -1408,7 +1411,7 @@ Open Questions: Q-28
 
 ---
 
-**C-158** Zinn Was Evasive About Giving Police His Cell Phone
+**C-158** Article Says Zinn Was Evasive About Giving Police His Cell Phone
 
 Claim Timestamp: 00:04:19
 
@@ -1436,7 +1439,7 @@ Transcript Snippet: I've read a lot about blackmail operations. The people they 
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10032
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: This is an inference rather than a record; it could only be tested against evidence of any contact between Zinn and an intelligence or blackmail operation, which no cited document shows.
 
 ---
@@ -1817,7 +1820,7 @@ Transcript Snippet: and again, I'm going to say this, allegedly he had been arre
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: 
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Check Washington County and Utah County booking and custody records for any detention or interview of Lance Twiggs on September 11.
 Open Questions: Q-45
 
@@ -2686,7 +2689,7 @@ Open Questions: Q-5
 
 ---
 
-**C-255** Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause
+**C-255** Speaker, Apparently Megyn Kelly, Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause
 
 Claim Timestamp: 00:51:10
 

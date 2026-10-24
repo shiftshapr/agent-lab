@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:09:39
 - **Extraction Timestamp (UTC)**: 2026-10-02T20:45:00Z
-- **Transcript SHA-256**: a00b5df7209a7d2176cb96203718b03c467301aebcd1dcedd5b1d5a062ff4588
+- **Transcript SHA-256**: 015391df5df60c5ebe9e0230b483b5583d5e0abf24ae95b681cc966147684376
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
@@ -1633,7 +1633,7 @@ Topic for Gor's move to India.
 
 ## 5. Claim Register
 
-**C-13730** Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising
+**C-13730** Host says leaked Dominate 2.0 Telegram messages show Erika seeking "big hitters" donor lists
 
 Claim Timestamp: 00:05:00
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 ---
 
-**C-13755** July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour
+**C-13755** July 25 2025 Yrefy addendum added ~$1.25M for Charlie's fall campus tour sponsorship
 
 Claim Timestamp: 00:20:10
 
@@ -1678,7 +1678,7 @@ Investigative Direction: Confirm addendum execution date and wire evidence; sepa
 
 ---
 
-**C-13760** Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU
+**C-13760** Host argues Feb-Aug 2025 events around Charlie, Epstein, and UVU form a non-coincidental timeline
 
 Claim Timestamp: 00:23:22
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Source each bullet to primary docs; mark inference edge
 
 ---
 
-**C-13780** White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series
+**C-13780** Host, citing NYT, says White House held repeated Epstein-files situation-room meetings, often without Trump
 
 Claim Timestamp: 00:29:19
 
@@ -1719,6 +1719,7 @@ Mentions: N-25, N-22
 
 Related Nodes: N-10793
 
+Tags: relevance:tangential
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
 ---
@@ -1747,7 +1748,7 @@ Investigative Direction: Continue pairing Vanity Fair private-criticism quotes w
 
 ---
 
-**C-13825** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
+**C-13825** Viewer and host source claim Erika's Telegram American-flag contact may be a shared Charlie account
 
 Claim Timestamp: 01:03:21
 Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.
@@ -1773,7 +1774,7 @@ Investigative Direction: Establish how and from whom the contracts were obtained
 
 ---
 
-**C-13723** Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours
+**C-13723** Host says Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours
 
 Claim Timestamp: 00:01:36
 
@@ -1799,8 +1800,6 @@ Transcript Snippet: according to Doug Degroot, the journalists were just pressur
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-2
 Related Nodes: N-11010, N-10186
-Verification: revised-by-host
-Verification Evidence: C-13725
 Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
 ---
@@ -1816,7 +1815,6 @@ Transcript Snippet: I fact checked that with the person who was directly respons
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-3
 Related Nodes: N-11010
-Contradicts: C-13724
 Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.
 
 ---
@@ -2547,7 +2545,7 @@ Investigative Direction: Review the July 14, 2025 Charlie Kirk Show episode for 
 
 ---
 
-**C-13778** Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel
+**C-13778** Host says Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel
 
 Claim Timestamp: 00:28:21
 
@@ -2669,7 +2667,7 @@ Investigative Direction: Tabulate her episode publish dates against the meeting 
 
 ---
 
-**C-13787** House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting
+**C-13787** House Oversight voted July 23 to subpoena Epstein files; host says it coincided with a second situation-room meeting
 
 Claim Timestamp: 00:31:52
 
@@ -2714,7 +2712,7 @@ Investigative Direction: Verify the departure airport and date in ADS-B records;
 
 ---
 
-**C-13790** Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat
+**C-13790** Host says Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat
 
 Claim Timestamp: 00:33:08
 
@@ -2867,7 +2865,7 @@ Investigative Direction: Check the UVU independent review and records for Philli
 
 ---
 
-**C-13800** Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO
+**C-13800** Host says Erika had a photo shoot with the children and Charlie at the Biltmore on August 14
 
 Claim Timestamp: 00:35:55
 
@@ -3093,6 +3091,7 @@ Transcript Snippet: And they descended upon his home, by the way, back in Decemb
 Anchored Artifacts: 
 Mentions: N-25
 Related Nodes: N-10793
+Tags: relevance:tangential
 Investigative Direction: Check the arrest affidavit and press reports for the arrest date, location and employer.
 
 ---

@@ -2071,7 +2071,7 @@
       "@type": "Claim",
       "@id": "C-7871",
       "ref": "C-7871",
-      "label": "Tour Qureshi trained at Fort Huachuca using reconnaissance drones",
+      "label": "Tour Qureshi's LinkedIn says he trained at Fort Huachuca using reconnaissance drones",
       "claim": "Per his LinkedIn profile as reported on the episode, Tour Qureshi trained at Fort Huachuca using reconnaissance drones.",
       "anchored_artifacts": [
         "A-1927.1"
@@ -2090,7 +2090,7 @@
       "@type": "Claim",
       "@id": "C-7866",
       "ref": "C-7866",
-      "label": "\"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
+      "label": "\"BILT\" app co-founded by Ahmed Qureshi is reported to have 3D mission-prep visualization capability",
       "claim": "The \"BILT\" app co-founded by Ahmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.",
       "anchored_artifacts": [
         "A-1927.4"
@@ -2111,7 +2111,7 @@
       "@type": "Claim",
       "@id": "C-7883",
       "ref": "C-7883",
-      "label": "TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music",
+      "label": "Host says TPUSA used the alleged Aspen CEO-successor audio as Erika's AmFest walkout music",
       "claim": "The host says TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.",
       "anchored_artifacts": [
         "A-1928.2"
@@ -2352,7 +2352,7 @@
       "@type": "Claim",
       "@id": "C-7917",
       "ref": "C-7917",
-      "label": "Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025",
+      "label": "Host says multiple sources allegedly place Erika Kirk without her mother on Sept 10, 2025",
       "claim": "Per host investigation, multiple sources - including an unnamed Phoenix-area doctor and his wife (with federal political ties), a person who says Erika was with her security guard Derek Niekerk, and a Minnesota woman - allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.",
       "anchored_artifacts": [
         "A-1931.1"
@@ -2404,7 +2404,8 @@
         "N-10529"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:core",
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:01:20",
       "investigative_direction": "Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.",
@@ -3185,10 +3186,8 @@
         "N-3",
         "N-2"
       ],
-      "verification_status": "revised-by-host",
-      "verification_evidence": [
-        "C-11384"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-774"
       ]
