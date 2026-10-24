@@ -4357,6 +4357,23 @@
   "claim_text": "The host says CBS brought out Hunter Kozak, who asked the last question to Charlie Kirk."
  },
  {
+  "claim": "C-4029",
+  "status": "corroborated",
+  "note": "Fox News (S-119) reports Robinson's first in-person court appearance was on Dec. 11, 2025, the date of this episode; this answers the earlier rejections, which found no outlet stating it was his first in-person appearance.",
+  "evidence": [
+   {
+    "sid": "S-119",
+    "loc": "para 168",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "A Fox News photo caption states that Tyler Robinson made his first in-person court appearance on Dec. 11, 2025.",
+    "quote": "appears in court in his first in-person court appearance Dec. 11, 2025."
+   }
+  ],
+  "episode": 46,
+  "claim_text": "The host says Tyler Robinson finally appeared in person, making his first in-person court appearance."
+ },
+ {
   "claim": "C-4080",
   "status": "corroborated",
   "note": "Fox News (S-28) reports Andrew Kolvet said he spoke with Kirk's surgeon about the bullet not exiting; the 'man of steel' wording appears only as Kolvet's unconfirmed relay, which matches the host's 'allegedly'.",

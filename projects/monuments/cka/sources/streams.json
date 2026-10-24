@@ -148,7 +148,7 @@
     },
     {
       "id": "tier2-reporting",
-      "title": "Tier 2 reporting: wire services, national outlets and Utah newsrooms (approved 2026-10-23, rounds 1 and 2)",
+      "title": "Tier 2 reporting: wire services, national outlets and Utah newsrooms (approved 2026-10-23 rounds 1-2; 2026-10-24 monitor candidates)",
       "tier": 2,
       "items": [
         {
@@ -849,6 +849,139 @@
           "date": "2025-09-17",
           "publisher": "Fox News",
           "url": "https://www.foxnews.com/politics/pastor-charlie-kirks-graphic-death-traumatic-americans-reconcile-loss",
+          "format": "html"
+        },
+        {
+          "title": "PBS: Defense attorneys in case over Charlie Kirk's killing say they need years to prepare for trial",
+          "date": "2026-10-23",
+          "publisher": "PBS",
+          "url": "https://www.pbs.org/newshour/nation/defense-attorneys-in-case-over-charlie-kirks-killing-say-they-need-years-to-prepare-for-trial",
+          "format": "html"
+        },
+        {
+          "title": "Reuters: Judge puts off decision on Charlie Kirk murder trial date, media reports",
+          "date": "2026-10-23",
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/legal/government/tyler-robinson-requests-2029-trial-alleged-murder-charlie-kirk-2026-10-23/",
+          "format": "html"
+        },
+        {
+          "title": "ABC News - Breaking News, Latest News and Videos: Charlie Kirk's family wants capital murder trial to start next year: Court filing",
+          "date": "2026-10-23",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/charlie-kirks-family-capital-murder-trial-start-year/story?id=137494588",
+          "format": "html"
+        },
+        {
+          "title": "The Salt Lake Tribune: Lawyers for the man accused of killing Charlie Kirk say they won’t be ready for death penalty trial until 2029",
+          "date": "2026-10-23",
+          "publisher": "The Salt Lake Tribune",
+          "url": "https://www.sltrib.com/news/2026/10/23/charlie-kirk-killing-defense-says/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Tyler Robinson hearing ends without trial date set, prompting fiery plea from Erika Kirk's lawyer",
+          "date": "2026-10-24",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/tyler-robinson-hearing-ends-without-trial-date-set-prompting-fiery-plea-erika-kirks-lawyer",
+          "format": "html"
+        },
+        {
+          "title": "CNN: Defense lawyers in Charlie Kirk’s killing want a 2029 trial. Kirk’s widow calls that ‘out of line’",
+          "date": "2026-10-23",
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/10/23/us/charlie-kirk-tyler-robinson-trial-timeline",
+          "format": "html"
+        },
+        {
+          "title": "FOX 13 News Utah: Tyler Robinson hearing ends without trial date, timeline set; President weighs in on judge's handling of case",
+          "date": "2026-10-23",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://www.fox13now.com/news/shooting-of-charlie-kirk/tyler-robinson-hearing-ends-without-trial-date-timeline-set-president-weighs-in-on-judges-handling-of-case",
+          "format": "html"
+        },
+        {
+          "title": "ABC News - Breaking News, Latest News and Videos: Judge rules alleged Charlie Kirk killer can stand trial for capital murder",
+          "date": "2026-10-24",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/judge-rules-alleged-charlie-kirk-killer-stand-trial/story?id=136116758",
+          "format": "html"
+        },
+        {
+          "title": "ABC4 Utah: ‘JUSTICE FOR CHARLIE!’: Trump criticizes judge overseeing Tyler Robinson case",
+          "date": "2026-10-23",
+          "publisher": "ABC4 Utah",
+          "url": "https://www.abc4.com/news/charlie-kirk-shooting/trump-criticizes-judge-robinson-kirk/",
+          "format": "html"
+        },
+        {
+          "title": "KSL: Tyler Robinson doesn't anticipate trial until 2029",
+          "date": "2026-10-22",
+          "publisher": "KSL",
+          "url": "https://www.ksl.com/article/51639654/tyler-robinson-doesnt-anticipate-trial-until-2029",
+          "format": "html"
+        },
+        {
+          "title": "ABC News - Breaking News, Latest News and Videos: 'Painful reminder': Charlie Kirk's family speaks as accused killer's hearing begins",
+          "date": "2026-10-22",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/prosecutors-present-evidence-charlie-kirks-alleged-assassin-tyler/story?id=134501574",
+          "format": "html"
+        },
+        {
+          "title": "FOX 13 News Utah: Erika Kirk calls Tyler Robinson defense team's trial timeline ‘out of line’",
+          "date": "2026-10-23",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://www.fox13now.com/news/shooting-of-charlie-kirk/erika-kirk-calls-tyler-robinson-defense-teams-trial-timeline-out-of-line",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
+          "date": "2026-10-22",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: No Tyler Robinson trial date set as attorneys clash over timeline",
+          "date": "2026-10-23",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/utah/2026/10/23/no-date-set-for-tyler-robinson-trial/",
+          "format": "html"
+        },
+        {
+          "title": "Deseret News: Erika Kirk moves for speedy trial as defense requests trial date 4 years after Charlie Kirk killed",
+          "date": "2026-10-22",
+          "publisher": "Deseret News",
+          "url": "https://www.deseret.com/politics/2026/10/22/erika-kirk-demands-speedy-trial-after-robinson-defense-delays-to-2029/",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Tyler Robinson defense pushes for 2029 trial start date",
+          "date": "2026-10-23",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/video/6407288462112",
+          "format": "html"
+        },
+        {
+          "title": "Fox News: Trump says judge is 'desecrating' Charlie Kirk's memory amid fight over assassination trial date",
+          "date": "2026-10-23",
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/trump-says-judge-desecrating-charlie-kirks-memory-amid-fight-assassination-trial-date",
+          "format": "html"
+        },
+        {
+          "title": "KSL News: Trial dates for Tyler Robinson may be included in November scheduling order",
+          "date": "2026-10-23",
+          "publisher": "KSL News",
+          "url": "https://www.ksl.com/article/51640263/judge-could-set-trial-dates-for-tyler-robinson-in-friday-afternoon-hearing",
+          "format": "html"
+        },
+        {
+          "title": "ABC4 Utah: Tyler Robinson’s defense team aims for 2029 trial date, despite objections from Erika Kirk",
+          "date": "2026-10-23",
+          "publisher": "ABC4 Utah",
+          "url": "https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinsons-defense-aims-2029-trial/",
           "format": "html"
         }
       ]

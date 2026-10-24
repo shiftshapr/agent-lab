@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-23T17:38:58Z",
+  "generated_at": "2026-10-24T16:59:33Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -63951,7 +63951,7 @@
       "label": "Host Says Tyler Robinson Made His First In-Person Court Appearance",
       "node_kind": "claim",
       "episode": 46,
-      "verification_status": "unverified"
+      "verification_status": "corroborated"
     },
     {
       "@type": "KnowledgeGraphNode",
