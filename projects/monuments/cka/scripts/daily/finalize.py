@@ -68,6 +68,7 @@ def main() -> int:
         ("claim timestamps", [py, str(CKA / "scripts" / "check_claim_timestamps.py")]),
         ("tweet links", [py, str(CKA / "scripts" / "tweets" / "merge_links.py"), "--check"]),
         ("source JSON", [py, str(CKA / "scripts" / "source" / "cka_source.py"), "check"]),
+        ("commentary", [py, str(CKA / "scripts" / "commentary" / "check.py")]),
     ]
     if a.pytest:
         gates.append(("pytest", [py, "-m", "pytest", "-q", str(MON / "scripts")]))

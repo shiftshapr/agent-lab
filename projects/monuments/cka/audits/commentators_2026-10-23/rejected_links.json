@@ -1,0 +1,842 @@
+[
+ {
+  "cc": "CC-10",
+  "c": "C-7900",
+  "proposed": "supports",
+  "note": "The host is paraphrasing Neff's own account of calling his mother, so this links Neff to himself."
+ },
+ {
+  "cc": "CC-45",
+  "c": "C-3857",
+  "proposed": "contradicts",
+  "note": "The host only speculates ('maybe he left on the 9th'), so Turek's Sunday-return account does not contradict a claim she clearly advances."
+ },
+ {
+  "cc": "CC-60",
+  "c": "C-8661",
+  "proposed": "supports",
+  "note": "Turek's claim is mainly a rebuttal of a theory (a sniper needs no signals), not a checkable fact matching the host's statement of disbelief."
+ },
+ {
+  "cc": "CC-82",
+  "c": "C-7755",
+  "proposed": "contradicts",
+  "note": "The host doubts the surgeon's 'I need to speak to Erika' detail and calls it script-like, which is skepticism about a detail not in Turek's claim rather than a contrary fact."
+ },
+ {
+  "cc": "CC-114",
+  "c": "C-587",
+  "proposed": "supports",
+  "note": "The host is relaying and playing Erika's own memorial speech, so this links Erika to herself."
+ },
+ {
+  "cc": "CC-134",
+  "c": "C-7273",
+  "proposed": "qualifies",
+  "note": "Kolvet's account of sharing it with government officials and the host's 'he told me about it' do not clearly narrow or conflict on the same proposition."
+ },
+ {
+  "cc": "CC-136",
+  "c": "C-1622",
+  "proposed": "supports",
+  "note": "The host says she spoke to Kolvet and relays his account of flying in afterward, so this links Kolvet to himself."
+ },
+ {
+  "cc": "CC-155",
+  "c": "C-3996",
+  "proposed": "contradicts",
+  "note": "The host's claim that DOGE was 'unusual' because the term came from Musk is an opinion; item C-2665 already captures the real disagreement."
+ },
+ {
+  "cc": "CC-177",
+  "c": "C-1907",
+  "proposed": "contradicts",
+  "note": "The host only says it is 'unlikely' someone would keep holding their ears, a hedged argument; C-2368 already covers the clear contradiction."
+ },
+ {
+  "cc": "CC-180",
+  "c": "C-6925",
+  "proposed": "supports",
+  "note": "The host is reading out Erika's bio and does not make or adopt the point herself."
+ },
+ {
+  "cc": "CC-189",
+  "c": "C-8823",
+  "proposed": "supports",
+  "note": "Erika's statement about Charlie's lack of fear around the 2025 shooting is not the same specific thing as a 2018 text."
+ },
+ {
+  "cc": "CC-189",
+  "c": "C-1787",
+  "proposed": "supports",
+  "note": "Erika's general remark that Charlie was not afraid is not the same specific thing as the old text reply the host reads."
+ },
+ {
+  "cc": "CC-190",
+  "c": "C-9167",
+  "proposed": "supports",
+  "note": "The host is relaying what Erika told Jesse Watters in this same interview, so this links the source to itself."
+ },
+ {
+  "cc": "CC-190",
+  "c": "C-7905",
+  "proposed": "supports",
+  "note": "The host is reading out the New York Times without clearly stating or adopting the point herself."
+ },
+ {
+  "cc": "CC-226",
+  "c": "C-2414",
+  "proposed": "supports",
+  "note": "The host is only describing Watters' own Fox segment, so this links Watters to himself."
+ },
+ {
+  "cc": "CC-329",
+  "c": "C-11688",
+  "proposed": "contradicts",
+  "note": "The host merely recounts Harpole's own gurney story and reports public disbelief, linking him to his own account rather than asserting it false."
+ },
+ {
+  "cc": "CC-361",
+  "c": "C-869",
+  "proposed": "supports",
+  "note": "Charlie wanting the Epstein files released and Charlie distrusting the official Epstein story are related but not the same checkable proposition."
+ },
+ {
+  "cc": "CC-366",
+  "c": "C-605",
+  "proposed": "contradicts",
+  "note": "The host only relays tipsters' suggestion of a trap door without clearly advancing it, so Harpole's denial does not contradict a host assertion."
+ },
+ {
+  "cc": "CC-406",
+  "c": "C-6264",
+  "proposed": "supports",
+  "note": "The host is only paraphrasing Erika's own account from the same Megyn Kelly interview, linking that account to itself."
+ },
+ {
+  "cc": "CC-461",
+  "c": "C-5298",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Gary Melton himself, so it links the speaker to himself."
+ },
+ {
+  "cc": "CC-461",
+  "c": "C-5297",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Gary Melton himself, so it links the speaker to himself."
+ },
+ {
+  "cc": "CC-462",
+  "c": "C-3018",
+  "proposed": "supports",
+  "note": "Host claim is Harpole's own words in an interview, a self-link."
+ },
+ {
+  "cc": "CC-466",
+  "c": "C-3019",
+  "proposed": "supports",
+  "note": "Host claim is Harpole's own words in an interview, a self-link."
+ },
+ {
+  "cc": "CC-466",
+  "c": "C-3020",
+  "proposed": "supports",
+  "note": "Host claim is Harpole's own words in an interview, a self-link."
+ },
+ {
+  "cc": "CC-469",
+  "c": "C-13212",
+  "proposed": "supports",
+  "note": "Host claim only reads a notice-of-claim allegation without clearly adopting it, and the filing likely reflects the TPUSA side's own account."
+ },
+ {
+  "cc": "CC-482",
+  "c": "C-13577",
+  "proposed": "supports",
+  "note": "Host claim reads Harpole's own statement from a report, a self-link."
+ },
+ {
+  "cc": "CC-482",
+  "c": "C-14013",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Harpole himself, a self-link."
+ },
+ {
+  "cc": "CC-489",
+  "c": "C-1462",
+  "proposed": "supports",
+  "note": "Host claim is Robert O'Neill's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-508",
+  "c": "C-13303",
+  "proposed": "supports",
+  "note": "Host claim relays a TPUSA official's statement to ABC News without clearly adopting it, risking a self-link to the TPUSA side."
+ },
+ {
+  "cc": "CC-513",
+  "c": "C-10256",
+  "proposed": "qualifies",
+  "note": "Melton's claim is a normative opinion about where ambulances should be, not a checkable statement."
+ },
+ {
+  "cc": "CC-524",
+  "c": "C-10327",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Harpole himself, a self-link."
+ },
+ {
+  "cc": "CC-579",
+  "c": "C-2152",
+  "proposed": "contradicts",
+  "note": "The host only relays a tipster's allegation without clearly adopting it, and Neff's claim is a characterization ('absurd') more than a checkable fact."
+ },
+ {
+  "cc": "CC-634",
+  "c": "C-3561",
+  "proposed": "supports",
+  "note": "Host claim is a report of Blake Neff's own video statement, a self-link."
+ },
+ {
+  "cc": "CC-664",
+  "c": "C-8284",
+  "proposed": "supports",
+  "note": "Host claim paraphrases Erika Kirk's own stated reason, a self-link."
+ },
+ {
+  "cc": "CC-675",
+  "c": "C-1075",
+  "proposed": "supports",
+  "note": "Host claim relays Phil Lyman's Fox News statement without clearly adopting it."
+ },
+ {
+  "cc": "CC-681",
+  "c": "C-593",
+  "proposed": "supports",
+  "note": "The host claim relays Andrew Kolvet's public statement rather than the host's own assertion."
+ },
+ {
+  "cc": "CC-681",
+  "c": "C-1611",
+  "proposed": "supports",
+  "note": "The host claim is a reading of Andrew Kolvet's tweet, not the host's own assertion."
+ },
+ {
+  "cc": "CC-682",
+  "c": "C-7705",
+  "proposed": "supports",
+  "note": "The host claim reads Kolvet's X post, and Coleman's claim is mockery of the official account."
+ },
+ {
+  "cc": "CC-683",
+  "c": "C-12718",
+  "proposed": "supports",
+  "note": "The host's 0.75-second figure is how long McCoy looked back, not how soon he walked away, so it is a different proposition."
+ },
+ {
+  "cc": "CC-684",
+  "c": "C-12686",
+  "proposed": "supports",
+  "note": "The only overlap is that McCoy arrived at the hospital; Coleman's checkable point (taking command, ordering jets) is not in the host claim."
+ },
+ {
+  "cc": "CC-684",
+  "c": "C-14121",
+  "proposed": "supports",
+  "note": "The host claim is a reading of a book excerpt, not the host's own assertion."
+ },
+ {
+  "cc": "CC-685",
+  "c": "C-14121",
+  "proposed": "supports",
+  "note": "The host claim is a reading of a book excerpt, not the host's own assertion."
+ },
+ {
+  "cc": "CC-716",
+  "c": "C-14121",
+  "proposed": "supports",
+  "note": "The host claim is a reading of a book excerpt, not the host's own assertion."
+ },
+ {
+  "cc": "CC-736",
+  "c": "C-7409",
+  "proposed": "supports",
+  "note": "Coleman only speculates that Patel 'might have been' killing the investigation, so he asserts nothing checkable that the host claim matches."
+ },
+ {
+  "cc": "CC-736",
+  "c": "C-7185",
+  "proposed": "supports",
+  "note": "Coleman's claim is hedged speculation about Patel's motives, not the clash the host asserts."
+ },
+ {
+  "cc": "CC-736",
+  "c": "C-2992",
+  "proposed": "supports",
+  "note": "Coleman's claim is hedged speculation; the host relays press reports of a feud, a different point."
+ },
+ {
+  "cc": "CC-737",
+  "c": "C-3961",
+  "proposed": "supports",
+  "note": "Coleman gives an opinion that the meeting probably happened, and the host claim only relays the witness's description of it."
+ },
+ {
+  "cc": "CC-749",
+  "c": "C-14121",
+  "proposed": "supports",
+  "note": "The host claim is a reading of a book excerpt, not the host's own assertion."
+ },
+ {
+  "cc": "CC-757",
+  "c": "C-3846",
+  "proposed": "qualifies",
+  "note": "Coleman only says he has not confirmed a family link, which is not a checkable assertion against the host's hedged speculation."
+ },
+ {
+  "cc": "CC-764",
+  "c": "C-11696",
+  "proposed": "supports",
+  "note": "The host claim is Kash Patel's statement played in the episode, not the host's own assertion."
+ },
+ {
+  "cc": "CC-766",
+  "c": "C-3951",
+  "proposed": "supports",
+  "note": "Coleman's point is the plane's origin, while the host claim is the witness's inference from officer count; not the same specific proposition."
+ },
+ {
+  "cc": "CC-767",
+  "c": "C-167",
+  "proposed": "supports",
+  "note": "The host claim is a reading of the indictment, not her own assertion."
+ },
+ {
+  "cc": "CC-904",
+  "c": "C-4092",
+  "proposed": "supports",
+  "note": "Coleman's claim is about the evidentiary status of the affidavit; the host claim is her personal disbelief that Robinson fired, not the same proposition."
+ },
+ {
+  "cc": "CC-940",
+  "c": "C-159",
+  "proposed": "supports",
+  "note": "The two describe different speculative mechanisms (feds in chats vs blackmail) without a shared checkable proposition."
+ },
+ {
+  "cc": "CC-955",
+  "c": "C-10120",
+  "proposed": "supports",
+  "note": "Coleman speaks to the SAM 702 passenger's rank; the host claim is about which office organized the flight, not the same proposition."
+ },
+ {
+  "cc": "CC-960",
+  "c": "C-13404",
+  "proposed": "supports",
+  "note": "The host claim recounts Hull's account rather than asserting the 11:28 Wordle time herself."
+ },
+ {
+  "cc": "CC-961",
+  "c": "C-1075",
+  "proposed": "supports",
+  "note": "The host claim relays Phil Lyman's statement to Fox News, not her own assertion."
+ },
+ {
+  "cc": "CC-987",
+  "c": "C-11073",
+  "proposed": "supports",
+  "note": "The host claim concerns a call after 12:25 PM, a different moment from the pre-shooting call Coleman describes."
+ },
+ {
+  "cc": "CC-1027",
+  "c": "C-12797",
+  "proposed": "supports",
+  "note": "The host claim only paraphrases Erika Kirk's own AmFest remark, linking the speaker to herself."
+ },
+ {
+  "cc": "CC-1035",
+  "c": "C-4411",
+  "proposed": "contradicts",
+  "note": "Coleman only promises future evidence about the VIP's identity, while the host claim is about 702 as a Las Vegas area code; not the same specific point."
+ },
+ {
+  "cc": "CC-1051",
+  "c": "C-9192",
+  "proposed": "supports",
+  "note": "The host claim paraphrases Mitch Snow's son's own account, linking the speaker to himself."
+ },
+ {
+  "cc": "CC-1067",
+  "c": "C-9989",
+  "proposed": "supports",
+  "note": "The host claim is a news reporter's words in a clip she plays, not her own assertion."
+ },
+ {
+  "cc": "CC-1089",
+  "c": "C-12252",
+  "proposed": "supports",
+  "note": "The host claim is John Kiriakou's words in a clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1096",
+  "c": "C-6530",
+  "proposed": "supports",
+  "note": "The host claim is Erika Kirk's Fox interview clip relayed by the host, not the host's own assertion about the necklace."
+ },
+ {
+  "cc": "CC-1098",
+  "c": "C-10955",
+  "proposed": "supports",
+  "note": "The host claim is guest Robert O'Neill's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1098",
+  "c": "C-1465",
+  "proposed": "supports",
+  "note": "The host claim is guest Robert O'Neill's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1098",
+  "c": "C-12964",
+  "proposed": "supports",
+  "note": "The host claim is a reading of the Mappins' letter, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1104",
+  "c": "C-5182",
+  "proposed": "supports",
+  "note": "The host claim credits and relays Baron Coleman's own plane-tracking work, linking the speaker to himself."
+ },
+ {
+  "cc": "CC-1109",
+  "c": "C-4485",
+  "proposed": "contradicts",
+  "note": "The host claim is a stream host reading notes in a clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1109",
+  "c": "C-9188",
+  "proposed": "contradicts",
+  "note": "The host claim is Gary Melton reading notes in a clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1131",
+  "c": "C-4401",
+  "proposed": "supports",
+  "note": "The host claim is Tucker Carlson's words in a clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1140",
+  "c": "C-2207",
+  "proposed": "supports",
+  "note": "The host claim is Ben Shapiro's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1168",
+  "c": "C-10247",
+  "proposed": "supports",
+  "note": "The host claim is Sara Tewell's interview words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1169",
+  "c": "C-11601",
+  "proposed": "contradicts",
+  "note": "Turek says Robinson was in a relationship with a trans person while the host says there is no proof Robinson himself was trans; not incompatible."
+ },
+ {
+  "cc": "CC-1169",
+  "c": "C-11740",
+  "proposed": "contradicts",
+  "note": "The host's point that Robinson is not himself trans does not conflict with Turek's claim that he was in a trans relationship."
+ },
+ {
+  "cc": "CC-1172",
+  "c": "C-1220",
+  "proposed": "contradicts",
+  "note": "The host only hedges that guards seemed to know no more shots were coming, which Turek's account of ducking does not clearly contradict."
+ },
+ {
+  "cc": "CC-1179",
+  "c": "C-14110",
+  "proposed": "supports",
+  "note": "The host claim is Brian Harpole's words in a clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1190",
+  "c": "C-14181",
+  "proposed": "supports",
+  "note": "The host claim only paraphrases Turek's own admission about the bloodied bag, linking the speaker to himself."
+ },
+ {
+  "cc": "CC-1197",
+  "c": "C-8661",
+  "proposed": "contradicts",
+  "note": "Hedged claim that Owens 'shared' the theories is compatible with her saying she did not believe them."
+ },
+ {
+  "cc": "CC-1210",
+  "c": "C-7731",
+  "proposed": "supports",
+  "note": "Host claim is a reading of the defense filing without her clearly adopting the point in that claim."
+ },
+ {
+  "cc": "CC-1213",
+  "c": "C-8348",
+  "proposed": "supports",
+  "note": "Host claim is a reading of the ATF summary document without clear adoption."
+ },
+ {
+  "cc": "CC-1214",
+  "c": "C-12654",
+  "proposed": "contradicts",
+  "note": "A family surrender and a surrender under threat of SWAT can both be true; not clearly incompatible."
+ },
+ {
+  "cc": "CC-1218",
+  "c": "C-11836",
+  "proposed": "contradicts",
+  "note": "Turek's unspecified 'motive' is not directly negated by testimony that Robinson never mentioned Kirk to Lance."
+ },
+ {
+  "cc": "CC-1224",
+  "c": "C-8596",
+  "proposed": "supports",
+  "note": "Host claim describes Erika Kirk's recorded statement rather than an assertion of the host's own."
+ },
+ {
+  "cc": "CC-1227",
+  "c": "C-8603",
+  "proposed": "supports",
+  "note": "Host claim describes the text Kolvet himself presented, linking Kolvet to his own account."
+ },
+ {
+  "cc": "CC-1250",
+  "c": "C-8650",
+  "proposed": "qualifies",
+  "note": "Turek's marketing-drone suggestion is hedged speculation, not a checkable claim."
+ },
+ {
+  "cc": "CC-1256",
+  "c": "C-10672",
+  "proposed": "qualifies",
+  "note": "Host claim paraphrases Turek's own account of starting CPR, linking him to himself."
+ },
+ {
+  "cc": "CC-1260",
+  "c": "C-11574",
+  "proposed": "supports",
+  "note": "Host only mentions a heard scenario of the heart restarting without advancing it."
+ },
+ {
+  "cc": "CC-1261",
+  "c": "C-10323",
+  "proposed": "supports",
+  "note": "Host claim relays Harpole's clip account rather than her own assertion."
+ },
+ {
+  "cc": "CC-1262",
+  "c": "C-10012",
+  "proposed": "qualifies",
+  "note": "Host claim paraphrases Turek's own FaceTime account, linking him to himself."
+ },
+ {
+  "cc": "CC-1280",
+  "c": "C-8017",
+  "proposed": "contradicts",
+  "note": "Turek's 'everything to lose' is a judgment about motive, not a checkable fact, against the host's stated belief."
+ },
+ {
+  "cc": "CC-1334",
+  "c": "C-10905",
+  "proposed": "supports",
+  "note": "Host claim is a letter read on Turek's own show, linking Turek to his own account."
+ },
+ {
+  "cc": "CC-1351",
+  "c": "C-10014",
+  "proposed": "supports",
+  "note": "Host claim is a Megyn Kelly clip of Turek's own words, not the host's assertion."
+ },
+ {
+  "cc": "CC-1358",
+  "c": "C-14102",
+  "proposed": "supports",
+  "note": "Host claim reads Turek's own book excerpt, linking Turek to himself."
+ },
+ {
+  "cc": "CC-1359",
+  "c": "C-14102",
+  "proposed": "supports",
+  "note": "Host claim reads Turek's own book excerpt, linking Turek to himself."
+ },
+ {
+  "cc": "CC-1360",
+  "c": "C-10909",
+  "proposed": "qualifies",
+  "note": "Host claim is mainly a played clip of Turek himself, so it links the speaker to himself."
+ },
+ {
+  "cc": "CC-1368",
+  "c": "C-8650",
+  "proposed": "qualifies",
+  "note": "Turek's claim is hedged speculation about where the aerial view may have come from, not a checkable statement."
+ },
+ {
+  "cc": "CC-1374",
+  "c": "C-14104",
+  "proposed": "supports",
+  "note": "Host claim reads from Turek's own book, so it links Turek to himself."
+ },
+ {
+  "cc": "CC-1377",
+  "c": "C-11626",
+  "proposed": "supports",
+  "note": "Host claim paraphrases Turek's own explanation, so it links Turek to himself."
+ },
+ {
+  "cc": "CC-1378",
+  "c": "C-2486",
+  "proposed": "supports",
+  "note": "Host claim only paraphrases what Turek said on stage, so it links Turek to himself."
+ },
+ {
+  "cc": "CC-1379",
+  "c": "C-11574",
+  "proposed": "supports",
+  "note": "Host only mentions having heard a scenario of a restarted heart and does not advance it herself."
+ },
+ {
+  "cc": "CC-1387",
+  "c": "C-11441",
+  "proposed": "contradicts",
+  "note": "Host says only that the parents story is unproven and was not presented, which can be true alongside Turek's claim; covered by the direct contradictions."
+ },
+ {
+  "cc": "CC-1428",
+  "c": "C-9868",
+  "proposed": "supports",
+  "note": "Host claim is Tucker Carlson's statement on her show, not shown to be adopted by the host."
+ },
+ {
+  "cc": "CC-1452",
+  "c": "C-12105",
+  "proposed": "qualifies",
+  "note": "Wilson's statement of what he personally meant is not checkable, and the host claim just characterizes Wilson's own position."
+ },
+ {
+  "cc": "CC-1457",
+  "c": "C-12149",
+  "proposed": "supports",
+  "note": "Host claim is only Wilson's own words in a played debate clip, not an assertion by the host."
+ },
+ {
+  "cc": "CC-1527",
+  "c": "C-12113",
+  "proposed": "contradicts",
+  "note": "Coleman only offers his own speculation ('I don't think he was debate training') rather than a checkable assertion against the host's claim."
+ },
+ {
+  "cc": "CC-1541",
+  "c": "C-12388",
+  "proposed": "contradicts",
+  "note": "The host claim is a Kolvet/Neff show speaker's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1562",
+  "c": "C-11373",
+  "proposed": "supports",
+  "note": "The host claim reads out a note reporting Kolvet's own challenge, so it links Kolvet to an account of himself."
+ },
+ {
+  "cc": "CC-1600",
+  "c": "C-13748",
+  "proposed": "contradicts",
+  "note": "The host only says DOGE was not set up 'for no reason', which Kolvet's stated reason does not contradict."
+ },
+ {
+  "cc": "CC-1631",
+  "c": "C-8606",
+  "proposed": "contradicts",
+  "note": "Kolvet says the text exists and the host says she never asked Erika that question; both can be true, the dispute is interpretation."
+ },
+ {
+  "cc": "CC-1680",
+  "c": "C-10672",
+  "proposed": "supports",
+  "note": "The host claim paraphrases Turek's own CPR account alongside Harpole's, linking Turek to his own statement."
+ },
+ {
+  "cc": "CC-1681",
+  "c": "C-10672",
+  "proposed": "qualifies",
+  "note": "The host claim paraphrases Turek's own CPR account, linking him to himself."
+ },
+ {
+  "cc": "CC-1685",
+  "c": "C-8650",
+  "proposed": "supports",
+  "note": "The host claim restates Turek's own drone account against Harpole's, linking Turek to his own statement."
+ },
+ {
+  "cc": "CC-1703",
+  "c": "C-10033",
+  "proposed": "contradicts",
+  "note": "The host only says she never dismissed the exploding-mic theory, which is not an assertion that it happened."
+ },
+ {
+  "cc": "CC-1727",
+  "c": "C-1539",
+  "proposed": "supports",
+  "note": "The host claim is Josh Hammer's words in a played interview, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1728",
+  "c": "C-7251",
+  "proposed": "supports",
+  "note": "The host claim is guest Joe Kent's statement, not the host's own."
+ },
+ {
+  "cc": "CC-1729",
+  "c": "C-700",
+  "proposed": "supports",
+  "note": "The host claim is Andrew Kolvet speaking in a played clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1730",
+  "c": "C-1337",
+  "proposed": "supports",
+  "note": "The host claim is Andrew Kolvet speaking in a played clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1735",
+  "c": "C-5300",
+  "proposed": "supports",
+  "note": "The host claim is a played clip of Paramount Tactical's Gary and Kolvet, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1737",
+  "c": "C-4446",
+  "proposed": "supports",
+  "note": "The host claim is Tim Dillon speaking in a played clip, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1765",
+  "c": "C-10955",
+  "proposed": "supports",
+  "note": "Host claim is guest Robert O'Neill's words, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1769",
+  "c": "C-10090",
+  "proposed": "supports",
+  "note": "Coleman's claim is opinion (necklace should be in evidence, disputable whether it is the same one) while the host claim centers on the phone."
+ },
+ {
+  "cc": "CC-1770",
+  "c": "C-14187",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Frank Turek speaking, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1772",
+  "c": "C-11664",
+  "proposed": "supports",
+  "note": "Host claim is a reading of a viewer's YouTube comment, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1772",
+  "c": "C-11568",
+  "proposed": "supports",
+  "note": "Host claim is a reading of the prosecution memorandum, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1783",
+  "c": "C-12268",
+  "proposed": "supports",
+  "note": "Coleman only offers a general assumption that TPUSA helped Wilson, not the specific checkable point that it gave him the text."
+ },
+ {
+  "cc": "CC-1791",
+  "c": "C-7087",
+  "proposed": "supports",
+  "note": "Host claim is a reading of Bret Weinstein's statement, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1818",
+  "c": "C-13554",
+  "proposed": "supports",
+  "note": "Host claim is a reading of a report about the text exchange and does not assert that TPUSA got controlled access with its own guard on the roof."
+ },
+ {
+  "cc": "CC-1818",
+  "c": "C-13235",
+  "proposed": "supports",
+  "note": "Host claim only shows the text's wording; Coleman's 'they got everything they asked for' is an interpretation the host claim does not assert."
+ },
+ {
+  "cc": "CC-1835",
+  "c": "C-4987",
+  "proposed": "supports",
+  "note": "Host claim is a clip of Charlie Kirk's own words, not the host's assertion."
+ },
+ {
+  "cc": "CC-1859",
+  "c": "C-10620",
+  "proposed": "supports",
+  "note": "Host claim is a hearing clip of Lance Twiggs testifying, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1879",
+  "c": "C-13352",
+  "proposed": "supports",
+  "note": "The host claim is a Tucker Carlson clip she plays, not her own assertion."
+ },
+ {
+  "cc": "CC-1880",
+  "c": "C-3923",
+  "proposed": "contradicts",
+  "note": "The host claim is Tucker Carlson's words in a clip she plays, not her own assertion."
+ },
+ {
+  "cc": "CC-1888",
+  "c": "C-10207",
+  "proposed": "contradicts",
+  "note": "The host claim is Tucker Carlson's statement, not the host's own assertion."
+ },
+ {
+  "cc": "CC-1892",
+  "c": "C-1774",
+  "proposed": "supports",
+  "note": "Neff's claim characterizes critics' murder theory, while the host claim is a trailer presenting text content; not the same checkable proposition."
+ },
+ {
+  "cc": "CC-1928",
+  "c": "C-177",
+  "proposed": "supports",
+  "note": "The host claim is her reading of the probable cause statement, not her own assertion."
+ },
+ {
+  "cc": "CC-1932",
+  "c": "C-187",
+  "proposed": "supports",
+  "note": "The host claim is her reading of the probable cause statement, not her own assertion."
+ },
+ {
+  "cc": "CC-1934",
+  "c": "C-13177",
+  "proposed": "supports",
+  "note": "Tatum's messages asking for evidence and the host's account of a call where they disagreed are not the same specific checkable claim."
+ },
+ {
+  "cc": "CC-1959",
+  "c": "C-13212",
+  "proposed": "supports",
+  "note": "The host claim is the content of a notice of claim she relays, not her own assertion."
+ },
+ {
+  "cc": "CC-2005",
+  "c": "C-13333",
+  "proposed": "supports",
+  "note": "Erika gives founding dates (2016/2017-2018) without tying them to meeting Charlie, while the host's claim is mainly that she cannot tell how Proclaim makes money, so no shared checkable proposition."
+ }
+]
