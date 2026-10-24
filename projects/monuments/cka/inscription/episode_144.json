@@ -2776,8 +2776,8 @@
       "@type": "Claim",
       "@id": "C-12403",
       "ref": "C-12403",
-      "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
-      "claim": "Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.",
+      "label": "Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
+      "claim": "Blake Neff says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.",
       "anchored_artifacts": [
         "A-2306.3"
       ],
@@ -2789,7 +2789,7 @@
       "investigative_direction": "Retrieve Neff's tweet, the community note and the item the host posted.",
       "transcript_snippet": "Candace, your central foundational lie is that you and Charlie were friends. You were not friends, right?",
       "mentions_person_refs": [
-        "N-14",
+        "N-159",
         "N-1",
         "N-3"
       ],
@@ -2800,8 +2800,8 @@
       "@type": "Claim",
       "@id": "C-12404",
       "ref": "C-12404",
-      "label": "Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
-      "claim": "Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
+      "label": "Neff Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+      "claim": "Blake Neff says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
       "anchored_artifacts": [
         "A-2306.3"
       ],
@@ -2813,7 +2813,7 @@
       "investigative_direction": "Test against dated messages and appearances after 2019.",
       "transcript_snippet": "I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well.",
       "mentions_person_refs": [
-        "N-14",
+        "N-159",
         "N-1",
         "N-3"
       ],

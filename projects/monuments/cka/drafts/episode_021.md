@@ -659,7 +659,7 @@ Investigative Direction: Obtain the cited article directly and check for the phr
 
 ---
 
-**C-1962** Trump's Only "Investigation" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder
+**C-1962** Host Says the Only Trump Truth Social Post Her Team Found on an 'Investigation' Was About Jack Smith's TPUSA Probe, Not Kirk's Murder
 
 Claim Timestamp: 00:15:35
 

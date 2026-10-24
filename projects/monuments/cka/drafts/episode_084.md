@@ -1174,7 +1174,7 @@ Investigative Direction: Locate the letter, its date, its author and the Treasur
 
 ---
 
-**C-7544** Kolvet fed information to podcasters to attack the host over Fort Huachuca
+**C-7544** Host Alleges Kolvet Fed Information to Podcasters to Attack Her Over Fort Huachuca
 
 Claim Timestamp: 00:32:23
 

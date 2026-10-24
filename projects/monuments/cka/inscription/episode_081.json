@@ -1900,8 +1900,8 @@
       "@type": "Claim",
       "@id": "C-7328",
       "ref": "C-7328",
-      "label": "Joe Rogan discussed Erika Kirk's CIA documentary and pageant history",
-      "claim": "In a clip of his podcast that the host plays, Joe Rogan discusses Erika Kirk's appearance in what he characterizes as a CIA documentary, her pageant background, and speculation she was \"Charlie's handler.\"",
+      "label": "In a Clip the Host Plays, Joe Rogan and His Guest Discuss Erika Kirk in 'CIA Films', Her Pageant Look and Handler Talk",
+      "claim": "In a clip of his podcast that the host plays, Joe Rogan and his guest discuss Erika Kirk appearing in what one calls 'weird CIA documents or CIA films' and her pageant background, and one says 'there's a lot of people that think that she was his handler.'",
       "anchored_artifacts": [
         "A-1883.1"
       ],
@@ -1914,7 +1914,8 @@
         "N-268"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": null
     },
     {
       "@type": "Claim",

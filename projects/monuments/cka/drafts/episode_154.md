@@ -1167,7 +1167,7 @@ Mentions: N-271, N-1, N-3
 Related Nodes: N-10012, N-10763
 Tags: relevance:core
 Verification: corroborated
-Verification Evidence: S-2
+Verification Evidence: S-2, S-92
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
 Open Questions: Q-1204
 

@@ -2252,10 +2252,8 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-63"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2309,7 +2307,8 @@
       ],
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-3"
+        "S-3",
+        "S-7"
       ]
     },
     {
@@ -2369,7 +2368,7 @@
       "@id": "C-123",
       "ref": "C-123",
       "label": "TMZ Backyard Running Footage at 12:29 PM",
-      "claim": "TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.",
+      "claim": "The host says that at 12:29 p.m. TMZ footage shows a person running through a backyard, which TMZ says appears to be the suspect; she says it is very grainy and neither she nor the feds have confirmed it is him.",
       "anchored_artifacts": [
         "A-1088.3"
       ],
@@ -3965,10 +3964,8 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-3"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-29"
       ]
@@ -4190,10 +4187,8 @@
         "N-41",
         "N-40"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-5"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-37"
       ]

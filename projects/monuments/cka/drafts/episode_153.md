@@ -718,8 +718,6 @@ Claim: Per an Associated Press article the host shows, published September 22, 2
 Anchored Artifacts: A-2385.1
 Mentions: N-1
 Related Nodes: N-10762
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025.
 
 ---
@@ -799,7 +797,7 @@ Claim: The notice of claim alleges UVU assigned only six campus police officers 
 Anchored Artifacts: A-2384.1
 Related Nodes: N-10759
 Verification: corroborated
-Verification Evidence: S-2
+Verification Evidence: S-2, S-60
 Investigative Direction: Cross-reference UVU PD staffing logs from September 10, 2025.
 
 ---

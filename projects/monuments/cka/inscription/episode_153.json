@@ -1572,10 +1572,8 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-12"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1727,7 +1725,8 @@
       "investigative_direction": "Cross-reference UVU PD staffing logs from September 10, 2025.",
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-2"
+        "S-2",
+        "S-60"
       ]
     },
     {

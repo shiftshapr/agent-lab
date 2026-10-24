@@ -1571,11 +1571,11 @@ Investigative Direction: Request the property-release record for the microphone 
 
 ---
 
-**C-10089** Night before: Charlie Kirk told a group text "keep the money" and texted that he feared a trans person would kill him
+**C-10089** Host Says Kirk Told a Group Text 'Keep the Money' the Night Before and Mocks the Account That He Feared a 'Trans Fairy' Would Kill Him
 
 Claim Timestamp: 00:31:04
 
-Claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, "You guys keep the money. I don't want it." She says he then texted his team, about a "trans fairy," "That's who's going to kill me."
+Claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, "You guys keep the money. I don't want it." She says his phone held the night-before text messages expressing his fear that he was going to be killed, and mocks the account that he feared a "trans fairy" would kill him.
 
 Transcript Snippet: having a rabbi call him and Josh Hammer call him and he's on this group text and he's saying, "You guys keep the money. I don't want it."
 

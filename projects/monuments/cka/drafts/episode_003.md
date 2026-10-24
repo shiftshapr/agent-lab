@@ -954,7 +954,7 @@ Anchored Artifacts: A-1095.4
 Mentions: N-40
 Confidence: high
 Verification: corroborated
-Verification Evidence: S-1, S-5
+Verification Evidence: S-1
 Investigative Direction: Request close-up images and chain of custody for the casings.
 
 ---
@@ -1069,7 +1069,7 @@ Mentions: N-42
 Related Nodes: N-10032
 Confidence: high
 Verification: corroborated
-Verification Evidence: S-12
+Verification Evidence: S-12, S-30
 Investigative Direction: Obtain arrest affidavit and court records.
 
 ---
@@ -1130,10 +1130,10 @@ Investigative Direction: Identify and corroborate attendees; request presentatio
 
 ---
 
-**C-254** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6
+**C-254** Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her
 
 Claim Timestamp: 00:51:10
-Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.
+Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting, and plays a clip in which Kelly says some in the pro-Israel camp are so kneejerk about calling people anti-semitic that she finds it very irritating, and that her speculation with Kirk about Epstein possibly being a Mossad asset was turned around on her as anti-semitism; Kirk then says he seconds it.
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-9, N-46, N-37
@@ -1838,8 +1838,6 @@ Anchored Artifacts: A-1095.8
 Mentions: N-1, N-3
 Related Nodes: N-10074
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-1
 Investigative Direction: Obtain the photograph of the note that the indictment says police found and compare the wording with the quoted text.
 Open Questions: Q-46
 

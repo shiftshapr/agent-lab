@@ -2543,8 +2543,8 @@
       "@type": "Claim",
       "@id": "C-12046",
       "ref": "C-12046",
-      "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer",
-      "claim": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.",
+      "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer",
+      "claim": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hull is saying Tyler stopped his car to ask the police officer a question.",
       "anchored_artifacts": [
         "A-2270.1"
       ],
@@ -2555,7 +2555,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:17:43",
-      "investigative_direction": "Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.",
+      "investigative_direction": "Obtain the full Hull testimony transcript and the officer's report to determine who initiated the contact.",
       "transcript_snippet": "I wrongly assumed that he had been pulled over.",
       "supports_claim_refs": [
         "C-12047"
@@ -2750,10 +2750,8 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-7"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-1090"
       ]

@@ -1721,8 +1721,6 @@ Mentions: N-3, N-40
 Related Nodes: N-10012
 Supports: C-10623
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-3
 Investigative Direction: Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.
 Open Questions: Q-942
 

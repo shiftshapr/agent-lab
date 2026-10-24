@@ -1886,7 +1886,7 @@ Open Questions: Q-2
 
 Claim Timestamp: 00:53:08
 
-Claim: The host says Erika Kirk has betrayed Charlie's legacy and that she "obviously" does not author her own tweets.
+Claim: After reading a viewer comment saying Erika has betrayed Charlie's legacy, the host says that "obviously" Erika Kirk does not author her own tweets.
 
 Transcript Snippet: obviously she doesn't author her tweets.
 

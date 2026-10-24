@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T20:28:29Z",
+  "generated_at": "2026-10-24T20:54:21Z",
   "vocabulary_version": "2.0.0",
   "vocabulary_dateModified": "2026-10-07",
   "edge_counts": {
     "contradicts": 131,
-    "extends": 1150,
-    "isCorroboratedBy": 1327,
+    "extends": 1154,
+    "isCorroboratedBy": 1323,
     "isMemberOf": 20435,
     "isQualifiedBy": 159,
     "isSupportedBy": 8302

@@ -1787,7 +1787,7 @@
       "@type": "Claim",
       "@id": "C-7441",
       "ref": "C-7441",
-      "label": "Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10",
+      "label": "Host Says She Can Confirm Stacy Sheridan Was Not at TPUSA Offices on September 10",
       "claim": "The host says she can confirm Stacy Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.",
       "anchored_artifacts": [
         "A-1902.1"
@@ -1803,7 +1803,8 @@
         "N-186"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": null
     },
     {
       "@type": "Claim",

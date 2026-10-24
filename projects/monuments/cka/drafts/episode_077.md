@@ -784,9 +784,10 @@ Investigative Direction: Locate original bio on archived real-estate listings or
 
 **C-6928** Host Says She Found Relic of Erika Kirk's NY Real-Estate License
 
-Claim Timestamp: 00:15:31
+Claim Timestamp: 00:14:38
 
 Claim: The host says she found, on a third-party site, a relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), which she infers was issued October 24, 2018, and valid at least until 2020.
+Transcript Snippet: I am indeed able to find a relic of it on a third-party site, but I'm not able to independently verify it on New York State's Division of Licenses website now.
 
 Anchored Artifacts: A-1825.1
 Mentions: N-2

@@ -1022,7 +1022,7 @@ Mentions: N-4, N-14, N-2
 Related Nodes: N-10554
 
 Verification: corroborated
-Verification Evidence: S-56
+Verification Evidence: S-56, S-76
 Investigative Direction: Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.
 
 ---
@@ -2127,11 +2127,11 @@ Open Questions: Q-343
 
 ---
 
-**C-8357** Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood
+**C-8357** Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him
 
 Claim Timestamp: 00:48:20
 
-Claim: The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him.
+Claim: The host reads a top viewer comment saying Dan Flood was receiving Charlie's messages that they were going to kill him.
 
 Transcript Snippet: They were receiving his messages. Dan Flood was receiving his messages
 

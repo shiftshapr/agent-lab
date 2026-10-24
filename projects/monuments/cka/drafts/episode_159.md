@@ -2984,8 +2984,6 @@ Transcript Snippet: September 2nd is the first time that this upcoming event tha
 Anchored Artifacts: A-2469.1
 Mentions: N-271, N-270, N-1
 Related Nodes: N-10762, N-10781
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Verify the September 2-3 entries in the independent review against the July 10 and July 18 requests, which she treats as earlier.
 
 ---

@@ -1236,9 +1236,10 @@ Investigative Direction: Verify the full exchange; identify Victor Marx's specif
 
 **C-11893** Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account
 
-Claim Timestamp: 00:45:49–00:46:30
+Claim Timestamp: 00:45:20
 
 Claim: Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account.
+Transcript Snippet: now local law enforcement and sheriffs in the Mississippi area where this event apparently took place have said there are no records, police reports or unsolved homicides matching your account from that time period.
 
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341

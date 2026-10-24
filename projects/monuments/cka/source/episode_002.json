@@ -3996,14 +3996,6 @@
      "v": "high"
     },
     {
-     "k": "Verification",
-     "v": "corroborated"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "S-63"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Obtain timestamped original TMZ footage and verify chain of custody."
     },
@@ -4125,7 +4117,7 @@
     },
     {
      "k": "Verification Evidence",
-     "v": "S-3"
+     "v": "S-3, S-7"
     },
     {
      "k": "Investigative Direction",
@@ -4277,7 +4269,7 @@
     },
     {
      "k": "Claim",
-     "v": "TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting."
+     "v": "The host says that at 12:29 p.m. TMZ footage shows a person running through a backyard, which TMZ says appears to be the suspect; she says it is very grainy and neither she nor the feds have confirmed it is him."
     },
     {
      "k": "Transcript Snippet",
@@ -8007,14 +7999,6 @@
      "v": "relevance:core"
     },
     {
-     "k": "Verification",
-     "v": "corroborated"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "S-3"
-    },
-    {
      "k": "Investigative Direction",
      "v": "Obtain the original FBI release with date and camera location, and build the timeline for the outfit change."
     },
@@ -8537,14 +8521,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "corroborated"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "S-5"
     },
     {
      "k": "Investigative Direction",

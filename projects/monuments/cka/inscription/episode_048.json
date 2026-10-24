@@ -3479,10 +3479,8 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-24"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

@@ -1511,31 +1511,31 @@ Investigative Direction: Compare Neff's employment dates and travel with Charlie
 
 ---
 
-**C-12403** Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie
+**C-12403** Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie
 
 Claim Timestamp: 00:37:31
 
-Claim: Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.
+Claim: Blake Neff says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.
 
 Transcript Snippet: Candace, your central foundational lie is that you and Charlie were friends. You were not friends, right?
 
 Anchored Artifacts: A-2306.3
-Mentions: N-14, N-1, N-3
+Mentions: N-159, N-1, N-3
 Related Nodes: N-10003
 Investigative Direction: Retrieve Neff's tweet, the community note and the item the host posted.
 
 ---
 
-**C-12404** Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly
+**C-12404** Neff Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly
 
 Claim Timestamp: 00:37:31
 
-Claim: Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.
+Claim: Blake Neff says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.
 
 Transcript Snippet: I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well.
 
 Anchored Artifacts: A-2306.3
-Mentions: N-14, N-1, N-3
+Mentions: N-159, N-1, N-3
 Related Nodes: N-10003
 Investigative Direction: Test against dated messages and appearances after 2019.
 

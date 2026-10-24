@@ -1946,8 +1946,6 @@ Transcript Snippet: Guess who didn't attend this meeting? Not a single member of
 Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-10995, N-10229
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.
 
 ---
@@ -2653,8 +2651,6 @@ Transcript Snippet: There was limited time between chief long first learning of 
 Anchored Artifacts: A-2802.13
 Mentions: N-271
 Related Nodes: N-10762
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Compare the August 21 notice date to UVU's normal lead time for major events.
 
 ---

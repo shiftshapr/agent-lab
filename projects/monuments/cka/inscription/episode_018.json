@@ -2111,10 +2111,11 @@
         "N-10178"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:09",
+      "claim_timestamp": "00:40:07",
       "investigative_direction": "Verify via filed flight plan and FBO records.",
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": "it was supposed to land in Page, Arizona."
     },
     {
       "@type": "Claim",

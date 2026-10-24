@@ -694,11 +694,11 @@ Mentions: N-18, N-40, N-1
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
-**C-12172** Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays
+**C-12172** In a Clip the Host Plays, Wilson Names Murder as Robinson's Charge and Owens Begins Listing With Aggravated Murder
 
 Claim Timestamp: 00:44:42
 
-Claim: In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing "aggravated murder" as the first charge.
+Claim: In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson said he thought Robinson had been charged with murder, which Owens said was incorrect; Wilson then asked her to name all seven, and she began with aggravated murder, saying it carries the death sentence.
 
 Anchored Artifacts: A-2277.4
 Mentions: N-18, N-40

@@ -867,7 +867,7 @@ Related Nodes:
 
 Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.
 
-**C-7441** Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10
+**C-7441** Host Says She Can Confirm Stacy Sheridan Was Not at TPUSA Offices on September 10
 
 Claim Timestamp: 00:14:00
 

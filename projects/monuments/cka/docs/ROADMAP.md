@@ -86,7 +86,7 @@ The full execution plan from here to a verified, published and promoted archive.
 | # | Task | Done when |
 |---|---|---|
 | 6.1 | ✅ 2026-10-24 by Claude at Daveed's request (`audits/phase6_2026-10-24/`): statuses 4.8% material, then-vs-now 38–41%, allegations 2.2%, random 1.3%; 185 privacy flags; awaiting Daveed's rulings. **Risk-weighted adversarial pass:** every allegation about a named person, every then-vs-now pair and every verification status, plus a random sample of the rest, using the QA rubric from 0.6 and the policy | the findings are filed as PRs or rulings |
-| 6.2 | 🚧 2026-10-24: then-vs-now ledger rebuilt (282 → 172 links), 949 titles reframed, 185 privacy claims tangential; status and allegation fixes pending. Claude fixes the findings; CI and QA are rerun | merged |
+| 6.2 | ✅ 2026-10-24: then-vs-now ledger rebuilt (282 → 172 links), 949 titles reframed, 185 privacy claims tangential, 30 statuses withdrawn and 65 corrected, 32 claims fixed. Claude fixes the findings; CI and QA are rerun | merged |
 | 6.3 | **Decide on a second pass:** rerun the affected strata if any stratum's error rate is above the QA target, or if the findings show a systematic problem | Daveed decides from the 6.1 report |
 
 ## Phase 7 — Interop

@@ -783,11 +783,11 @@ Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel inter
 
 ---
 
-**C-3755** Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery
+**C-3755** Host Reads Corruption Tracker Account That Pierre Falcone Was Convicted in France, Then Cleared on Appeal With a Reduced Sentence
 
 Claim Timestamp: 00:14:36–00:15:38
 
-Claim: According to source material read aloud by the host and attributed to "Corruption Tracker," Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.
+Claim: According to 'Corruption Tracker' material the host reads, Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets and bribery and sentenced to six years, but was cleared on appeal (she says 'technically he was found not guilty of this crime') and given a reduced sentence of two and a half years.
 
 Anchored Artifacts: A-1515.1
 Mentions: N-312

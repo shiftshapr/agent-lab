@@ -1378,8 +1378,6 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10081
 Tags: relevance:core
-Verification: contradicted-by-record
-Verification Evidence: S-7
 Investigative Direction: Obtain the autopsy report and named ballistics experts' published analyses of the neck wound.
 Open Questions: Q-27, Q-64
 

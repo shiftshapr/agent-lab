@@ -1839,7 +1839,7 @@ Mentions: N-266, N-3
 Related Nodes: N-10619
 Tags: relevance:core
 Verification: corroborated
-Verification Evidence: S-45
+Verification Evidence: S-94
 Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
 Open Questions: Q-188
 

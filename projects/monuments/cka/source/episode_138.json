@@ -4595,7 +4595,7 @@
     },
     {
      "k": "Claim Timestamp",
-     "v": "00:45:49–00:46:30"
+     "v": "00:45:20"
     },
     {
      "raw": ""
@@ -4603,6 +4603,10 @@
     {
      "k": "Claim",
      "v": "Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now local law enforcement and sheriffs in the Mississippi area where this event apparently took place have said there are no records, police reports or unsolved homicides matching your account from that time period."
     },
     {
      "raw": ""

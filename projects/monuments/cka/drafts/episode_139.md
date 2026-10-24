@@ -1931,7 +1931,7 @@ Related Nodes: N-10040
 Supports: C-4026, C-2004
 Tags: relevance:core
 Verification: contradicted-by-record
-Verification Evidence: S-2, S-3
+Verification Evidence: S-2, S-7
 Investigative Direction: Obtain campus access, parking and vehicle records and verified imagery placing Tyler Robinson on campus on September 10, 2025.
 Open Questions: Q-110
 

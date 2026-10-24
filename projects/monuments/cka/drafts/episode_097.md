@@ -1153,8 +1153,6 @@ Mentions: N-3, N-224, N-266, N-270, N-271
 
 Related Nodes: N-10590
 
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
 
 ---
@@ -1800,8 +1798,6 @@ Mentions: N-3, N-266, N-224, N-271, N-270
 Related Nodes: N-10256
 Supports: C-3214
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.
 Open Questions: Q-841
 

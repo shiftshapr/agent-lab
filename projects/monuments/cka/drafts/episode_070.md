@@ -866,8 +866,6 @@ Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew 
 Anchored Artifacts: A-1747.1
 Mentions: N-493, N-550, N-14
 Related Nodes: N-10456
-Verification: corroborated
-Verification Evidence: S-79
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-6292** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent

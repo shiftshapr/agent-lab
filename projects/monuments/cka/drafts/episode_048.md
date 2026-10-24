@@ -2294,8 +2294,6 @@ Transcript Snippet: It was 4 and 1/2 hour meeting.
 Anchored Artifacts: A-2743.2
 Mentions: N-3
 Supports: C-4056
-Verification: corroborated
-Verification Evidence: S-24
 Investigative Direction: Confirm the meeting length against attendee accounts.
 
 ---

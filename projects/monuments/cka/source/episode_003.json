@@ -3582,7 +3582,7 @@
     },
     {
      "k": "Verification Evidence",
-     "v": "S-1, S-5"
+     "v": "S-1"
     },
     {
      "k": "Investigative Direction",
@@ -4042,7 +4042,7 @@
     },
     {
      "k": "Verification Evidence",
-     "v": "S-12"
+     "v": "S-12, S-30"
     },
     {
      "k": "Investigative Direction",
@@ -4286,8 +4286,8 @@
   {
    "kind": "claim",
    "id": "C-254",
-   "header": "**C-254** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
-   "label": "Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
+   "header": "**C-254** Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her",
+   "label": "Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her",
    "lines": [
     {
      "raw": ""
@@ -4298,7 +4298,7 @@
     },
     {
      "k": "Claim",
-     "v": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism."
+     "v": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting, and plays a clip in which Kelly says some in the pro-Israel camp are so kneejerk about calling people anti-semitic that she finds it very irritating, and that her speculation with Kirk about Epstein possibly being a Mossad asset was turned around on her as anti-semitism; Kirk then says he seconds it."
     },
     {
      "k": "Transcript Snippet",
@@ -7036,14 +7036,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "corroborated"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "S-1"
     },
     {
      "k": "Investigative Direction",

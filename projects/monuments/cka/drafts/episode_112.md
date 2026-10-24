@@ -552,7 +552,7 @@ Investigative Direction: Archive Dana Loesch's X posts from June 9, 2026 and cou
 
 ---
 
-**C-9770** Erika Kirk cut short her WLS speech after being called a "pedophile protector"
+**C-9770** Host says she was told Erika Kirk cut short her WLS speech after being called a "pedophile protector"
 
 Claim Timestamp: 00:05:00
 
@@ -642,7 +642,7 @@ Investigative Direction: Check WHCD guest lists for prior years for Charlie Kirk
 
 ---
 
-**C-9776** Greg Laurie is accused in court of trafficking people from Romania
+**C-9776** Host says Greg Laurie is credibly accused in court of trafficking people from Romania
 
 Claim Timestamp: 00:08:44
 

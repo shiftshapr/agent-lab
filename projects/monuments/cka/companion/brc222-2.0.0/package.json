@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-24T20:28:29Z",
+  "generated_at": "2026-10-24T20:54:21Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -19,8 +19,8 @@
   },
   "edge_counts": {
     "contradicts": 131,
-    "extends": 1150,
-    "isCorroboratedBy": 1327,
+    "extends": 1154,
+    "isCorroboratedBy": 1323,
     "isMemberOf": 20435,
     "isQualifiedBy": 159,
     "isSupportedBy": 8302
@@ -2020,7 +2020,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10089",
-      "label": "Night before: Charlie Kirk told a group text \"keep the money\" and texted that he feared a trans person would kill him",
+      "label": "Host Says Kirk Told a Group Text 'Keep the Money' the Night Before and Mocks the Account That He Feared a 'Trans Fairy' Would Kill Him",
       "node_kind": "claim",
       "episode": 117,
       "verification_status": "unverified"
@@ -5343,7 +5343,7 @@
       "label": "Frank Turek Said on a Podcast He Did Not Believe There Was an Exit Wound on Charlie Kirk's Neck",
       "node_kind": "claim",
       "episode": 122,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -6767,7 +6767,7 @@
       "label": "Host Says a Witness Saw a Bald Driver in the Gray Challenger at 12:47 a.m.",
       "node_kind": "claim",
       "episode": 124,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -8815,7 +8815,7 @@
       "label": "Viewer Comment Says Robinson's Texts Mention Questioning Someone in Similar Clothing After the Old Man's Arrest",
       "node_kind": "claim",
       "episode": 126,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -13671,7 +13671,7 @@
       "label": "Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -14135,7 +14135,7 @@
       "label": "Host Says Only Two People Were Detained, Zinn and Karashy",
       "node_kind": "claim",
       "episode": 133,
-      "verification_status": "contradicted-by-record"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -15268,7 +15268,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1158",
-      "label": "Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
+      "label": "Host Says Several People Connected to the Case Were New in Their Roles",
       "node_kind": "claim",
       "episode": 13,
       "verification_status": "unverified"
@@ -19420,7 +19420,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12046",
-      "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer",
+      "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer",
       "node_kind": "claim",
       "episode": 140,
       "verification_status": "unverified"
@@ -19495,7 +19495,7 @@
       "label": "Host Says Robinson Was Still in the Same Shirt When Arrested",
       "node_kind": "claim",
       "episode": 140,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -20540,7 +20540,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12172",
-      "label": "Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays",
+      "label": "In a Clip the Host Plays, Wilson Names Murder as Robinson's Charge and Owens Begins Listing With Aggravated Murder",
       "node_kind": "claim",
       "episode": 141,
       "verification_status": "unverified"
@@ -22596,7 +22596,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12403",
-      "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
+      "label": "Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
       "node_kind": "claim",
       "episode": 144,
       "verification_status": "unverified"
@@ -22604,7 +22604,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12404",
-      "label": "Kolvet Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+      "label": "Neff Says He Thinks They Were Friends in 2018 and Part of 2019 but It Ended Badly",
       "node_kind": "claim",
       "episode": 144,
       "verification_status": "unverified"
@@ -24335,7 +24335,7 @@
       "label": "Host Says FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -24535,7 +24535,7 @@
       "label": "Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting",
       "node_kind": "claim",
       "episode": 146,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -25127,7 +25127,7 @@
       "label": "Neff Testifies the Security Team Went Into Action and Got Charlie Out",
       "node_kind": "claim",
       "episode": 147,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -29551,7 +29551,7 @@
       "label": "Article the Host Reads Says UVU Launched Independent External Review September 22, 2025",
       "node_kind": "claim",
       "episode": 153,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -32711,7 +32711,7 @@
       "label": "Review: no TPUSA security attended the August 25 MEAC meeting",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33119,7 +33119,7 @@
       "label": "Review: limited time between Chief Long learning of the event and the event date",
       "node_kind": "claim",
       "episode": 157,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -33223,7 +33223,7 @@
       "label": "Cox Says the Roommate Showed Investigators Discord Messages and Let Them Photograph the Screen",
       "node_kind": "claim",
       "episode": 2,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35071,7 +35071,7 @@
       "label": "Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3",
       "node_kind": "claim",
       "episode": 159,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -35495,7 +35495,7 @@
       "label": "Host says Harpole's account has no CPR in the car or anywhere else",
       "node_kind": "claim",
       "episode": 160,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -39716,7 +39716,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1433",
-      "label": "Kolvet shared screen grab with government figures within 33 hours",
+      "label": "Kolvet Says He Shared the Screen Grab With Some People in Government in the First Moments",
       "node_kind": "claim",
       "episode": 16,
       "verification_status": "unverified"
@@ -41340,7 +41340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1486",
-      "label": "George Zinn told medical staff he was being paid to claim responsibility",
+      "label": "Host Relays Tip That George Zinn Told Medical Staff He Was Being Paid to Claim Responsibility",
       "node_kind": "claim",
       "episode": 16,
       "verification_status": "unverified"
@@ -43535,7 +43535,7 @@
       "label": "Host Says Mikey McCoy Was Behind the Tent When Charlie Was Shot",
       "node_kind": "claim",
       "episode": 19,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45295,7 +45295,7 @@
       "label": "Host Says Brigitte Macron Was Born Jean-Michel Trogneux and Transitioned",
       "node_kind": "claim",
       "episode": 20,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45463,7 +45463,7 @@
       "label": "Host Says the Note's Wording Is Structurally Odd",
       "node_kind": "claim",
       "episode": 3,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -45572,7 +45572,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1962",
-      "label": "Trump's Only \"Investigation\" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder",
+      "label": "Host Says the Only Trump Truth Social Post Her Team Found on an 'Investigation' Was About Jack Smith's TPUSA Probe, Not Kirk's Murder",
       "node_kind": "claim",
       "episode": 21,
       "verification_status": "unverified"
@@ -50708,7 +50708,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-254",
-      "label": "Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
+      "label": "Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her",
       "node_kind": "claim",
       "episode": 3,
       "verification_status": "unverified"
@@ -50980,7 +50980,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2570",
-      "label": "Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
+      "label": "Host Says CIA Spokeswoman Liz Lyons Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
       "node_kind": "claim",
       "episode": 29,
       "verification_status": "unverified"
@@ -56908,7 +56908,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3237",
-      "label": "Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime",
+      "label": "Host Mocks the Official Account in Which 4.3-GPA Robinson Texted Every Minute of the Crime",
       "node_kind": "claim",
       "episode": 36,
       "verification_status": "unverified"
@@ -59583,7 +59583,7 @@
       "label": "TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization",
       "node_kind": "claim",
       "episode": 40,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -61508,7 +61508,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3755",
-      "label": "Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery",
+      "label": "Host Reads Corruption Tracker Account That Pierre Falcone Was Convicted in France, Then Cleared on Appeal With a Reduced Sentence",
       "node_kind": "claim",
       "episode": 43,
       "verification_status": "unverified"
@@ -66071,7 +66071,7 @@
       "label": "Host Says the Meeting Lasted Four and a Half Hours",
       "node_kind": "claim",
       "episode": 48,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -73559,7 +73559,7 @@
       "label": "Host Says Credible Ballistics Experts Call the Front Wound an Exit Wound",
       "node_kind": "claim",
       "episode": 6,
-      "verification_status": "contradicted-by-record"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -84047,7 +84047,7 @@
       "label": "Aubrey Laitsch stated termination meeting involved Uber-driver conversation",
       "node_kind": "claim",
       "episode": 70,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -85519,7 +85519,7 @@
       "label": "Piers Morgan Called Candace's Erika Kirk and Macron Coverage Regrettable in the Clip",
       "node_kind": "claim",
       "episode": 72,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -93268,7 +93268,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7328",
-      "label": "Joe Rogan discussed Erika Kirk's CIA documentary and pageant history",
+      "label": "In a Clip the Host Plays, Joe Rogan and His Guest Discuss Erika Kirk in 'CIA Films', Her Pageant Look and Handler Talk",
       "node_kind": "claim",
       "episode": 81,
       "verification_status": "unverified"
@@ -93879,7 +93879,7 @@
       "label": "Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender",
       "node_kind": "claim",
       "episode": 82,
-      "verification_status": "contradicted-by-record"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -94276,7 +94276,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7441",
-      "label": "Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10",
+      "label": "Host Says She Can Confirm Stacy Sheridan Was Not at TPUSA Offices on September 10",
       "node_kind": "claim",
       "episode": 83,
       "verification_status": "unverified"
@@ -95188,7 +95188,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7544",
-      "label": "Kolvet fed information to podcasters to attack the host over Fort Huachuca",
+      "label": "Host Alleges Kolvet Fed Information to Podcasters to Attack Her Over Fort Huachuca",
       "node_kind": "claim",
       "episode": 84,
       "verification_status": "unverified"
@@ -96847,7 +96847,7 @@
       "label": "Filing says DNA reports show mixtures of up to five or more individuals",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -96863,7 +96863,7 @@
       "label": "Filing says the state will not offer the ATF report but the defense may call the analyst",
       "node_kind": "claim",
       "episode": 86,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99895,7 +99895,7 @@
       "label": "Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "contradicted-by-record"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -99903,7 +99903,7 @@
       "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
       "node_kind": "claim",
       "episode": 90,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -102412,7 +102412,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8357",
-      "label": "Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood",
+      "label": "Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him",
       "node_kind": "claim",
       "episode": 93,
       "verification_status": "unverified"
@@ -105223,7 +105223,7 @@
       "label": "Host Says Harpole Presented the Flood-Long Chain Using 'I'",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -105231,7 +105231,7 @@
       "label": "Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
       "node_kind": "claim",
       "episode": 97,
-      "verification_status": "corroborated"
+      "verification_status": "unverified"
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -114948,7 +114948,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9768",
-      "label": "Host says Erika Kirk is treated as an \"emotional asset\" and the Department of War appears involved",
+      "label": "Host says Erika Kirk is considered an \"emotional asset\" and the Department of War appears involved in the emails",
       "node_kind": "claim",
       "episode": 111,
       "verification_status": "unverified"
@@ -114972,7 +114972,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9770",
-      "label": "Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
+      "label": "Host says she was told Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
       "node_kind": "claim",
       "episode": 112,
       "verification_status": "unverified"
@@ -115020,7 +115020,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9776",
-      "label": "Greg Laurie is accused in court of trafficking people from Romania",
+      "label": "Host says Greg Laurie is credibly accused in court of trafficking people from Romania",
       "node_kind": "claim",
       "episode": 112,
       "verification_status": "unverified"
@@ -115860,7 +115860,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9870",
-      "label": "Host says the Butler story terrified Dan Bongino and Kash Patel",
+      "label": "Host says her understanding is that the Butler story terrified Dan Bongino and Kash Patel",
       "node_kind": "claim",
       "episode": 114,
       "verification_status": "unverified"
@@ -116156,7 +116156,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9903",
-      "label": "Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar",
+      "label": "Host alleges Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling her a liar",
       "node_kind": "claim",
       "episode": 114,
       "verification_status": "unverified"
@@ -116612,7 +116612,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9955",
-      "label": "Host says the Comperatore family is not satisfied with the Butler investigation",
+      "label": "Host says she has it on authority the Comperatore family is not satisfied with the Butler investigation",
       "node_kind": "claim",
       "episode": 115,
       "verification_status": "unverified"
@@ -180803,10 +180803,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-1487",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-1487",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 16
     },
     {
@@ -191867,10 +191867,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-2305",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-2305",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 25
     },
     {
@@ -226776,10 +226776,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-4758",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-4758",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 54
     },
     {
@@ -268461,10 +268461,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-7777",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-7777",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 87
     },
     {

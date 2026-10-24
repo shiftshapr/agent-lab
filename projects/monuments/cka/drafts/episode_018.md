@@ -1201,9 +1201,10 @@ Investigative Direction: Verify aircraft registration, ownership, and any link t
 
 **C-1676** Host Says Plane 888's Intended Destination Was Page, Arizona
 
-Claim Timestamp: 00:39:09
+Claim Timestamp: 00:40:07
 
 Claim: The host says Plane 888's intended destination was Page, Arizona.
+Transcript Snippet: it was supposed to land in Page, Arizona.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10178

@@ -3782,7 +3782,7 @@
     },
     {
      "k": "Verification Evidence",
-     "v": "S-56"
+     "v": "S-56, S-76"
     },
     {
      "k": "Investigative Direction",
@@ -7994,8 +7994,8 @@
   {
    "kind": "claim",
    "id": "C-8357",
-   "header": "**C-8357** Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood",
-   "label": "Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood",
+   "header": "**C-8357** Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him",
+   "label": "Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him",
    "lines": [
     {
      "raw": ""
@@ -8009,7 +8009,7 @@
     },
     {
      "k": "Claim",
-     "v": "The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him."
+     "v": "The host reads a top viewer comment saying Dan Flood was receiving Charlie's messages that they were going to kill him."
     },
     {
      "raw": ""

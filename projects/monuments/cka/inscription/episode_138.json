@@ -2545,14 +2545,15 @@
         "N-10551"
       ],
       "tags": [],
-      "claim_timestamp": "00:45:49–00:46:30",
+      "claim_timestamp": "00:45:20",
       "investigative_direction": "Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.",
       "mentions_person_refs": [
         "N-204",
         "N-341"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": "now local law enforcement and sheriffs in the Mississippi area where this event apparently took place have said there are no records, police reports or unsolved homicides matching your account from that time period."
     },
     {
       "@type": "Claim",

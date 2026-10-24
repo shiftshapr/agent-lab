@@ -1098,9 +1098,10 @@ Investigative Direction: Note as host stance against displayed source; cross-ref
 
 **C-13019** Host concurs with Bobby Sausalito's interpretation of Turek contradiction
 
-Claim Timestamp: 00:11:11–00:14:18
+Claim Timestamp: 00:13:10
 
 Claim: Host endorses Bobby Sausalito's response, in a clip she plays, to Frank Turek's CPR account, and says Turek keeps using euphemisms for lying (discrepancy, incongruity, irrelevant detail, irrelevant consequence), which she says do not make the contradiction irrelevant.
+Transcript Snippet: I just don't understand why Frank Turek thinks that he can just keep coming up with all of these euphemisms for lie.
 
 Anchored Artifacts: A-2368.1, A-2369.1
 Mentions: N-7, N-897

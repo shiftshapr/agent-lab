@@ -1096,8 +1096,9 @@ Investigative Direction: Obtain the unedited local Utah news segment; compare ti
 
 **C-1026** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
 
-Claim Timestamp: 00:34:00–00:35:30
+Claim Timestamp: 00:34:55
 Claim: In his own Instagram video, Phil Lyman stated he was heading back from Salt Lake to Blanding on the night of the shooting, wanted to swing by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
+Transcript Snippet: I was just heading back from Salt Lake to Blanding.
 Anchored Artifacts: A-1180.1
 Mentions: N-61, N-1
 Related Nodes: N-10139
@@ -1389,7 +1390,7 @@ Mentions: N-40
 Related Nodes: N-10022
 Tags: relevance:core
 Verification: corroborated
-Verification Evidence: S-18, S-33
+Verification Evidence: S-1, S-18, S-33
 Investigative Direction: Trace the original media and official source for the father-phones-friend narrative (the Cox press briefings and reporting).
 Open Questions: Q-34
 

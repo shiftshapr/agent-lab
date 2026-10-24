@@ -4261,8 +4261,8 @@
   {
    "kind": "claim",
    "id": "C-1158",
-   "header": "**C-1158** Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
-   "label": "Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
+   "header": "**C-1158** Host Says Several People Connected to the Case Were New in Their Roles",
+   "label": "Host Says Several People Connected to the Case Were New in Their Roles",
    "lines": [
     {
      "raw": ""
@@ -4276,7 +4276,11 @@
     },
     {
      "k": "Claim",
-     "v": "The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner."
+     "v": "The host says several people connected to the case were new in their roles: Robert Bohls, installed by Kash Patel after a long DC tenure; Andrew Zenger, the new hospital CEO (she wants to learn whether he worked on Charlie); Judge Tony F. Graf Jr., appointed May 2025 by Governor Cox; and an unnamed new coroner."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He then installs a person that has a long tenure in DC, Robert Bohls."
     },
     {
      "raw": ""

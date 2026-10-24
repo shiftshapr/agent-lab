@@ -2064,8 +2064,7 @@
       ],
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-1",
-        "S-5"
+        "S-1"
       ]
     },
     {
@@ -2264,7 +2263,8 @@
       ],
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-12"
+        "S-12",
+        "S-30"
       ]
     },
     {
@@ -2370,8 +2370,8 @@
       "@type": "Claim",
       "@id": "C-254",
       "ref": "C-254",
-      "label": "Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
-      "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.",
+      "label": "Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her",
+      "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting, and plays a clip in which Kelly says some in the pro-Israel camp are so kneejerk about calling people anti-semitic that she finds it very irritating, and that her speculation with Kirk about Epstein possibly being a Mossad asset was turned around on her as anti-semitism; Kirk then says he seconds it.",
       "anchored_artifacts": [
         "A-1099.1"
       ],
@@ -3528,10 +3528,8 @@
         "N-1",
         "N-3"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-1"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-46"
       ]

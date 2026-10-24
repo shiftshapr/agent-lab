@@ -1427,11 +1427,11 @@ Open Questions: Q-1085
 
 ---
 
-**C-12046** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer
+**C-12046** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer
 
 Claim Timestamp: 00:17:43
 
-Claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.
+Claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hull is saying Tyler stopped his car to ask the police officer a question.
 
 Transcript Snippet: I wrongly assumed that he had been pulled over.
 
@@ -1440,7 +1440,7 @@ Mentions: N-40, N-860
 Related Nodes: N-11177
 Supports: C-12047
 Tags: relevance:core
-Investigative Direction: Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.
+Investigative Direction: Obtain the full Hull testimony transcript and the officer's report to determine who initiated the contact.
 Open Questions: Q-1086
 
 ---
@@ -1561,8 +1561,6 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11177, N-11360
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-7
 Investigative Direction: Obtain the arrest photographs and booking inventory of clothing.
 Open Questions: Q-1090
 

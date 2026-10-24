@@ -4229,11 +4229,8 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-7",
-        "S-11"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-41",
         "Q-1128",

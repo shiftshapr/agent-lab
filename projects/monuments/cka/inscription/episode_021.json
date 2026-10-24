@@ -1220,7 +1220,7 @@
       "@type": "Claim",
       "@id": "C-1962",
       "ref": "C-1962",
-      "label": "Trump's Only \"Investigation\" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder",
+      "label": "Host Says the Only Trump Truth Social Post Her Team Found on an 'Investigation' Was About Jack Smith's TPUSA Probe, Not Kirk's Murder",
       "claim": "The host says her team searched Truth Social for Trump posts calling for further investigation into Charlie Kirk's murder and found only one, which she says is not a call for an investigation into the murder but asks why Turning Point was under investigation by Jack Smith and the Biden administration.",
       "anchored_artifacts": [
         "A-1285.1"
@@ -1234,7 +1234,8 @@
         "N-1"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": null
     },
     {
       "@type": "Claim",

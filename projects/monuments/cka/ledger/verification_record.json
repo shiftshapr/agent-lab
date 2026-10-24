@@ -51,26 +51,9 @@
   "claim_text": "In the Fox News clip, Netanyahu says Charlie Kirk was unbelievably excited to walk in the footsteps of Jesus in Israel and valued the bond between America and Israel."
  },
  {
-  "claim": "C-114",
-  "status": "corroborated",
-  "note": "Fox News (S-63) reports surveillance video appears to show the alleged shooter walking toward UVU's campus hours before the shooting; the 8:07 a.m. time and maroon-shirt details rest only on unconfirmed TMZ-sourced facts.",
-  "evidence": [
-   {
-    "sid": "S-63",
-    "loc": "para 156",
-    "kind": "tier2_reported",
-    "speaker": "Fox News",
-    "fact": "Fox News reports new surveillance video appears to show the alleged assassin walking toward UVU's campus hours before the shooting.",
-    "quote": "New surveillance video appears to show the man authorities say assassinated Charlie Kirk walking toward Utah Valley University’s campus hours before he allegedly carried out the killing."
-   }
-  ],
-  "episode": 2,
-  "claim_text": "The host says TMZ has footage, which she shows, of a man at 8:07 AM on September 10, wearing a maroon shirt, walking outside university grounds near the UVU campus."
- },
- {
   "claim": "C-115",
   "status": "corroborated",
-  "note": "Sgt. Faumuina (S-5 05:17:16) testified Robinson's vehicle was a gray Dodge Challenger, and the bindover ruling (S-7 07:49:47) found he walked from the garage toward the amphitheater in a maroon short-sleeve shirt and shorts; the 8:29 AM time appears only in the State's closing argument.",
+  "note": "Sgt. Faumuina testified Robinson's vehicle was a gray Dodge Challenger (S-5 05:17:16), and the bindover ruling found he walked from the garage toward the amphitheater in a maroon short-sleeve shirt and shorts (S-7 07:49:47). The 8:29 AM time comes from the State's closing argument (S-7 03:45:43); the ruling instead says a gray or silver Dodge 'Charger' entered the garage at 8:30 AM (S-7 07:48:35), which conflicts with the 'Challenger' in testimony and argument. Governor Cox's own statement is not in the record.",
   "evidence": [
    {
     "sid": "S-5",
@@ -89,12 +72,28 @@
     "quote": "A person identified as Mr. Robinson exited the Charger and walked on foot out of the parking garage toward the outdoor amphitheater on campus. He was wearing a maroon short sleeve shirt, shorts, a hat, and a backpack."
    },
    {
+    "sid": "S-7",
+    "loc": "(07:48:35)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "The ruling finds a gray or silver Dodge Charger entered the campus parking garage at 8:30 AM.",
+    "quote": "At 8:30 AM, a gray or silver Dodge Charger entered the parking garage on campus."
+   },
+   {
     "sid": "S-3",
     "loc": "(00:47:48)",
     "kind": "testimony",
     "speaker": "SBI Agent Hull (witness)",
     "fact": "Agent Hull testified that Tyler Robinson wore a maroon T-shirt, gray or olive shorts and Converse shoes.",
     "quote": "It's a maroon color T-shirt with gray or olive colored shorts and then converse shoes."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(03:45:43)",
+    "kind": "argument",
+    "speaker": "prosecutor Ryan McBride",
+    "fact": "In closing argument the State said video exhibit 12.4 shows Robinson arriving at 8:29 AM in a gray Dodge Challenger.",
+    "quote": "12.4 shows the defendant arriving at 8:29 AM, driving that distinctive gray Dodge Challenger onto campus into the UVU parking lot."
    }
   ],
   "episode": 2,
@@ -103,7 +102,7 @@
  {
   "claim": "C-117",
   "status": "corroborated",
-  "note": "Agent Hull testified (S-3 00:51:43) that on Robinson's late-morning return before the shooting he wore different clothing and walked with a gait or limp; the TMZ/doorbell source is not addressed.",
+  "note": "Agent Hull testified that on Robinson's return to campus before the shooting he wore different clothing and walked with a gait or limp (S-3 00:51:43), and the bindover ruling puts that return at 11:53 AM (S-7 07:50:48). The 11:49 AM time and the TMZ doorbell-camera source are not in the record.",
   "evidence": [
    {
     "sid": "S-3",
@@ -112,6 +111,14 @@
     "speaker": "SBI Agent Hull (witness)",
     "fact": "Agent Hull testified that on this return Tyler Robinson wore different clothing and walked with a limp.",
     "quote": "He is wearing different clothing and he also is walking with a gait or a limp in this video."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(07:50:48)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "The ruling finds Robinson returned to campus at 11:53 AM in different clothing, walking with a gait or limp.",
+    "quote": "At 11:53 AM, a person identified as Mr. Robinson then returned to campus wearing the same shoes, but different clothing, a dark long sleeved shirt, jeans, and a backpack. He walked with a gait or limp, his right leg stiff."
    }
   ],
   "episode": 2,
@@ -170,7 +177,7 @@
  {
   "claim": "C-124",
   "status": "corroborated",
-  "note": "Sgt. Faumuina testified (S-3 05:03:16) a long gun wrapped in a dark-colored towel was found in the wooded area, and the ruling (S-7 08:24:13) found the rifle was concealed in a dense wooded area wrapped in a dark towel.",
+  "note": "Sgt. Faumuina testified on the second day of the preliminary hearing (S-3 05:03:16) that a long gun wrapped in a dark-colored towel was found in the wooded area, and the ruling (S-7 08:24:13) found the rifle was concealed in a dense wooded area wrapped in a dark towel. The claim that the photo authorities released showed it fully assembled is not covered.",
   "evidence": [
    {
     "sid": "S-3",
@@ -218,23 +225,6 @@
   "claim_text": "The host says she has been told that a screwdriver was found on the roof."
  },
  {
-  "claim": "C-126",
-  "status": "corroborated",
-  "note": "Agent Hull agreed (S-3 01:53:44) that the person-of-interest images released to the press were the ones from the stairwell.",
-  "evidence": [
-   {
-    "sid": "S-3",
-    "loc": "(01:53:44)",
-    "kind": "testimony",
-    "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull agreed that the images released to the press came from the parking garage stairwell.",
-    "quote": "Correct."
-   }
-  ],
-  "episode": 2,
-  "claim_text": "The host says the FBI released photos of the shooter in a stairwell, in what she calls outfit number two, and that the location of the stairwell and the timeline are not given."
- },
- {
   "claim": "C-129",
   "status": "corroborated",
   "note": "The bindover ruling (S-7 07:56:00) found Robinson arrived at the Washington County Sheriff's Office about 9:00 PM on September 11 wearing a maroon shirt (with jeans, not shorts).",
@@ -250,39 +240,6 @@
   ],
   "episode": 2,
   "claim_text": "The host says it was communicated that Tyler Robinson was wearing the maroon outfit when he was apprehended, 33 hours after the shooting, which she finds odd given the reported outfit change in between."
- },
- {
-  "claim": "C-136",
-  "status": "corroborated",
-  "note": "Agent Davis testified (S-5 02:51:08-02:51:15) that Exhibit 16.2 shows the Discord messages Lance Twiggs described, and in his recorded statement (S-5 Exhibit 16, 02:21:58) Twiggs identified the photographs as his own cracked phone's screen showing Discord, and confirmed they were the same messages.",
-  "evidence": [
-   {
-    "sid": "S-5",
-    "loc": "(02:51:08)",
-    "kind": "testimony",
-    "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis testified State's Exhibit 16.2 shows the Discord messages Lance Twiggs had described, photographed on his phone.",
-    "quote": "These are the Discord messages that Lance had talked about."
-   },
-   {
-    "sid": "S-5",
-    "loc": "(02:51:15)",
-    "kind": "testimony",
-    "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis testified Lance Twiggs confirmed in his second interview that the Discord images were the same messages.",
-    "quote": "And then these images are shown to Lance during his second interview and he confirms that these are those same messages"
-   },
-   {
-    "sid": "S-5",
-    "loc": "(02:21:58)",
-    "kind": "exhibit",
-    "speaker": "Lance Twiggs (sworn recorded statement, State's Exhibit 16)",
-    "fact": "Lance Twiggs confirmed the Exhibit 16.2 server was on Discord.",
-    "quote": "Yeah, this is Discord."
-   }
-  ],
-  "episode": 2,
-  "claim_text": "Governor Cox says the roommate showed several Discord messages to investigators and allowed them to take photos of the screen as each message was shown."
  },
  {
   "claim": "C-137",
@@ -395,7 +352,7 @@
  {
   "claim": "C-156",
   "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12 p. 21) records that at 12:26 p.m. attendee George Zinn was in custody after allegedly admitting involvement and was later determined not to be a suspect; his age and obstruction charge are not covered.",
+  "note": "The UVU After-Action Report (S-12 p. 21) records that at 12:26 p.m. attendee George Zinn was in custody after allegedly admitting involvement and was later determined not to be a suspect, and KSL (S-30 para 12) reports Zinn, 71, was charged with obstruction of justice.",
   "evidence": [
    {
     "sid": "S-12",
@@ -404,6 +361,14 @@
     "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
     "fact": "At 12:26 p.m., UVUPD reported attendee George Zinn in custody after he allegedly admitted involvement; he was later determined not to be a suspect.",
     "quote": "12:26 p.m. UVUPD reported a suspect, George Zinn, an event attendee, was in custody after allegedly admitting involvement in the shooting. It was later determined he was not a suspect."
+   },
+   {
+    "sid": "S-30",
+    "loc": "para 12",
+    "kind": "tier2_reported",
+    "speaker": "KSL",
+    "fact": "KSL reports George Zinn, 71, who was arrested after the shooting, was charged with obstruction of justice.",
+    "quote": "George Zinn, 71, who was arrested after Charlie Kirk was shot at Utah Valley University in Orem on Sept. 10, was charged this week with obstruction of justice"
    }
   ],
   "episode": 3,
@@ -695,7 +660,7 @@
  {
   "claim": "C-176",
   "status": "corroborated",
-  "note": "The Information (S-1 p. 6) quotes the cartridge etching 'If you Read This, You Are GAY Lmao', and Sgt. Faumuina read the exhibit engravings 'O Bella Ciao' and '...a fascist' (S-5 04:57:36-04:58:19), which the host renders as 'Oh Bella cow' and 'Hey fascist catch.'",
+  "note": "The Information (S-1 p. 6) lists the cartridge etchings 'Hey Facist! Catch!', 'O Bella ciao, Bella ciao...' and 'If you Read This, You Are GAY Lmao', which the host renders as 'Hey fascist catch', 'Oh Bella cow' and 'if you read this you are gay Lmo'.",
   "evidence": [
    {
     "sid": "S-1",
@@ -706,20 +671,20 @@
     "quote": "Fourth cartridge: If you Read This, You Are GAY Lmao"
    },
    {
-    "sid": "S-5",
-    "loc": "(04:58:19)",
-    "kind": "exhibit",
-    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
-    "fact": "The engraving on the cartridge in Exhibit 21 reads \"O Bella Ciao.\"",
-    "quote": "O Bella Ciao."
+    "sid": "S-1",
+    "loc": "p. 6",
+    "kind": "charging_allegation",
+    "speaker": "Utah County Attorney's Office",
+    "fact": "The Information lists the second cartridge's etching as 'Hey Facist! Catch!'.",
+    "quote": "Second cartridge: Hey Facist! Catch!"
    },
    {
-    "sid": "S-5",
-    "loc": "(04:57:36)",
-    "kind": "exhibit",
-    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
-    "fact": "Page two of Exhibit 20 shows a cartridge engraving reading \"A fascist.\"",
-    "quote": "A fascist."
+    "sid": "S-1",
+    "loc": "p. 6",
+    "kind": "charging_allegation",
+    "speaker": "Utah County Attorney's Office",
+    "fact": "The Information lists the third cartridge's etching as 'O Bella ciao, Bella ciao...'.",
+    "quote": "Third cartridge: O Bella ciao, Bella ciao Bella ciao Ciao, ciao!"
    }
   ],
   "episode": 3,
@@ -1018,23 +983,6 @@
   ],
   "episode": 3,
   "claim_text": "Per the probable cause statement the host reads, Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard', and Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'."
- },
- {
-  "claim": "C-195",
-  "status": "corroborated",
-  "note": "The charging Information (S-1 p. 7) quotes the note as \"I had the opportunity to take out Charlie Kirk and I'm going to take it,\" which is the wording the host reads (the tense commentary is opinion and is not judged).",
-  "evidence": [
-   {
-    "sid": "S-1",
-    "loc": "p. 7",
-    "kind": "charging_allegation",
-    "speaker": "Utah County Attorney's Office",
-    "fact": "Under the keyboard the roommate found a note reading \"I had the opportunity to take out Charlie Kirk and I'm going to take it,\" and police found a photograph of the note.",
-    "quote": "found a note that stated, “I had the opportunity to take out Charlie Kirk and I’m going to take it.” Police found a photograph of this note."
-   }
-  ],
-  "episode": 3,
-  "claim_text": "The host says the note quoted in the indictment, I had the opportunity to take out Charlie Kirk and I'm going to take it, mixes past and present tense and is not proper English, so it is unclear whether it says I have or I had."
  },
  {
   "claim": "C-196",
@@ -1604,8 +1552,16 @@
  {
   "claim": "C-312",
   "status": "corroborated",
-  "note": "Agent Davis read the text about planning to grab the rifle from the drop point before the area was locked down (S-5 02:43:05), and Agent Hull testified (S-2 06:34:55) Robinson was back on campus late that evening into the early hours of September 11.",
+  "note": "Text exhibits read by Agent Davis show Robinson telling Twiggs he was 'stuck in Orem' and still had to grab his rifle (S-5 02:42:39) and was 'going to attempt to retrieve it again' (S-5 02:43:32). Agent Hull testified (S-2 06:34:55) Robinson was back on campus after the shooting later that evening into the early hours of September 11, which matches the host's inference, though it describes a return visit rather than staying on the scene throughout.",
   "evidence": [
+   {
+    "sid": "S-5",
+    "loc": "(02:42:39)",
+    "kind": "exhibit",
+    "speaker": "Agent Davis, SBI (witness)",
+    "fact": "Robinson texted that he was stuck in Orem and still had to grab his rifle.",
+    "quote": "I'm stuck in Orem for a little while longer yet. Shouldn't be long until I can come home, but got to grab my rifle still."
+   },
    {
     "sid": "S-5",
     "loc": "(02:43:05)",
@@ -1613,6 +1569,14 @@
     "speaker": "Agent Davis, SBI (witness)",
     "fact": "Agent Davis read Tyler Robinson texting that he planned to grab his rifle from the drop point shortly after but that side of town got locked down.",
     "quote": "I had planned to grab my rifle from the drop point shortly after, but most of that, side of town got locked down."
+   },
+   {
+    "sid": "S-5",
+    "loc": "(02:43:32)",
+    "kind": "exhibit",
+    "speaker": "Agent Davis, SBI (witness)",
+    "fact": "Robinson texted that he would attempt to retrieve the rifle again.",
+    "quote": "If I'm able to grab my rifle unseen, I will have left no evidence. Going to attempt to retrieve it again."
    },
    {
     "sid": "S-2",
@@ -1679,7 +1643,7 @@
  {
   "claim": "C-315",
   "status": "corroborated",
-  "note": "The bindover ruling (S-7 07:52:46) and the text exhibit read by Agent Davis (S-5 02:46:40) quote the texter leaving the rifle wrapped in a towel in a bush where he changed outfits, and the Information (S-1 p. 8) quotes 'only thing I left was the rifle wrapped in a towel'.",
+  "note": "The bindover ruling (S-7 07:52:46) and the text exhibit read by Agent Davis (S-5 02:46:40) have the texter leaving the rifle wrapped in a towel in a bush where he changed outfits, and the Information (S-1 p. 8) quotes 'only thing I left was the rifle wrapped in a towel'. The texts say 'I worry about prints', so the claim's 'Prince' is the host's rendering of 'prints', not a name for the rifle.",
   "evidence": [
    {
     "sid": "S-7",
@@ -1694,8 +1658,8 @@
     "loc": "(02:46:40)",
     "kind": "exhibit",
     "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis read Tyler Robinson texting that he left the rifle in a bush where he changed outfits.",
-    "quote": "I had to leave it in a bush where I changed outfits. Didn't have the ability or time to bring it with.\""
+    "fact": "The texter wrote that he worried about prints and had left the rifle in a bush where he changed outfits.",
+    "quote": "I worry about prints. I had to leave it in a bush where I changed outfits."
    },
    {
     "sid": "S-1",
@@ -1729,7 +1693,7 @@
  {
   "claim": "C-322",
   "status": "corroborated",
-  "note": "Sgt. Faumuina testified the rifle found in the wooded area was a bolt action (S-3 05:03:46; S-5 05:29:15).",
+  "note": "Sgt. Faumuina testified the rifle found in the wooded area was a bolt action (S-3 05:03:46; S-5 05:29:15). The testimony confirms only a bolt-action rifle recovered in the wooded area; recovery by the September 11 press conference, the 'high-powered' description and that the area was where the shooter fled are not addressed.",
   "evidence": [
    {
     "sid": "S-3",
@@ -1895,7 +1859,7 @@
  {
   "claim": "C-396",
   "status": "corroborated",
-  "note": "Text exhibits read by Agent Davis (S-5 02:43:32, 02:45:38) show Robinson telling Twiggs he would attempt to retrieve the rifle unseen and that police had not published anything about finding it; 'minute by minute' and the police sweep are the host's description.",
+  "note": "Text exhibits read by Agent Davis show Robinson telling Twiggs he would attempt to retrieve the rifle unseen (S-5 02:43:32), that a squad car was parked by it and 'I think they already swept that spot' (S-5 02:44:08), and that police had not published anything about finding it (S-5 02:45:38). 'Minute by minute' and the 'Fed messages' label are the host's description.",
   "evidence": [
    {
     "sid": "S-5",
@@ -1904,6 +1868,14 @@
     "speaker": "Agent Davis, SBI (witness)",
     "fact": "Agent Davis read Tyler Robinson texting that if he could grab his rifle unseen he would have left no evidence, and he would try to retrieve it again.",
     "quote": "If I'm able to grab my rifle unseen, I will have left no evidence. Going to attempt to retrieve it again."
+   },
+   {
+    "sid": "S-5",
+    "loc": "(02:44:08)",
+    "kind": "exhibit",
+    "speaker": "Agent Davis, SBI (witness)",
+    "fact": "Robinson texted that a squad car was parked by the rifle and he thought police had already swept the spot.",
+    "quote": "I can get close to it, but there is a squad car parked right by it. I think they already swept that spot, but I don't want to chance it."
    },
    {
     "sid": "S-5",
@@ -1999,23 +1971,6 @@
   ],
   "episode": 5,
   "claim_text": "In the clip, Netanyahu says Kirk told him in a letter that one of his greatest joys as a Christian was advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization."
- },
- {
-  "claim": "C-511",
-  "status": "contradicted-by-record",
-  "note": "The bindover ruling (S-7 08:16:02) finds the bullet traveled front to back and did not exit Kirk's body, so the front wound was not an exit wound.",
-  "evidence": [
-   {
-    "sid": "S-7",
-    "loc": "(08:16:02)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "Judge Tony Graf Jr. found that the bullet traveled front to back and downward through Charlie Kirk and did not exit his body.",
-    "quote": "the bullet traveled anatomically from front to back and downward after striking Mr. Kirk. The projectile did not exit his body."
-   }
-  ],
-  "episode": 6,
-  "claim_text": "The host says most of the people with credibility are ballistics experts who say the wound seen at the front is an exit wound, while she says she cannot judge it herself because she is not an expert."
  },
  {
   "claim": "C-585",
@@ -2254,7 +2209,7 @@
  {
   "claim": "C-961",
   "status": "corroborated",
-  "note": "The Salt Lake Tribune (S-18) reports Robinson's parents convinced him to turn himself in, and AP (S-33) cites charging documents saying his father agreed the surveillance image looked like his son, matching the narrative the host recounts.",
+  "note": "The Information (S-1 p. 7) says Robinson's parents convinced him to speak with a family friend who is a retired deputy sheriff and that, at his father's request, the friend met with them and convinced Robinson to turn himself in; AP (S-33) and The Salt Lake Tribune (S-18) report his father agreed the surveillance image looked like his son and his parents convinced him to turn himself in. The record does not say the father phoned the friend.",
   "evidence": [
    {
     "sid": "S-33",
@@ -2271,6 +2226,22 @@
     "speaker": "The Salt Lake Tribune",
     "fact": "The Salt Lake Tribune reports Tyler Robinson's parents convinced him to turn himself in 33 hours after the shooting.",
     "quote": "33 hours after the shooting at Utah Valley University , they convinced their son to turn himself in"
+   },
+   {
+    "sid": "S-1",
+    "loc": "p. 7",
+    "kind": "charging_allegation",
+    "speaker": "Utah County Attorney's Office",
+    "fact": "The Information says Robinson's parents convinced him to speak with a family friend who is a retired deputy sheriff.",
+    "quote": "convinced Robinson to speak with a family friend who is a retired deputy sheriff"
+   },
+   {
+    "sid": "S-1",
+    "loc": "p. 7",
+    "kind": "charging_allegation",
+    "speaker": "Utah County Attorney's Office",
+    "fact": "The Information says that at his father's request the family friend met Robinson and his parents and convinced him to turn himself in.",
+    "quote": "At Robinson’s father’s request, the family friend met with Robinson and his parents and convinced Robinson to turn himself in."
    }
   ],
   "episode": 11,
@@ -2279,31 +2250,23 @@
  {
   "claim": "C-965",
   "status": "contradicted-by-record",
-  "note": "Agent Hull testified that UVU surveillance video shows Robinson on campus about four times that day, including returning on foot just after 10:00 AM (S-2 06:35:55; S-3 00:24:01, 00:48:03).",
+  "note": "Agent Hull testified that Robinson was on campus about four times on September 10 (S-2 06:34:55) and identified UVU surveillance video of him returning to campus on foot (S-3 00:51:02).",
   "evidence": [
    {
     "sid": "S-2",
-    "loc": "(06:35:55)",
+    "loc": "(06:34:55)",
     "kind": "testimony",
     "speaker": "SBI Agent David Hull (witness)",
-    "fact": "Agent David Hull testified that the conclusion that Tyler Robinson visited the UVU campus four times is based on UVU surveillance video.",
-    "quote": "That is correct, yes."
+    "fact": "Agent Hull testified Robinson was on campus about four times on September 10: twice before the shooting, at the shooting, and after.",
+    "quote": "Mr. Robinson had been on campus approximately four times throughout the day, twice before the shooting, the time of the shooting, and then after the shooting later in the evening into the early hours of the 11th."
    },
    {
     "sid": "S-3",
-    "loc": "(00:24:01)",
+    "loc": "(00:51:02)",
     "kind": "testimony",
     "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that State's Exhibit 12.1 captures Tyler Robinson arriving at and visiting the UVU campus.",
-    "quote": "It does, yes."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(00:48:03)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that Tyler Robinson returned to campus on foot just after 10:00 a.m. on September 10, 2025.",
-    "quote": "Just after 10:00 AM."
+    "fact": "Agent Hull identified video of Robinson returning to campus on foot.",
+    "quote": "This is a video of Mr. Robinson returning back to campus the same way that he did previously on foot."
    }
   ],
   "episode": 11,
@@ -2747,7 +2710,7 @@
  {
   "claim": "C-1617",
   "status": "contradicted-by-record",
-  "note": "The ruling (S-7 07:46:29) finds the bullet fragments recovered from Kirk's body were a .30 caliber class round, and the lab result read in court calls the jacket fragment consistent with a .30-06 (S-7 exhibit), contrary to the inference that this caliber was not recovered.",
+  "note": "The ruling (S-7 07:46:29) finds the bullet fragments recovered from Kirk's body were a .30 caliber class round, and the lab result the prosecutor read in court (S-7 03:52:34) calls the autopsy jacket fragment 'consistent with having been fired with a .30-06', contrary to the inference that this caliber was not recovered. The death certificate's wording is not in the record.",
   "evidence": [
    {
     "sid": "S-7",
@@ -2803,23 +2766,6 @@
   "claim_text": "The host says the bullet went straight into the front left lower side of Charlie's neck, essentially exploded his artery and did not exit the back, but that a bullet fragment was found there."
  },
  {
-  "claim": "C-1732",
-  "status": "corroborated",
-  "note": "Deseret News (S-78) reports chief of staff Mikey McCoy was \"just behind his boss when the bullet hit.\"",
-  "evidence": [
-   {
-    "sid": "S-78",
-    "loc": "para 81",
-    "kind": "tier2_reported",
-    "speaker": "Deseret News",
-    "fact": "Deseret News reported that chief of staff Mikey McCoy was just behind Charlie Kirk when the bullet hit and provided Erika Kirk updates by phone from the hospital.",
-    "quote": "For Kirk’s chief of staff, Mikey McCoy, the experience of being there, just behind his boss when the bullet hit, and being on the phone with Erika providing updates from the hospital"
-   }
-  ],
-  "episode": 19,
-  "claim_text": "The host says Mikey McCoy was behind the tent when Charlie got shot."
- },
- {
   "claim": "C-1888",
   "status": "contradicted-by-record",
   "note": "The After-Action Report records Orem Fire Station Three passing the TPUSA SUV carrying Kirk to Timpanogos Hospital and radioing it in (S-12 p. 22), and a Station Two fire captain assisting with CPR at the hospital (p. 52); Agent Hull testified that Kirk was pronounced dead there (S-2 05:59:17).",
@@ -2870,31 +2816,6 @@
   "claim_text": "The host says that in this video Mikey McCoy is not standing to the side of Charlie but is behind him."
  },
  {
-  "claim": "C-1930",
-  "status": "corroborated",
-  "note": "The New York Times (S-66) reports Brigitte Macron sued Owens for defamation over her claim that Macron is transgender and that the suit is pending in Delaware; this corroborates only that the host makes the allegation and Macron disputes it in court, not the allegation itself.",
-  "evidence": [
-   {
-    "sid": "S-66",
-    "loc": "para 24",
-    "kind": "tier2_reported",
-    "speaker": "The New York Times",
-    "fact": "Brigitte Macron sued Candace Owens for defamation in July over Owens' claim that she is transgender.",
-    "quote": "In July, Owens was sued for defamation by Brigitte Macron, the wife of French President Emmanuel Macron, for claiming she is transgender."
-   },
-   {
-    "sid": "S-66",
-    "loc": "para 24",
-    "kind": "tier2_reported",
-    "speaker": "The New York Times",
-    "fact": "Brigitte Macron's defamation suit against Candace Owens is pending in Delaware state court.",
-    "quote": "The lawsuit from Brigitte Macron is still pending in Delaware state court."
-   }
-  ],
-  "episode": 20,
-  "claim_text": "The host alleges that Brigitte Macron was born Jean-Michel Trogneux, transitioned, and was put in a position of power; Brigitte Macron disputes this and is suing the host."
- },
- {
   "claim": "C-1971",
   "status": "contradicted-by-record",
   "note": "Agent Hull testified that Kirk's security team removed him from the scene 'whilst administering first aid' (S-2 05:58:03).",
@@ -2914,31 +2835,23 @@
  {
   "claim": "C-2004",
   "status": "contradicted-by-record",
-  "note": "Agent Hull testified that UVU surveillance video shows Robinson on campus about four times on September 10, including returning on foot just after 10:00 AM (S-2 06:35:55; S-3 00:24:01, 00:48:03).",
+  "note": "Agent Hull identified UVU surveillance video of Robinson returning to campus on foot (S-3 00:51:02) and testified he was on campus about four times on September 10 (S-2 06:34:55).",
   "evidence": [
    {
+    "sid": "S-3",
+    "loc": "(00:51:02)",
+    "kind": "testimony",
+    "speaker": "SBI Agent Hull (witness)",
+    "fact": "Agent Hull identified video of Robinson returning to campus on foot.",
+    "quote": "This is a video of Mr. Robinson returning back to campus the same way that he did previously on foot."
+   },
+   {
     "sid": "S-2",
-    "loc": "(06:35:55)",
+    "loc": "(06:34:55)",
     "kind": "testimony",
     "speaker": "SBI Agent David Hull (witness)",
-    "fact": "Agent David Hull testified that the conclusion that Tyler Robinson visited the UVU campus four times is based on UVU surveillance video.",
-    "quote": "That is correct, yes."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(00:24:01)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that State's Exhibit 12.1 captures Tyler Robinson arriving at and visiting the UVU campus.",
-    "quote": "It does, yes."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(00:48:03)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that Tyler Robinson returned to campus on foot just after 10:00 a.m. on September 10, 2025.",
-    "quote": "Just after 10:00 AM."
+    "fact": "Agent Hull testified Robinson was on campus about four times on September 10: twice before the shooting, at the shooting, and after.",
+    "quote": "Mr. Robinson had been on campus approximately four times throughout the day, twice before the shooting, the time of the shooting, and then after the shooting later in the evening into the early hours of the 11th."
    }
   ],
   "episode": 22,
@@ -3491,14 +3404,22 @@
  {
   "claim": "C-3019",
   "status": "corroborated",
-  "note": "Bagley testified UVU Police had no drone capability (S-2 02:54:15), and the After-Action Report finds the Orem Police Department maintains drone capability (S-12 p. 77).",
+  "note": "Asked by defense counsel whether UVU Police had drone capability or a drone on campus, Bagley answered 'No' (S-2 02:54:10-02:54:15), and the After-Action Report finds the Orem Police Department maintains drone capability (S-12 p. 77).",
   "evidence": [
+   {
+    "sid": "S-2",
+    "loc": "(02:54:10)",
+    "kind": "question",
+    "speaker": "defense attorney Kathryn Nester (question)",
+    "fact": "Defense counsel asked Bagley whether UVU Police had drone capability or a drone on campus.",
+    "quote": "Did you guys even have drone capability? Did you have a drone on campus that you used?"
+   },
    {
     "sid": "S-2",
     "loc": "(02:54:15)",
     "kind": "testimony",
     "speaker": "Officer Bagley, UVU Police (witness)",
-    "fact": "UVU Police had no drone capability on campus.",
+    "fact": "Asked whether UVU Police had drone capability or a drone on campus, Bagley answered no.",
     "quote": "No."
    },
    {
@@ -3732,7 +3653,7 @@
  {
   "claim": "C-3227",
   "status": "corroborated",
-  "note": "Agent Davis testified Robinson came to the sheriff's office with his parents and a family friend (S-4 37:00), and Hull agreed he was driven there with his parents rather than arrested (S-3 02:10:57); the detectives detail is not addressed.",
+  "note": "Agent Davis testified Robinson came to the Washington County Sheriff's Office with his parents and a family friend (S-4 37:00); the plain-clothes detectives detail is not addressed.",
   "evidence": [
    {
     "sid": "S-4",
@@ -3741,14 +3662,6 @@
     "speaker": "SBI Agent Brian Davis (witness)",
     "fact": "Brian Davis testified that Tyler Robinson came to the Washington County Sheriff's Office with his parents and a family friend.",
     "quote": "he'd come there with his parents and a family friend."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(02:10:57)",
-    "kind": "testimony",
-    "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull agreed that no police went to arrest Tyler Robinson and that he went with his parents to the Washington County Sheriff's Office.",
-    "quote": "That's my understanding, yes."
    }
   ],
   "episode": 36,
@@ -3782,7 +3695,7 @@
  {
   "claim": "C-3451",
   "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12, pp. 41, 48) finds UVU agreed to TPUSA's requested Fountain Courtyard venue when TPUSA representative Maycee Crofts insisted on it.",
+  "note": "The UVU After-Action Report (S-12, pp. 41, 48) finds UVU agreed to TPUSA's requested Fountain Courtyard venue when TPUSA representative Maycee Crofts insisted on it. The early-August scouting, the Nashville amphitheater rationale and the 'this is what Charlie wants' wording are not covered; the report gives familiarity with the location as the reason.",
   "evidence": [
    {
     "sid": "S-12",
@@ -3854,23 +3767,6 @@
   ],
   "episode": 40,
   "claim_text": "In the statement the host plays, Blake Neff says Charlie made sure TPUSA was audited by a third party every year."
- },
- {
-  "claim": "C-3538",
-  "status": "corroborated",
-  "note": "CBS News (S-49) reports TPUSA's Blake Neff saying Charlie Kirk personally signed off on every expense; the 'down to a single dollar' wording is not quoted.",
-  "evidence": [
-   {
-    "sid": "S-49",
-    "loc": "para 104",
-    "kind": "tier2_attributed",
-    "speaker": "Blake Neff",
-    "fact": "Blake Neff said Charlie Kirk had Turning Point USA audited by a third party every year and personally signed off on every expense.",
-    "quote": "\"Charlie made sure the organization was audited by a third party every year,\" Neff said."
-   }
-  ],
-  "episode": 40,
-  "claim_text": "In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar."
  },
  {
   "claim": "C-3539",
@@ -4059,7 +3955,7 @@
  {
   "claim": "C-3902",
   "status": "corroborated",
-  "note": "CBS News (S-91, S-72) reports Charlie Kirk's posthumous Sabbath book 'Stop, in the Name of God' was released days before Erika Kirk's Bari Weiss town hall.",
+  "note": "CBS News (S-72) and the Deseret News relaying a CBS post (S-91) report Charlie Kirk's posthumous Sabbath book 'Stop, in the Name of God' was released days before Erika Kirk's Bari Weiss town hall.",
   "evidence": [
    {
     "sid": "S-91",
@@ -4243,7 +4139,7 @@
  {
   "claim": "C-3999",
   "status": "contradicted-by-record",
-  "note": "Agents Hull (S-3, 01:51:41) and Davis (S-5, 02:50:14; S-4, 37:16) testified that Robinson turned himself in on September 11, 2025, contrary to the host's denial.",
+  "note": "Agents Hull (S-3, 01:51:41) and Davis (S-5, 02:50:14) testified that Robinson turned himself in on September 11, 2025, contrary to the host's denial.",
   "evidence": [
    {
     "sid": "S-3",
@@ -4260,14 +4156,6 @@
     "speaker": "Agent Davis, SBI (witness)",
     "fact": "Agent Davis testified Tyler Robinson turned himself in on September 11.",
     "quote": "So September 11th was when he turned himself in. It would've been September 11th."
-   },
-   {
-    "sid": "S-4",
-    "loc": "(37:16)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Brian Davis (witness)",
-    "fact": "Brian Davis testified that the individual who came to turn himself in identified himself as Tyler Robinson.",
-    "quote": "Tyler Robinson."
    }
   ],
   "episode": 46,
@@ -4359,7 +4247,7 @@
  {
   "claim": "C-4029",
   "status": "corroborated",
-  "note": "Fox News (S-119) reports Robinson's first in-person court appearance was on Dec. 11, 2025, the date of this episode; this answers the earlier rejections, which found no outlet stating it was his first in-person appearance.",
+  "note": "Fox News (S-119) reports Robinson's first in-person court appearance was on Dec. 11, 2025, the date of this episode.",
   "evidence": [
    {
     "sid": "S-119",
@@ -4376,7 +4264,7 @@
  {
   "claim": "C-4080",
   "status": "corroborated",
-  "note": "Fox News (S-28) reports Andrew Kolvet said he spoke with Kirk's surgeon about the bullet not exiting; the 'man of steel' wording appears only as Kolvet's unconfirmed relay, which matches the host's 'allegedly'.",
+  "note": "Fox News (S-28) reports Andrew Kolvet said he had spoken with Kirk's surgeon, who called it an 'absolute miracle' that the bullet did not exit, and relays the surgeon's words that Kirk's bone was so dense 'he's like the man of steel' and the round 'should have just gone through and through'. The surgeon's words reach the record only through Kolvet's relay, which matches the host's 'allegedly'.",
   "evidence": [
    {
     "sid": "S-28",
@@ -4385,6 +4273,22 @@
     "speaker": "Andrew Kolvet",
     "fact": "Turning Point USA spokesman Andrew Kolvet said Charlie Kirk's surgeon called it an \"absolute miracle\" that the bullet that killed Kirk did not exit his body.",
     "quote": "Turning Point USA spokesman Andrew Kolvet on Saturday said Charlie Kirk 's surgeon called it an \"absolute miracle\" that the bullet that killed him didn’t exit his body"
+   },
+   {
+    "sid": "S-28",
+    "loc": "para 158",
+    "kind": "tier2_attributed",
+    "speaker": "Andrew Kolvet",
+    "fact": "Fox News reports Kolvet said he had spoken with Kirk's surgeon, who said the bullet absolutely should have gone through.",
+    "quote": "Kolvet said he had just spoken with Kirk’s surgeon, who told him the bullet \"'absolutely should have gone through, which is very very normal for a high powered, high velocity round."
+   },
+   {
+    "sid": "S-28",
+    "loc": "para 162",
+    "kind": "tier2_attributed",
+    "speaker": "Andrew Kolvet",
+    "fact": "Per Kolvet's relay, the surgeon said Kirk's bone was so dense he was like the man of steel and the bullet should have gone through and through.",
+    "quote": "The doctor added that Kirk’s \"bone was so healthy and the density was so so impressive that he’s like the man of steel. It should have just gone through and through."
    }
   ],
   "episode": 47,
@@ -4426,8 +4330,16 @@
  {
   "claim": "C-4142",
   "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12, p. 44) finds there was no formal pre-event briefing or coordinated walk-through between UVUPD and Harpole, Flood and the TPUSA security team; who the message belonged to is not covered.",
+  "note": "The After-Action Report exhibit (S-12 p. 43) shows the roof-access texts were Dan Flood's, and the report (p. 44) finds no coordinated walk-through with Harpole, Flood and the TPUSA team.",
   "evidence": [
+   {
+    "sid": "S-12",
+    "loc": "p. 43",
+    "kind": "exhibit",
+    "speaker": "Dan Flood, TPUSA Security Supervisor (text to Chief Long, Sept 8, 2025)",
+    "fact": "The report exhibit shows the roof-access text to Chief Long was sent by Dan Flood.",
+    "quote": "Dan Flood: I was told students have access above us, if this is true, it would be nice to either have it controlled access or allow one of my guys to be there as well."
+   },
    {
     "sid": "S-12",
     "loc": "p. 44",
@@ -4608,26 +4520,9 @@
   "claim_text": "The host says she sat down with Piers Morgan that morning, as they do at the end of every year."
  },
  {
-  "claim": "C-4268",
-  "status": "corroborated",
-  "note": "Fox News (S-24) quotes Owens describing an 'extremely productive 4 1/2 hour meeting' with Erika Kirk.",
-  "evidence": [
-   {
-    "sid": "S-24",
-    "loc": "para 164",
-    "kind": "tier2_attributed",
-    "speaker": "Candace Owens",
-    "fact": "Candace Owens said she and Erika Kirk had an extremely productive four-and-a-half-hour meeting that should have happened earlier.",
-    "quote": "\"Erika and I had an extremely productive 4 1/2 hour meeting that I think we both feel should have taken place a lot earlier than it did,\" Owens said."
-   }
-  ],
-  "episode": 48,
-  "claim_text": "Answering a commenter, the host says the meeting she described the previous day was a four and a half hour meeting and she had an hour to relate what was said."
- },
- {
   "claim": "C-4395",
   "status": "corroborated",
-  "note": "Deseret News (S-97) and NBC News (S-98) report Shapiro at AmericaFest accused Kelly of cowardice for not condemning Owens and said \"Tucker Carlson is not an excuse to go silent on Candace's targeting of TPUSA\"; the 'young mother' detail is not covered.",
+  "note": "Deseret News (S-97) and NBC News (S-98) report Shapiro at AmericaFest accused Kelly of cowardice for not condemning Owens and said \"Tucker Carlson is not an excuse to go silent on Candace's targeting of TPUSA\"; the 'young mother' detail is not covered, and the claim's 'tells Tucker Carlson' paraphrase is not what the quote says.",
   "evidence": [
    {
     "sid": "S-97",
@@ -4760,23 +4655,23 @@
  {
   "claim": "C-4726",
   "status": "corroborated",
-  "note": "The Salt Lake Tribune (S-45) reports Harpole texted UVU Chief Jeff Long asking for officers on the rooftops or to assign one of his own men; that he was upset is the host's characterisation.",
+  "note": "Fox News (S-94) reports Harpole told The Shawn Ryan Show the chief said the roof was covered ('I got you covered') and that his team relied on police and 'no one was up there'; that he was upset is the host's characterisation.",
   "evidence": [
    {
-    "sid": "S-45",
-    "loc": "para 10",
+    "sid": "S-94",
+    "loc": "para 158",
     "kind": "tier2_attributed",
     "speaker": "Brian Harpole",
-    "fact": "According to The Salt Lake Tribune, Charlie Kirk's contracted security head Brian Harpole texted UVU's police chief two days before the event.",
-    "quote": "Two days before Charlie Kirk was set to speak at Utah Valley University , the head of his contracted security team texted the school’s police chief."
+    "fact": "Fox News reports Harpole said the chief told him the roof was covered.",
+    "quote": "\"We were told the roof was covered,\" Harpole said. \"The chief said, ‘I got you covered.’ I took him at his word."
    },
    {
-    "sid": "S-45",
-    "loc": "para 12",
+    "sid": "S-94",
+    "loc": "para 159",
     "kind": "tier2_attributed",
     "speaker": "Brian Harpole",
-    "fact": "According to The Salt Lake Tribune, Brian Harpole asked Chief Jeff Long to have officers patrol the rooftops or let Harpole assign one of his own staff.",
-    "quote": "He asked UVU police Chief Jeff Long if the school could have officers patrol that — or allow Harpole to assign “one of my guys to be there as well.”"
+    "fact": "Fox News reports Harpole said his team relied on police and no one was on the roof.",
+    "quote": "\"We can’t break the law to do what needs to be done, so we relied on the police, and no one was up there.\""
    }
   ],
   "episode": 54,
@@ -5079,15 +4974,15 @@
  {
   "claim": "C-6265",
   "status": "corroborated",
-  "note": "Fox News (S-44) reports Erika Kirk told Jesse Watters that Charlie slept in their daughter's bedroom so he could get a good night's sleep.",
+  "note": "Fox News (S-44) reports, per Erika Kirk's Jesse Watters interview, that the night before the assassination Charlie slept in their daughter's bedroom while Erika and the daughter slept in the couple's bed, and that she wanted him to get a 'good night's sleep' before his speaking engagement.",
   "evidence": [
    {
     "sid": "S-44",
     "loc": "para 158",
     "kind": "tier2_attributed",
     "speaker": "Erika Kirk",
-    "fact": "Fox News reported, per Erika Kirk, that the night before the assassination Charlie Kirk slept in their daughter's bedroom so he could get a good night's sleep.",
-    "quote": "The night before Charlie was assassinated , Erika and her daughter slept in the couple’s bed. Charlie slept in their daughter’s bedroom."
+    "fact": "Fox News reported, per Erika Kirk, that the night before the assassination Charlie slept in their daughter's bedroom so he could get a good night's sleep.",
+    "quote": "Erika and her daughter slept in the couple’s bed. Charlie slept in their daughter’s bedroom. She claimed she wanted him to get a \"good night’s sleep\" before his speaking engagement the next day."
    },
    {
     "sid": "S-44",
@@ -5152,31 +5047,6 @@
   "claim_text": "In a video the host plays, Aubrey Laitsch identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting."
  },
  {
-  "claim": "C-6290",
-  "status": "corroborated",
-  "note": "KUTV (S-79) reports Laitsch said a TPUSA executive's Uber driver relayed an employee's remarks and identified her as that employee, which she denied; the meeting attendees are not covered.",
-  "evidence": [
-   {
-    "sid": "S-79",
-    "loc": "para 33",
-    "kind": "tier2_attributed",
-    "speaker": "Aubrey Laitsch",
-    "fact": "Aubrey Laitsch said a Turning Point USA executive was told by an Uber driver that his daughter's employee friend said the group was going downhill and nobody liked Erika Kirk.",
-    "quote": "an executive at Turning Point USA had a conversation with an uber driver who told him that his daughter was friends with an employee who said the organization was going downhill and that nobody liked Erika Kirk"
-   },
-   {
-    "sid": "S-79",
-    "loc": "para 35",
-    "kind": "tier2_attributed",
-    "speaker": "Aubrey Laitsch",
-    "fact": "Aubrey Laitsch said the Uber driver identified her as the employee, which she denied.",
-    "quote": "Laitsch said the uber driver told the CEO that the employee who was friends with his daughter was her, which Laitsch denied."
-   }
-  ],
-  "episode": 70,
-  "claim_text": "Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\""
- },
- {
   "claim": "C-6292",
   "status": "corroborated",
   "note": "KUTV (S-79) quotes Laitsch: \"I just have a gut feeling that I was terminated from Turning Point because I am questioning the narrative\" of Kirk's assassination.",
@@ -5192,39 +5062,6 @@
   ],
   "episode": 70,
   "claim_text": "Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment."
- },
- {
-  "claim": "C-6456",
-  "status": "corroborated",
-  "note": "Fox News (S-90) reports Piers Morgan accused Owens of profiting from Kirk conspiracy theories, told her they were making her very wealthy and said she could be \"spewing bulls---\"; the Macron reference is not covered.",
-  "evidence": [
-   {
-    "sid": "S-90",
-    "loc": "para 159",
-    "kind": "tier2_reported",
-    "speaker": "Fox News",
-    "fact": "Fox News reports that Piers Morgan accused Candace Owens on Dec. 17, 2025, of profiting from Charlie Kirk conspiracy theories and compared her to Alex Jones.",
-    "quote": "Piers Morgan on Wednesday accused podcaster Candace Owens of profiting from conspiracy theories about the assassination of Turning Point USA founder Charlie Kirk , comparing her to Alex Jones"
-   },
-   {
-    "sid": "S-90",
-    "loc": "para 165",
-    "kind": "tier2_attributed",
-    "speaker": "Piers Morgan",
-    "fact": "Piers Morgan told Candace Owens her claims were making her very wealthy.",
-    "quote": "It’s making you very wealthy. You’re getting millions and millions of people coming in,"
-   },
-   {
-    "sid": "S-90",
-    "loc": "para 197",
-    "kind": "tier2_attributed",
-    "speaker": "Piers Morgan",
-    "fact": "Piers Morgan suggested Candace Owens could be guilty of spewing falsehoods to the public.",
-    "quote": "Morgan retorted that she could perhaps be guilty of \"spewing bulls--- to the public.\""
-   }
-  ],
-  "episode": 72,
-  "claim_text": "In the Piers Morgan clip, Morgan says that some of what Candace Owens has been doing in relation to Erika Kirk and Brigitte Macron is regrettable conspiracy theory nonsense for clicks and money."
  },
  {
   "claim": "C-6530",
@@ -5246,15 +5083,15 @@
  {
   "claim": "C-6532",
   "status": "corroborated",
-  "note": "Fox News (S-44) reports, per Erika Kirk, that Charlie slept in their daughter's bedroom to get a good night's sleep while she and the daughter slept in the couple's bed.",
+  "note": "Fox News (S-44) reports, per Erika Kirk, that the night before the assassination Charlie slept in their daughter's bedroom while she and the daughter slept in the couple's bed, and that she wanted him to get a 'good night's sleep'; the air-conditioning detail is not covered.",
   "evidence": [
    {
     "sid": "S-44",
     "loc": "para 158",
     "kind": "tier2_attributed",
     "speaker": "Erika Kirk",
-    "fact": "Fox News reported, per Erika Kirk, that the night before the assassination Charlie Kirk slept in their daughter's bedroom so he could get a good night's sleep.",
-    "quote": "The night before Charlie was assassinated , Erika and her daughter slept in the couple’s bed. Charlie slept in their daughter’s bedroom."
+    "fact": "Fox News reported, per Erika Kirk, that the night before the assassination Charlie slept in their daughter's bedroom so he could get a good night's sleep.",
+    "quote": "Erika and her daughter slept in the couple’s bed. Charlie slept in their daughter’s bedroom. She claimed she wanted him to get a \"good night’s sleep\" before his speaking engagement the next day."
    }
   ],
   "episode": 73,
@@ -5280,7 +5117,7 @@
  {
   "claim": "C-6539",
   "status": "corroborated",
-  "note": "Fox News (S-44) quotes Erika Kirk asking Charlie about wearing a vest and him saying 'if they're going to get me, they're gonna get me.'",
+  "note": "Fox News (S-44) quotes Erika Kirk saying she used to ask Charlie whether he had thought about wearing a vest, and that he would nod, say he had looked into it, and always say 'if they're going to get me, they're gonna get me.'",
   "evidence": [
    {
     "sid": "S-44",
@@ -5289,6 +5126,14 @@
     "speaker": "Erika Kirk",
     "fact": "According to Fox News, Erika Kirk said she asked Charlie Kirk about wearing a vest and he said 'if they're going to get me, they're gonna get me'.",
     "quote": "\"I used to say, Charlie, have you ever thought about wearing a vest?\""
+   },
+   {
+    "sid": "S-44",
+    "loc": "para 177",
+    "kind": "tier2_attributed",
+    "speaker": "Erika Kirk",
+    "fact": "Erika Kirk said Charlie had looked into a vest but always said if they were going to get him, they would.",
+    "quote": "He would nod to that and be like, you know, I've looked into it, but he would always say, 'if they're going to get me, they're gonna get me.'"
    }
   ],
   "episode": 73,
@@ -5440,7 +5285,7 @@
  {
   "claim": "C-7389",
   "status": "corroborated",
-  "note": "ADS-B (S-13) shows N40JD (Premier I, hex a4ab14) taking off from Scottsdale at 19:27:17Z, 64 minutes after the 18:23:28Z shot, and landing at Provo at 20:29:15Z (14:29 MDT); the ownership details are not in this record.",
+  "note": "ADS-B (S-13) shows N40JD (Premier I, hex a4ab14) taking off from Scottsdale at 19:27:17Z, 64 minutes after the 18:23:28Z shot, and landing at Provo at 20:29:15Z. That is 2:29 p.m. Provo local time (MDT), not MST as the claim states (MST would be 1:29 p.m.). The ownership details are not in this record.",
   "evidence": [
    {
     "sid": "S-13",
@@ -5453,23 +5298,6 @@
   ],
   "episode": 82,
   "claim_text": "Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST."
- },
- {
-  "claim": "C-7397",
-  "status": "contradicted-by-record",
-  "note": "Agent Davis testified (S-4, 37:00) that Robinson came to the Washington County Sheriff's Office (St. George) with his parents and a family friend, not that he drove up to Orem to turn himself in.",
-  "evidence": [
-   {
-    "sid": "S-4",
-    "loc": "(37:00)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Brian Davis (witness)",
-    "fact": "Brian Davis testified that Tyler Robinson came to the Washington County Sheriff's Office with his parents and a family friend.",
-    "quote": "he'd come there with his parents and a family friend."
-   }
-  ],
-  "episode": 82,
-  "claim_text": "In the clip, the speakers say Tyler Robinson's parents recognized the released photo, a family friend sat with him, he admitted it and they got him to drive up to Orem to turn himself in."
  },
  {
   "claim": "C-7465",
@@ -5608,7 +5436,7 @@
  {
   "claim": "C-7556",
   "status": "corroborated",
-  "note": "AP (S-23) and Fox News (S-35) both report that Robinson has not entered a plea.",
+  "note": "AP (S-23) and Fox News (S-35) report Robinson had not entered a plea as of their publication; the arraignment status and timing relative to the episode are not established.",
   "evidence": [
    {
     "sid": "S-23",
@@ -5633,22 +5461,38 @@
  {
   "claim": "C-7621",
   "status": "corroborated",
-  "note": "Agents Hull (S-3, 02:23:02) and Davis (S-4, 39:22) testified Robinson went voluntarily to, and was detained at, the Washington County Sheriff's Office; Sheriff Brooksby's role is not covered.",
+  "note": "Agents Hull (S-3, 02:23:00-02:23:02) and Davis (S-4, 39:16-39:22) answered yes when asked whether Robinson went voluntarily to, and was detained at, the Washington County Sheriff's Office; Sheriff Brooksby's role is not covered.",
   "evidence": [
+   {
+    "sid": "S-3",
+    "loc": "(02:23:00)",
+    "kind": "question",
+    "speaker": "prosecutor Mr. Sturgill (question)",
+    "fact": "The prosecutor asked Hull whether the sheriff's office Robinson went to was the Washington County Sheriff's Office.",
+    "quote": "Okay. And that was the Washington County Sheriff's Office?"
+   },
    {
     "sid": "S-3",
     "loc": "(02:23:02)",
     "kind": "testimony",
     "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull confirmed that Tyler Robinson went voluntarily to the Washington County Sheriff's Office.",
+    "fact": "Hull confirmed Robinson went voluntarily to the Washington County Sheriff's Office.",
     "quote": "Yes."
+   },
+   {
+    "sid": "S-4",
+    "loc": "(39:16)",
+    "kind": "question",
+    "speaker": "prosecutor Lauren Hunt (question)",
+    "fact": "The prosecutor asked Davis whether Robinson was detained at the Washington County Sheriff's Office.",
+    "quote": "Down in St. George, Washington County Sheriff's Office, was Mr. Robinson detained at that time?"
    },
    {
     "sid": "S-4",
     "loc": "(39:22)",
     "kind": "testimony",
     "speaker": "SBI Agent Brian Davis (witness)",
-    "fact": "Brian Davis testified that Tyler Robinson was detained at the Washington County Sheriff's Office.",
+    "fact": "Davis confirmed Robinson was detained at the Washington County Sheriff's Office.",
     "quote": "Yes, he was."
    }
   ],
@@ -5973,31 +5817,6 @@
   "claim_text": "The host reads that Robinson has not received the forensic case files and the data underlying the lab reports, and that the defense has been requesting them since September 30."
  },
  {
-  "claim": "C-7730",
-  "status": "corroborated",
-  "note": "ATF DNA chief Caitlin Oliver agreed (S-6, 01:33:26-01:33:32) that many samples were mixtures of four or five people and (02:02:26) that all samples in one report were mixtures.",
-  "evidence": [
-   {
-    "sid": "S-6",
-    "loc": "(01:33:26)",
-    "kind": "testimony",
-    "speaker": "defense attorney Michael Burt",
-    "fact": "Caitlin Oliver agreed that many of the evidence samples were DNA mixtures of four or five people.",
-    "quote": "And in many cases, they were mixtures of sometimes four and five people, correct?"
-   },
-   {
-    "sid": "S-6",
-    "loc": "(02:02:26)",
-    "kind": "testimony",
-    "speaker": "Caitlin Oliver, ATF forensic biologist (witness)",
-    "fact": "Caitlin Oliver confirmed that all the samples she examined in one of her reports were DNA mixtures.",
-    "quote": "Correct."
-   }
-  ],
-  "episode": 86,
-  "claim_text": "The host reads the filing as saying the FBI and ATF DNA reports recovered minute quantities of DNA on various items that the reports opine are mixtures of up to five or more individuals, and that the state will offer these without supporting expert testimony."
- },
- {
   "claim": "C-7731",
   "status": "corroborated",
   "note": "The ATF report read into the record (S-5, 05:31:18) says the bullet jacket fragment recovered at autopsy cannot be identified or excluded as fired from the Exhibit 1 rifle.",
@@ -6021,31 +5840,6 @@
   ],
   "episode": 86,
   "claim_text": "Per the defense filing the host reads, the ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense."
- },
- {
-  "claim": "C-7732",
-  "status": "corroborated",
-  "note": "The ATF report read into evidence (S-5, 05:31:18) states the bullet jacket fragment recovered from Kirk at autopsy (S-5, 05:30:42) cannot be identified or excluded as fired from the Exhibit 1 rifle, matching the filing's description of the ATF finding.",
-  "evidence": [
-   {
-    "sid": "S-5",
-    "loc": "(05:31:18)",
-    "kind": "exhibit",
-    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
-    "fact": "The ATF could neither identify nor exclude the bullet jacket fragment from Charlie Kirk as having been fired from the rifle.",
-    "quote": "\"The Exhibit 6 bullet jacket fragment cannot be identified or excluded as having been fired from the Exhibit 1 rifle"
-   },
-   {
-    "sid": "S-5",
-    "loc": "(05:30:42)",
-    "kind": "testimony",
-    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
-    "fact": "ATF Exhibit 6 is the bullet jacket fragment and other fragments recovered from Charlie Kirk at autopsy.",
-    "quote": "Exhibit 6 is the bullet jacket fragment, as well as some other fragments that were recovered from Mr. Kirk at the time of autopsy."
-   }
-  ],
-  "episode": 86,
-  "claim_text": "The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle allegedly tied to Robinson, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence."
  },
  {
   "claim": "C-7734",
@@ -6324,64 +6118,6 @@
   "claim_text": "The host says that according to Sheriff Nate Brooksby's press conference Tyler arrived at the police station at 9:00, which she says does not track with the other times, and that Kash Patel later said Robinson was booked in the 33rd hour."
  },
  {
-  "claim": "C-8073",
-  "status": "contradicted-by-record",
-  "note": "The bindover ruling (S-7, 07:56:00) finds, and Agent Davis testified (S-4, 36:51; S-5, 02:53:36), that Robinson arrived at the Washington County Sheriff's Office at about 9:00 p.m., not 10:26 p.m.",
-  "evidence": [
-   {
-    "sid": "S-7",
-    "loc": "(07:56:00)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "At about 9:00 p.m. on September 11, 2025, Tyler Robinson arrived at the Washington County Sheriff's Office wearing a maroon shirt and jeans.",
-    "quote": "At approximately 9:00 PM, Mr. Robinson arrived at the Washington County Sheriff's Office. He was wearing a maroon shirt and jeans."
-   },
-   {
-    "sid": "S-4",
-    "loc": "(36:51)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Brian Davis (witness)",
-    "fact": "Brian Davis testified that he was told Tyler Robinson arrived at the Washington County Sheriff's Office at about 9:00 PM on September 11, 2025.",
-    "quote": "I was told he arrived there about 9:00 PM that evening."
-   },
-   {
-    "sid": "S-5",
-    "loc": "(02:53:36)",
-    "kind": "testimony",
-    "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis confirmed Tyler Robinson arrived at the Washington County Sheriff's Office at approximately 9:00 PM.",
-    "quote": "Yes, that's correct."
-   }
-  ],
-  "episode": 90,
-  "claim_text": "Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents."
- },
- {
-  "claim": "C-8074",
-  "status": "corroborated",
-  "note": "Agent Davis testified (S-5, 02:51:08-02:51:15) that Exhibit 16.2 is the Discord messages Twiggs showed, photographed on his phone by an FBI agent at his first interview.",
-  "evidence": [
-   {
-    "sid": "S-5",
-    "loc": "(02:51:08)",
-    "kind": "testimony",
-    "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis testified State's Exhibit 16.2 shows the Discord messages Lance Twiggs had described, photographed on his phone.",
-    "quote": "These are the Discord messages that Lance had talked about."
-   },
-   {
-    "sid": "S-5",
-    "loc": "(02:21:58)",
-    "kind": "exhibit",
-    "speaker": "Lance Twiggs (sworn recorded statement, State's Exhibit 16)",
-    "fact": "Lance Twiggs confirmed the Exhibit 16.2 server was on Discord.",
-    "quote": "Yeah, this is Discord."
-   }
-  ],
-  "episode": 90,
-  "claim_text": "In a clip the host plays, Governor Spencer Cox says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown."
- },
- {
   "claim": "C-8075",
   "status": "corroborated",
   "note": "The bindover ruling (S-7, 07:52:46, 08:24:13) cites texts saying he left the rifle wrapped in a towel in a bush where he changed outfits, and the Information (S-1, p. 8) quotes his plan to grab it from his drop point.",
@@ -6635,8 +6371,16 @@
  {
   "claim": "C-8301",
   "status": "corroborated",
-  "note": "Reporting (S-56) says Vance told the crowd he had been worried the event would be canceled altogether.",
+  "note": "KUTV (S-76) quotes Vance at the event saying 'about two hours ago, I was a little worried we were going to have to cancel the event because Erika was not going to come', matching the claim; CBS (S-56) paraphrases the same remark.",
   "evidence": [
+   {
+    "sid": "S-76",
+    "loc": "para 30",
+    "kind": "tier2_attributed",
+    "speaker": "JD Vance",
+    "fact": "KUTV quotes Vance saying that about two hours earlier he worried the event would be cancelled because Erika was not going to come.",
+    "quote": "about two hours ago, I was a little worried we were going to have to cancel the event because Erika was not going to come"
+   },
    {
     "sid": "S-56",
     "loc": "para 108",
@@ -7026,64 +6770,6 @@
   "claim_text": "The host says a pilot who runs drone training told her that the Provo airspace restriction applies around airports and hangars, but that drones can be flown in Provo with clearance as needed."
  },
  {
-  "claim": "C-8673",
-  "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12, pp. 43, 70) shows the roof-access text exchange was between TPUSA's Dan Flood and Chief Long; how Harpole presented it is not covered.",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 43",
-    "kind": "exhibit",
-    "speaker": "Chief Long and Dan Flood (text exchange, Sept 8, 2025)",
-    "fact": "Chief Long replied to Dan Flood's roof-access text by asking whether Flood wanted access to the roof.",
-    "quote": "Chief Long: You want access to the roof?"
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 43",
-    "kind": "exhibit",
-    "speaker": "Chief Long (text to Dan Flood, Sept 8, 2025)",
-    "fact": "Chief Long replied to Dan Flood's request about the area above the speaker with 'I got you covered'.",
-    "quote": "Chief Long: I got you covered"
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 70",
-    "kind": "report_finding",
-    "speaker": "Utah Valley University After-Action Report (Project Team)",
-    "fact": "Chief Long coordinated with Dan Flood by text on September 8 and September 10.",
-    "quote": "On September 8 and 10, Chief Long coordinated directly with TPUSA Security Supervisor Dan Flood by text."
-   }
-  ],
-  "episode": 97,
-  "claim_text": "The host says Harpole presented the text chain on Shawn Ryan as if it were his own and explicitly said 'I', implying it was why the rooftops were not secured, though it was between Dan Flood and Chief Long."
- },
- {
-  "claim": "C-8674",
-  "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12, pp. 43, 70) shows the roof-access text messages were exchanged between TPUSA's Dan Flood and UVU Police Chief Long.",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 43",
-    "kind": "exhibit",
-    "speaker": "Chief Long and Dan Flood (text exchange, Sept 8, 2025)",
-    "fact": "Chief Long replied to Dan Flood's roof-access text by asking whether Flood wanted access to the roof.",
-    "quote": "Chief Long: You want access to the roof?"
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 70",
-    "kind": "report_finding",
-    "speaker": "Utah Valley University After-Action Report (Project Team)",
-    "fact": "Chief Long coordinated with Dan Flood by text on September 8 and September 10.",
-    "quote": "On September 8 and 10, Chief Long coordinated directly with TPUSA Security Supervisor Dan Flood by text."
-   }
-  ],
-  "episode": 97,
-  "claim_text": "The host says that although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long."
- },
- {
   "claim": "C-9114",
   "status": "corroborated",
   "note": "Fox News (S-36) quotes Erika Kirk telling Harris Faulkner that her message to conspiracy theorists is \"to stop. To stop.\"; the 'very next day' timing is not verified.",
@@ -7204,7 +6890,7 @@
  {
   "claim": "C-9501",
   "status": "corroborated",
-  "note": "The UVU After-Action Report (S-12, p. 52) and Agent Hull (S-2, 05:58:03) confirm Kirk's security team transported him to Timpanogos Hospital; Turek's role is not covered.",
+  "note": "The UVU AAR (S-12, p. 52), Agent Hull (S-2, 05:58:03) and Turek's own account (S-27 para 167) confirm Turek and Kirk's security team took him to Timpanogos Hospital; the inference that they should have been first to know he was dead is the host's.",
   "evidence": [
    {
     "sid": "S-12",
@@ -7221,6 +6907,14 @@
     "speaker": "SBI Agent David Hull (witness)",
     "fact": "Agent David Hull testified that Charlie Kirk's own security detail removed him from the scene while giving first aid and made a hasty transport to Timpanogos Hospital.",
     "quote": "Mr. Kirk's detail, his own security team removed him from the scene whilst administering first aid and they conducted what would be called a hasty transport to Timpanogos Hospital."
+   },
+   {
+    "sid": "S-27",
+    "loc": "para 167",
+    "kind": "tier2_attributed",
+    "speaker": "Frank Turek",
+    "fact": "Fox News reports Turek and the security team drove Kirk to a hospital in the SUV.",
+    "quote": "Turek and the security team jumped into the SUV that they used to travel to the event and sped to a hospital while performing CPR and praying."
    }
   ],
   "episode": 108,
@@ -7763,23 +7457,6 @@
   "claim_text": "Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, four 4x4s, and two hemostatic 4x4s to Charlie's neck wound during the short ride."
  },
  {
-  "claim": "C-10462",
-  "status": "corroborated",
-  "note": "The bindover ruling (S-7, 07:46:29) finds the bullet did not exit Kirk's body but came to rest in the tissues of his upper back.",
-  "evidence": [
-   {
-    "sid": "S-7",
-    "loc": "(07:46:29)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "The bullet did not exit Charlie Kirk's body and came to rest in the tissues of his upper back, left of the midline.",
-    "quote": "The bullet did not exit Mr. Kirk's body, but came to rest and tissues in his upper back left of the middle line."
-   }
-  ],
-  "episode": 122,
-  "claim_text": "A podcast audio clip of Frank Turek, played during the episode, contains his statement that he did not believe there was an exit wound on the back of Charlie Kirk's neck during the car transport."
- },
- {
   "claim": "C-10465",
   "status": "corroborated",
   "note": "Turek is reported (S-27) as saying the team performed CPR on the way to the hospital; the 'multiple shows' part is not covered.",
@@ -7824,16 +7501,8 @@
  {
   "claim": "C-10617",
   "status": "contradicted-by-record",
-  "note": "Agent Hull testified video shows Robinson returning to campus on foot just after 10:00 AM on Sept 10 (S-3 00:48:03, 00:51:02), and the bindover ruling finds he walked on and then off campus (S-7 07:50:48).",
+  "note": "Agent Hull identified video of Robinson returning to campus on foot (S-3 00:51:02), and the bindover ruling finds he walked on and off campus that morning (S-7 07:50:48) and positioned himself on the roof of the Losee building to fire the shot (S-7 08:22:41).",
   "evidence": [
-   {
-    "sid": "S-3",
-    "loc": "(00:48:03)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that Tyler Robinson returned to campus on foot just after 10:00 a.m. on September 10, 2025.",
-    "quote": "Just after 10:00 AM."
-   },
    {
     "sid": "S-3",
     "loc": "(00:51:02)",
@@ -7849,6 +7518,14 @@
     "speaker": "Judge Tony Graf Jr.",
     "fact": "After visiting the Losee Center guardrail before 11:00 a.m., Tyler Robinson walked back down the stairs and off campus.",
     "quote": "He then walked back down the stairs and off campus."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(08:22:41)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "The ruling finds Robinson positioned himself on the Losee building roof and fired the Mauser .30-06 rifle at Kirk.",
+    "quote": "The evidence described above supports a reasonable belief that defendant positioned himself on the roof of the Losee building and discharged a Mauser .30-06 rifle in the direction of Charlie Kirk."
    }
   ],
   "episode": 124,
@@ -7878,31 +7555,6 @@
   ],
   "episode": 124,
   "claim_text": "In a hearing clip the host plays, Lance Twiggs testifies that he would not say with 100% certainty because of camera quality, but that the person looks like Robinson in terms of the shoes, the sunglasses, the jeans and, though he had not specifically seen him in that hat, he was usually wearing a hat."
- },
- {
-  "claim": "C-10622",
-  "status": "corroborated",
-  "note": "Agent Hull testified (S-3, 02:06:53) he remembers the report recording that the Nobles told investigators the driver of the vehicle on their doorbell video was bald (the 12:47 time and 'someone else' inference are not established).",
-  "evidence": [
-   {
-    "sid": "S-3",
-    "loc": "(02:06:53)",
-    "kind": "testimony",
-    "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull testified that the Noble interview report said the Nobles described the driver of the vehicle as bald.",
-    "quote": "I do remember that being in the report, yes."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(02:07:01)",
-    "kind": "testimony",
-    "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull acknowledged that he did not mention the bald driver when testifying about the Ring camera video.",
-    "quote": "I did not."
-   }
-  ],
-  "episode": 124,
-  "claim_text": "The host says a witness confirmed seeing someone else driving a gray Challenger, a bald man, late at 12:47 a.m., captured on a Nest video as the car returned to campus."
  },
  {
   "claim": "C-10623",
@@ -7990,7 +7642,7 @@
  {
   "claim": "C-10636",
   "status": "corroborated",
-  "note": "Twiggs's recorded statement (S-5 02:30:23-02:31:12) says Robinson usually talked about things heard on the radio on the drive to work and that he had never heard him talk about Charlie Kirk specifically.",
+  "note": "Twiggs's recorded statement (S-5 02:30:23-02:31:12) says Robinson usually talked about things heard on the radio on the drive to work and that he had never heard him talk about Charlie Kirk specifically. The host's framing that this confirms Robinson was not political is her characterisation and is not supported; Twiggs describes him discussing politics relating to Trump and current policies.",
   "evidence": [
    {
     "sid": "S-5",
@@ -8048,7 +7700,7 @@
  {
   "claim": "C-10639",
   "status": "corroborated",
-  "note": "Oliver agreed the trigger/trigger guard sample was consistent with at least four contributors (S-6 02:19:19); the ATF report lists Robinson as major component with three unknown individuals (S-7 06:20:38).",
+  "note": "Oliver agreed the trigger/trigger guard sample was consistent with at least four contributors (S-6 02:19:19); the ATF report lists Robinson as major component with three unknown individuals (S-7 06:20:38). The upper range of seven contributors and the testimony that major/minor labels reflect only DNA quantity are not covered by the cited quotes.",
   "evidence": [
    {
     "sid": "S-6",
@@ -8294,6 +7946,22 @@
   "evidence": [
    {
     "sid": "S-5",
+    "loc": "(06:02:54)",
+    "kind": "question",
+    "speaker": "defense attorney Michael Burt (question)",
+    "fact": "Defense counsel asked Faumuina whether the item numbers of the Fulton Library seizures were nine.",
+    "quote": "And do you recall what the item numbers were of those seizures? Was it nine? Does that ring a bell?"
+   },
+   {
+    "sid": "S-5",
+    "loc": "(06:02:59)",
+    "kind": "testimony",
+    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
+    "fact": "Faumuina said she did not remember whether the seized items numbered nine.",
+    "quote": "I don't remember."
+   },
+   {
+    "sid": "S-5",
     "loc": "(06:03:05)",
     "kind": "testimony",
     "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
@@ -8324,7 +7992,7 @@
  {
   "claim": "C-10786",
   "status": "corroborated",
-  "note": "Faumuina said 'I don't remember communicating that' (S-5 06:03:45) and 'Yeah, that would be fair' to the items being found unrelated (S-5 06:04:08).",
+  "note": "Faumuina said 'I don't remember communicating that' (S-5 06:03:45); asked whether FBI or ATF notes saying so would be inconsistent with what she knows, she answered 'No' (S-5 06:03:47-06:03:55); and she said 'Yeah, that would be fair' to the items being found unrelated (S-5 06:04:08).",
   "evidence": [
    {
     "sid": "S-5",
@@ -8333,6 +8001,22 @@
     "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
     "fact": "Sgt. Faumuina did not remember telling the lab that the Fulton Library items were unconnected and needed no more testing.",
     "quote": "I don't remember communicating that."
+   },
+   {
+    "sid": "S-5",
+    "loc": "(06:03:47)",
+    "kind": "question",
+    "speaker": "defense attorney Michael Burt (question)",
+    "fact": "Defense counsel asked whether FBI or ATF notes saying so would be inconsistent with what Faumuina knows.",
+    "quote": "If that's in the notes of the FBI or the ATF, would that be inconsistent with what you know?"
+   },
+   {
+    "sid": "S-5",
+    "loc": "(06:03:55)",
+    "kind": "testimony",
+    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
+    "fact": "Faumuina said it would not be inconsistent with what she knows if FBI or ATF notes recorded it.",
+    "quote": "No."
    },
    {
     "sid": "S-5",
@@ -8370,31 +8054,6 @@
   ],
   "episode": 126,
   "claim_text": "The host, prompted by chat, says there was testimony about an unfired .223 round discovered on top of the science building."
- },
- {
-  "claim": "C-10853",
-  "status": "corroborated",
-  "note": "The text exhibit read by Agent Davis (S-5 02:43:05) and the Information (S-1 p. 8) show Robinson writing 'they grabbed some crazy old dude and interrogated someone in similar clothing'; when the description was released is not in the record.",
-  "evidence": [
-   {
-    "sid": "S-5",
-    "loc": "(02:43:05)",
-    "kind": "exhibit",
-    "speaker": "Agent Davis, SBI (witness)",
-    "fact": "Agent Davis read Tyler Robinson texting that police had grabbed some crazy old dude and interrogated someone in similar clothing.",
-    "quote": "Lance says, \"I thought they caught the person.\" And then Tyler says, \"No, they grabbed some crazy old dude and interrogated someone in similar clothing."
-   },
-   {
-    "sid": "S-1",
-    "loc": "p. 8",
-    "kind": "charging_allegation",
-    "speaker": "Utah County Attorney's Office",
-    "fact": "Tyler James Robinson texted that police had grabbed \"some crazy old dude\" and then interrogated someone in similar clothing.",
-    "quote": "no, they grabbed some crazy old dude, then interrogated someone in similar clothing."
-   }
-  ],
-  "episode": 126,
-  "claim_text": "A viewer, read on air, says Tyler Robinson's text messages state they interrogated someone in similar clothing after arresting an old man, but a description with a vest and a mask was not released until the following day."
  },
  {
   "claim": "C-10866",
@@ -8482,7 +8141,7 @@
  {
   "claim": "C-10871",
   "status": "corroborated",
-  "note": "Bagley agreed a plain-clothes man with a badge and a handgun backed him up going to the Losee building, and said he did not know who he was or what agency he was from (S-2 04:08:44-04:09:00).",
+  "note": "Bagley agreed a plain-clothes man with a badge and a handgun went with him to the Losee building and backed him up 'as I ran up the stairs', said 'I don't know who he was exactly', and answered 'No' when asked if he knew what agency he was from (S-2 04:08:32-04:09:00). The quotes place the man on the Losee stairs, not on the rooftop.",
   "evidence": [
    {
     "sid": "S-2",
@@ -8499,6 +8158,22 @@
     "speaker": "Officer Bagley, UVU Police (witness)",
     "fact": "Officer Bagley did not know the identity of the badge-wearing plainclothes man who backed him up going up the Losee stairs.",
     "quote": "I don't know who he was exactly. He had a badge on and I had somebody with me to back me up as I ran up the stairs"
+   },
+   {
+    "sid": "S-2",
+    "loc": "(04:08:53)",
+    "kind": "question",
+    "speaker": "defense attorney Kathryn Nester (question)",
+    "fact": "Defense counsel asked Bagley whether he knew what agency the man was from.",
+    "quote": "So you don't know what agency he's from or where he's from?"
+   },
+   {
+    "sid": "S-2",
+    "loc": "(04:08:56)",
+    "kind": "testimony",
+    "speaker": "Officer Bagley, UVU Police (witness)",
+    "fact": "Bagley said he did not know what agency the man was from.",
+    "quote": "No."
    },
    {
     "sid": "S-2",
@@ -8540,8 +8215,24 @@
  {
   "claim": "C-10873",
   "status": "corroborated",
-  "note": "Asked whether he reviewed the video for anyone on the roof between the jump and his arrival, Bagley answered 'No' (S-2 04:10:46).",
+  "note": "Asked whether he checked the video for anyone on the roof in that gap of time, Bagley answered 'In that gap of time, no' (S-2 04:09:27); asked whether he checked for anyone on the roof between the jump and his arrival, he said 'I didn't notice anybody' (S-2 04:10:29); and he answered 'No' when asked whether he reviewed the video for that period (S-2 04:10:46).",
   "evidence": [
+   {
+    "sid": "S-2",
+    "loc": "(04:09:27)",
+    "kind": "testimony",
+    "speaker": "Officer Bagley, UVU Police (witness)",
+    "fact": "Asked whether he checked the video for anyone on the roof in that gap of time, Bagley said no.",
+    "quote": "In that gap of time, no."
+   },
+   {
+    "sid": "S-2",
+    "loc": "(04:10:29)",
+    "kind": "testimony",
+    "speaker": "Officer Bagley, UVU Police (witness)",
+    "fact": "Bagley said he did not notice anyone else on the roof between the jump and his arrival.",
+    "quote": "I didn't notice anybody. Yeah."
+   },
    {
     "sid": "S-2",
     "loc": "(04:10:46)",
@@ -8639,7 +8330,7 @@
     "loc": "(06:01:43)",
     "kind": "testimony",
     "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
-    "fact": "Sgt. Faumuina agreed he wrote nine of the reports in the larger body of reports.",
+    "fact": "Sgt. Faumuina agreed she wrote nine of the reports in the larger body of reports.",
     "quote": "Yes."
    },
    {
@@ -8707,7 +8398,7 @@
  {
   "claim": "C-10883",
   "status": "corroborated",
-  "note": "Faumuina testified that when the items were sent, investigators had no more information on whether they were probative, and she did not remember telling the lab no further testing was needed (S-5 06:03:27, 06:03:45).",
+  "note": "Faumuina testified that when the items were sent, investigators had no more information on whether they were probative (S-5 06:03:27), that she did not remember telling the lab no further testing was needed (S-5 06:03:45), and, asked whether FBI or ATF notes saying so would be inconsistent with what she knows, answered 'No' (S-5 06:03:47-06:03:55).",
   "evidence": [
    {
     "sid": "S-5",
@@ -8724,6 +8415,22 @@
     "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
     "fact": "Sgt. Faumuina did not remember telling the lab that the Fulton Library items were unconnected and needed no more testing.",
     "quote": "I don't remember communicating that."
+   },
+   {
+    "sid": "S-5",
+    "loc": "(06:03:47)",
+    "kind": "question",
+    "speaker": "defense attorney Michael Burt (question)",
+    "fact": "Defense counsel asked whether FBI or ATF notes saying so would be inconsistent with what Faumuina knows.",
+    "quote": "If that's in the notes of the FBI or the ATF, would that be inconsistent with what you know?"
+   },
+   {
+    "sid": "S-5",
+    "loc": "(06:03:55)",
+    "kind": "testimony",
+    "speaker": "Sgt. Faumuina, Utah State Bureau of Investigation (witness)",
+    "fact": "Faumuina said it would not be inconsistent with what she knows if FBI or ATF notes recorded it.",
+    "quote": "No."
    }
   ],
   "episode": 127,
@@ -9023,23 +8730,6 @@
   ],
   "episode": 132,
   "claim_text": "In the Fox News clip, Erika Kirk says she does not want to worry about some secular revolutionary coming and destroying her husband's grave while her daughter prays there."
- },
- {
-  "claim": "C-11451",
-  "status": "contradicted-by-record",
-  "note": "Lead agent Hull testified 'several people were detained for questioning and interviewed throughout the investigation' (S-3 01:45:41), contrary to 'only two people were detained'.",
-  "evidence": [
-   {
-    "sid": "S-3",
-    "loc": "(01:45:41)",
-    "kind": "testimony",
-    "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull testified that several people were detained for questioning and interviewed during the investigation.",
-    "quote": "There were several people who were detained for questioning and who were interviewed throughout the investigation."
-   }
-  ],
-  "episode": 133,
-  "claim_text": "The host says only two people were detained after the shooting, George Zinn, whom she says was detained because he said he did it, and Zachariah Qureshi, who was released without explanation."
  },
  {
   "claim": "C-11459",
@@ -9634,9 +9324,9 @@
    {
     "sid": "S-2",
     "loc": "(04:12:40)",
-    "kind": "exhibit",
-    "speaker": "defense attorney Kathryn Nester",
-    "fact": "Officer Bagley's body camera video runs 27 minutes 35 seconds, from the Hall of Flags until on the roof before the tape went up.",
+    "kind": "question",
+    "speaker": "defense attorney Kathryn Nester (question)",
+    "fact": "Defense counsel described Bagley's body cam as 27 minutes 35 seconds, from the Hall of Flags to the roof before the crime tape went up.",
     "quote": "So that 27 minute and 35 second body cam that starts when you're at the Hall of Flags and ends while you're still on the roof but haven't put the crime tape up yet"
    },
    {
@@ -9738,8 +9428,16 @@
  {
   "claim": "C-11788",
   "status": "corroborated",
-  "note": "Defense counsel put to Bagley that he did not review the video for anyone on or disturbing the scene between the jump and his arrival, and he answered 'No' (S-2, 04:10:46).",
+  "note": "Asked whether he checked for anyone on the roof between the jump and his arrival, Bagley said 'I didn't notice anybody' (S-2 04:10:29); defense counsel then put to him that he did not review the video for anyone on or disturbing the scene in that period, and he answered 'No' (S-2 04:10:46).",
   "evidence": [
+   {
+    "sid": "S-2",
+    "loc": "(04:10:29)",
+    "kind": "testimony",
+    "speaker": "Officer Bagley, UVU Police (witness)",
+    "fact": "Asked whether he checked for anyone on the roof between the jump and his arrival, Bagley said he did not notice anybody.",
+    "quote": "I didn't notice anybody. Yeah."
+   },
    {
     "sid": "S-2",
     "loc": "(04:10:46)",
@@ -9873,31 +9571,23 @@
  {
   "claim": "C-11954",
   "status": "contradicted-by-record",
-  "note": "Agent Hull testified UVU surveillance video shows Robinson visiting the campus four times on September 10, including returning on foot just after 10:00 a.m. (S-3, 00:48:03; S-2, 06:35:55).",
+  "note": "The bindover ruling finds video surveillance captured Robinson returning to campus on foot just after 10:00 AM (S-7 07:49:47), and Agent Hull testified he was on campus about four times on September 10 (S-2 06:34:55).",
   "evidence": [
    {
-    "sid": "S-3",
-    "loc": "(00:48:03)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that Tyler Robinson returned to campus on foot just after 10:00 a.m. on September 10, 2025.",
-    "quote": "Just after 10:00 AM."
+    "sid": "S-7",
+    "loc": "(07:49:47)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "The ruling finds video surveillance captured Robinson returning to campus on foot just after 10:00 AM.",
+    "quote": "Video surveillance captured a person identified as Mr. Robinson returning to campus on foot from the northeast just after 10:00 AM."
    },
    {
     "sid": "S-2",
-    "loc": "(06:35:55)",
+    "loc": "(06:34:55)",
     "kind": "testimony",
     "speaker": "SBI Agent David Hull (witness)",
-    "fact": "Agent David Hull testified that the conclusion that Tyler Robinson visited the UVU campus four times is based on UVU surveillance video.",
-    "quote": "That is correct, yes."
-   },
-   {
-    "sid": "S-3",
-    "loc": "(00:24:01)",
-    "kind": "testimony",
-    "speaker": "SBI Agent Hull (witness)",
-    "fact": "Agent Hull testified that State's Exhibit 12.1 captures Tyler Robinson arriving at and visiting the UVU campus.",
-    "quote": "It does, yes."
+    "fact": "Agent Hull testified Robinson was on campus about four times on September 10: twice before the shooting, at the shooting, and after.",
+    "quote": "Mr. Robinson had been on campus approximately four times throughout the day, twice before the shooting, the time of the shooting, and then after the shooting later in the evening into the early hours of the 11th."
    }
   ],
   "episode": 139,
@@ -9931,7 +9621,7 @@
  {
   "claim": "C-11974",
   "status": "corroborated",
-  "note": "Court documents (S-17) say the roommate found the note under the keyboard, and KSL (S-40) reports Twiggs photographed it before burning it, which answers the earlier rejection's point about the burning; the motive and the host's comment are not covered.",
+  "note": "Court documents (S-17) say the roommate found the note under the keyboard, and KSL (S-40) reports Twiggs photographed it before burning it; the motive for burning and the host's comment are not covered.",
   "evidence": [
    {
     "sid": "S-17",
@@ -10073,7 +9763,7 @@
  {
   "claim": "C-12043",
   "status": "corroborated",
-  "note": "The bindover ruling finds Robinson returned at 11:53 AM in a dark long-sleeved shirt and jeans (S-7 07:50:48) and arrived at the sheriff's office around 9 PM in a maroon shirt and jeans (S-7 07:56:00); Dairy Queen is not in the record.",
+  "note": "The ruling finds Robinson returned at 11:53 AM in a dark long-sleeved shirt and jeans (S-7 07:50:48) and arrived at the Washington County Sheriff's Office around 9 PM on September 11 in a maroon shirt and jeans (S-7 07:56:00); when he changed and the Dairy Queen sighting are not in the record.",
   "evidence": [
    {
     "sid": "S-7",
@@ -10161,31 +9851,6 @@
   ],
   "episode": 140,
   "claim_text": "In the testimony audio the host plays, Agent Hull says the vehicle is now pulling away and heading east on 800 South."
- },
- {
-  "claim": "C-12054",
-  "status": "corroborated",
-  "note": "The ruling finds Robinson wore a maroon short-sleeve shirt that morning (S-7, 07:49:47) and a maroon shirt when he arrived at the Washington County Sheriff's Office on September 11 (S-7, 07:56:00).",
-  "evidence": [
-   {
-    "sid": "S-7",
-    "loc": "(07:49:47)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "A person identified as Tyler Robinson left the Charger and walked toward the amphitheater wearing a maroon short-sleeve shirt, shorts, a hat and a backpack.",
-    "quote": "A person identified as Mr. Robinson exited the Charger and walked on foot out of the parking garage toward the outdoor amphitheater on campus. He was wearing a maroon short sleeve shirt, shorts, a hat, and a backpack."
-   },
-   {
-    "sid": "S-7",
-    "loc": "(07:56:00)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "At about 9:00 p.m. on September 11, 2025, Tyler Robinson arrived at the Washington County Sheriff's Office wearing a maroon shirt and jeans.",
-    "quote": "At approximately 9:00 PM, Mr. Robinson arrived at the Washington County Sheriff's Office. He was wearing a maroon shirt and jeans."
-   }
-  ],
-  "episode": 140,
-  "claim_text": "The host says Robinson had not changed his shirt after returning home because he was going to be wearing the same shirt when he was arrested."
  },
  {
   "claim": "C-12057",
@@ -10349,7 +10014,7 @@
  {
   "claim": "C-12216",
   "status": "corroborated",
-  "note": "Agent Hull testified Visual Impulse provided four videos in total (S-3, 02:01:52); the Google Drive delivery is not addressed.",
+  "note": "Agent Hull testified Visual Impulse provided four videos in total (S-3, 02:01:52) and that Terryl Farnsworth provided downloadable, electronic versions on September 10 (S-2, 05:26:19); the Google Drive delivery is not addressed.",
   "evidence": [
    {
     "sid": "S-3",
@@ -10358,6 +10023,14 @@
     "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
     "fact": "Agent Hull testified that Visual Impulse provided four videos in total.",
     "quote": "I believe there were four total videos that encompassed everything that they provided to us."
+   },
+   {
+    "sid": "S-2",
+    "loc": "(05:26:19)",
+    "kind": "testimony",
+    "speaker": "SBI Agent David Hull (witness)",
+    "fact": "Hull testified Farnsworth provided downloadable electronic versions of the video on September 10.",
+    "quote": "a short time after that on September 10th, he provided downloadable versions, electronic versions to Agent Mortenson"
    }
   ],
   "episode": 142,
@@ -10475,15 +10148,15 @@
  {
   "claim": "C-12365",
   "status": "corroborated",
-  "note": "Agent Hull testified he arrived on campus 'shortly after 1:30' (S-3 01:41:03-01:41:13) and learned he was in charge about an hour later, around 2:30 (S-3 01:41:38).",
+  "note": "Agent Hull testified he arrived on campus 'shortly after 1:30' (S-3 01:41:03) and learned he was in charge about an hour later, around 2:30 (S-3 01:41:38).",
   "evidence": [
    {
     "sid": "S-3",
-    "loc": "(01:41:13)",
+    "loc": "(01:41:03)",
     "kind": "testimony",
     "speaker": "Agent Hull, former Utah State Bureau of Investigation agent (witness; Rev also renders Holt/Hall)",
-    "fact": "Agent Hull agreed that he arrived approximately an hour after Charlie Kirk had been removed from the scene.",
-    "quote": "Approximately, yes."
+    "fact": "Hull testified he arrived on campus shortly after 1:30.",
+    "quote": "I believe it was shortly after 1:30."
    },
    {
     "sid": "S-3",
@@ -10618,7 +10291,7 @@
  {
   "claim": "C-12600",
   "status": "corroborated",
-  "note": "At the September 1 bindover session Judge Graf, as magistrate, recited that he conducted the July 6-10 preliminary hearing (S-7, 07:41:21) and ruled on bindover.",
+  "note": "Judge Graf, acting as magistrate, conducted the July 6-10 preliminary hearing and delivered the bindover ruling at the September 1 session (S-7, 07:41:21), in which he addressed defense arguments on individual counts, including that count six must be stricken (S-7, 08:29:04). The record cited does not show a single defense motion to dismiss counts 1, 6 and 7.",
   "evidence": [
    {
     "sid": "S-7",
@@ -10627,6 +10300,14 @@
     "speaker": "Judge Tony Graf Jr.",
     "fact": "Judge Tony Graf Jr. held a five-day preliminary hearing in the Robinson case from July 6 to July 10, 2026.",
     "quote": "The court acting as a magistrate conducted a five-day preliminary hearing from July 6th to July 10th of this year."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(08:29:04)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "In the bindover ruling Judge Graf addressed the defense argument that count six must be stricken.",
+    "quote": "Defendant argues that count six must be stricken as a matter of law."
    }
   ],
   "episode": 146,
@@ -10735,7 +10416,7 @@
  {
   "claim": "C-12609",
   "status": "corroborated",
-  "note": "The State argued the rifle held four rounds besides the one fired and only one was spent (S-7, 04:10:45; 03:52:13).",
+  "note": "The State argued the rifle was loaded with more rounds than the single one fired, only one cartridge having been spent (S-7 03:52:13; 04:10:45).",
   "evidence": [
    {
     "sid": "S-7",
@@ -10760,7 +10441,7 @@
  {
   "claim": "C-12610",
   "status": "corroborated",
-  "note": "The State cited Exhibit 16.1, a text attributed to Robinson: 'I had enough of his hatred. Some hate can't be negotiated out.' (S-7, 06:06:16).",
+  "note": "The State cited Exhibit 16.1, a text attributed to Robinson: 'I had enough of his hatred. Some hate can't be negotiated out.' (S-7 06:06:16); the 'going to see Charlie Kirk' wording is not in the record, and the single-target inference is the host's.",
   "evidence": [
    {
     "sid": "S-7",
@@ -10908,34 +10589,9 @@
   "claim_text": "The host says the sixth charge is also witness tampering for allegedly texting Lance and telling him not to speak to police and to lawyer up."
  },
  {
-  "claim": "C-12621",
-  "status": "corroborated",
-  "note": "Count seven is commission of a violent offense in the presence of a child (S-11 04:36; S-7 ruling 07:41:21); the record does not address the host's campus-presumption point.",
-  "evidence": [
-   {
-    "sid": "S-11",
-    "loc": "(04:36)",
-    "kind": "charging_allegation",
-    "speaker": "Jeff Gray, Utah County Attorney",
-    "fact": "Count seven charges Tyler James Robinson with commission of a violent offense in the presence of a child, a class A misdemeanor.",
-    "quote": "count seven, commission of a violent offense in the presence of a child, a class A misdemeanor."
-   },
-   {
-    "sid": "S-7",
-    "loc": "(07:41:21)",
-    "kind": "ruling",
-    "speaker": "Judge Tony Graf Jr.",
-    "fact": "The charges against Tyler Robinson also include two counts of witness tampering and one count of a violent offense committed in the presence of a child.",
-    "quote": "counts five and six, tampering with a witness, third degree felonies, and count seven, a violent offense committed in the presence of a child, a class B misdemeanor, which the state alleges is reclassified as a class A misdemeanor"
-   }
-  ],
-  "episode": 146,
-  "claim_text": "The host says the seventh charge is a violent offense in the presence of a child, and the defense argues the presumption on a college campus is that no minor children were present."
- },
- {
   "claim": "C-12642",
   "status": "corroborated",
-  "note": "Judge Graf ruled the State demonstrated probable cause on the identity and homicide elements of Count one (S-7 08:10:47) in the bindover ruling.",
+  "note": "In the bindover ruling Judge Graf found the State demonstrated probable cause on the identity and homicide elements of count one (S-7 08:10:47), held that count one is bound over for trial (S-7 08:20:18) and ordered Robinson bound over for trial on the charged counts (S-7 08:39:48).",
   "evidence": [
    {
     "sid": "S-7",
@@ -10944,6 +10600,22 @@
     "speaker": "Judge Tony Graf Jr.",
     "fact": "Judge Tony Graf Jr. ruled that the State established probable cause on the identity and homicide elements of the aggravated murder count.",
     "quote": "Accordingly, the State has demonstrated probable cause as to the identity and homicide elements of count one."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(08:20:18)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "Judge Graf held count one bound over for trial.",
+    "quote": "Count one is bound over for trial."
+   },
+   {
+    "sid": "S-7",
+    "loc": "(08:39:48)",
+    "kind": "ruling",
+    "speaker": "Judge Tony Graf Jr.",
+    "fact": "Judge Graf ordered Robinson bound over for trial in the Fourth Judicial District Court.",
+    "quote": "it is hereby ordered that the Defendant Tyler James Robinson is bound over for trial in the Fourth Judicial District Court"
    }
   ],
   "episode": 147,
@@ -11151,23 +10823,6 @@
   "claim_text": "The host says that, as she says they were told, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife."
  },
  {
-  "claim": "C-12689",
-  "status": "corroborated",
-  "note": "The After-Action Report says the TPUSA security team evacuated Charlie Kirk from the area immediately (S-12 p. 49).",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 49",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "The TPUSA security team evacuated Charlie Kirk from the area immediately after the shooting.",
-    "quote": "helping to ensure TPUSA security team was able to evacuate Charlie Kirk from the area immediately"
-   }
-  ],
-  "episode": 147,
-  "claim_text": "In testimony played on air, Blake Neff says he and Mikey leaving was not abandoning Charlie because Charlie had a security team that left immediately into action and got Charlie out."
- },
- {
   "claim": "C-12705",
   "status": "corroborated",
   "note": "KSL (S-68) reports defense attorney Richard Novak saying in closing that Kirk 'spoke hatefully' of certain people at his rallies.",
@@ -11336,9 +10991,9 @@
    {
     "sid": "S-65",
     "loc": "para 156",
-    "kind": "tier2_attributed",
-    "speaker": "unnamed Panguitch restaurant owner",
-    "fact": "According to a Utah restaurateur who tipped the FBI, one of Tyler Robinson's last meals before arrest may have been at a roadside steakhouse.",
+    "kind": "tier2_reported",
+    "speaker": "Fox News",
+    "fact": "Fox News's lede says one of Tyler Robinson's last meals as a free man may have been at a roadside steakhouse, per a Utah restaurateur who tipped the FBI.",
     "quote": "One of Tyler Robinson 's last meals as a free man may have been at a roadside steakhouse off the beaten path, according to a Utah restaurateur who called in a tip to the FBI"
    },
    {
@@ -11486,9 +11141,9 @@
    {
     "sid": "S-2",
     "loc": "(04:12:40)",
-    "kind": "exhibit",
-    "speaker": "defense attorney Kathryn Nester",
-    "fact": "Officer Bagley's body camera video runs 27 minutes 35 seconds, from the Hall of Flags until on the roof before the tape went up.",
+    "kind": "question",
+    "speaker": "defense attorney Kathryn Nester (question)",
+    "fact": "Defense counsel described Bagley's body cam as 27 minutes 35 seconds, from the Hall of Flags to the roof before the crime tape went up.",
     "quote": "So that 27 minute and 35 second body cam that starts when you're at the Hall of Flags and ends while you're still on the roof but haven't put the crime tape up yet"
    },
    {
@@ -11535,31 +11190,6 @@
   ],
   "episode": 153,
   "claim_text": "The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently \"unknown\" involved in Charlie Kirk's death."
- },
- {
-  "claim": "C-13186",
-  "status": "corroborated",
-  "note": "The After-Action Report says UVU requested an external, independent review and retained two outside firms (S-12 p. 5, p. 112); the AP date is not addressed.",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 5",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
-    "fact": "The After-Action Report was an external assessment commissioned at the request of Utah Valley University.",
-    "quote": "This external and independent assessment was done at the request of Utah Valley University (UVU)."
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 112",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report independent review team",
-    "fact": "Utah Valley University retained two outside firms to conduct an independent review and After-Action Report concerning the events surrounding September 10, 2025.",
-    "quote": "Retained two outside firms to conduct an independent review and After-Action Report concerning the events surrounding September 10, 2025"
-   }
-  ],
-  "episode": 153,
-  "claim_text": "Per an Associated Press article the host shows, published September 22, 2025, Utah Valley University announced on Monday an independent external review of the fatal shooting of Charlie Kirk on its campus; the host remarks 'just 12 days after Charlie is hit.'"
  },
  {
   "claim": "C-13203",
@@ -11656,8 +11286,16 @@
  {
   "claim": "C-13212",
   "status": "corroborated",
-  "note": "Officer Bagley testified six UVU officers were at the event (S-2 02:44:36); the attendance figure is not addressed.",
+  "note": "KSL (S-60) reports the notice of claim states 'Only six police officers were assigned to work the event', and Officer Bagley testified six UVU officers were at the event (S-2 02:44:36); the approximately 3,000 attendance figure is not addressed.",
   "evidence": [
+   {
+    "sid": "S-60",
+    "loc": "para 25",
+    "kind": "tier2_attributed",
+    "speaker": "notice of claim (Kirk family)",
+    "fact": "KSL reports the notice of claim says only six police officers were assigned to work the event.",
+    "quote": "Only six police officers were assigned to work the event"
+   },
    {
     "sid": "S-2",
     "loc": "(02:44:36)",
@@ -11783,7 +11421,7 @@
  {
   "claim": "C-13234",
   "status": "corroborated",
-  "note": "The After-Action Report says TPUSA's concern was the area directly above the speaker location (S-12 p. 67), and Flood's text reads 'Concerns of agitators above us' (S-12 p. 44).",
+  "note": "The After-Action Report says Flood's September 8 text concerned the Hall of Flags outdoor pedestrian walkway above the canopy area where Kirk would speak (S-12 p. 43), and that TPUSA's concern was the area directly above the speaker location (S-12 p. 67).",
   "evidence": [
    {
     "sid": "S-12",
@@ -11795,11 +11433,11 @@
    },
    {
     "sid": "S-12",
-    "loc": "p. 44",
-    "kind": "exhibit",
-    "speaker": "Dan Flood, TPUSA Security Supervisor (text to Chief Long, Sept 10, 2025)",
-    "fact": "Dan Flood texted Chief Long on September 10 about concerns of agitators above the speaking area.",
-    "quote": "Concerns of agitators above us."
+    "loc": "p. 43",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report Project Team",
+    "fact": "Flood's September 8 text concerned the Hall of Flags walkway above the canopy where Kirk would speak.",
+    "quote": "On September 8, at approximately 3:12 p.m., Dan Flood sent Chief Long a text message regarding the Hall of Flags outdoor pedestrian walkway located above the canopy area where Charlie Kirk would be speaking."
    }
   ],
   "episode": 153,
@@ -11883,8 +11521,24 @@
  {
   "claim": "C-13298",
   "status": "corroborated",
-  "note": "Bagley testified six UVU officers worked the event and that Kirk had his own security team present (S-2 02:44:36, 02:46:51); the attendance figure is not addressed.",
+  "note": "ABC News (S-92) reports Chief Long told reporters 'We had probably over 3,000 people who were in attendance', that six officers worked the event and that Kirk had his own security team, and Officer Bagley testified six UVU officers were at the event (S-2 02:44:36).",
   "evidence": [
+   {
+    "sid": "S-92",
+    "loc": "para 24",
+    "kind": "tier2_attributed",
+    "speaker": "UVU Police Chief Jeffrey Long",
+    "fact": "ABC News reports Long told reporters over 3,000 people attended.",
+    "quote": "\"We had probably over 3,000 people who were in attendance,\" UVU Police Chief Jeffrey Long told reporters at a press conference shortly after the incident"
+   },
+   {
+    "sid": "S-92",
+    "loc": "para 24",
+    "kind": "tier2_attributed",
+    "speaker": "UVU Police Chief Jeffrey Long",
+    "fact": "ABC News reports Long noted six officers worked the event and Kirk had his own security team.",
+    "quote": "noting that they had six officers working at the event and Kirk had his own security team."
+   },
    {
     "sid": "S-2",
     "loc": "(02:44:36)",
@@ -11892,14 +11546,6 @@
     "speaker": "Officer Bagley, UVU Police (witness)",
     "fact": "Six UVU officers were assigned to the event: one on patrol and five others with the chief.",
     "quote": "There was six of us that were, there was patrol one and then five others that were there with the chief."
-   },
-   {
-    "sid": "S-2",
-    "loc": "(02:46:51)",
-    "kind": "testimony",
-    "speaker": "Officer Bagley, UVU Police (witness)",
-    "fact": "Officer Bagley was aware Charlie Kirk had his own security team present.",
-    "quote": "Yes."
    }
   ],
   "episode": 154,
@@ -11991,8 +11637,8 @@
     "loc": "para 74",
     "kind": "tier2_attributed",
     "speaker": "Turning Point USA official",
-    "fact": "A Turning Point USA official said TPUSA's Safety Team had 12 security personnel on site, up from the usual 8 to 9.",
-    "quote": "\"TPUSA's Safety Team staffed up for the event to 12 security on site (up from usual 8-9)"
+    "fact": "A Turning Point USA official said TPUSA's Safety Team had 12 security on site, up from 8-9, ex-military and law enforcement with a full emergency medical kit.",
+    "quote": "\"TPUSA's Safety Team staffed up for the event to 12 security on site (up from usual 8-9), a team comprised of ex-military and law enforcement personnel trained and equipped with a full emergency medical kit and field dressing expertise,\""
    }
   ],
   "episode": 154,
@@ -12101,8 +11747,16 @@
  {
   "claim": "C-13513",
   "status": "corroborated",
-  "note": "Agent Hull testified Officer Goforth ran a partial plate (S-3 00:59:18); the host's view that this is unusual is opinion.",
+  "note": "Agent Hull, not Officer Goforth, testified that Spanish Fork Officer Goforth ran a partial plate (S-3 00:59:18) and identified the vehicle as registered to Robinson (S-3 00:58:38); Goforth's own testimony is not in the record, and the host's view that this is unusual is her opinion.",
   "evidence": [
+   {
+    "sid": "S-3",
+    "loc": "(00:58:38)",
+    "kind": "testimony",
+    "speaker": "SBI Agent Hull (witness)",
+    "fact": "Hull testified Goforth ran the information from the stop and identified the vehicle as registered to Robinson.",
+    "quote": "he ran the information that he had obtained from the stop and was able to identify that it was registered to Mr. Robinson"
+   },
    {
     "sid": "S-3",
     "loc": "(00:59:18)",
@@ -12168,8 +11822,16 @@
  {
   "claim": "C-13522",
   "status": "corroborated",
-  "note": "The After-Action Report says Flood, Crofts and the UVU TPUSA club head did not respond to calls, voicemails, certified letters or outreach via TPUSA senior staff in Phoenix (S-12 p. 8, p. 42).",
+  "note": "The After-Action Report says Harpole did not respond to the Project Team's telephone and certified-letter outreach (S-12 p. 7), and that Flood, Crofts and the UVU TPUSA club head did not respond to calls, voicemails, certified letters or outreach via TPUSA senior staff in Phoenix (S-12 p. 8, p. 42).",
   "evidence": [
+   {
+    "sid": "S-12",
+    "loc": "p. 7",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
+    "fact": "The Project Team tried to reach Brian Harpole by telephone and certified letter and received no response.",
+    "quote": "The Project Team attempted to reach Harpole by telephone and certified letter. The certified letter explained the purpose of the outreach and provided the Project Team’s contact information. The Project Team did not receive a response."
+   },
    {
     "sid": "S-12",
     "loc": "p. 8",
@@ -12351,8 +12013,16 @@
  {
   "claim": "C-13529",
   "status": "corroborated",
-  "note": "The After-Action Report says site-selection authority should have been with the University and UVU should have insisted on choosing the venue and using its own ticketing (S-12 p. 54, p. 71).",
+  "note": "The After-Action Report's executive summary says that because the event was on UVU's campus, UVU should have retained decision-making authority over venue selection, ticketing and access control (S-12 p. 12), and elsewhere says site-selection authority should have been with the University and UVU should have insisted on its own ticketing (S-12 p. 54, p. 71).",
   "evidence": [
+   {
+    "sid": "S-12",
+    "loc": "p. 12",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
+    "fact": "The report says UVU should have retained decision-making authority over venue selection, ticketing and access control.",
+    "quote": "Because the event was held on UVU’s campus, UVU should have retained decision-making authority over key security-related issues, including venue selection, ticketing, access control, and other conditions necessary to support campus safety."
+   },
    {
     "sid": "S-12",
     "loc": "p. 54",
@@ -12376,7 +12046,7 @@
  {
   "claim": "C-13532",
   "status": "corroborated",
-  "note": "On July 10, 2025, at the TPUSA field representative's request, the UVU club president asked the Clubs Office about using the Courtyard on September 10 (S-12 p. 18, p. 41); 'reversal of practice' is the host's characterisation.",
+  "note": "On July 10, 2025, at the TPUSA field representative's request, the UVU club president asked the Clubs Office about using the Courtyard on September 10 (S-12 p. 18, p. 41). The July 10 request did not mention Charlie Kirk; the email says the field representative was being 'quite vague on what this event is' (S-12 p. 41). 'Reversal of practice' is the host's characterisation.",
   "evidence": [
    {
     "sid": "S-12",
@@ -12393,6 +12063,14 @@
     "speaker": "TPUSA UVU Club President (email to UVU Club Services, July 10, 2025)",
     "fact": "On July 10, 2025, the UVU TPUSA Club President emailed UVU Club Services asking about hosting an event on the Courtyard on September 10 from 9am to 4pm at a TPUSA field representative's request.",
     "quote": "My field representative for Turning Point USA has asked me to reach out to the UVU Club Department to ask about availability on hosting an event on the Courtyard on September 10 from 9am-4pm"
+   },
+   {
+    "sid": "S-12",
+    "loc": "p. 41",
+    "kind": "exhibit",
+    "speaker": "TPUSA UVU Club President (email to UVU Club Services, July 10, 2025)",
+    "fact": "The club president wrote that the field representative was being vague about what the event was.",
+    "quote": "Shes [sic] being quite vague on what this event is"
    }
   ],
   "episode": 157,
@@ -12531,39 +12209,6 @@
   ],
   "episode": 157,
   "claim_text": "The host reads that UVU's free speech committee flagged the event to anticipate protests, citing insights from prior TPUSA appearances including Charlie Kirk's 2019 appearance at UVU, which the host says was with her and drew protesters."
- },
- {
-  "claim": "C-13541",
-  "status": "corroborated",
-  "note": "The After-Action Report names Senior Field Representative Maycee Crofts as the TPUSA participant in the August 25 MEAC meeting and says no member of the TPUSA security team had contacted Chief Long as of September 2 (S-12 p. 40, p. 70, p. 42).",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 40",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "Maycee Crofts, a TPUSA Senior Field Representative, participated in the August 25 MEAC Teams meeting at TPUSA's request.",
-    "quote": "During the August 25 MEAC Teams meeting, Maycee Crofts,22 a Senior Field Representative for TPUSA, participated at the request of TPUSA."
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 70",
-    "kind": "report_finding",
-    "speaker": "Utah Valley University After-Action Report (Project Team)",
-    "fact": "UVU's Major Events Assessment Committee met on August 25 via Microsoft Teams and discussed the event with TPUSA representative Maycee Crofts.",
-    "quote": "The Major Events Assessment Committee (MEAC) convened on August 25 via Microsoft Teams, during which University and UVUPD stakeholders discussed the event and engaged with TPUSA representative Maycee Crofts."
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 42",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "On September 2, Chief Long emailed the UVU Clubs Office seeking TPUSA security contact information because no TPUSA security team member had contacted him.",
-    "quote": "On September 2, he emailed a staff member in the University’s Clubs Office seeking contact information for TPUSA’s security representative because no member of the TPUSA security team had contacted him"
-   }
-  ],
-  "episode": 157,
-  "claim_text": "The host reads that not a single member of TPUSA's security attended the August 25 major events assessment meeting."
  },
  {
   "claim": "C-13542",
@@ -12920,7 +12565,7 @@
  {
   "claim": "C-13561",
   "status": "corroborated",
-  "note": "S-12 (pp. 20, 45) says that after observing the crowd size Chief Long requested a detective, an additional officer and a sergeant, bringing the UVUPD team to six.",
+  "note": "S-12 (pp. 20, 45) says that at about 11:00 a.m., after observing the crowd size, Chief Long requested a detective, an additional officer and a sergeant, bringing the UVUPD team to six; whether TPUSA asked for more people is not addressed.",
   "evidence": [
    {
     "sid": "S-12",
@@ -12935,8 +12580,8 @@
     "loc": "p. 20",
     "kind": "report_finding",
     "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
-    "fact": "Chief Long added a detective, a sergeant and another officer, all UVUPD officers on duty that day.",
-    "quote": "Chief Long requested that a uniformed UVUPD detective assist, along with a sergeant and an additional officer, representing all officers on duty that day."
+    "fact": "At about 11:00 a.m., after observing the crowd size, Chief Long requested a detective, a sergeant and an additional officer.",
+    "quote": "~11:00 a.m. Initial UVUPD staffing included Chief Long, one patrol officer, and one reserve officer. After observing the crowd size, Chief Long requested that a uniformed UVUPD detective assist"
    }
   ],
   "episode": 157,
@@ -13403,23 +13048,6 @@
   "claim_text": "The host reads that Bagley located a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position, which helped focus the investigation on the roof."
  },
  {
-  "claim": "C-13588",
-  "status": "corroborated",
-  "note": "S-12 (p. 54) says the Security Assessment process did not result in documented venue-modification requirements.",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 54",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "The Security Assessment process did not produce documented requirements for venue modification, university ticketing, controlled access, credentialing, screening, or more staffing.",
-    "quote": "The Security Assessment process did not result in documented requirements for venue modification, University-controlled ticketing, controlled access, credentialing, screening, or additional staffing."
-   }
-  ],
-  "episode": 157,
-  "claim_text": "The host reads the review's finding that there was limited time between Chief Long first learning of the event and the event date, and that the security assessment did not result in documented venue modification requirements."
- },
- {
   "claim": "C-13589",
   "status": "corroborated",
   "note": "S-12 (pp. 44, 64) says coordination with TPUSA security was limited and there was no formal pre-event briefing or walk-through with Harpole, Flood and UVUPD.",
@@ -13522,8 +13150,16 @@
  {
   "claim": "C-13619",
   "status": "corroborated",
-  "note": "S-12 (pp. 19, 42) says Long gave his contact to Crofts to pass to the appropriate TPUSA representative, and on September 2 advised no security request had been received from TPUSA and sought a point of contact.",
+  "note": "S-12 says Chief Long requested contact with TPUSA security leadership at the August 25 meeting (p. 18), gave his contact to Crofts to pass to the appropriate TPUSA representative (p. 42), and on September 2 emailed a Clubs Office staff member seeking TPUSA's security contact (pp. 19, 42); the report names no 'Caleb'.",
   "evidence": [
+   {
+    "sid": "S-12",
+    "loc": "p. 18",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
+    "fact": "At the August 25 meeting Chief Long requested contact with TPUSA security leadership.",
+    "quote": "Chief Long requested contact with TPUSA security leadership."
+   },
    {
     "sid": "S-12",
     "loc": "p. 42",
@@ -13531,6 +13167,14 @@
     "speaker": "UVU After-Action Report Project Team",
     "fact": "During the MEAC process, Chief Long gave his contact information to Maycee Crofts to pass to TPUSA's security team.",
     "quote": "Chief Long provided his contact information to Maycee Crofts and asked that she share it with the appropriate TPUSA representative"
+   },
+   {
+    "sid": "S-12",
+    "loc": "p. 42",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report Project Team",
+    "fact": "On September 2 Chief Long emailed a Clubs Office staff member seeking TPUSA's security contact.",
+    "quote": "On September 2, he emailed a staff member in the University’s Clubs Office seeking contact information for TPUSA’s security representative"
    },
    {
     "sid": "S-12",
@@ -13610,56 +13254,6 @@
   ],
   "episode": 159,
   "claim_text": "Citing the independent review, the host says that on the August 25 UVU major events Teams meeting TPUSA insisted on the venue it wanted, TPUSA security was not on the call, and UVU police chief Jeff Long asked for a security contact and did not get one."
- },
- {
-  "claim": "C-13807",
-  "status": "corroborated",
-  "note": "S-12 (pp. 19, 42) says on September 3 Dan Flood called Chief Long, the first security coordination call; the host's September 2 point reflects her own search and the record names a Clubs Office staff member, not the club president.",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 42",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "On September 3, Chief Long received a call from Dan Flood, TPUSA Security Supervisor.",
-    "quote": "On September 3, Chief Long received a call from Dan Flood, TPUSA Security Supervisor."
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 19",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
-    "fact": "At 1:08 p.m. on September 3, Chief Long held a 5-minute-28-second security call with Dan Flood.",
-    "quote": "Chief Long held the first security coordination call (5 minutes, 28 seconds) with Dan Flood, TPUSA Security Supervisor."
-   }
-  ],
-  "episode": 159,
-  "claim_text": "The host says September 2 is the first time she could find the upcoming event mentioned, with Charlie to speak at UVU in the courtyard, that Chief Long then followed up with the club president and was given a contact, and that on September 3 he established a connection with Dan Flood."
- },
- {
-  "claim": "C-13855",
-  "status": "corroborated",
-  "note": "S-12 (pp. 22, 52) says the Station Two fire captain assisted in providing CPR to Charlie Kirk at Timpanogos Hospital (Harpole's remark itself is not in the record).",
-  "evidence": [
-   {
-    "sid": "S-12",
-    "loc": "p. 52",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report Project Team",
-    "fact": "Orem Fire Station Two rerouted to Timpanogos Hospital, where its Fire Captain helped provide CPR to Charlie Kirk.",
-    "quote": "Station Two then rerouted to Timpanogos Hospital, where the Fire Captain from Station Two assisted in providing CPR to Charlie Kirk at the hospital."
-   },
-   {
-    "sid": "S-12",
-    "loc": "p. 22",
-    "kind": "report_finding",
-    "speaker": "UVU After-Action Report (Lake Forest Group / Brownstein Hyatt Farber Schreck)",
-    "fact": "Orem Fire Station Two rerouted to Timpanogos Hospital, where a fire captain assisted with CPR.",
-    "quote": "Station Two then rerouted to Timpanogos Hospital, where a fire captain assisted with CPR."
-   }
-  ],
-  "episode": 160,
-  "claim_text": "The host says Brian Harpole said CPR was not administered in the car \"or anywhere else for that matter\", while the UVU review says a fire captain assisted with CPR at the hospital."
  },
  {
   "claim": "C-13858",
@@ -14066,7 +13660,7 @@
  {
   "claim": "C-14110",
   "status": "corroborated",
-  "note": "KSL (S-58) and The Salt Lake Tribune (S-59) report Harpole saying Turek prayed out loud while Harpole worked to stop the bleeding; Rick praying is not covered.",
+  "note": "KSL (S-58) reports Turek prayed out loud in the van, and The Salt Lake Tribune (S-59) reports Harpole worked to stop the bleeding; Rick praying is not covered.",
   "evidence": [
    {
     "sid": "S-58",
@@ -14268,8 +13862,16 @@
  {
   "claim": "C-14394",
   "status": "corroborated",
-  "note": "S-12 p. 52 identifies the captain who helped with CPR at Timpanogos Hospital as the Fire Captain from Orem Fire Station Two.",
+  "note": "S-12 p. 52, in its section on the Orem Fire Department's response, identifies the captain who helped with CPR at Timpanogos Hospital as the Fire Captain from Station Two.",
   "evidence": [
+   {
+    "sid": "S-12",
+    "loc": "p. 52",
+    "kind": "report_finding",
+    "speaker": "UVU After-Action Report Project Team",
+    "fact": "The p. 52 section on fire and EMS support is based on an interview with the Orem Fire Department chief about Orem Fire's response.",
+    "quote": "The Project Team also interviewed Chief Marc Sanderson of the Orem Fire Department."
+   },
    {
     "sid": "S-12",
     "loc": "p. 52",

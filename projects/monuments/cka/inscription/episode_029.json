@@ -1946,8 +1946,8 @@
       "@type": "Claim",
       "@id": "C-2570",
       "ref": "C-2570",
-      "label": "Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
-      "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.",
+      "label": "Host Says CIA Spokeswoman Liz Lyons Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
+      "claim": "The host says CIA spokeswoman Liz Lyons stated that Shauni Kerkhoff worked in Capitol Police campus security; the host calls Kerkhoff \"the alleged person who dropped off these pipe bombs\" and adds that she lives in Alexandria, Virginia.",
       "anchored_artifacts": [
         "A-1368.1"
       ],
@@ -1964,7 +1964,8 @@
         "N-239"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": null
     },
     {
       "@type": "Claim",

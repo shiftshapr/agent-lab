@@ -4782,10 +4782,8 @@
         "N-270",
         "N-1"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-12"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

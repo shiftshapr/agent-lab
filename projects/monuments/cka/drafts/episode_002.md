@@ -1056,8 +1056,6 @@ Anchored Artifacts: A-1088.1
 Mentions: N-40
 Related Nodes: N-10011, N-10012, N-10028
 Confidence: high
-Verification: corroborated
-Verification Evidence: S-63
 Investigative Direction: Obtain timestamped original TMZ footage and verify chain of custody.
 
 ---
@@ -1088,7 +1086,7 @@ Related Nodes: N-10011, N-10019
 Confidence: medium
 Uncertainty: Footage shown but host notes timestamp uncertainty about FBI arrival claim.
 Verification: corroborated
-Verification Evidence: S-3
+Verification Evidence: S-3, S-7
 Investigative Direction: Obtain doorbell camera source and chain of custody; verify timestamp.
 
 ---
@@ -1126,7 +1124,7 @@ Investigative Direction: Independently verify non-response by reaching out to Se
 **C-123** TMZ Backyard Running Footage at 12:29 PM
 
 Claim Timestamp: 00:45:00
-Claim: TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.
+Claim: The host says that at 12:29 p.m. TMZ footage shows a person running through a backyard, which TMZ says appears to be the suspect; she says it is very grainy and neither she nor the feds have confirmed it is him.
 Transcript Snippet: Then at 12:29 p. m., um, we have TMZ showing us that the there's a person running through the backyard.
 Anchored Artifacts: A-1088.3
 Mentions: N-40
@@ -2098,8 +2096,6 @@ Anchored Artifacts: A-1094.1
 Mentions: N-3
 Related Nodes: N-10014, N-10019
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-3
 Investigative Direction: Obtain the original FBI release with date and camera location, and build the timeline for the outfit change.
 Open Questions: Q-29
 
@@ -2237,8 +2233,6 @@ Anchored Artifacts: A-1089.4
 Mentions: N-41, N-40
 Related Nodes: N-10013, N-10021
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-5
 Investigative Direction: Obtain the investigators' photos of the roommate's screen from the charging documents and verify the account name.
 Open Questions: Q-37
 
