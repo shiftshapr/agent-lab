@@ -1,0 +1,373 @@
+[
+ {
+  "claim": "C-123",
+  "episode": 2,
+  "changed": [
+   "claim"
+  ],
+  "before": "TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.",
+  "after": "The host says that at 12:29 p.m. TMZ footage shows a person running through a backyard, which TMZ says appears to be the suspect; she says it is very grainy and neither she nor the feds have confirmed it is him.",
+  "reason": "Host does not say TMZ released footage at 12:29; 12:29 is her timeline time, and she says the footage is grainy and unconfirmed by her or the feds."
+ },
+ {
+  "claim": "C-254",
+  "episode": 3,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6 | claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.",
+  "after": "title: Host Plays August 6 Megyn Kelly Clip in Which Kelly Vents About Pro-Israel Pressure and Kirk Seconds Her | claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting, and plays a clip in which Kelly says some in the pro-Israel camp are so kneejerk about calling people anti-semitic that she finds it very irritating, and that her speculation with Kirk about Epstein possibly being a Mossad asset was turned around on her as anti-semitism; Kirk then says he seconds it.",
+  "reason": "Transcript 51:10-53:14 shows the irritation and Epstein/Mossad words are Megyn Kelly's; Kirk replies 'I would second that, Megan'."
+ },
+ {
+  "claim": "C-1026",
+  "episode": 11,
+  "changed": [
+   "snippet",
+   "timestamp"
+  ],
+  "before": "timestamp: 00:34:00–00:35:30 | snippet: ",
+  "after": "timestamp: 00:34:55 | snippet: I was just heading back from Salt Lake to Blanding.",
+  "reason": "en-orig captions put 'just heading back from Salt Lake to Blanding' at 34:58.7; the range timestamp started over a minute early and there was no snippet."
+ },
+ {
+  "claim": "C-1158",
+  "episode": 13,
+  "changed": [
+   "claim",
+   "snippet",
+   "title"
+  ],
+  "before": "title: Host Says Several New Officials Appeared in the Case Around the Time of the Assassination | claim: The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner. | snippet: ",
+  "after": "title: Host Says Several People Connected to the Case Were New in Their Roles | claim: The host says several people connected to the case were new in their roles: Robert Bohls, installed by Kash Patel after a long DC tenure; Andrew Zenger, the new hospital CEO (she wants to learn whether he worked on Charlie); Judge Tony F. Graf Jr., appointed May 2025 by Governor Cox; and an unnamed new coroner. | snippet: He then installs a person that has a long tenure in DC, Robert Bohls.",
+  "reason": "Transcript 04:53-06:17: Patel 'installs' Bohls (no SAC title), she only wants to learn whether Zenger worked on Charlie, Graf and the coroner follow at 06:17; snippet spoken at 05:16 per captions."
+ },
+ {
+  "claim": "C-1486",
+  "episode": 16,
+  "changed": [
+   "claim",
+   "snippet",
+   "title"
+  ],
+  "before": "title: George Zinn told medical staff he was being paid to claim responsibility | claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment. | snippet: ",
+  "after": "title: Host Relays Tip That George Zinn Told Medical Staff He Was Being Paid to Claim Responsibility | claim: The host says she received a tip, which she says she vetted, that George Zinn, while receiving medical treatment after the shooting, told multiple nurses and doctors that he did it because he was being paid to do it, that he had not been paid yet but was going to receive payment, and that he did not know from whom. | snippet: he told multiple nurses and doctors that he did it because he was being paid to do it.",
+  "reason": "en-orig captions (corrected transcript is empty at 41:24) confirm the content at 41:26-41:59 and that the host says she vetted the tip; claim now framed as her relayed tip and given a snippet; her 'I'm not saying they are' hedge concerns the feds paying, which the claim does not assert."
+ },
+ {
+  "claim": "C-1433",
+  "episode": 16,
+  "changed": [
+   "claim",
+   "snippet",
+   "timestamp",
+   "title"
+  ],
+  "before": "title: Kolvet shared screen grab with government figures within 33 hours | claim: Andrew Kolvet stated he shared the text-message screen grab with \"a few people in government\" within the first 33 hours after Kirk's death, before the suspect was publicly identified. | timestamp: 00:15:24 | snippet: ",
+  "after": "title: Kolvet Says He Shared the Screen Grab With Some People in Government in the First Moments | claim: In the clip, Andrew Kolvet says he shared the screen grab with some people in government in the first moments, noting it took 33 hours for authorities to get their suspect. | timestamp: 00:14:58 | snippet: But I did share it with some people in government because it happened really quick.",
+  "reason": "Transcript 13:40 block: Kolvet says he shared it 'with some people in government' and 'with a few people' (stitched quote), 'it took 33 hours for authorities to get their suspect' (not 'within 33 hours'/'publicly identified'); the line falls ~15:00, before 15:24."
+ },
+ {
+  "claim": "C-1676",
+  "episode": 18,
+  "changed": [
+   "snippet",
+   "timestamp"
+  ],
+  "before": "timestamp: 00:39:09 | snippet: ",
+  "after": "timestamp: 00:40:07 | snippet: it was supposed to land in Page, Arizona.",
+  "reason": "en-orig captions: 'it was supposed to land in Page, Arizona' at 40:28; 39:09 was ~80 s early. Snippet added."
+ },
+ {
+  "claim": "C-1962",
+  "episode": 21,
+  "changed": [
+   "title"
+  ],
+  "before": "Trump's Only \"Investigation\" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder",
+  "after": "Host Says the Only Trump Truth Social Post Her Team Found on an 'Investigation' Was About Jack Smith's TPUSA Probe, Not Kirk's Murder",
+  "reason": "Host said 'only one tweet that we could find'; title dropped the hedge."
+ },
+ {
+  "claim": "C-2570",
+  "episode": 29,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security | claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.",
+  "after": "title: Host Says CIA Spokeswoman Liz Lyons Stated Shauni Kerkhoff Worked in Capitol Police Campus Security | claim: The host says CIA spokeswoman Liz Lyons stated that Shauni Kerkhoff worked in Capitol Police campus security; the host calls Kerkhoff \"the alleged person who dropped off these pipe bombs\" and adds that she lives in Alexandria, Virginia.",
+  "reason": "'the alleged person who dropped off these pipe bombs' is the host's own appositive, not part of Lyons' statement."
+ },
+ {
+  "claim": "C-3237",
+  "episode": 36,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime | claim: The host says that despite having about a 4.3 GPA and being a boy genius in the official account, Robinson wrote every minute of the crime to his partner.",
+  "after": "title: Host Mocks the Official Account in Which 4.3-GPA Robinson Texted Every Minute of the Crime | claim: The host mocks the official account, which she calls 'the conspiracy theory', in which Robinson, said to have about a 4.3 GPA and be a 'boy genius', texted every minute of the crime to his partner; she says she does not believe it.",
+  "reason": "Transcript 44:21: she presents this as 'the tin foil hat conspiracy theory... I don't want you guys to believe that', mocking the official account."
+ },
+ {
+  "claim": "C-3755",
+  "episode": 43,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery | claim: According to source material read aloud by the host and attributed to \"Corruption Tracker,\" Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.",
+  "after": "title: Host Reads Corruption Tracker Account That Pierre Falcone Was Convicted in France, Then Cleared on Appeal With a Reduced Sentence | claim: According to 'Corruption Tracker' material the host reads, Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets and bribery and sentenced to six years, but was cleared on appeal (she says 'technically he was found not guilty of this crime') and given a reduced sentence of two and a half years.",
+  "reason": "Transcript 14:36: she reads on that Falcone 'gets cleared on an appeal... technically he was found not guilty of this crime' and got a reduced 2.5 years; the title stated the conviction as standing fact."
+ },
+ {
+  "claim": "C-6928",
+  "episode": 77,
+  "changed": [
+   "snippet",
+   "timestamp"
+  ],
+  "before": "timestamp: 00:15:31 | snippet: ",
+  "after": "timestamp: 00:14:38 | snippet: I am indeed able to find a relic of it on a third-party site, but I'm not able to independently verify it on New York State's Division of Licenses website now.",
+  "reason": "en-orig captions: the license material starts at 14:38 ('why am I unable to confirm... I am indeed able to find a relic'); 15:31 is only 'valid at least until 2020'. Snippet added."
+ },
+ {
+  "claim": "C-7228",
+  "episode": 80,
+  "changed": [],
+  "before": "",
+  "after": "",
+  "reason": "Title already reads as the proposed hedged title; no change needed."
+ },
+ {
+  "claim": "C-7328",
+  "episode": 81,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Joe Rogan discussed Erika Kirk's CIA documentary and pageant history | claim: In a clip of his podcast that the host plays, Joe Rogan discusses Erika Kirk's appearance in what he characterizes as a CIA documentary, her pageant background, and speculation she was \"Charlie's handler.\"",
+  "after": "title: In a Clip the Host Plays, Joe Rogan and His Guest Discuss Erika Kirk in 'CIA Films', Her Pageant Look and Handler Talk | claim: In a clip of his podcast that the host plays, Joe Rogan and his guest discuss Erika Kirk appearing in what one calls 'weird CIA documents or CIA films' and her pageant background, and one says 'there's a lot of people that think that she was his handler.'",
+  "reason": "Partly applied: 'CIA documentary' and sole attribution to Rogan corrected to the clip's 'weird CIA documents or CIA films' with unidentified speakers, but the 'handler' line is in the clip (end of the 42:30 block: 'a lot of people that think that she was his handler'), so it is kept."
+ },
+ {
+  "claim": "C-7441",
+  "episode": 83,
+  "changed": [
+   "title"
+  ],
+  "before": "Host Says Stacy Sheridan Was Not at TPUSA Offices on September 10",
+  "after": "Host Says She Can Confirm Stacy Sheridan Was Not at TPUSA Offices on September 10",
+  "reason": "Title stated the host's assertion ('I can confirm she was not at the Turning Point USA office') as fact."
+ },
+ {
+  "claim": "C-7544",
+  "episode": 84,
+  "changed": [
+   "title"
+  ],
+  "before": "Kolvet fed information to podcasters to attack the host over Fort Huachuca",
+  "after": "Host Alleges Kolvet Fed Information to Podcasters to Attack Her Over Fort Huachuca",
+  "reason": "Title stated the host's allegation as fact; claim sentence already says 'The host alleges'."
+ },
+ {
+  "claim": "C-8265",
+  "episode": 92,
+  "changed": [
+   "claim"
+  ],
+  "before": "The host says that, according to current and former employees, Marcus Wada also says his brother is still involved in the trafficking game in some way.",
+  "after": "The host says that, according to current and former employees, Marcus Wada says his brother is still involved 'in the industry in some way'; she adds she cannot be sure whether this is charitable, that the brother runs a consultancy on human trafficking, and says 'these people are not involved in the trafficking.'",
+  "reason": "Transcript 45:03: Wada says brother is involved 'in the game somehow in the industry in some way' (not 'trafficking game'); host adds 'Is it charitably?... I can't be sure', the brother consults on human trafficking, and 'these people are not involved in the trafficking'."
+ },
+ {
+  "claim": "C-8357",
+  "episode": 93,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood | claim: The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him.",
+  "after": "title: Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him | claim: The host reads a top viewer comment saying Dan Flood was receiving Charlie's messages that they were going to kill him.",
+  "reason": "Host introduces 'Top comment from yesterday's episode' at the end of the prior block, so the 48:20 words are the viewer's."
+ },
+ {
+  "claim": "C-9724",
+  "episode": 111,
+  "changed": [],
+  "before": "",
+  "after": "",
+  "reason": "Title already reads 'Host says more than 60 million...'; no change needed."
+ },
+ {
+  "claim": "C-9768",
+  "episode": 111,
+  "changed": [
+   "title"
+  ],
+  "before": "Host says Erika Kirk is treated as an \"emotional asset\" and the Department of War appears involved",
+  "after": "Host says Erika Kirk is considered an \"emotional asset\" and the Department of War appears involved in the emails",
+  "reason": "Host said 'she's considered an emotional asset' and 'it looks like the Department of War was who was involved with these emails'; title aligned to her wording."
+ },
+ {
+  "claim": "C-9770",
+  "episode": 112,
+  "changed": [
+   "title"
+  ],
+  "before": "Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
+  "after": "Host says she was told Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
+  "reason": "Host sourced it: 'I was told that. Um I'm told she shortened it.'; title stated it as fact."
+ },
+ {
+  "claim": "C-9776",
+  "episode": 112,
+  "changed": [
+   "title"
+  ],
+  "before": "Greg Laurie is accused in court of trafficking people from Romania",
+  "after": "Host says Greg Laurie is credibly accused in court of trafficking people from Romania",
+  "reason": "Title stated the host's characterisation of the court accusations as fact."
+ },
+ {
+  "claim": "C-9870",
+  "episode": 114,
+  "changed": [
+   "claim",
+   "snippet",
+   "title"
+  ],
+  "before": "title: Host says the Butler story terrified Dan Bongino and Kash Patel | claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, the host says the Butler story, \"perhaps the butler cover up\", terrified Bongino and Patel. | snippet: this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel.",
+  "after": "title: Host says her understanding is that the Butler story terrified Dan Bongino and Kash Patel | claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, and that Bongino grew hysterical and was terrified, the host says her understanding of what Carlson means is that the Butler story, \"perhaps the butler cover up\", terrified Bongino and Patel. | snippet: My understanding and I think any rational person's understanding of what he means is that this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel.",
+  "reason": "Transcript 04:34: Tucker only said Bongino was terrified; Patel is the host's inference ('My understanding... of what he means')."
+ },
+ {
+  "claim": "C-9876",
+  "episode": 114,
+  "changed": [],
+  "before": "",
+  "after": "",
+  "reason": "Title already reads 'Host says Trump did not fire...'; no change needed."
+ },
+ {
+  "claim": "C-9903",
+  "episode": 114,
+  "changed": [
+   "title"
+  ],
+  "before": "Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar",
+  "after": "Host alleges Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling her a liar",
+  "reason": "Title stated the host's allegation as fact; claim sentence already says 'The host alleges'."
+ },
+ {
+  "claim": "C-9955",
+  "episode": 115,
+  "changed": [
+   "title"
+  ],
+  "before": "Host says the Comperatore family is not satisfied with the Butler investigation",
+  "after": "Host says she has it on authority the Comperatore family is not satisfied with the Butler investigation",
+  "reason": "Host said 'I have it on authority'; title dropped the sourcing."
+ },
+ {
+  "claim": "C-10089",
+  "episode": 117,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Night before: Charlie Kirk told a group text \"keep the money\" and texted that he feared a trans person would kill him | claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says he then texted his team, about a \"trans fairy,\" \"That's who's going to kill me.\"",
+  "after": "title: Host Says Kirk Told a Group Text 'Keep the Money' the Night Before and Mocks the Account That He Feared a 'Trans Fairy' Would Kill Him | claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says his phone held the night-before text messages expressing his fear that he was going to be killed, and mocks the account that he feared a \"trans fairy\" would kill him.",
+  "reason": "Transcript 31:04: 'We're supposed to believe he thought he was going to be killed by a trans fairy' is the host mocking the account, not her assertion."
+ },
+ {
+  "claim": "C-10842",
+  "episode": 126,
+  "changed": [
+   "timestamp"
+  ],
+  "before": "00:43:22",
+  "after": "00:44:20",
+  "reason": "en-orig captions put the snippet's start at ~44:28, so the proposed 00:44:30 would land after it; set to 00:44:20 instead."
+ },
+ {
+  "claim": "C-11893",
+  "episode": 138,
+  "changed": [
+   "snippet",
+   "timestamp"
+  ],
+  "before": "timestamp: 00:45:49–00:46:30 | snippet: ",
+  "after": "timestamp: 00:45:20 | snippet: now local law enforcement and sheriffs in the Mississippi area where this event apparently took place have said there are no records, police reports or unsolved homicides matching your account from that time period.",
+  "reason": "en-orig captions: Piers's 'now local law enforcement and sheriffs... no records' runs 45:21-45:41 and Marx answers at 45:47, so the range start landed after the statement; snippet added."
+ },
+ {
+  "claim": "C-12046",
+  "episode": 140,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer | claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question. | Investigative Direction: Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.",
+  "after": "title: Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer | claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hull is saying Tyler stopped his car to ask the police officer a question. | Investigative Direction: Obtain the full Hull testimony transcript and the officer's report to determine who initiated the contact.",
+  "reason": "Transcript says 'Agent Hull's testimony'; 'Hoole' is a mis-transcription (also fixed in Investigative Direction); N-860 David Hull already correct."
+ },
+ {
+  "claim": "C-12172",
+  "episode": 141,
+  "changed": [
+   "claim",
+   "title"
+  ],
+  "before": "title: Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays | claim: In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing \"aggravated murder\" as the first charge.",
+  "after": "title: In a Clip the Host Plays, Wilson Names Murder as Robinson's Charge and Owens Begins Listing With Aggravated Murder | claim: In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson said he thought Robinson had been charged with murder, which Owens said was incorrect; Wilson then asked her to name all seven, and she began with aggravated murder, saying it carries the death sentence.",
+  "reason": "Transcript 45:30: Wilson says 'I think he's been charged with murder', Owens says that is incorrect, and after 'Name them' it is Owens who starts 'the first charge is aggravated murder'."
+ },
+ {
+  "claim": "C-12403",
+  "episode": 144,
+  "changed": [
+   "claim",
+   "mentions",
+   "title"
+  ],
+  "before": "title: Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie | claim: Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted. | mentions: N-14, N-1, N-3",
+  "after": "title: Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie | claim: Blake Neff says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted. | mentions: N-159, N-1, N-3",
+  "reason": "Transcript 37:31: Kolvet says 'Blake was early on' and Blake Neff then says 'I put out that tweet...'; mention N-14 (Kolvet) replaced by N-159 (Blake Neff)."
+ },
+ {
+  "claim": "C-13019",
+  "episode": 151,
+  "changed": [
+   "snippet",
+   "timestamp"
+  ],
+  "before": "timestamp: 00:11:11–00:14:18 | snippet: ",
+  "after": "timestamp: 00:13:10 | snippet: I just don't understand why Frank Turek thinks that he can just keep coming up with all of these euphemisms for lie.",
+  "reason": "en-orig captions put the host's euphemism remarks at 13:19-13:48, more than two minutes after the 11:11 range start; snippet added."
+ },
+ {
+  "claim": "C-14224",
+  "episode": 164,
+  "changed": [
+   "claim"
+  ],
+  "before": "The host says Erika Kirk has betrayed Charlie's legacy and that she \"obviously\" does not author her own tweets.",
+  "after": "After reading a viewer comment saying Erika has betrayed Charlie's legacy, the host says that \"obviously\" Erika Kirk does not author her own tweets.",
+  "reason": "Transcript 52:46: 'Erika has betrayed Charlie's legacy' is inside viewer Ali's comment the host reads; only 'obviously she doesn't author her tweets' is the host."
+ },
+ {
+  "claim": "C-12404",
+  "episode": 144,
+  "changed": [
+   "title",
+   "claim",
+   "mentions"
+  ],
+  "before": "Andrew Kolvet says…",
+  "after": "Blake Neff says…",
+  "reason": "Same misattribution as C-12403: Neff continues speaking (\"what I can tell you is…\") at 37:31."
+ }
+]

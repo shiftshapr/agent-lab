@@ -992,7 +992,7 @@ Anchored Artifacts: A-1449.1
 Mentions: N-272, N-40
 Related Nodes: N-10255
 Verification: corroborated
-Verification Evidence: S-3, S-4
+Verification Evidence: S-4
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
 ---
@@ -2193,11 +2193,11 @@ Investigative Direction: Compare the prosecution's text-message exhibits and Dai
 
 ---
 
-**C-3237** Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime
+**C-3237** Host Mocks the Official Account in Which 4.3-GPA Robinson Texted Every Minute of the Crime
 
 Claim Timestamp: 00:44:21
 
-Claim: The host says that despite having about a 4.3 GPA and being a boy genius in the official account, Robinson wrote every minute of the crime to his partner.
+Claim: The host mocks the official account, which she calls 'the conspiracy theory', in which Robinson, said to have about a 4.3 GPA and be a 'boy genius', texted every minute of the crime to his partner; she says she does not believe it.
 
 Transcript Snippet: despite the fact that he's got like a 4.3 GPA and he's like a boy genius, he decides to write every minute of the crime
 

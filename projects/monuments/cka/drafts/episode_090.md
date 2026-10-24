@@ -933,8 +933,6 @@ Mentions: N-40
 
 Related Nodes: N-10541
 
-Verification: contradicted-by-record
-Verification Evidence: S-4, S-5, S-7
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
 ---
@@ -1802,8 +1800,6 @@ Anchored Artifacts: A-2958.1
 Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013, N-10545
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-5
 Investigative Direction: Obtain the full search warrant affidavit and the photographs of the roommate's screen.
 Open Questions: Q-753
 

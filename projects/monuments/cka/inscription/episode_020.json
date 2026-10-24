@@ -5354,10 +5354,8 @@
         "N-3",
         "N-82"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-66"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

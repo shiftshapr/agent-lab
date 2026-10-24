@@ -1967,7 +1967,8 @@
       ],
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-56"
+        "S-56",
+        "S-76"
       ]
     },
     {
@@ -3754,8 +3755,8 @@
       "@type": "Claim",
       "@id": "C-8357",
       "ref": "C-8357",
-      "label": "Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood",
-      "claim": "The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him.",
+      "label": "Top Viewer Comment the Host Reads Says Flood Was Receiving Charlie's Messages That They Were Going to Kill Him",
+      "claim": "The host reads a top viewer comment saying Dan Flood was receiving Charlie's messages that they were going to kill him.",
       "anchored_artifacts": [
         "A-3137.1"
       ],

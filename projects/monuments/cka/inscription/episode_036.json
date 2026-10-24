@@ -1897,7 +1897,6 @@
       ],
       "verification_status": "corroborated",
       "verification_evidence": [
-        "S-3",
         "S-4"
       ]
     },
@@ -3639,8 +3638,8 @@
       "@type": "Claim",
       "@id": "C-3237",
       "ref": "C-3237",
-      "label": "Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime",
-      "claim": "The host says that despite having about a 4.3 GPA and being a boy genius in the official account, Robinson wrote every minute of the crime to his partner.",
+      "label": "Host Mocks the Official Account in Which 4.3-GPA Robinson Texted Every Minute of the Crime",
+      "claim": "The host mocks the official account, which she calls 'the conspiracy theory', in which Robinson, said to have about a 4.3 GPA and be a 'boy genius', texted every minute of the crime to his partner; she says she does not believe it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10316"

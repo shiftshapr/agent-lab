@@ -1426,7 +1426,7 @@ Related Nodes: N-10021, N-10932, N-11360
 Supports: C-133
 Tags: relevance:core
 Verification: contradicted-by-record
-Verification Evidence: S-3, S-4, S-5
+Verification Evidence: S-3, S-5
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
 Open Questions: Q-34
 

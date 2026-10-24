@@ -1764,8 +1764,6 @@ Anchored Artifacts: A-2338
 Mentions: N-159, N-1, N-190
 Related Nodes: N-10651
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Obtain the full transcript of the Neff testimony and the hearing in which it was given.
 Open Questions: Q-1135
 

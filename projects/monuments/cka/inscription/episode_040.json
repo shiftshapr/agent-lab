@@ -1579,10 +1579,8 @@
         "N-159",
         "N-1"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-49"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",

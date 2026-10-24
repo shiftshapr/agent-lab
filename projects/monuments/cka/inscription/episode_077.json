@@ -1521,13 +1521,14 @@
         "N-10462"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:31",
+      "claim_timestamp": "00:14:38",
       "investigative_direction": "Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.",
       "mentions_person_refs": [
         "N-2"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": "I am indeed able to find a relic of it on a third-party site, but I'm not able to independently verify it on New York State's Division of Licenses website now."
     },
     {
       "@type": "Claim",

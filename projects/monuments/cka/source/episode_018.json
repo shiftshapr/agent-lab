@@ -4479,7 +4479,7 @@
     },
     {
      "k": "Claim Timestamp",
-     "v": "00:39:09"
+     "v": "00:40:07"
     },
     {
      "raw": ""
@@ -4487,6 +4487,10 @@
     {
      "k": "Claim",
      "v": "The host says Plane 888's intended destination was Page, Arizona."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was supposed to land in Page, Arizona."
     },
     {
      "raw": ""

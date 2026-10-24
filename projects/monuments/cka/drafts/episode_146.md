@@ -2347,8 +2347,6 @@ Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-11065
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-7, S-11
 Investigative Direction: Read the defense brief on count seven and check whether any minors appear in crowd footage.
 Open Questions: Q-41, Q-1128, Q-1129
 

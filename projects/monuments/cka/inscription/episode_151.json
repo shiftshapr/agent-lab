@@ -1874,14 +1874,15 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:11:11–00:14:18",
+      "claim_timestamp": "00:13:10",
       "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.",
       "mentions_person_refs": [
         "N-7",
         "N-897"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": "I just don't understand why Frank Turek thinks that he can just keep coming up with all of these euphemisms for lie."
     },
     {
       "@type": "Claim",

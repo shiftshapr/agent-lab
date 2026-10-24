@@ -5311,8 +5311,8 @@
   {
    "kind": "claim",
    "id": "C-12046",
-   "header": "**C-12046** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer",
-   "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer",
+   "header": "**C-12046** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer",
+   "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hull as Saying He Stopped to Ask an Officer",
    "lines": [
     {
      "raw": ""
@@ -5326,7 +5326,7 @@
     },
     {
      "k": "Claim",
-     "v": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question."
+     "v": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hull is saying Tyler stopped his car to ask the police officer a question."
     },
     {
      "raw": ""
@@ -5360,7 +5360,7 @@
     },
     {
      "k": "Investigative Direction",
-     "v": "Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact."
+     "v": "Obtain the full Hull testimony transcript and the officer's report to determine who initiated the contact."
     },
     {
      "k": "Open Questions",
@@ -5820,14 +5820,6 @@
     {
      "k": "Tags",
      "v": "relevance:core"
-    },
-    {
-     "k": "Verification",
-     "v": "corroborated"
-    },
-    {
-     "k": "Verification Evidence",
-     "v": "S-7"
     },
     {
      "k": "Investigative Direction",

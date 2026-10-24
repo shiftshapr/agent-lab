@@ -750,8 +750,6 @@ Claim: In the video statement, TPUSA asserted that Charlie personally reviewed a
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-1
-Verification: corroborated
-Verification Evidence: S-49
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---

@@ -295,7 +295,28 @@ are copied into the inscriptions.
   old → new in `title_fixes.json`.
 - The labels are patched in the inscriptions and the companion. Claim ids and sentences are unchanged.
 
-**Not yet applied.** These are the other 6.2 items from the findings above:
-- the 30 material verification-status fixes (stratum A);
-- the about 70 note and evidence corrections (stratum A);
-- the 31 material allegation fixes (stratum C), apart from the title-framing ones the sweep covered.
+## 6.2 remaining fixes (2026-10-24)
+
+**Statuses: 30 material.** The 30 records were removed from `ledger/verification_record.json`, so those claims are
+`unverified` again. Each is logged with its audit reason in `removed_statuses.json`. Totals are now 553 corroborated
+and 34 contradicted-by-record.
+
+**Statuses: 65 minor.** An Opus agent corrected the notes and evidence (`status_log.json`): 43 records got both a note
+and an evidence fix, 16 a note only, and 6 evidence only.
+- **Quotes.** Every added quote was checked verbatim against the private source texts.
+- **Bare answers.** Where a witness's answer was a bare "Yes." or "No.", the question is now cited as its own evidence
+  entry, with kind `question`.
+- **Audit overruled.** Five audit suggestions were overruled where the source shows otherwise: C-124, C-4080, C-6265,
+  C-6532 and C-10786/C-10883.
+
+**Claims: 34 material** (stratum C 31, stratum D 3). An Opus agent re-checked each fix against the transcript, and
+against the YouTube captions where the corrected transcript was empty, before applying it. Changes are in
+`claims_log.json`.
+- **Changed:** 31 claims across 28 episodes. This covers titles, claim sentences, timestamps, snippets and one person
+  id.
+- **Already correct:** 3 (the title sweep had covered them).
+- **Fixed differently from the proposal:** 3, because the transcript showed otherwise: C-7328, C-10842 and C-1486.
+- **Found during the fix:** C-12404 had the same misattribution as C-12403 (Blake Neff's words given to Andrew Kolvet)
+  and was fixed too.
+- **Published copies.** The edited fields were patched into the inscriptions by claim id. A full rebuild changes
+  unrelated content, so it was not used.

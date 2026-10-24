@@ -634,7 +634,7 @@
 
 ## contradicts: C-12405 (2026-08-20) → C-12404 (2026-08-20) · not host vs herself · review: unreviewed
 - **Delta:** (none recorded)
-- **Then** (ep 144, Candace Ep 379, 00:37:31, [clip](https://youtu.be/_cNtgris8Ik?t=2251)): Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.
+- **Then** (ep 144, Candace Ep 379, 00:37:31, [clip](https://youtu.be/_cNtgris8Ik?t=2251)): Blake Neff says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.
 - **Now** (ep 144, Candace Ep 379, 00:38:50, [clip](https://youtu.be/_cNtgris8Ik?t=2330)): The host says Charlie and Erika Kirk were at her wedding at the end of 2019, which she uses to rebut the claim the friendship ended badly.
 
 ## contradicts: C-12692 (2026-09-02) → C-4104 (2025-12-16) · not host vs herself · review: unreviewed

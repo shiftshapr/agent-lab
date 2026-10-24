@@ -1999,12 +1999,8 @@
       "mentions_person_refs": [
         "N-40"
       ],
-      "verification_status": "contradicted-by-record",
-      "verification_evidence": [
-        "S-4",
-        "S-5",
-        "S-7"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3424,10 +3420,8 @@
         "N-40",
         "N-54"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-5"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-753"
       ]

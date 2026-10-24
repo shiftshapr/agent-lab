@@ -1036,7 +1036,7 @@ Investigative Direction: Collect Trump's and Bongino's public statements on the 
 
 ---
 
-**C-9955** Host says the Comperatore family is not satisfied with the Butler investigation
+**C-9955** Host says she has it on authority the Comperatore family is not satisfied with the Butler investigation
 
 Claim Timestamp: 00:23:20
 

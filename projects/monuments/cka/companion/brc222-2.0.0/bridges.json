@@ -2,8 +2,8 @@
   "vocabulary_version": "2.0.0",
   "edge_counts": {
     "contradicts": 131,
-    "extends": 1150,
-    "isCorroboratedBy": 1327,
+    "extends": 1154,
+    "isCorroboratedBy": 1323,
     "isMemberOf": 20435,
     "isQualifiedBy": 159,
     "isSupportedBy": 8302
@@ -23258,10 +23258,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-1487",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-1487",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 16
     },
     {
@@ -34322,10 +34322,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-2305",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-2305",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 25
     },
     {
@@ -69231,10 +69231,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-4758",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-4758",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 54
     },
     {
@@ -110916,10 +110916,10 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1486",
-      "to": "C-7777",
-      "relationship": "isCorroboratedBy",
-      "explanation": "Independent or relayed source corroborates prior claim",
+      "from": "C-7777",
+      "to": "C-1486",
+      "relationship": "extends",
+      "explanation": "Same host reiterates or builds on her own prior claim (not independent)",
       "episode": 87
     },
     {

@@ -2916,10 +2916,8 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "verification_status": "contradicted-by-record",
-      "verification_evidence": [
-        "S-7"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-27",
         "Q-64"

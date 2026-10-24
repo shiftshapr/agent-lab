@@ -1993,7 +1993,7 @@ Open Questions: Q-957
 
 **C-10842** Host Says the Witness Says the Gun Was Not the One Used per the Official Account
 
-Claim Timestamp: 00:43:22
+Claim Timestamp: 00:44:20
 
 Claim: The host says the witness is credible and also says it just was not the gun that is said to have been used by Tyler Robinson to kill Charlie Kirk.
 
@@ -2187,8 +2187,6 @@ Anchored Artifacts: A-2976.3
 Mentions: N-40
 Related Nodes: N-10095
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-1, S-5
 Investigative Direction: Find the cited Robinson text messages in the charging documents and identify who was interrogated.
 Open Questions: Q-965
 

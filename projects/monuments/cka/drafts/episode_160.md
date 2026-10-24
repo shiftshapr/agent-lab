@@ -1483,8 +1483,6 @@ Mentions: N-266
 Related Nodes: N-10636
 Supports: C-12856
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-12
 Investigative Direction: Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car.
 Open Questions: Q-915
 

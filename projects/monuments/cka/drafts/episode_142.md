@@ -1009,7 +1009,7 @@ Mentions: N-261
 Related Nodes: N-10721, N-10722
 
 Verification: corroborated
-Verification Evidence: S-3
+Verification Evidence: S-2, S-3
 Investigative Direction: Verify the existence and timestamps of the four Google Drive videos referenced in the 1102 statement; obtain authenticated copy of the statement.
 
 ---

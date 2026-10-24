@@ -941,11 +941,11 @@ Related Nodes: N-10228
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
-**C-2570** Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security
+**C-2570** Host Says CIA Spokeswoman Liz Lyons Stated Shauni Kerkhoff Worked in Capitol Police Campus Security
 
 Claim Timestamp: 00:10:32
 
-Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, "the alleged person who dropped off these pipe bombs," worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.
+Claim: The host says CIA spokeswoman Liz Lyons stated that Shauni Kerkhoff worked in Capitol Police campus security; the host calls Kerkhoff "the alleged person who dropped off these pipe bombs" and adds that she lives in Alexandria, Virginia.
 
 Anchored Artifacts: A-1368.1
 Mentions: N-238, N-239

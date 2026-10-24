@@ -765,7 +765,7 @@ Transcript Snippet: Actually, Frank Chirico and the security team should have be
 Anchored Artifacts:
 Mentions: N-7, N-1
 Verification: corroborated
-Verification Evidence: S-2, S-12
+Verification Evidence: S-2, S-12, S-27
 Investigative Direction: Obtain Timpanogos Hospital arrival records and the security team's call logs for September 10, 2025.
 
 ---

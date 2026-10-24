@@ -1601,7 +1601,7 @@ Investigative Direction: The FOIA request numbers and agency correspondence.
 
 ---
 
-**C-9768** Host says Erika Kirk is treated as an "emotional asset" and the Department of War appears involved
+**C-9768** Host says Erika Kirk is considered an "emotional asset" and the Department of War appears involved in the emails
 
 Claim Timestamp: 01:20:03
 

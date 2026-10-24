@@ -1463,8 +1463,8 @@
       "@type": "Claim",
       "@id": "C-12172",
       "ref": "C-12172",
-      "label": "Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays",
-      "claim": "In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing \"aggravated murder\" as the first charge.",
+      "label": "In a Clip the Host Plays, Wilson Names Murder as Robinson's Charge and Owens Begins Listing With Aggravated Murder",
+      "claim": "In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson said he thought Robinson had been charged with murder, which Owens said was incorrect; Wilson then asked her to name all seven, and she began with aggravated murder, saying it carries the death sentence.",
       "anchored_artifacts": [
         "A-2277.4"
       ],
@@ -1477,7 +1477,8 @@
         "N-40"
       ],
       "verification_status": "unverified",
-      "verification_evidence": []
+      "verification_evidence": [],
+      "transcript_snippet": null
     },
     {
       "@type": "Claim",

@@ -2008,10 +2008,8 @@
         "N-42",
         "N-410"
       ],
-      "verification_status": "contradicted-by-record",
-      "verification_evidence": [
-        "S-3"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-1020"
       ]

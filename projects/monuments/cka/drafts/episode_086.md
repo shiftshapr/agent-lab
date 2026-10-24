@@ -1541,8 +1541,6 @@ Anchored Artifacts: A-1912.1
 Mentions: N-40
 Related Nodes: N-10106, N-10647
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-6
 Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying electronic data.
 Open Questions: Q-93, Q-751
 
@@ -1561,8 +1559,6 @@ Mentions: N-40
 Related Nodes: N-10523, N-10896
 Supports: C-7731
 Tags: relevance:core
-Verification: corroborated
-Verification Evidence: S-5
 Investigative Direction: Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.
 Open Questions: Q-717
 

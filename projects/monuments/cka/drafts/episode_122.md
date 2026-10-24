@@ -1148,8 +1148,6 @@ Claim: A podcast audio clip of Frank Turek, played during the episode, contains 
 Anchored Artifacts: A-2109.1
 Mentions: N-1, N-7
 Related Nodes: N-10636
-Verification: corroborated
-Verification Evidence: S-7
 Investigative Direction: Compare against the official autopsy report and Brian Harpole's prior podcast statements.
 
 ---

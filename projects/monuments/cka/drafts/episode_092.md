@@ -2039,7 +2039,7 @@ Open Questions: Q-584
 
 Claim Timestamp: 00:45:03
 
-Claim: The host says that, according to current and former employees, Marcus Wada also says his brother is still involved in the trafficking game in some way.
+Claim: The host says that, according to current and former employees, Marcus Wada says his brother is still involved 'in the industry in some way'; she adds she cannot be sure whether this is charitable, that the brother runs a consultancy on human trafficking, and says 'these people are not involved in the trafficking.'
 
 Transcript Snippet: Marcus Wada also says that his brother is still involved in the game somehow in the industry in some way.
 

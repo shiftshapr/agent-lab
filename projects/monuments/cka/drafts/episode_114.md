@@ -687,13 +687,13 @@ Investigative Direction: Obtain the December call and text records between Carls
 
 ---
 
-**C-9870** Host says the Butler story terrified Dan Bongino and Kash Patel
+**C-9870** Host says her understanding is that the Butler story terrified Dan Bongino and Kash Patel
 
 Claim Timestamp: 00:04:34
 
-Claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, the host says the Butler story, "perhaps the butler cover up", terrified Bongino and Patel.
+Claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, and that Bongino grew hysterical and was terrified, the host says her understanding of what Carlson means is that the Butler story, "perhaps the butler cover up", terrified Bongino and Patel.
 
-Transcript Snippet: this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel.
+Transcript Snippet: My understanding and I think any rational person's understanding of what he means is that this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel.
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-378, N-69, N-104
@@ -1176,7 +1176,7 @@ Investigative Direction: Review the CBS / Bari Weiss town hall transcript for th
 
 ---
 
-**C-9903** Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar
+**C-9903** Host alleges Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling her a liar
 
 Claim Timestamp: 00:30:08
 

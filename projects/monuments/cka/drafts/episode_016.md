@@ -1125,11 +1125,12 @@ Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; 
 
 ---
 
-**C-1433** Kolvet shared screen grab with government figures within 33 hours
+**C-1433** Kolvet Says He Shared the Screen Grab With Some People in Government in the First Moments
 
-Claim Timestamp: 00:15:24
+Claim Timestamp: 00:14:58
 
-Claim: Andrew Kolvet stated he shared the text-message screen grab with "a few people in government" within the first 33 hours after Kirk's death, before the suspect was publicly identified.
+Claim: In the clip, Andrew Kolvet says he shared the screen grab with some people in government in the first moments, noting it took 33 hours for authorities to get their suspect.
+Transcript Snippet: But I did share it with some people in government because it happened really quick.
 
 Anchored Artifacts: A-1228.2
 Mentions: N-14
@@ -1380,11 +1381,12 @@ Investigative Direction: Identify the party that authorized the lock change (Lan
 
 ---
 
-**C-1486** George Zinn told medical staff he was being paid to claim responsibility
+**C-1486** Host Relays Tip That George Zinn Told Medical Staff He Was Being Paid to Claim Responsibility
 
 Claim Timestamp: 00:41:24
 
-Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.
+Claim: The host says she received a tip, which she says she vetted, that George Zinn, while receiving medical treatment after the shooting, told multiple nurses and doctors that he did it because he was being paid to do it, that he had not been paid yet but was going to receive payment, and that he did not know from whom.
+Transcript Snippet: he told multiple nurses and doctors that he did it because he was being paid to do it.
 
 Anchored Artifacts: A-1235.4
 Mentions: N-3, N-42

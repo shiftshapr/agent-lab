@@ -2278,10 +2278,8 @@
         "N-270",
         "N-271"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-12"
-      ]
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3313,10 +3311,8 @@
         "N-271",
         "N-270"
       ],
-      "verification_status": "corroborated",
-      "verification_evidence": [
-        "S-12"
-      ],
+      "verification_status": "unverified",
+      "verification_evidence": [],
       "open_questions": [
         "Q-841"
       ]
