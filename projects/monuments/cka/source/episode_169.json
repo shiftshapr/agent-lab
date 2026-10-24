@@ -1,0 +1,8850 @@
+{
+ "format": "cka-source/1",
+ "episode": 169,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 169",
+    "- **Monument**: cka",
+    "- **CKA seq**: 169",
+    "- **YouTube id**: ZxlvNO8OVmc",
+    "- **Candace Ep**: 406 (inferred; title omits Ep number)",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00-00:59:09",
+    "- **Extraction Timestamp (UTC)**: 2026-10-23T23:06:43Z",
+    "- **Transcript SHA-256**: b25e3729ea780969df2ae7b71cf6e21ad40701b7e5c0dee497db9d1661a1bd64",
+    "- **Model Version**: claude-manual-extract-seq169",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (daily-2026-10-23): N-977, N-978, N-979, N-980, N-981, N-982, N-11365, N-11366, N-11367, N-11368, N-11369, N-11370, N-11371, N-11372, N-11373, N-11374",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-18, N-22, N-25, N-30, N-40, N-54, N-60, N-95, N-119, N-146, N-163, N-202, N-224, N-227, N-281, N-330, N-358, N-506, N-570, N-10000, N-10003, N-10012, N-10050, N-10085, N-10086, N-10303, N-10328, N-10488, N-10496, N-10538, N-10545, N-10558, N-10559, N-10639, N-10684, N-10750, N-10755, N-10770, N-10773, N-10806, N-10809, N-10846, N-11021, N-11213, N-11229, N-11232, N-11277, N-11341",
+    "  - Claim Range: C-14556–C-14641",
+    "  - (see registers)",
+    "",
+    "# Episode 169 Analysis",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 406 (2026-10-21). The host says this is her last solo show before Baron Coleman joins her for a handoff episode. She opens with a clip she plays of Zee Cohen, founder of the left-wing Unf*ck America tour, attending a Turning Point USA \"conspiracy night\" at the University of Nevada, Las Vegas and suggesting TPUSA had something to do with Charlie Kirk's murder, before a presenter says his bosses told him he cannot take that one. The host says TPUSA now screens questions and fills audiences with donors and staff. She then reads a CityView article and an October 2 school email, which she says parents sent her, about Erika Kirk's planned October 28 chapel appearance at Fayetteville Christian School, a K–12 campus in Fayetteville, North Carolina. She contrasts the visit with TPUSA's repeated claims that Erika is under threat, and alleges a theme of child abuse and trafficking ties among people around the September 10 case. She repeats her opinion that Lance Twiggs may have been blackmailed for an internet crime and may have helped set up Tyler Robinson as a patsy.",
+    "",
+    "According to the host, viewers emailed to say the exceptionally tall \"Slender Man\" seen on the Losee Center rooftop about 20 minutes after the shooting resembles \"Waluigi\", the tall driver of a grey Dodge Challenger in the admissions lot that morning. She shows the clips side by side and says she will not assert they are the same person. She notes that Tyler Robinson is 5'10\" and speculates that the man returned to drop the screwdriver Officer Bagley later found. She says she is holding back evidence until trial, and that Friday's trial-setting hearing will bar video, audio and broadcast, with only still photography by Deseret News permitted.",
+    "",
+    "After the ads the host criticizes Republican midterm messaging: Trump's Epstein post, the Iran war, the podcaster focus on Lindsay Clancy and the Cornell 7 case. She covers a Vivek Ramaswamy campaign ad, against Ohio gubernatorial candidate Amy Acton, in which Acton's mother calls her a liar. The host says Acton was abused as a child and removed from her mother's custody. She plays the ad and reads a Laura Loomer post defending it. She then plays an Allie Beth Stuckey clip saying Christians should not be fans of horror, true crime or Law & Order: SVU. She argues that this inverts the \"do not fear\" scripture, and she reads posts by Matt Walsh and a user she names as C. F. Dalton.",
+    "",
+    "In the comments segment she reads viewer comments on an RFK autism registry and Brian Cole Jr., and she quotes her own line \"Charlie died free.\" She says an archbishop told Father Ripperger to take a one-year break from podcasts, and that Charlie had been moving toward the Catholic faith and the two never betrayed each other. She reads a viewer comment that Fort Bragg and the 8th Psychological Operations Group are in Fayetteville, and says the school's founder has a military background and is married to a colonel. She closes with Baron Coleman merch (\"I will not believe the Fed slop\") and a preview of the handoff episode.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3430",
+   "header": "**A-3430** Unf*ck America UNLV Conspiracy Night Clip Bundle",
+   "label": "Unf*ck America UNLV Conspiracy Night Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3430.1",
+   "header": "**A-3430.1** Clip the host plays of Zee Cohen attending Turning Point USA's conspiracy night at UNLV and a TPUSA presenter's response",
+   "label": "Clip the host plays of Zee Cohen attending Turning Point USA's conspiracy night at UNLV and a TPUSA presenter's response",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"This is a conspiracy that I actually have thought a lot about, and that is that I think that um Turning Point USA might have had something to do with the Charlie Kirk murder.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14559, C-14560, N-977, N-11365, N-11366, N-10000*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3431",
+   "header": "**A-3431** Fayetteville Christian School Erika Kirk Visit Documents Bundle",
+   "label": "Fayetteville Christian School Erika Kirk Visit Documents Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3431.1",
+   "header": "**A-3431.1** CityView article the host shows: \"Erika Kirk visit to Fayetteville Christian School concerns some parents\"",
+   "label": "CityView article the host shows: \"Erika Kirk visit to Fayetteville Christian School concerns some parents\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"CityView: Erika Kirk visit to Fayetteville Christian School concerns some parents.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14565, C-14566, C-14567, C-14568, C-14569, C-14570, N-2, N-978, N-11367, N-11368*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3431.2",
+   "header": "**A-3431.2** October 2 Fayetteville Christian School email to families, which the host reads (times redacted by the host)",
+   "label": "October 2 Fayetteville Christian School email to families, which the host reads (times redacted by the host)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Dear FCS families, we are honored and excited to share that Erika Kirk's team reached out to Fayetteville Christian School and invited us to host her for a special chapel service.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14572, C-14573, C-14574, N-2, N-11367*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3432",
+   "header": "**A-3432** DIA Tips Bundle",
+   "label": "DIA Tips Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3432.1",
+   "header": "**A-3432.1** Host verbal thanks to Fayetteville Christian School parents who emailed the details and the full school email",
+   "label": "Host verbal thanks to Fayetteville Christian School parents who emailed the details and the full school email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14572, N-11367*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3432.2",
+   "header": "**A-3432.2** Host verbal reference to viewer emails noting that the rooftop \"Slender Man\" resembles \"Waluigi\"",
+   "label": "Host verbal reference to viewer emails noting that the rooftop \"Slender Man\" resembles \"Waluigi\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14588, N-10770*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3433",
+   "header": "**A-3433** Waluigi / Slender Man Footage Bundle",
+   "label": "Waluigi / Slender Man Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3433.1",
+   "header": "**A-3433.1** Previously shown clip of \"Waluigi\" walking in the UVU admissions lot at about 8:00 a.m.",
+   "label": "Previously shown clip of \"Waluigi\" walking in the UVU admissions lot at about 8:00 a.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14591, N-10770, N-10012*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3433.2",
+   "header": "**A-3433.2** Side-by-side footage of the rooftop \"Slender Man\" and \"Waluigi\" walking",
+   "label": "Side-by-side footage of the rooftop \"Slender Man\" and \"Waluigi\" walking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14592, N-10770, N-10684*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3434",
+   "header": "**A-3434** Ramaswamy Campaign Ad Featuring Donna Arthur Bundle",
+   "label": "Ramaswamy Campaign Ad Featuring Donna Arthur Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3434.1",
+   "header": "**A-3434.1** Vivek Ramaswamy campaign attack ad the host plays, in which Amy Acton's mother calls her a liar",
+   "label": "Vivek Ramaswamy campaign attack ad the host plays, in which Amy Acton's mother calls her a liar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I love my daughter, but when I saw her lying about her opponent, it's not easy for a mother to say this, but Amy has a serious problem. She is a liar.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14609, C-14610, N-119, N-979, N-980, N-11372*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3435",
+   "header": "**A-3435** Laura Loomer Post on the Acton Ad Bundle",
+   "label": "Laura Loomer Post on the Acton Ad Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3435.1",
+   "header": "**A-3435.1** Laura Loomer post the host reads defending the ad",
+   "label": "Laura Loomer post the host reads defending the ad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Seriously, screw every Republican who's attacking Vivek over this ad by Amy Acton's own mother calling Amy out for being a liar.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14612, C-14613, C-14614, C-14615, N-60, N-981, N-982, N-11372*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3436",
+   "header": "**A-3436** Allie Beth Stuckey Horror Clip Bundle",
+   "label": "Allie Beth Stuckey Horror Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3436.1",
+   "header": "**A-3436.1** Clip the host plays of Allie Beth Stuckey saying Christians should not be fans of horror",
+   "label": "Clip the host plays of Allie Beth Stuckey saying Christians should not be fans of horror",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I also just don't think that Christians should be a fan of horror in general.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14620, C-14621, C-14622, N-227, N-11373*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3437",
+   "header": "**A-3437** Responses to Stuckey Horror Remarks Bundle",
+   "label": "Responses to Stuckey Horror Remarks Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3437.1",
+   "header": "**A-3437.1** Matt Walsh post the host reads",
+   "label": "Matt Walsh post the host reads",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I'd actually argue that horror is the most Christian genre of film.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14623, N-163, N-11373*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3437.2",
+   "header": "**A-3437.2** Post by a user the host names as C. F. Dalton, which the host reads",
+   "label": "Post by a user the host names as C. F. Dalton, which the host reads",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The real problem is not that some Christians watch The Exorcist. It's that most Christian storytelling has become allergic to difficulty.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14625, N-11373*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3438",
+   "header": "**A-3438** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3438.1",
+   "header": "**A-3438.1** Viewer comment (Box Cowfish) on an RFK autism registry and Brian Cole",
+   "label": "Viewer comment (Box Cowfish) on an RFK autism registry and Brian Cole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Also, remember last May when RFK was pushing to establish a registry for people with autism.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14627, N-358, N-25*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3438.2",
+   "header": "**A-3438.2** Viewer comment (Michael) quoting the host's line \"Charlie died free\"",
+   "label": "Viewer comment (Michael) quoting the host's line \"Charlie died free\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Best Candace quotes, 'Charlie died free. You, President Trump, will die a slave.'\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14629, N-1, N-5*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3438.3",
+   "header": "**A-3438.3** Viewer comment (Cone film): \"Free Brian Cole.\"",
+   "label": "Viewer comment (Cone film): \"Free Brian Cole.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Free Brian Cole.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14634, N-25*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3438.4",
+   "header": "**A-3438.4** Viewer comment (Jane Doe) on Fort Bragg and the 8th Psychological Operations Group in Fayetteville",
+   "label": "Viewer comment (Jane Doe) on Fort Bragg and the 8th Psychological Operations Group in Fayetteville",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Guess what's in Fayetteville, Fort Bragg. Guess what is there? The eighth psychological operations group.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14635, N-11374, N-11367*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's late friend. She discusses his debate-driven campus model, his move toward Catholicism, their unbroken friendship and her \"Charlie died free\" line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14559, C-14561, C-14585, C-14587, C-14608, C-14626, C-14629, C-14631, C-14632, A-3438.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA CEO. Her planned October 28 chapel appearance at Fayetteville Christian School is the opening controversy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14564, C-14565, C-14566, C-14567, C-14568, C-14572, C-14573, C-14574, C-14575, C-14577, C-14578, C-14579, C-14580, C-14581, C-14635, A-3431.1, A-3431.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14556, C-14571, C-14576, C-14616, C-14618, C-14619, C-14628, C-14631, C-14632, C-14638, C-14640*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referred to as \"the Vice President of the United States\" who, per the host, said even his Secret Service team could not keep Erika safe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14578*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host criticizes his Epstein post and the Iran war messaging. He is named in Loomer's post and in the viewer comment quoting \"Charlie died free\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14599, C-14600, C-14608, C-14613, C-14629, A-3438.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's critique of Trump's Epstein messaging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14599*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-18",
+   "header": "**N-18** Andrew Wilson",
+   "label": "Andrew Wilson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host recalls the debate with him she had hoped would examine the evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14641*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host predicts that Republicans will blame her and Tucker for midterm losses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14616*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-25",
+   "header": "**N-25** Brian Cole Jr.",
+   "label": "Brian Cole Jr.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of viewer comments (\"Free Brian Cole\"); the host says she will keep covering the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14627, C-14634, A-3438.1, A-3438.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says her husband once debated Allie Beth Stuckey."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14619*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he is 5'10\" and repeats her opinion that he was set up as a patsy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14584, C-14593*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-54",
+   "header": "**N-54** Lance Twiggs",
+   "label": "Lance Twiggs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host wonders aloud whether he was blackmailed by the state over an internet crime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14583, C-14584*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host reads her post defending the Ramaswamy ad and says she replaced Charlie as a Trump adviser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14608, C-14612, C-14613, C-14614, C-14615, A-3435.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-95",
+   "header": "**N-95** Jack Posobiec",
+   "label": "Jack Posobiec",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host thinks he posted about the horror of Christ's passion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14624*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-119",
+   "header": "**N-119** Vivek Ramaswamy",
+   "label": "Vivek Ramaswamy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Ohio gubernatorial candidate whose campaign made the ad featuring Amy Acton's mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14604, C-14605, C-14612, C-14617, A-3434.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-146",
+   "header": "**N-146** Theo Von",
+   "label": "Theo Von",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says his new special dropped on Netflix."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14633*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-163",
+   "header": "**N-163** Matt Walsh",
+   "label": "Matt Walsh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host reads his post arguing that horror is the most Christian film genre."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14623, A-3437.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-202",
+   "header": "**N-202** Lindsay Clancy",
+   "label": "Lindsay Clancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says conservative podcasters seized on her case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14601*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he interviewed Father Ripperger."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14630*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-227",
+   "header": "**N-227** Allie Beth Stuckey",
+   "label": "Allie Beth Stuckey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host covers her remarks that Christians should not consume horror and her earlier TikTok comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14602, C-14618, C-14619, C-14620, C-14621, C-14622, A-3436.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-281",
+   "header": "**N-281** Jennica Pounds",
+   "label": "Jennica Pounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "\"Data Republican\"; the host says she posted a thread about threats to Erika while working for the Department of Defense."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14577*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Joins the host tomorrow for a handoff episode and takes over the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14556, C-14639, C-14640*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-358",
+   "header": "**N-358** Robert F. Kennedy Jr.",
+   "label": "Robert F. Kennedy Jr.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "A viewer comment says he pushed for an autism registry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14627, A-3438.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-506",
+   "header": "**N-506** Christopher Bagley",
+   "label": "Christopher Bagley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Officer Bagley located the screwdriver less than 2 minutes after the tall man left the walkway."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14594*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-570",
+   "header": "**N-570** Father Chad Ripperger",
+   "label": "Father Chad Ripperger",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says an archbishop told him to take a one-year break from podcasts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14630*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-977",
+   "header": "**N-977** Zee Cohen",
+   "label": "Zee Cohen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "02:19 in episode 169. Founder of the Unf*ck America tour; the host plays her clip from a TPUSA conspiracy night at UNLV.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Zee Cohen"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14558, C-14559, A-3430.1, N-11365*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-978",
+   "header": "**N-978** Tammi Peters",
+   "label": "Tammi Peters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "06:58 in episode 169. Per the CityView article, co-founder and head of Fayetteville Christian School. The host later calls her \"Jamie Peters\" and says the founder has a military background and is married to a colonel.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Jamie Peters"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14568, C-14636, C-14637, A-3431.1, N-11367*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-979",
+   "header": "**N-979** Amy Acton",
+   "label": "Amy Acton",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "27:40 in episode 169. Ohio gubernatorial candidate running against Vivek Ramaswamy, whose mother appears in his campaign's attack ad.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14604, C-14605, C-14606, C-14607, C-14609, C-14610, C-14611, C-14612, C-14614, C-14615, A-3434.1, N-11372*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-980",
+   "header": "**N-980** Donna Arthur",
+   "label": "Donna Arthur",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named in the ad the host plays at 00",
+     "v": "29:25 in episode 169. Amy Acton's mother, featured in the Ramaswamy campaign ad.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Donna Arthur (transcription)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14607, C-14609, C-14610, C-14615, A-3434.1, N-11372*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-981",
+   "header": "**N-981** Paul Gosar",
+   "label": "Paul Gosar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named at 00",
+     "v": "31:10 in episode 169, as \"Rep. Gosar\" in the Laura Loomer post the host reads.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Rep. Gosar"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14613, A-3435.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-982",
+   "header": "**N-982** Mary Trump",
+   "label": "Mary Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named at 00",
+     "v": "31:10 in episode 169, in the Laura Loomer post the host reads.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14613, A-3435.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host discusses its conspiracy night at UNLV, its question screening and its school events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14557, C-14558, C-14559, C-14560, C-14562, C-14563, C-14575, C-14579, C-14626, A-3430.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10846",
+   "header": "**N-10846** Turning Point Action",
+   "label": "Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host alleges it concocted the statue vandalism as a fundraiser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14561*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10750",
+   "header": "**N-10750** Statue Vandalism Investigation",
+   "label": "Statue Vandalism Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host calls the vandalism an inside job and mocks the claimed security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14561, C-14575*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referred to as the Department of Defense; the host says Jennica Pounds worked for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14577*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10806",
+   "header": "**N-10806** Jennica Pounds DoD Special Government Employee Thread",
+   "label": "Jennica Pounds DoD Special Government Employee Thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The thread the host says detailed threats to Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14577*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10558",
+   "header": "**N-10558** Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "label": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host contrasts TPUSA's threat messaging with Erika's school visits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14575, C-14578, C-14579*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10559",
+   "header": "**N-10559** High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
+   "label": "High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host recalls Erika not attending the Georgia college event, citing safety."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14579*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10488",
+   "header": "**N-10488** Club America High School Pushback",
+   "label": "Club America High School Pushback",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Background for the host's claim that the early youth event was a forced assembly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14571*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11213",
+   "header": "**N-11213** TPUSA Mandatory Student Attendance at Erika Kirk Events",
+   "label": "TPUSA Mandatory Student Attendance at Erika Kirk Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Fayetteville Christian School chapel visit continues this thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14564, C-14571, C-14572, C-14573, C-14574, C-14581*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10755",
+   "header": "**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
+   "label": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host alleges child-abuse scandals running tangential to TPUSA and a trafficking theme among people tied to September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14580, C-14582*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10545",
+   "header": "**N-10545** Lance Twiggs Federal Asset Question",
+   "label": "Lance Twiggs Federal Asset Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's blackmail hypothesis about Twiggs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14583*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10639",
+   "header": "**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+   "label": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's opinion that Twiggs helped set Robinson up as a patsy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14584*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10684",
+   "header": "**N-10684** Rooftop Movement Tactical Analysis",
+   "label": "Rooftop Movement Tactical Analysis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The military crawl across the Losee Center rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14586, A-3433.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10050",
+   "header": "**N-10050** Vacant-House / Decoy Shooter Theory",
+   "label": "Vacant-House / Decoy Shooter Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's view that the rooftop was a show and a distraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14587*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10770",
+   "header": "**N-10770** \"Waluigi\" Unknown Driver",
+   "label": "\"Waluigi\" Unknown Driver",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Viewers liken the tall rooftop figure to Waluigi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14588, C-14589, C-14590, C-14591, C-14592, C-14593, C-14595, A-3432.2, A-3433.1, A-3433.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10773",
+   "header": "**N-10773** Two Grey Dodge Challengers Discrepancy",
+   "label": "Two Grey Dodge Challengers Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Waluigi's grey Dodge Challenger in the admissions lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14589*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Location of the admissions lot and the Losee Center rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14585, C-14591, A-3433.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10086",
+   "header": "**N-10086** Screwdriver Evidence Question",
+   "label": "Screwdriver Evidence Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host speculates the tall man dropped the screwdriver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14594*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for the host's critique of Trump's Epstein messaging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14599*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11232",
+   "header": "**N-11232** 2026 Midterm Outlook and Conservative Infighting Commentary",
+   "label": "2026 Midterm Outlook and Conservative Infighting Commentary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's critique of Republican midterm messaging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14599, C-14600, C-14601, C-14602, C-14603, C-14604, C-14616*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10496",
+   "header": "**N-10496** Strait of Hormuz / US-Iran War Context",
+   "label": "Strait of Hormuz / US-Iran War Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Iran war the host says voters did not want."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14600*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11021",
+   "header": "**N-11021** TikTok",
+   "label": "TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Stuckey's comment that wives should not be on TikTok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14602*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11341",
+   "header": "**N-11341** Cornell 7 Case",
+   "label": "Cornell 7 Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Republicans were too vocal about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14603*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10538",
+   "header": "**N-10538** Laura Loomer Influence on Trump Policy Question",
+   "label": "Laura Loomer Influence on Trump Policy Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Loomer replaced Charlie as a Trump adviser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14608*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10003",
+   "header": "**N-10003** Charlie-Candace Friendship Continuity",
+   "label": "Charlie-Candace Friendship Continuity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says neither ever betrayed the other."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14631, C-14632*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10085",
+   "header": "**N-10085** Charlie Kirk / Candace Alleged Falling Out",
+   "label": "Charlie Kirk / Candace Alleged Falling Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says forces tried to drive them apart."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14632*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10328",
+   "header": "**N-10328** Charlie Kirk Catholicism Journey",
+   "label": "Charlie Kirk Catholicism Journey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Charlie started to pursue the Catholic faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14631*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11229",
+   "header": "**N-11229** Candace Owens Leave and Baron Coleman Substitute Hosting",
+   "label": "Candace Owens Leave and Baron Coleman Substitute Hosting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Last solo show, handoff episode, Baron starting the first week of November."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14556, C-14638, C-14639, C-14640*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11277",
+   "header": "**N-11277** Wilson Debate Offer and Counter-Terms",
+   "label": "Wilson Debate Offer and Counter-Terms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host recalls the discussion she had hoped for in the Andrew Wilson debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14641*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11365",
+   "header": "**N-11365** Unf*ck America Tour",
+   "label": "Unf*ck America Tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Left-wing campus tour and group (transcribed \"un f America\" / \"Unf America\") which, per the host, sees itself at war with Turning Point USA over ideas on college campuses. Its founder Zee Cohen attended a TPUSA conspiracy night at UNLV."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14557, C-14558, C-14559, A-3430.1, N-977*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11366",
+   "header": "**N-11366** University of Nevada, Las Vegas",
+   "label": "University of Nevada, Las Vegas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Campus where, per the host, Turning Point USA hosted a \"conspiracy night\" that Zee Cohen attended."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14558, A-3430.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11367",
+   "header": "**N-11367** Fayetteville Christian School",
+   "label": "Fayetteville Christian School",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Private K–12 Christian school in Fayetteville, North Carolina, where, per CityView and a school email, Erika Kirk is to address junior high and high school students at a chapel service on October 28."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14564, C-14565, C-14566, C-14567, C-14568, C-14569, C-14570, C-14572, C-14573, C-14574, C-14635, C-14636, C-14637, A-3431.1, A-3431.2, A-3432.1, A-3438.4, N-978*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11368",
+   "header": "**N-11368** CityView",
+   "label": "CityView",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Local news outlet whose article on parent concerns about Erika Kirk's Fayetteville Christian School visit the host reads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14565, C-14566, C-14567, C-14568, C-14569, C-14570, A-3431.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11369",
+   "header": "**N-11369** NBC",
+   "label": "NBC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Outlet that, per the host, ran an article calling her a \"digital assassin\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14576*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11370",
+   "header": "**N-11370** Tyler Robinson Trial-Setting Hearing (October 2026)",
+   "label": "Tyler Robinson Trial-Setting Hearing (October 2026)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Friday trial-setting hearing in the Tyler Robinson case. Per the host, video, audio and broadcast are barred, which is atypical in Utah, and only still photography by Deseret News is permitted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14596, C-14597, C-14598, N-11371*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11371",
+   "header": "**N-11371** Deseret News",
+   "label": "Deseret News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Utah newspaper that, per the host, will be permitted to take still photography at the trial-setting hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14598, N-11370*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11372",
+   "header": "**N-11372** Ramaswamy Campaign Ad Featuring Amy Acton's Mother",
+   "label": "Ramaswamy Campaign Ad Featuring Amy Acton's Mother",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Ohio gubernatorial campaign ad by Vivek Ramaswamy's team in which Amy Acton's estranged mother calls her a liar. Laura Loomer publicly defended it, and the host says it is a disaster for Republicans."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14604, C-14605, C-14606, C-14607, C-14609, C-14610, C-14611, C-14612, C-14613, C-14614, C-14615, C-14617, A-3434.1, A-3435.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11373",
+   "header": "**N-11373** Allie Beth Stuckey Horror Content Remarks",
+   "label": "Allie Beth Stuckey Horror Content Remarks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Stuckey's remarks that Christians should not be fans of horror, true crime podcasts or Law & Order: SVU, citing \"do not fear\". The host disputes them, and she reads responses from Matt Walsh and others."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14618, C-14620, C-14621, C-14622, C-14623, C-14624, C-14625, A-3436.1, A-3437.1, A-3437.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11374",
+   "header": "**N-11374** Fort Bragg",
+   "label": "Fort Bragg",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Army base at Fayetteville, North Carolina, which a viewer comment says hosts the 8th Psychological Operations Group."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14635, A-3438.4*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14556",
+   "header": "**C-14556** Host Says This Is Her Last Solo Show Before Baron Coleman Joins",
+   "label": "Host Says This Is Her Last Solo Show Before Baron Coleman Joins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says this is technically her last solo show, because Baron Coleman will join her tomorrow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Really technically this is my last solo show because tomorrow we're going to be joined by Baron Coleman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11229"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The following episode's guest lineup and the show's posted schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14557",
+   "header": "**C-14557** Host Says the Unf*ck America Group Sees Itself at War With TPUSA on Campuses",
+   "label": "Host Says the Unf*ck America Group Sees Itself at War With TPUSA on Campuses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the left-wing Unf*ck America group sees itself as at war with Turning Point USA for ideas on college campuses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the un f America group, they're on the left, and they basically see themselves um as at war with Turning Point USA for ideas on college campuses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11365, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Unf*ck America tour statements and campus event schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14558",
+   "header": "**C-14558** Host Says Zee Cohen Learned TPUSA Was Hosting a Conspiracy Night at UNLV",
+   "label": "Host Says Zee Cohen Learned TPUSA Was Hosting a Conspiracy Night at UNLV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Unf*ck America founder Zee Cohen learned that Turning Point USA was hosting a \"conspiracy night\" at the University of Nevada, Las Vegas, and attended it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The group's founder, Zee Cohen, caught wind that Turning Point USA was unironically hosting a conspiracy night at the University of Nevada, Las Vegas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3430.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-977"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11365, N-11366, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UNLV TPUSA chapter event listings and Cohen's original video post."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1320"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14559",
+   "header": "**C-14559** In a Clip, Cohen Says She Thinks TPUSA Might Have Had Something to Do With Charlie's Murder",
+   "label": "In a Clip, Cohen Says She Thinks TPUSA Might Have Had Something to Do With Charlie's Murder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Zee Cohen says at the TPUSA conspiracy night that she thinks Turning Point USA \"might have had something to do with the Charlie Kirk murder\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think that um Turning Point USA might have had something to do with the Charlie Kirk murder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3430.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-977, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11365, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Full unedited video of the UNLV event."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1320"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14560",
+   "header": "**C-14560** In the Clip, a TPUSA Presenter Says His Bosses Told Him He Cannot Take That Topic",
+   "label": "In the Clip, a TPUSA Presenter Says His Bosses Told Him He Cannot Take That Topic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, a TPUSA presenter interrupts and says that is the one topic his bosses have told him he cannot do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I hate to jump into that, but that is the one that like my bosses have told me I can't do"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3430.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identity of the presenter and any TPUSA guidance restricting discussion of the assassination at events."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1320"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14561",
+   "header": "**C-14561** Host Alleges the Statue Vandalism Was an Inside-Job Fundraiser by Turning Point Action",
+   "label": "Host Alleges the Statue Vandalism Was an Inside-Job Fundraiser by Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the statue vandalism was an inside job, a fundraising ploy concocted by Turning Point Action around the one-year anniversary of Charlie's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do believe it was an inside job, a desperate fundraiser ploy concocted by Turning Point Action at as the one-year anniversary tribute to Charlie's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846, N-10750"
+    },
+    {
+     "k": "Supports",
+     "v": "C-14363"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Turning Point Action fundraising emails after the vandalism and any police report or security footage from headquarters."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1296, Q-1299"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14562",
+   "header": "**C-14562** Host Says TPUSA Now Screens Audience Questions",
+   "label": "Host Says TPUSA Now Screens Audience Questions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many emails she receives report that TPUSA events now screen questions and that some questions are not allowed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They now screen questions, the amount of emails that I get about people saying that the questions are being screened"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA event Q&A procedures and attendee accounts of question screening."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1321"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14563",
+   "header": "**C-14563** Host Says TPUSA Audiences Include Donors, Non-Students and Staff",
+   "label": "Host Says TPUSA Audiences Include Donors, Non-Students and Staff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA campus audiences are inorganic and include donors, people who do not attend the school, and TPUSA staff members."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The audience is completely inorganic, there's donors, uh people that don't go to the school, TPUSA staff members"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Event ticketing and registration records for recent TPUSA campus events."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1321"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14564",
+   "header": "**C-14564** Host Says Erika Is Forcing Her Presence at Fayetteville Christian School, a K–12 Campus",
+   "label": "Host Says Erika Is Forcing Her Presence at Fayetteville Christian School, a K–12 Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to parents, Erika Kirk is now forcing her presence at Fayetteville Christian School in Fayetteville, North Carolina, a K–12 campus, and that this is a different school from the Veterans Day event she covered earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It seems that Erika is now forcing her presence at Fayetteville Christian School."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fayetteville Christian School announcements and parent communications about the visit."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14565",
+   "header": "**C-14565** CityView Headline Says Erika Kirk's Visit Concerns Some Parents",
+   "label": "CityView Headline Says Erika Kirk's Visit Concerns Some Parents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, the headline reads \"Erika Kirk visit to Fayetteville Christian School concerns some parents.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The headline here reads, \"CityView: Erika Kirk visit to Fayetteville Christian School concerns some parents.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The CityView article and its publication date."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14566",
+   "header": "**C-14566** Per CityView, Erika Appears at the School During a Private Event on October 28",
+   "label": "Per CityView, Erika Appears at the School During a Private Event on October 28",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, Erika Kirk appears at the school during a private event on October 28, and parents question whether it is safe for students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "appears at the school during a private event on October 28th. Parents question whether it's safe for students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The CityView article and the school's event schedule for October 28."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14567",
+   "header": "**C-14567** Per CityView, Erika Will Address Junior High and High School Students on Civic Engagement",
+   "label": "Per CityView, Erika Will Address Junior High and High School Students on Civic Engagement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, Erika Kirk is scheduled to address junior high and high school students about civic engagement on October 28, according to a school announcement provided to CityView."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Kirk is scheduled to address junior high and high school students about civic engagement at the private Christian school on October 28th"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The school's announcement to families as provided to CityView."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14568",
+   "header": "**C-14568** Per CityView, Head of School Tammi Peters Called the Visit an Honor",
+   "label": "Per CityView, Head of School Tammi Peters Called the Visit an Honor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, Tammi Peters, co-founder and head of Fayetteville Christian School, called Erika Kirk's visit an honor because \"she only speaks at a few schools each year.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tammi Peters, the Fayetteville Christian uh co-founder and head of school, described Erika Kirk's visit as an honor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-978, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "School leadership listings and the announcement Peters sent to families."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14569",
+   "header": "**C-14569** Per CityView, a Parent Wrote That She Expected Physical Safety Above All",
+   "label": "Per CityView, a Parent Wrote That She Expected Physical Safety Above All",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, a parent wrote in an email to CityView that they chose a private Christian education expecting an environment that prioritizes academics, spiritual growth and, above all, physical safety."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I chose a private Christian education because I expect an environment that prioritizes my child's academic development, spiritual growth, and above all, physical safety."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The CityView article and the parent's email."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14570",
+   "header": "**C-14570** Per CityView, Parents Asked Why Families Were Not Consulted Before the Announcement",
+   "label": "Per CityView, Parents Asked Why Families Were Not Consulted Before the Announcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CityView article the host shows, parents questioned how the appearance fits into chapel instruction, what additional security it will involve, and why families were not consulted before it was announced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Parents interviewed by CityView questioned how the appearance fits into their chapel instruction, what additional security will will involve, and why families were not consulted before the visit was announced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11368"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The CityView article and the school's response to parents."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14571",
+   "header": "**C-14571** Host Says She Was Told an Early Youth Event Was Not a Forced Assembly",
+   "label": "Host Says She Was Told an Early Youth Event Was Not a Forced Assembly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that critics pointed to turnout at \"the first Call to America\" (possibly Club America) event, while she said it was a forced assembly, which they denied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they're like, \"Remember the first Call to America?\" They're like, \"Look at how many people showed up.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10488, N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "School records showing whether attendance at the first such event was mandatory."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-810"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14572",
+   "header": "**C-14572** Host Says Parents Emailed Her the Full October 2 School Email",
+   "label": "Host Says Parents Emailed Her the Full October 2 School Email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host thanks parents at the school who emailed her the details and says she now has the full email sent to parents on October 2 announcing the visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we are now in possession of the full email that was sent out on October 2nd, informing the parents that it was their distinct honor to host the widow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3432.1, A-3431.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The original October 2 email from Fayetteville Christian School to families."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14573",
+   "header": "**C-14573** Per the School Email, Erika Kirk's Team Reached Out to the School",
+   "label": "Per the School Email, Erika Kirk's Team Reached Out to the School",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the school email the host reads, Erika Kirk's team reached out to Fayetteville Christian School and invited it to host her for a special chapel service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika Kirk's team reached out to Fayetteville Christian School and invited us to host her for a special chapel service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Correspondence between Erika Kirk's team and the school."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1316"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14574",
+   "header": "**C-14574** Per the School Email, the Event Is Not Advertised but Extra Security Will Be in Place",
+   "label": "Per the School Email, the Event Is Not Advertised but Extra Security Will Be in Place",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the school email the host reads, the event is limited to FCS families, is not being advertised to the public, and will have extra security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We are not advertising this event to the public, but extra security will be in place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3431.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367, N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "School security plans and the RSVP form for the event."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14575",
+   "header": "**C-14575** Host Says TPUSA Claims Statues Were Vandalized Despite 24/7 Security",
+   "label": "Host Says TPUSA Claims Statues Were Vandalized Despite 24/7 Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA's messaging is that Erika and the organization are under attack and that statues were vandalized at its headquarters despite 24/7 security, yet the culprits cannot be caught."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They're being vandalized on their campus at the TPUSA campus and headquarters despite 24/7 security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10750, N-10558"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA public statements on the vandalism and headquarters security arrangements."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1297, Q-1301"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14576",
+   "header": "**C-14576** Host Says NBC Ran an Article Calling Her a Digital Assassin",
+   "label": "Host Says NBC Ran an Article Calling Her a Digital Assassin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says NBC ran an entire article calling her a \"digital assassin\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember NBC did an entire article calling me a digital assassin"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11369"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "NBC archive for the article and its wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14577",
+   "header": "**C-14577** Host Says Jennica Pounds Posted a Thread on Threats to Erika While Working for the DoD",
+   "label": "Host Says Jennica Pounds Posted a Thread on Threats to Erika While Working for the DoD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jennica Pounds (\"Data Republican\"), while working for the Department of Defense, posted a thread detailing how people want to harm Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "While working for our nation's Department of Defense, she did that entire thread detailing how people want to harm Erika Kirk"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10806, N-10809"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The thread itself and Pounds's DoD employment dates."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1233"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14578",
+   "header": "**C-14578** Host Says the Vice President Said Even His Secret Service Could Not Keep Erika Safe",
+   "label": "Host Says the Vice President Said Even His Secret Service Could Not Keep Erika Safe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Vice President publicly rebuked her side and said that not even he and his Secret Service team could keep Erika Kirk safe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Vice President of the United States came out and shook his finger at us because not even he and his Secret Service team could keep Erika Kirk safe"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10558"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "JD Vance's public remarks on Erika Kirk's safety."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-805, Q-869"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14579",
+   "header": "**C-14579** Host Says Erika Skipped a Georgia College Event With Secret Service Present, Citing Safety",
+   "label": "Host Says Erika Skipped a Georgia College Event With Secret Service Present, Citing Safety",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk could not attend a college campus event in Georgia, even with the Secret Service present, because her safety was said to be a priority. She contrasts this with her middle school visits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She could not attend this event with Secret Service present because her safety was a priority."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10559, N-10558, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA's statement on the Georgia event cancellation and Secret Service involvement."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-804, Q-805"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14580",
+   "header": "**C-14580** Host Says Child-Abuse Scandals Run Tangential to TPUSA",
+   "label": "Host Says Child-Abuse Scandals Run Tangential to TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika's access to underage children unnerves her, given what she calls the great many child abuse scandals running tangential to the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "given the great many scandals of child abuse that are running tangential to this organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10755"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Court records of child-abuse cases involving people affiliated with TPUSA."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1324"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14581",
+   "header": "**C-14581** Host Guesses Military Ties Are the Common Denominator of the Hosting Academies",
+   "label": "Host Guesses Military Ties Are the Common Denominator of the Hosting Academies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there must be a common denominator among the Christian academies that host Erika, and guesses it is the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There has to be some common denominator. I'm going to guess military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11213"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Leadership and board backgrounds of the schools that have hosted Erika Kirk."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1323"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14582",
+   "header": "**C-14582** Host Says Many People in the September 10 Case Are Tied to Child Abuse or Trafficking Work",
+   "label": "Host Says Many People in the September 10 Case Are Tied to Child Abuse or Trafficking Work",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, in her separate investigation of September 10, too many people are tied to child abuse and human trafficking, either through work such as ICAC or SVU or through relatives facing child-abuse charges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "too many people are tied to the theme of child abuse and human trafficking whether it's I work for ICAC, I work for Internet Crimes Against Children, I run a human trafficking org."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10755"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Employment records of first responders and event staff on September 10 and related court dockets."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1188, Q-1191"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14583",
+   "header": "**C-14583** Host Wonders Whether Lance Twiggs Was Blackmailed by the State Over an Internet Crime",
+   "label": "Host Wonders Whether Lance Twiggs Was Blackmailed by the State Over an Internet Crime",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has wondered aloud whether Lance Twiggs was blackmailed by the state for an internet crime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I myself have wondered aloud if Lance Twiggs was not blackmailed by the state for an internet crime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10545"
+    },
+    {
+     "k": "Supports",
+     "v": "C-10614"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Any investigation or charge records involving Lance Twiggs."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-174"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14584",
+   "header": "**C-14584** Host's Opinion Is That Twiggs May Have Helped Set Up Tyler Robinson as a Patsy",
+   "label": "Host's Opinion Is That Twiggs May Have Helped Set Up Tyler Robinson as a Patsy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is her opinion that Lance Twiggs may have helped set Tyler Robinson up as a patsy because he got caught in something online."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's again my opinion that he may have helped to set Tyler Robinson up as a patsy because he got caught in something online."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-54, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Twiggs's communications with Robinson and with law enforcement before and after September 10."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-21, Q-174"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14585",
+   "header": "**C-14585** Host Says the Tall Man Was on the Losee Rooftop 20 Minutes After Charlie Was Hit",
+   "label": "Host Says the Tall Man Was on the Losee Rooftop 20 Minutes After Charlie Was Hit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the exclusive videos she showed yesterday depict an exceptionally tall individual on the Losee Center rooftop about 20 minutes after Charlie Kirk was hit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was back on that Losee rooftop 20 minutes after Charlie Kirk got hit, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Original timestamped files of the rooftop videos."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1049"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14586",
+   "header": "**C-14586** Host Believes the Same Man Performed the 12:23 Military Crawl and Jumped Off the Roof",
+   "label": "Host Believes the Same Man Performed the 12:23 Military Crawl and Jumped Off the Roof",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes this is the same individual who, at or just before 12:23, performed the military crawl across the Losee Center rooftop and then sprinted away and jumped off the roof."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is the same individual who at 12:23 or just before 12:23 executes that military crawl across the Losee Center rooftop"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10684"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11666"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Frame-by-frame comparison of the 12:23 rooftop footage and the later video."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-26, Q-1049"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14587",
+   "header": "**C-14587** Host Says She Does Not Believe Charlie Was Shot From the Rooftop",
+   "label": "Host Says She Does Not Believe Charlie Was Shot From the Rooftop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not believe Charlie was shot from that rooftop and believes the rooftop activity was a show and a distraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I I do not believe that Charlie was shot from that rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10050"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11047"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ballistic trajectory analysis and autopsy findings in the Robinson case."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-136, Q-957"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14588",
+   "header": "**C-14588** Host Says Viewers Emailed That the Rooftop \"Slender Man\" Resembles \"Waluigi\"",
+   "label": "Host Says Viewers Emailed That the Rooftop \"Slender Man\" Resembles \"Waluigi\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many viewers emailed last night noting that the rooftop \"Slender Man\" looks a lot like \"Waluigi\", whom she introduced earlier. She says her team had noticed this as well."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Slender Man looks a lot like a character that we introduced you to earlier, and who we called Waluigi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3432.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Side-by-side biometric comparison (height, leg length, gait) of the two figures."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1215"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14589",
+   "header": "**C-14589** Host Says Waluigi Parked a Grey Dodge Challenger in the Admissions Lot, Tailed by a Black SUV",
+   "label": "Host Says Waluigi Parked a Grey Dodge Challenger in the Admissions Lot, Tailed by a Black SUV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the very tall man parked a grey Dodge Challenger in the admissions lot that morning, appeared to be tailed by a black SUV, and arrived and left at the same time as it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a very tall man that parked that gray Dodge Challenger in the admissions lot that morning, and he appeared to be tailed by a black SUV."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770, N-10773"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU parking lot camera footage and plate records for the Challenger and the SUV."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-963, Q-1215"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14590",
+   "header": "**C-14590** Host Theorizes Waluigi Struggled to Park Because He Is From a Country That Drives on the Other Side",
+   "label": "Host Theorizes Waluigi Struggled to Park Because He Is From a Country That Drives on the Other Side",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recalls that the man struggled to park the car and theorizes, while saying there is no evidence, that he may be from a country that drives on the other side of the road."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think he could be from a country that drives on the other side of the road."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13371"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identification of the Challenger driver through rental or registration records."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1215"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14591",
+   "header": "**C-14591** Host Says the Waluigi Clip Was Filmed Around 8 A.M. in the Admissions Lot",
+   "label": "Host Says the Waluigi Clip Was Filmed Around 8 A.M. in the Admissions Lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Waluigi clip she reshows was filmed at around 8:00 a.m. in the admissions lot, which students call the admin lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember, this was at around 8:00 a.m. in the morning in the admissions lot, which a lot of students refer to as the admin lot, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3433.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Metadata of the admissions lot footage."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1215"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14592",
+   "header": "**C-14592** Host Notes Strong Similarities but Declines to Assert Waluigi Is the Rooftop Man",
+   "label": "Host Notes Strong Similarities but Declines to Assert Waluigi Is the Rooftop Man",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "After showing side-by-side footage, the host says she sees strong similarities in build, gait and height but stopped herself from calling the rooftop man Waluigi as a fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was tempted to just call him Waluigi on the basis of the build, the gait, the height, but I stopped myself"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3433.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independent gait and height analysis of both clips."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1049, Q-1215"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14593",
+   "header": "**C-14593** Host Says Tyler Robinson Is Only 5'10\"",
+   "label": "Host Says Tyler Robinson Is Only 5'10\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Robinson is only 5'10\", a disparity from the exceptionally tall rooftop individual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tyler Robinson is only 5'10\". Okay? That is a That's a disparity that's going to be noted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Robinson's booking record height."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1318"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14594",
+   "header": "**C-14594** Host Speculates the Tall Man Returned to Drop the Screwdriver Officer Bagley Found",
+   "label": "Host Speculates the Tall Man Returned to Drop the Screwdriver Officer Bagley Found",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host speculates that the individual returned about 20 minutes after jumping off the rooftops, possibly to drop the screwdriver that Officer Bagley located less than 2 minutes after he left the walkway."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think potentially to drop the screwdriver that officer Bagley then locates less than 2 minutes after he departs the walkway."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10086"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Bagley's bodycam timestamps and the evidence log entry for the screwdriver."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-972, Q-1049"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14595",
+   "header": "**C-14595** Host Says She Is Withholding More Evidence Until the Trial",
+   "label": "Host Says She Is Withholding More Evidence Until the Trial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there is more evidence her team has not yet presented, because it would be more prudent to wait until the trial so the state cannot change its times."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is more evidence that we have not yet presented or shared because we think it would be more prudent to wait until the trial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10770"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Later episodes for the release of the withheld evidence."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1325"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14596",
+   "header": "**C-14596** Host Says Friday's Hearing Will Bar Video, Audio and Broadcast",
+   "label": "Host Says Friday's Hearing Will Bar Video, Audio and Broadcast",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it has been announced that no video, audio or broadcast will be allowed at Friday's hearing in the Robinson case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's been announced that they're not going to allow during uh this meeting any video, audio, or any broadcast whatsoever for the upcoming hearing"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11370"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court's media order for the hearing."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1326"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14597",
+   "header": "**C-14597** Host Says Barring Everyone From the Room Is Atypical for Utah Hearings",
+   "label": "Host Says Barring Everyone From the Room Is Atypical for Utah Hearings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the hearing is a trial-setting hearing to go over scheduling, and that not allowing anybody into the room is apparently atypical for hearings in Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "apparently not allowing anybody into the room is atypical for hearings in Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11370"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Utah court media-coverage rules and comparable hearing orders."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1326"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14598",
+   "header": "**C-14598** Host Says Deseret News Will Be Permitted Still Photography at the Hearing",
+   "label": "Host Says Deseret News Will Be Permitted Still Photography at the Hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says still photography from Deseret News will still be permitted at the hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they are going to permit still for still photography from Deseret News."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11370, N-11371"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court's media order naming the pool photographer."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-1326"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14599",
+   "header": "**C-14599** Host Says Trump Posted That He Doesn't Want Voters Who Care About Epstein",
+   "label": "Host Says Trump Posted That He Doesn't Want Voters Who Care About Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump posted a long message saying he does not want voters who care about Jeffrey Epstein and calling it a Democratic hoax."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Trump tweeting that he doesn't want you as a voter if you care about Jeffrey Epstein was weird messaging right off the bat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10303, N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trump's Truth Social post archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14600",
+   "header": "**C-14600** Host Says Voters Explicitly Voted Against New Middle East Wars Before the Iran War",
+   "label": "Host Says Voters Explicitly Voted Against New Middle East Wars Before the Iran War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says voters explicitly voted for Trump not to start new wars in the Middle East, yet got the Iran war, and that the messaging dismissed high gas prices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we got the Iran war, which we explicitly voted for him not to start new wars in the Middle East."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10496, N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trump 2024 campaign statements on foreign wars."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14601",
+   "header": "**C-14601** Host Says Conservative Podcasters Seized on the Lindsay Clancy Case",
+   "label": "Host Says Conservative Podcasters Seized on the Lindsay Clancy Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Republican podcaster orbit seized on the Lindsay Clancy case to suggest that women are killing their children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "seized the Lindsay Clancy case and kind of said women are all killing their children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-202"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Recent conservative podcast episodes on the Clancy case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14602",
+   "header": "**C-14602** Host Says Allie Stuckey Said Your Wife Should Not Be on TikTok",
+   "label": "Host Says Allie Stuckey Said Your Wife Should Not Be on TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Allie Beth Stuckey explicitly said that your wife should not be on TikTok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Allie Stuckey explicitly said that your wife should not be on Tik Tok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11021, N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Stuckey's podcast or post containing the remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14603",
+   "header": "**C-14603** Host Says Republicans Were Too Vocal About the Cornell 7 Case",
+   "label": "Host Says Republicans Were Too Vocal About the Cornell 7 Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Cornell 7 case was another time when Republicans did not need to be so vocal, given the Epstein issue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Cornell 7 case was another time where I'd felt like maybe Republicans didn't need to be so vocal defending two sides of a disgusting coin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11341, N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Republican commentators' public statements on the Cornell 7 case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14604",
+   "header": "**C-14604** Host Says Ramaswamy's Team Made an Ad in His Ohio Governor Race Against Amy Acton",
+   "label": "Host Says Ramaswamy's Team Made an Ad in His Ohio Governor Race Against Amy Acton",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Vivek Ramaswamy is running against Amy Acton for governor of Ohio and that his team put together an ad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's been running against Amy Acton out in Ohio for governor and he his team put together an ad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-119, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372, N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ramaswamy campaign ad filings and statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14605",
+   "header": "**C-14605** Host Says the Unreleased Ad Booked Acton's Mother to Call Her a Liar",
+   "label": "Host Says the Unreleased Ad Booked Acton's Mother to Call Her a Liar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the ad had not actually been released, but the campaign let it enter the internet, and that it booked Acton's mother to call her a liar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They hadn't actually released it yet but they saw it fit to have it somehow enter the internet orbit"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-119, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date and channel of the ad's first public appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14606",
+   "header": "**C-14606** Host Says Acton and Her Brother Were Removed From Their Mother's Custody",
+   "label": "Host Says Acton and Her Brother Were Removed From Their Mother's Custody",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Amy Acton was sexually abused at 12, that people have found the court case, and that she and her brother were removed from her mother's custody after abuse by their stepfather."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Her and her brother were removed from her mother's custody after abuse from their stepfather."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court records of the custody case and the stepfather's charges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14607",
+   "header": "**C-14607** Host Says Acton's Mother Chose the Stepfather Over Her Children",
+   "label": "Host Says Acton's Mother Chose the Stepfather Over Her Children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Acton's mother chose the stepfather over her own children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Her mother chose the stepfather over her own kids."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-979, N-980"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Custody and court records from the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14608",
+   "header": "**C-14608** Host Says Laura Loomer Replaced Charlie as a Trump Adviser",
+   "label": "Host Says Laura Loomer Replaced Charlie as a Trump Adviser",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer reinforced the ad, and that \"we traded\" Charlie Kirk as an adviser to Trump for Loomer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we traded Charlie Kirk um as an advisor to Trump for Laura Loomer who is is being taken seriously."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10538"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reporting on Loomer's access to and influence on the Trump White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14609",
+   "header": "**C-14609** In the Ad, Acton's Mother Says She Worked at a Pioneering Sexual Abuse Program",
+   "label": "In the Ad, Acton's Mother Says She Worked at a Pioneering Sexual Abuse Program",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the ad the host plays, Acton's mother, Donna Arthur, says she worked at the Children and Family Services Association building, one of the first two sexual abuse programs in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I worked at Children and Family Services Association building, one of the first two sexual abuse programs in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3434.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-980, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Employment records for Donna Arthur and the program's history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14610",
+   "header": "**C-14610** In the Ad, Acton's Mother Calls Her a Liar Who Did Not Grow Up in a Tent",
+   "label": "In the Ad, Acton's Mother Calls Her a Liar Who Did Not Grow Up in a Tent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the ad the host plays, Acton's mother says Amy is a liar who lies about her past, and that her claim of growing up in a tent is untrue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She is a liar. She lies about her past. She says she grew up living in a tent. None of that is true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3434.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-980, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Acton's biographical accounts and contemporaneous records of her childhood housing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14611",
+   "header": "**C-14611** Host Says Court Documents Show the Family Fled the State",
+   "label": "Host Says Court Documents Show the Family Fled the State",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the court case documents show that they fled the state and that the father did not bring charges. The transcript is garbled here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when you read through the court case documents and it turns out that they fled the state, her the father didn't bring charges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court case file on the stepfather's charges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14612",
+   "header": "**C-14612** Loomer Post Says Screw Every Republican Attacking Vivek Over the Ad",
+   "label": "Loomer Post Says Screw Every Republican Attacking Vivek Over the Ad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Laura Loomer post the host reads, Loomer wrote \"screw every Republican who's attacking Vivek over this ad by Amy Acton's own mother calling Amy out for being a liar.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Seriously, screw every Republican who's attacking Vivek over this ad by Amy Acton's own mother calling Amy out for being a liar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3435.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-119, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Loomer's X post archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14613",
+   "header": "**C-14613** Loomer Post Cites Democratic Ads Using Gosar's Siblings and Mary Trump",
+   "label": "Loomer Post Cites Democratic Ads Using Gosar's Siblings and Mary Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Laura Loomer post the host reads, Democrats ran an ad against Rep. Gosar featuring his siblings and \"paraded Mary Trump around\" to attack President Trump."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Don't y'all remember when Democrats ran an ad against Rep. Gosar featuring his siblings?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3435.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-981, N-982, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The 2018 ads featuring Gosar's siblings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14614",
+   "header": "**C-14614** Loomer Post Calls Acton a Drunk Woman Who Locked Ohio Down",
+   "label": "Loomer Post Calls Acton a Drunk Woman Who Locked Ohio Down",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Laura Loomer post the host reads, Republicans are \"running defense for Amy Acton, a drunk woman who locked Ohio down during COVID\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now they are running defense for Amy Acton, a drunk woman who locked Ohio down during COVID"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3435.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-979"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ohio Department of Health COVID orders issued under Acton."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14615",
+   "header": "**C-14615** Loomer Post Says She Is on the Side of Acton's Mother",
+   "label": "Loomer Post Says She Is on the Side of Acton's Mother",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Laura Loomer post the host reads, Loomer says she is on the side of Amy's mother and invokes \"believe all women\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am on the side of Amy's mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3435.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-979, N-980"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Loomer's X post archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14616",
+   "header": "**C-14616** Host Predicts Republicans Will Blame Her and Tucker for a Midterm Loss",
+   "label": "Host Predicts Republicans Will Blame Her and Tucker for a Midterm Loss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host predicts that Republicans will be slaughtered in the midterms and will blame her and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm waiting for the part where Republicans get completely slaughtered and then they somehow blame me and Tucker cuz I think that's coming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11232"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Midterm results and post-election Republican commentary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14617",
+   "header": "**C-14617** Host Says the Ramaswamy Campaign Is Trying to Move On From the Ad",
+   "label": "Host Says the Ramaswamy Campaign Is Trying to Move On From the Ad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Vivek campaign is now trying to move on from the ad because it realizes it has been a disaster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on top of this messaging from the Vivek campaign who they're now trying they're trying to move on from it because they realize it's been a disaster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-119"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ramaswamy campaign statements and ad-buy records after the backlash."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14618",
+   "header": "**C-14618** Host Says as a Catholic She Holds That Women Should Not Be Pastors",
+   "label": "Host Says as a Catholic She Holds That Women Should Not Be Pastors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her position as a Catholic is that women should not be pastors, and that Stuckey says she agrees but in effect acts as one through podcasting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "my position as a Catholic is that females should not be pastors. And I know she says she agrees with that"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Stuckey's stated position on women pastors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14619",
+   "header": "**C-14619** Host Says Her Husband's Debate With Stuckey Led Her Toward the Catholic Faith",
+   "label": "Host Says Her Husband's Debate With Stuckey Led Her Toward the Catholic Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says watching her husband debate Allie Beth Stuckey was one of the things that made her look at the Catholic faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that was one of the things that made me look at the Catholic faith because I had my husband debating Ali"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30, N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Recording of the George Farmer – Allie Beth Stuckey debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14620",
+   "header": "**C-14620** In a Clip, Stuckey Says Christians Should Not Be Fans of Horror",
+   "label": "In a Clip, Stuckey Says Christians Should Not Be Fans of Horror",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Allie Beth Stuckey says Christians should not fully participate in Halloween and should not be fans of horror in general."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I also just don't think that Christians should be a fan of horror in general."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3436.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full Stuckey episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14621",
+   "header": "**C-14621** In the Clip, Stuckey Says Christians Should Not Listen to Scary True Crime Podcasts",
+   "label": "In the Clip, Stuckey Says Christians Should Not Listen to Scary True Crime Podcasts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Stuckey says Christians should not read scary books, listen to scary true crime podcasts or watch scary movies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't think that you should be listening to true crime podcasts that make you scared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3436.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full Stuckey episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14622",
+   "header": "**C-14622** In the Clip, Stuckey Says Law & Order: SVU Contradicts Jesus' Command Not to Fear",
+   "label": "In the Clip, Stuckey Says Law & Order: SVU Contradicts Jesus' Command Not to Fear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Stuckey says scary content such as Law & Order: SVU directly contradicts Jesus' command not to fear or be anxious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Law & Order SVU that you are imbibing that is actually a direct contradiction of Jesus' command to not fear or be anxious about anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3436.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full Stuckey episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14623",
+   "header": "**C-14623** Matt Walsh Post Calls Horror the Most Christian Film Genre",
+   "label": "Matt Walsh Post Calls Horror the Most Christian Film Genre",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Matt Walsh post the host reads, horror is arguably the most Christian film genre, and supernatural horror is often subtly or explicitly Christian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'd actually argue that horror is the most Christian genre of film."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3437.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-163"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Walsh's X post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14624",
+   "header": "**C-14624** Host Thinks Jack Posobiec Posted About the Horror of Christ's Passion",
+   "label": "Host Thinks Jack Posobiec Posted About the Horror of Christ's Passion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks Jack Posobiec also posted on the topic, pointing to the gore of the film on Christ's passion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think it was Jack Posobiec who's was speaking about when you're talking about Christ's passion"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-95"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Posobiec's X posts on Stuckey's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14625",
+   "header": "**C-14625** C. F. Dalton Post Says Christian Storytelling Has Become Allergic to Difficulty",
+   "label": "C. F. Dalton Post Says Christian Storytelling Has Become Allergic to Difficulty",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the post the host reads from a user she names as C. F. Dalton, the real problem is not that Christians watch The Exorcist but that most Christian storytelling has become allergic to difficulty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The real problem is not that some Christians watch The Exorcist. It's that most Christian storytelling has become allergic to difficulty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3437.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11373"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The original X post and account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14626",
+   "header": "**C-14626** Host Says Self-Ordained Pastors Told Audiences Not to Consider That Charlie Was Betrayed",
+   "label": "Host Says Self-Ordained Pastors Told Audiences Not to Consider That Charlie Was Betrayed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pastors and self-ordained ministers have gone on stage all year telling audiences not to even consider that Charlie was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the pastors, self-ordained ministers, jumping on stage and telling you, \"Don't even consider the possibility that Charlie was betrayed.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Recordings of pastors' remarks at TPUSA events and memorials since September 2025."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-78, Q-311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14627",
+   "header": "**C-14627** A Viewer Comment Says RFK Pushed for an Autism Registry Last May",
+   "label": "A Viewer Comment Says RFK Pushed for an Autism Registry Last May",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads, about Brian Cole, says that last May RFK was pushing to establish a registry for people with autism. The host agrees the administration is dark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Also, remember last May when RFK was pushing to establish a registry for people with autism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3438.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-358, N-25"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "HHS announcements from May 2025 on autism data initiatives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14628",
+   "header": "**C-14628** Host Says She Was Canceled Everywhere for Saying Genocide Is Always Wrong",
+   "label": "Host Says She Was Canceled Everywhere for Saying Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that a couple of years ago it was not easy to say genocide is always wrong, and that she was canceled everywhere for saying it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I had to come to my knees and have trust in the Lord that I would land on my feet when I was canceled, like canceled everywhere for saying something that was just true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Daily Wire separation and other platform actions against the host in 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14629",
+   "header": "**C-14629** Viewer Comment Quotes the Host: \"Charlie Died Free. You, President Trump, Will Die a Slave\"",
+   "label": "Viewer Comment Quotes the Host: \"Charlie Died Free. You, President Trump, Will Die a Slave\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads quotes her line \"Charlie died free. You, President Trump, will die a slave.\" The host says she means it, because Charlie said no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie died free. You, President Trump, will die a slave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3438.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The earlier episode where the host made the remark."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-337"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14630",
+   "header": "**C-14630** Host Says an Archbishop Told Father Ripperger to Take a One-Year Break From Podcasts",
+   "label": "Host Says an Archbishop Told Father Ripperger to Take a One-Year Break From Podcasts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shawn Ryan interviewed Father Ripperger and was doing more work with him, and that she believes the archbishop of the diocese said Ripperger should take a one-year fast from podcasts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I believe the archbishop in of the diocese came and said that Father Ripperger should take a, you know, a 1-year fast from podcasts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-570, N-224"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Diocesan statements on Father Ripperger's media activity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14631",
+   "header": "**C-14631** Host Says Charlie Came to Find Evangelical Pastors Problematic and Pursued Catholicism",
+   "label": "Host Says Charlie Came to Find Evangelical Pastors Problematic and Pursued Catholicism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she used to be pro-Israel and that Charlie, under pressure, started finding evangelical pastors problematic and began to pursue the Catholic faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "then he started finding these evangelical pastors to be problematic and started to pursue the Catholic faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10328, N-10003"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Accounts from Charlie Kirk's associates about his religious inquiries in 2025."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-253, Q-1179"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14632",
+   "header": "**C-14632** Host Says She and Charlie Never Betrayed One Another",
+   "label": "Host Says She and Charlie Never Betrayed One Another",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says neither she nor Charlie ever betrayed the other, despite forces she says were intentionally trying to drive them apart."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "neither one of us ever betrayed one another and and that makes me so happy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003, N-10085"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Private messages between the host and Charlie Kirk in 2025."
+    },
+    {
+     "k": "Open Questions",
+     "v": "Q-15, Q-1211"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14633",
+   "header": "**C-14633** Host Says Theo Von's New Special Dropped on Netflix",
+   "label": "Host Says Theo Von's New Special Dropped on Netflix",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment, the host says Theo Von's special dropped on Netflix and that her children call him Uncle Theo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Theo's special dropped on Netflix. I can't wait to watch it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-146"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Netflix release listing for Theo Von's special."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14634",
+   "header": "**C-14634** Host Agrees With a \"Free Brian Cole\" Comment and Says She Will Keep Covering the Case",
+   "label": "Host Agrees With a \"Free Brian Cole\" Comment and Says She Will Keep Covering the Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment reading \"Free Brian Cole\", the host agrees and says she will continue to cover the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Cone film writes, \"Free Brian Cole.\" Indeed agree. Uh we'll see what happens with that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3438.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-25"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Brian Cole Jr. court docket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14635",
+   "header": "**C-14635** Viewer Comment Says Fort Bragg and the 8th Psychological Operations Group Are in Fayetteville",
+   "label": "Viewer Comment Says Fort Bragg and the 8th Psychological Operations Group Are in Fayetteville",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads, referring to where Erika is speaking, says Fort Bragg and the 8th Psychological Operations Group are in Fayetteville."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Guess what's in Fayetteville, Fort Bragg. Guess what is there? The eighth psychological operations group."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3438.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11374, N-11367"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Army unit stationing records for Fort Bragg."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14636",
+   "header": "**C-14636** Host Says the School's Founder Has a Military Background and a Colonel Husband",
+   "label": "Host Says the School's Founder Has a Military Background and a Colonel Husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the founder of Fayetteville Christian School has a military background and that her husband is a colonel in the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the founder of the school has a military background, and her husband is a colonel in the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public biographies of the school's founders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14637",
+   "header": "**C-14637** Host Says the Founder's Husband Lived and Served in Eastern Europe",
+   "label": "Host Says the Founder's Husband Lived and Served in Eastern Europe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she only \"had a peek\" and that the founder's husband is a military colonel who lived and served in Eastern Europe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I only had a peek that her husband's a colonel in the military who lived and served in Eastern Europe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11367"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Military service records or public biography of the founder's husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14638",
+   "header": "**C-14638** Host Sends Viewers to Candaceowens.com for Merch",
+   "label": "Host Sends Viewers to Candaceowens.com for Merch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says merch is available at candaceowens.com and that a mug for the substitute teacher will be released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Merch available on the website. If you would like to support us, you know where to go, candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11229"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The candaceowens.com store listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14639",
+   "header": "**C-14639** Host Says the Substitute Host Starts the First Week of November",
+   "label": "Host Says the Substitute Host Starts the First Week of November",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the substitute teacher (Baron Coleman) will be in tomorrow and that she thinks he starts the first week of November."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He'll I think he's starting the first week of November, by the way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11229"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The show's November schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14640",
+   "header": "**C-14640** Host Says Tomorrow Is the Handoff Episode With Baron Coleman",
+   "label": "Host Says Tomorrow Is the Handoff Episode With Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host promotes Baron merch reading \"I will not believe the Fed slop\" and says tomorrow is her handoff episode with him, which will summarize the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Get yourself some mugs and cozy up because tomorrow I will be doing the handoff episode with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11229"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Episode 170 content."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14641",
+   "header": "**C-14641** Host Says She Had Hoped the Andrew Wilson Debate Would Go Over the Evidence",
+   "label": "Host Says She Had Hoped the Andrew Wilson Debate Would Go Over the Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had hoped the Andrew Wilson debate would go over the evidence and discuss what was problematic about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "have the discussion that I was hoping for with the Andrew Wilson debate where we could actually go over the evidence"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-18"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11277"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The recording of the Wilson debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "thank you to um the many great parents out there who attend this school, who have emailed us over the details."
+    },
+    {
+     "k": "Context",
+     "v": "Tip payoff: parents emailed the full Fayetteville Christian School email."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, payoff, Erika Kirk, school"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Well, we received a ton of emails from you guys last night, and many of you noted something that we had noted as well"
+    },
+    {
+     "k": "Context",
+     "v": "Tip payoff: viewers emailed that Slender Man resembles Waluigi."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, payoff, Waluigi, rooftop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-362",
+   "header": "**M-362** (meme) Dictator Candace",
+   "label": "(meme) Dictator Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "everybody knows that I am a committed far-right future dictator of America."
+    },
+    {
+     "k": "Context",
+     "v": "Opens the Unf*ck America segment with the self-mocking bit."
+    },
+    {
+     "k": "Tags",
+     "v": "self-parody"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-365",
+   "header": "**M-365** (meme) Statugate",
+   "label": "(meme) Statugate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:35"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I would have preferred if she was going to troll that she asked them about the vandalized statue, because I'm all in on that conspiracy theory now."
+    },
+    {
+     "k": "Context",
+     "v": "Statue vandalism bit, which she now calls an inside job."
+    },
+    {
+     "k": "Tags",
+     "v": "statue, TPUSA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-367",
+   "header": "**M-367** (meme) The Gang Bangers Did It",
+   "label": "(meme) The Gang Bangers Did It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They can't catch the gangbangers that are after them. The gangbangers can't even be caught on their own campus."
+    },
+    {
+     "k": "Context",
+     "v": "Mocks TPUSA's account of the statue vandals."
+    },
+    {
+     "k": "Tags",
+     "v": "statue, TPUSA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-296",
+   "header": "**M-296** (meme) Waluigi",
+   "label": "(meme) Waluigi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Ah, because Waluigi his legs don't lie, okay?"
+    },
+    {
+     "k": "Context",
+     "v": "Viewers liken the rooftop Slender Man to Waluigi."
+    },
+    {
+     "k": "Tags",
+     "v": "Waluigi, rooftop, Challenger"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Spiro writes, \"If this plot got any thicker,\" referring to Slender Man's last Waluigi on the rooftop, \"it might actually stop a .30-06.\""
+    },
+    {
+     "k": "Context",
+     "v": "The host reads a viewer comment joking about the Waluigi plot."
+    },
+    {
+     "k": "Tags",
+     "v": "Waluigi, viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-370",
+   "header": "**M-370** (meme) Slender Man",
+   "label": "(meme) Slender Man",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:10"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "that that Slender Man, as we've been referring him as a Slender Man on the rooftop"
+    },
+    {
+     "k": "Context",
+     "v": "The host's nickname for the exceptionally tall figure on the Losee Center rooftop."
+    },
+    {
+     "k": "Tags",
+     "v": "rooftop, Waluigi"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to show you this side-by-side footage of Slender Man and Waluigi"
+    },
+    {
+     "k": "Context",
+     "v": "Side-by-side comparison of the figures."
+    },
+    {
+     "k": "Tags",
+     "v": "rooftop, Waluigi"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-20",
+   "header": "**M-20** (meme) Bubble Gum Christianity",
+   "label": "(meme) Bubble Gum Christianity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:40"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's like bubble gum Christianity"
+    },
+    {
+     "k": "Context",
+     "v": "Describes Allie Beth Stuckey wrapping opinions in Bible verses."
+    },
+    {
+     "k": "Tags",
+     "v": "Stuckey, faith"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "this bubblegum Christianity is, in my opinion, not real Christianity."
+    },
+    {
+     "k": "Context",
+     "v": "Ties it to pastors telling audiences not to question Charlie's death."
+    },
+    {
+     "k": "Tags",
+     "v": "Stuckey, faith, pastors"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Free Father Ripperger. Christ is king."
+    },
+    {
+     "k": "Context",
+     "v": "The host reads a viewer comment's closing."
+    },
+    {
+     "k": "Tags",
+     "v": "viewer comment, Ripperger"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Basketball writes, \"Christ is king. Sending prayers and blessings to the baby on the way.\""
+    },
+    {
+     "k": "Context",
+     "v": "The host reads a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-292",
+   "header": "**M-292** (meme) Pregnancy Brain",
+   "label": "(meme) Pregnancy Brain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You know I have pregnancy brain, Millard."
+    },
+    {
+     "k": "Context",
+     "v": "The host cannot remember where she got her gold crucifix."
+    },
+    {
+     "k": "Tags",
+     "v": "pregnancy, comments"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I will not believe the Fed slop."
+    },
+    {
+     "k": "Context",
+     "v": "Baron Coleman merch slogan."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, Baron Coleman"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-25",
+   "header": "**M-25** (meme) Iron Sharpens Iron",
+   "label": "(meme) Iron Sharpens Iron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "As Charlie Kirk used to say, iron sharpens iron."
+    },
+    {
+     "k": "Context",
+     "v": "Closes by praising debate ahead of the handoff episode."
+    },
+    {
+     "k": "Tags",
+     "v": "Charlie, debate"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- MISTRANSCRIPTION: \"Losee rooftop\" / \"Losee Center rooftop\" -> \"Losee Center rooftop\" (00:15:25, 00:15:35) source: https://www.youtube.com/watch?v=ZxlvNO8OVmc (episode description: \"the mystery man on the Losee roof\")",
+    "- MISTRANSCRIPTION: \"Allie Stuckey\" -> \"Allie Stuckey\" (00:26:35) source: https://www.youtube.com/watch?v=ZxlvNO8OVmc (episode description names Allie Beth Stuckey)",
+    "- MISTRANSCRIPTION: \"Miss Donna Arthur, and I'm Amy Acton's mother\" -> \"Donna Arthur, ... Amy Acton's mother\" (00:29:25) source: https://www.cbsnews.com/news/ohio-governor-amy-acton-mother-ramaswamy",
+    "- MISTRANSCRIPTION: \"Zee Cohen\" -> \"Zee Cohen\" (Zee Cohen-Sanchez, founder of National Ground Game / Unf*ck America) (00:02:19) source: https://en.wikipedia.org/wiki/Unfuck_America_Tour",
+    "- MISTRANSCRIPTION: \"un f America\" / \"Unf America\" -> \"Unf*ck America\" (00:01:48) source: https://en.wikipedia.org/wiki/Unfuck_America_Tour",
+    "- MISTRANSCRIPTION: \"going into midterms\" -> \"going into midterms\" (00:24:20) source: https://www.youtube.com/watch?v=ZxlvNO8OVmc (chapter title \"Republican messaging going into the midterms\")",
+    "- Unresolved name: \"Tammi Peters\" (FCS co-founder and head of school, per the CityView text the host reads at 00:06:58). Could not confirm by web search; the transcript spelling is kept. The host later says \"Jamie Peters\" (00:09:48), and the alias is recorded.",
+    "- Unresolved name: \"Call to America\" (00:07:55) may be a mistranscription of \"Club America\" (TPUSA high school chapters). Not confirmed; the transcript spelling is kept in the claim with a hedge.",
+    "- Unresolved name: \"Uncle Fiasco\" (00:53:24) in a viewer comment, which the host follows with \"Theo's special dropped on Netflix\". It is unclear whether this is a mistranscription of \"Uncle Theo\" or a comment handle. Theo Von (N-146) was used only for the host's own line.",
+    "- Unresolved name: \"C. F. Dalton\" (00:43:16), the X user whose post the host reads (\"I don't know who this user is\"; handle possibly \"just correct response\"). No node minted.",
+    "- Viewer handles (Spiro, Box Cowfish, Michael, Ali, Stacy Chapman, Cone film, Zammit, Basketball, Millard, Jane Doe) are not minted as nodes.",
+    "- The host says \"Erika\" for Erika Kirk throughout; the canonical spelling is used in prose.",
+    "- Mother's name in claims: \"Donna Arthur\" is confirmed by CBS and Deseret News coverage; the transcript has \"Donna Arthur\".",
+    "- DIA scan: no \"tips at\", \"more tips\", \"moretips@candaceowens\", \"tip line\", \"decentralized intelligence\", \"dcia\" or \"bounty\" hits. \"candaceowens.com\" (00:57:05) is a merch plug, not a DIA beat (recorded as C-14638 only). The preview mention of viewer emails (00:01:12) is the same beat as the 00:16:05 payoff and is not counted separately. The emails about screened TPUSA questions (00:04:43) are general audience reports, not a tip payoff, so they are not DIA.",
+    "- Artifact referenced but not shown: the Jack Posobiec post (00:42:28); the host is unsure he posted it (\"I don't know if he pulled it\").",
+    "- Artifact referenced but not shown: the NBC \"digital assassin\" article (00:12:08) and the Jennica Pounds thread (00:12:18) are verbal references only.",
+    "- Episode 168 (the previous day's rooftop \"Slender Man\" exclusive) has not been minted yet, so no cross-episode links to it were made. C-14585 through C-14594 likely restate claims from episode 168.",
+    "- Possible cross-episode links left out: C-14579 (Georgia event) relative to C-8412/C-8413 (different framing). C-14564 relative to C-14464 (the host explicitly says this is a different school from the Veterans Day event).",
+    "- Rejected (admission test): the host's prediction that Unf*ck America will gain campus ground (00:04:09); \"Jennica Pounds, aka maybe Tyler Robinson's twin sister\" (00:12:08, a joke); her opinion that the school visits feel like a DoD military operation (00:13:22); theological arguments that \"do not fear\" commands courage (00:38:32–00:41:25); her rhetorical \"I could get a deal with the DOD\" (00:40:18); Law & Order: SVU and Taylor Swift cat aside (00:40:49); Mar-a-Lago \"Epstein balls\" rhetoric (00:48:17); her nightmare sensitivity to horror films (00:36:55); the gold crucifix exchange (00:55:32).",
+    "- Sponsor reads (Pre-Born, Dose, The Wellness Company, Tax Network USA, American Financing) were not extracted.",
+    ""
+   ]
+  }
+ ]
+}

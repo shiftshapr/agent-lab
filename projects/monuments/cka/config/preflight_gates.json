@@ -568,6 +568,16 @@
         "claim": "C-1770",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-14658",
+        "node": "N-40",
+        "reason": "role reference: \"he\" is the alleged shooter (Tyler Robinson) in the route timeline (ep170)"
+      },
+      {
+        "claim": "C-14754",
+        "node": "N-330",
+        "reason": "speaker: guest Baron Coleman says \"they actually never said that\" (ep170 00:50:17)"
       }
     ],
     "first_name_ok": [
